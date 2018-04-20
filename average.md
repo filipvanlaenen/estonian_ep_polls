@@ -225,8 +225,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 0.2% | 100% | Last Result |
-| 2 | 97% | 99.8% | Median |
+| 1 | 0.1% | 100% | Last Result |
+| 2 | 97% | 99.9% | Median |
 | 3 | 3% | 3% |  |
 | 4 | 0% | 0% | Majority |
 
@@ -262,8 +262,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 93% | 100% | Median |
-| 2 | 7% | 7% |  |
+| 1 | 94% | 100% | Median |
+| 2 | 6% | 6% |  |
 | 3 | 0% | 0% |  |
 
 ### Erakond Eestimaa Rohelised (Greens/EFA)
@@ -316,8 +316,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 93% | 100% | Median |
-| 2 | 7% | 7% |  |
+| 1 | 94% | 100% | Median |
+| 2 | 6% | 6% |  |
 | 3 | 0% | 0% |  |
 
 ### Sotsiaaldemokraatlik Erakond (S&D)
