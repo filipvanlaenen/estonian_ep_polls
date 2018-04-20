@@ -44,8 +44,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 0.5% | 100% | Last Result |
-| 3 | 98% | 99.5% | Median |
+| 2 | 0.6% | 100% | Last Result |
+| 3 | 98% | 99.4% | Median |
 | 4 | 1.4% | 1.4% | Majority |
 | 5 | 0% | 0% |  |
 
@@ -58,7 +58,7 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0.3% | 100% | Last Result |
-| 2 | 99.4% | 99.7% | Median |
+| 2 | 99.5% | 99.7% | Median |
 | 3 | 0.2% | 0.2% |  |
 | 4 | 0% | 0% | Majority |
 
@@ -83,8 +83,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 14% | 100% |  |
-| 1 | 86% | 86% | Last Result, Median |
+| 0 | 13% | 100% |  |
+| 1 | 87% | 87% | Last Result, Median |
 | 2 | 0% | 0% |  |
 
 ### Eesti Vabaerakond (*)
@@ -156,8 +156,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 14% | 100% |  |
-| 1 | 86% | 86% | Last Result, Median |
+| 0 | 13% | 100% |  |
+| 1 | 87% | 87% | Last Result, Median |
 | 2 | 0% | 0% |  |
 
 ### Erakond Eestimaa Rohelised (Greens/EFA)
@@ -185,6 +185,6 @@
 ### Calculations
 
 + **Sample size:** 899
-+ **Simulations done:** 524,288
-+ **Error estimate:** 0.82%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 0.78%
 
