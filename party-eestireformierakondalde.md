@@ -10,7 +10,8 @@ Last result: **24.3%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 30.5% | 28.5–32.6% | 27.9–33.1% | 27.4–33.6% | 26.5–34.6% |
+| N/A | [Poll Average](average.html) | 30.0% | 28.1–31.9% | 27.6–32.5% | 27.2–33.0% | 26.3–33.9% |
+| [21 May 2018](2018-05-21-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 30.0% | 28.2–31.9% | 27.7–32.4% | 27.2–32.9% | 26.4–33.8% |
 | [12–18 April 2018](2018-04-18-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 30.0% | 28.1–32.0% | 27.5–32.5% | 27.1–33.0% | 26.2–34.0% |
 | [8–21 March 2018](2018-03-21-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 31.0% | 29.2–33.0% | 28.7–33.5% | 28.3–34.0% | 27.4–34.9% |
 | [8–14 March 2018](2018-03-14-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 34.1% | 32.2–36.2% | 31.6–36.8% | 31.1–37.3% | 30.2–38.3% |
@@ -26,18 +27,17 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 23.5–24.5% | 0% | 100% | Last Result |
 | 24.5–25.5% | 0.1% | 100% |  |
-| 25.5–26.5% | 0.5% | 99.9% |  |
-| 26.5–27.5% | 2% | 99.5% |  |
-| 27.5–28.5% | 7% | 97% |  |
-| 28.5–29.5% | 16% | 90% |  |
-| 29.5–30.5% | 23% | 73% |  |
-| 30.5–31.5% | 24% | 50% | Median |
-| 31.5–32.5% | 16% | 26% |  |
-| 32.5–33.5% | 7% | 10% |  |
-| 33.5–34.5% | 2% | 3% |  |
-| 34.5–35.5% | 0.5% | 0.6% |  |
-| 35.5–36.5% | 0.1% | 0.1% |  |
-| 36.5–37.5% | 0% | 0% |  |
+| 25.5–26.5% | 0.8% | 99.9% |  |
+| 26.5–27.5% | 4% | 99.1% |  |
+| 27.5–28.5% | 11% | 95% |  |
+| 28.5–29.5% | 22% | 84% |  |
+| 29.5–30.5% | 26% | 62% | Median |
+| 30.5–31.5% | 21% | 36% |  |
+| 31.5–32.5% | 11% | 15% |  |
+| 32.5–33.5% | 4% | 5% |  |
+| 33.5–34.5% | 0.8% | 1.0% |  |
+| 34.5–35.5% | 0.1% | 0.1% |  |
+| 35.5–36.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -49,6 +49,7 @@ Last result: **2** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [21 May 2018](2018-05-21-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 3 | 3 | 3 | 2–3 | 2–3 |
 | [12–18 April 2018](2018-04-18-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [8–21 March 2018](2018-03-21-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 3 | 3 | 2–3 | 2–3 | 2–3 |
 | [8–14 March 2018](2018-03-14-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 3 | 3 | 3 | 3 | 2–4 |
@@ -64,9 +65,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 20% | 100% | Last Result |
-| 3 | 79% | 80% | Median |
-| 4 | 0.1% | 0.1% | Majority |
+| 2 | 18% | 100% | Last Result |
+| 3 | 82% | 82% | Median |
+| 4 | 0.2% | 0.2% | Majority |
 | 5 | 0% | 0% |  |
 
 
