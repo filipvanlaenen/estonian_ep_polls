@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/estonian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 16 Jun 2018 13:13:43 +0200</pubDate>
+    <pubDate>Mon, 25 Jun 2018 17:45:37 +0200</pubDate>
     <item>
       <title>Opinion Poll by Turu-uuringute AS for ERR, 29 May–11 June 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/estonian_ep_polls/2018-06-11-Turu-uuringuteAS.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2018-06-11-Turu-uuringuteAS.png"
         length="223971"
         type="image/png"/>
-      <pubDate>Sat, 16 Jun 2018 13:13:43 +0200</pubDate>
-      <dc:date>2018-06-16T13:13:43.248473+02:00</dc:date>
+      <pubDate>Mon, 25 Jun 2018 17:45:37 +0200</pubDate>
+      <dc:date>2018-06-25T17:45:37.411812+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Turu-uuringute AS for ERR, 21 May 2018 – Seat Projections for the Parties</title>
@@ -229,6 +229,6 @@
       <pubDate>Fri, 20 Apr 2018 19:10:28 +0200</pubDate>
       <dc:date>2018-04-20T19:10:28.797096+02:00</dc:date>
     </item>
-    <dc:date>2018-06-16T13:13:43.248473+02:00</dc:date>
+    <dc:date>2018-06-25T17:45:37.411812+02:00</dc:date>
   </channel>
 </rss>
