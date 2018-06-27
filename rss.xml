@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/estonian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 25 Jun 2018 17:45:37 +0200</pubDate>
+    <pubDate>Wed, 27 Jun 2018 13:51:40 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Turu-uuringute AS for ERR, 29 May–11 June 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/estonian_ep_polls/2018-06-11-Turu-uuringuteAS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Eesti Reformierakond (ALDE): 2–3 seats&lt;/li&gt;&lt;li&gt;Eesti Keskerakond (ALDE): 2–3 seats&lt;/li&gt;&lt;li&gt;Sotsiaaldemokraatlik Erakond (S&amp;amp;D): 0–1 seats&lt;/li&gt;&lt;li&gt;Isamaa ja Res Publica Liit (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Eesti Vabaerakond (*): 0 seats&lt;/li&gt;&lt;li&gt;Eesti Konservatiivne Rahvaerakond (*): 1–2 seats&lt;/li&gt;&lt;li&gt;Erakond Eestimaa Rohelised (Greens/EFA): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2018-06-11-Turu-uuringuteAS-seats.png"
+        length="159557"
+        type="image/png"/>
+      <pubDate>Wed, 27 Jun 2018 13:51:40 +0200</pubDate>
+      <dc:date>2018-06-27T13:51:40.194588+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Turu-uuringute AS for ERR, 29 May–11 June 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/estonian_ep_polls/2018-06-11-Turu-uuringuteAS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2018-06-11-Turu-uuringuteAS-coalitions-seats.png"
+        length="113692"
+        type="image/png"/>
+      <pubDate>Wed, 27 Jun 2018 13:51:40 +0200</pubDate>
+      <dc:date>2018-06-27T13:51:40.194588+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Turu-uuringute AS for ERR, 29 May–11 June 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/estonian_ep_polls/2018-06-11-Turu-uuringuteAS.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2018-06-11-Turu-uuringuteAS.png"
         length="223971"
         type="image/png"/>
-      <pubDate>Mon, 25 Jun 2018 17:45:37 +0200</pubDate>
-      <dc:date>2018-06-25T17:45:37.411812+02:00</dc:date>
+      <pubDate>Wed, 27 Jun 2018 13:51:40 +0200</pubDate>
+      <dc:date>2018-06-27T13:51:40.194588+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Turu-uuringute AS for ERR, 21 May 2018 – Seat Projections for the Parties</title>
@@ -229,6 +249,6 @@
       <pubDate>Fri, 20 Apr 2018 19:10:28 +0200</pubDate>
       <dc:date>2018-04-20T19:10:28.797096+02:00</dc:date>
     </item>
-    <dc:date>2018-06-25T17:45:37.411812+02:00</dc:date>
+    <dc:date>2018-06-27T13:51:40.194588+02:00</dc:date>
   </channel>
 </rss>
