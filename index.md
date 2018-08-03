@@ -5,9 +5,9 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | Ref | Kesk | IRL | SDE | EKRE | Rohelised | EVA |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 24.3% <br> 2 | 22.4% <br> 1 | 13.9% <br> 1 | 13.6% <br> 1 | 4.0% <br> 0 | 0.3% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 26–32% <br> 2–3 | 19–29% <br> 1–3 | 4–7% <br> 0 | 8–12% <br> 0–1 | 16–21% <br> 1–2 | 1–8% <br> 0 | 3–7% <br> 0 |
+| N/A | [Poll Average](average.html) | 26–32% <br> 2–3 | 21–29% <br> 2–3 | 4–7% <br> 0 | 8–15% <br> 0–1 | 16–24% <br> 1–2 | 1–4% <br> 0 | 2–5% <br> 0 |
+| [24–30 July 2018](2018-07-30-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 26–33% <br> 2–3 | 21–27% <br> 2 | 4–7% <br> 0 | 11–15% <br> 1 | 19–25% <br> 1–2 | 2–4% <br> 0 | 2–5% <br> 0 |
 | [29 May–11 June 2018](2018-06-11-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 25–31% <br> 2–3 | 24–30% <br> 2–3 | 4–7% <br> 0 | 7–11% <br> 0–1 | 16–20% <br> 1–2 | 1–3% <br> 0 | 3–5% <br> 0 |
-| [12–18 April 2018](2018-04-18-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 27–33% <br> 2–3 | 19–24% <br> 1–2 | 4–8% <br> 0 | 9–13% <br> 0–1 | 17–22% <br> 1–2 | 5–8% <br> 0 | 4–8% <br> 0 |
 | 25 May 2014 | General Election | 24.3% <br> 2 | 22.4% <br> 1 | 13.9% <br> 1 | 13.6% <br> 1 | 4.0% <br> 0 | 0.3% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
