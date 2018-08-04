@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/estonian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 03 Aug 2018 20:45:12 +0200</pubDate>
+    <pubDate>Sat, 04 Aug 2018 12:14:52 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Kantar Emor for BNS and Postimees, 24–30 July 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/estonian_ep_polls/2018-07-30-KantarEmor.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Eesti Reformierakond (ALDE): 2–3 seats&lt;/li&gt;&lt;li&gt;Eesti Keskerakond (ALDE): 2 seats&lt;/li&gt;&lt;li&gt;Sotsiaaldemokraatlik Erakond (S&amp;amp;D): 1 seats&lt;/li&gt;&lt;li&gt;Isamaa ja Res Publica Liit (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Eesti Vabaerakond (*): 0 seats&lt;/li&gt;&lt;li&gt;Eesti Konservatiivne Rahvaerakond (*): 1–2 seats&lt;/li&gt;&lt;li&gt;Erakond Eestimaa Rohelised (Greens/EFA): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2018-07-30-KantarEmor-seats.png"
+        length="152756"
+        type="image/png"/>
+      <pubDate>Sat, 04 Aug 2018 12:14:52 +0200</pubDate>
+      <dc:date>2018-08-04T12:14:52.38461+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar Emor for BNS and Postimees, 24–30 July 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/estonian_ep_polls/2018-07-30-KantarEmor.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2018-07-30-KantarEmor-coalitions-seats.png"
+        length="107051"
+        type="image/png"/>
+      <pubDate>Sat, 04 Aug 2018 12:14:52 +0200</pubDate>
+      <dc:date>2018-08-04T12:14:52.38461+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Kantar Emor for BNS and Postimees, 24–30 July 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/estonian_ep_polls/2018-07-30-KantarEmor.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2018-07-30-KantarEmor.png"
         length="231141"
         type="image/png"/>
-      <pubDate>Fri, 03 Aug 2018 20:45:12 +0200</pubDate>
-      <dc:date>2018-08-03T20:45:12.268915+02:00</dc:date>
+      <pubDate>Sat, 04 Aug 2018 12:14:52 +0200</pubDate>
+      <dc:date>2018-08-04T12:14:52.38461+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Turu-uuringute AS for ERR, 29 May–11 June 2018 – Seat Projections for the Parties</title>
@@ -259,6 +279,6 @@
       <pubDate>Fri, 20 Apr 2018 19:10:28 +0200</pubDate>
       <dc:date>2018-04-20T19:10:28.797096+02:00</dc:date>
     </item>
-    <dc:date>2018-08-03T20:45:12.268915+02:00</dc:date>
+    <dc:date>2018-08-04T12:14:52.38461+02:00</dc:date>
   </channel>
 </rss>
