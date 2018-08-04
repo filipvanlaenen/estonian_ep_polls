@@ -215,8 +215,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 53% | 100% | Last Result, Median |
-| 3 | 47% | 47% |  |
+| 2 | 55% | 100% | Last Result, Median |
+| 3 | 45% | 45% |  |
 | 4 | 0% | 0% | Majority |
 
 ### Eesti Keskerakond (ALDE)
@@ -227,8 +227,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 1.0% | 100% | Last Result |
-| 2 | 77% | 99.0% | Median |
+| 1 | 1.1% | 100% | Last Result |
+| 2 | 77% | 98.9% | Median |
 | 3 | 22% | 22% |  |
 | 4 | 0% | 0% | Majority |
 
@@ -264,8 +264,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 35% | 100% |  |
-| 2 | 65% | 65% | Median |
+| 1 | 33% | 100% |  |
+| 2 | 67% | 67% | Median |
 | 3 | 0% | 0% |  |
 
 ### Erakond Eestimaa Rohelised (Greens/EFA)
@@ -308,8 +308,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0% | 100% | Last Result |
-| 4 | 44% | 100% | Median, Majority |
-| 5 | 44% | 56% |  |
+| 4 | 46% | 100% | Median, Majority |
+| 5 | 42% | 54% |  |
 | 6 | 12% | 12% |  |
 | 7 | 0% | 0% |  |
 
@@ -318,8 +318,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 35% | 100% |  |
-| 2 | 65% | 65% | Median |
+| 1 | 33% | 100% |  |
+| 2 | 67% | 67% | Median |
 | 3 | 0% | 0% |  |
 
 ### Sotsiaaldemokraatlik Erakond (S&D)
