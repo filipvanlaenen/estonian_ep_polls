@@ -135,6 +135,8 @@
 
 ### Eesti Reformierakond (ALDE) – Eesti Keskerakond (ALDE)
 
+![Graph with seats probability mass function not yet produced](2018-05-21-Turu-uuringuteAS-coalitions-seats-pmf-ref–kesk.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0% | 100% | Last Result |
@@ -145,6 +147,8 @@
 
 ### Eesti Konservatiivne Rahvaerakond (*) – Eesti Vabaerakond (*)
 
+![Graph with seats probability mass function not yet produced](2018-05-21-Turu-uuringuteAS-coalitions-seats-pmf-ekre–eva.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
@@ -154,6 +158,8 @@
 
 ### Sotsiaaldemokraatlik Erakond (S&D)
 
+![Graph with seats probability mass function not yet produced](2018-05-21-Turu-uuringuteAS-coalitions-seats-pmf-sde.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 42% | 100% |  |
@@ -162,11 +168,15 @@
 
 ### Erakond Eestimaa Rohelised (Greens/EFA)
 
+![Graph with seats probability mass function not yet produced](2018-05-21-Turu-uuringuteAS-coalitions-seats-pmf-rohelised.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 100% | 100% | Last Result, Median |
 
 ### Isamaa ja Res Publica Liit (EPP)
+
+![Graph with seats probability mass function not yet produced](2018-05-21-Turu-uuringuteAS-coalitions-seats-pmf-irl.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
