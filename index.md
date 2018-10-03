@@ -2,13 +2,13 @@
 
 The table below lists the most recent polls (less than 90 days old) registered and analyzed so far.
 
-| Period     | Polling firm/Commissioner(s) | Ref | Kesk | IRL | SDE | EKRE | Rohelised | EVA |
-|:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| 25 May 2014 | General Election | 24.3% <br> 2 | 22.4% <br> 1 | 13.9% <br> 1 | 13.6% <br> 1 | 4.0% <br> 0 | 0.3% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 24–30% <br> 2–3 | 22–30% <br> 2–3 | 2–6% <br> 0 | 11–16% <br> 1 | 15–22% <br> 1–2 | 2–4% <br> 0 | 1–4% <br> 0 |
-| [12–20 September 2018](2018-09-20-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 24–30% <br> 2–3 | 22–27% <br> 2 | 4–6% <br> 0 | 11–15% <br> 1 | 18–23% <br> 1–2 | 2–4% <br> 0 | 2–5% <br> 0 |
-| [4–17 September 2018](2018-09-17-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 24–30% <br> 2–3 | 25–31% <br> 2–3 | 2–4% <br> 0 | 12–16% <br> 1 | 15–19% <br> 1–2 | 2–4% <br> 0 | 1–3% <br> 0 |
-| 25 May 2014 | General Election | 24.3% <br> 2 | 22.4% <br> 1 | 13.9% <br> 1 | 13.6% <br> 1 | 4.0% <br> 0 | 0.3% <br> 0 | 0.0% <br> 0 |
+| Period     | Polling firm/Commissioner(s) | Ref | Kesk | Isamaa | SDE | EKRE | Rohelised | EVA | E200 |
+|:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| 25 May 2014 | General Election | 24.3% <br> 2 | 22.4% <br> 1 | 13.9% <br> 1 | 13.6% <br> 1 | 4.0% <br> 0 | 0.3% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| N/A | [Poll Average](average.html) | 24–30% <br> 2–3 | 22–30% <br> 2 | 2–6% <br> 0 | 11–16% <br> 1 | 15–22% <br> 1–2 | 2–4% <br> 0 | 1–4% <br> 0 | 3–6% <br> 0 |
+| [12–20 September 2018](2018-09-20-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 24–30% <br> 2 | 22–27% <br> 2 | 4–6% <br> 0 | 11–15% <br> 1 | 18–23% <br> 2 | 2–4% <br> 0 | 2–5% <br> 0 | 3–6% <br> 0 |
+| [4–17 September 2018](2018-09-17-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 24–30% <br> 2–3 | 25–31% <br> 2 | 2–4% <br> 0 | 12–16% <br> 1 | 15–19% <br> 1–2 | 2–4% <br> 0 | 1–3% <br> 0 | N/A <br> N/A |
+| 25 May 2014 | General Election | 24.3% <br> 2 | 22.4% <br> 1 | 13.9% <br> 1 | 13.6% <br> 1 | 4.0% <br> 0 | 0.3% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
 
@@ -17,11 +17,12 @@ Only polls for which at least the sample size has been published are included in
 + **Bottom half of each row:** Seat projections for the European Parliament (95% confidence interval)
 + **Ref:** Eesti Reformierakond (ALDE)
 + **Kesk:** Eesti Keskerakond (ALDE)
-+ **IRL:** Isamaa ja Res Publica Liit (EPP)
++ **Isamaa:** Erakond Isamaa (EPP)
 + **SDE:** Sotsiaaldemokraatlik Erakond (S&D)
 + **EKRE:** Eesti Konservatiivne Rahvaerakond (*)
 + **Rohelised:** Erakond Eestimaa Rohelised (Greens/EFA)
 + **EVA:** Eesti Vabaerakond (*)
++ **E200:** Eesti 200 (*)
 + **N/A (single party):** Party not included the published results
 + **N/A (entire row):** Calculation for this opinion poll not started yet
 
