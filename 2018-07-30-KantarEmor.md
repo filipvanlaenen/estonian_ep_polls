@@ -44,8 +44,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 79% | 100% | Last Result, Median |
-| 3 | 21% | 21% |  |
+| 2 | 82% | 100% | Last Result, Median |
+| 3 | 18% | 18% |  |
 | 4 | 0% | 0% | Majority |
 
 ### Eesti Keskerakond (ALDE)
@@ -70,8 +70,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 18% | 100% |  |
-| 2 | 82% | 82% | Median |
+| 1 | 15% | 100% |  |
+| 2 | 85% | 85% | Median |
 | 3 | 0% | 0% |  |
 
 ### Sotsiaaldemokraatlik Erakond (S&D)
@@ -138,8 +138,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0% | 100% | Last Result |
-| 4 | 81% | 100% | Median, Majority |
-| 5 | 19% | 19% |  |
+| 4 | 84% | 100% | Median, Majority |
+| 5 | 16% | 16% |  |
 | 6 | 0% | 0% |  |
 
 ### Sotsiaaldemokraatlik Erakond (S&D)
@@ -181,6 +181,6 @@
 ### Calculations
 
 + **Sample size:** 733
-+ **Simulations done:** 262,144
-+ **Error estimate:** 2.94%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 1.80%
 
