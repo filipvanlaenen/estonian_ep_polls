@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | Ref | Kesk | Isamaa | SDE | EKRE | Rohelised | EVA | E200 |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 24.3% <br> 2 | 22.4% <br> 1 | 13.9% <br> 1 | 13.6% <br> 1 | 4.0% <br> 0 | 0.3% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [2–15 October 2018](2018-10-15-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 25–31% <br> 2–3 | 27–33% <br> 2–3 | 4–7% <br> 0 | 10–14% <br> 1 | 15–19% <br> 1–2 | 1–3% <br> 0 | 1–3% <br> 0 | N/A <br> N/A |
 | [12–20 September 2018](2018-09-20-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 24–30% <br> 2–3 | 22–27% <br> 2 | 4–6% <br> 0 | 11–15% <br> 1 | 18–23% <br> 1–2 | 2–4% <br> 0 | 2–5% <br> 0 | 3–6% <br> 0 |
 | [4–17 September 2018](2018-09-17-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 24–30% <br> 2–3 | 25–31% <br> 2–3 | 2–4% <br> 0 | 12–16% <br> 1 | 15–19% <br> 1–2 | 2–4% <br> 0 | 1–3% <br> 0 | N/A <br> N/A |
 | [8–26 August 2018](2018-08-26-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 22–28% <br> 2–3 | 24–30% <br> 2–3 | 4–7% <br> 0 | 9–13% <br> 0–1 | 17–22% <br> 1–2 | 3–5% <br> 0 | 1–3% <br> 0 | N/A <br> N/A |
