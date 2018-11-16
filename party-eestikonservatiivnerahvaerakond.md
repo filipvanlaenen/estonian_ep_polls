@@ -64,7 +64,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1–2 | 1–2 |
-| [8–13 November 2018](2018-11-13-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 1 | 1 | 1 | 1–2 | 1–2 |
+| [8–13 November 2018](2018-11-13-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [11–18 October 2018](2018-10-18-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 1 | 1 | 1 | 1–2 | 1–2 |
 | [2–15 October 2018](2018-10-15-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 1 | 1 | 1 | 1–2 | 1–2 |
 | [12–20 September 2018](2018-09-20-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
