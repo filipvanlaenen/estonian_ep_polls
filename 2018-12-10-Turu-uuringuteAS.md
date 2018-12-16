@@ -30,7 +30,7 @@
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | <a href="#eesti-keskerakond-(alde)">Eesti Keskerakond (ALDE)</a> | 1 | 3 | 3 |3 |3–4 |3–4 |
-| <a href="#eesti-reformierakond-(alde)">Eesti Reformierakond (ALDE)</a> | 2 | 2 | 2 |2 |2 |1–3 |
+| <a href="#eesti-reformierakond-(alde)">Eesti Reformierakond (ALDE)</a> | 2 | 2 | 2 |2 |2 |1–2 |
 | <a href="#eesti-konservatiivne-rahvaerakond-(ni)">Eesti Konservatiivne Rahvaerakond (NI)</a> | 0 | 2 | 1–2 |1–2 |1–2 |1–2 |
 | <a href="#sotsiaaldemokraatlik-erakond-(s&d)">Sotsiaaldemokraatlik Erakond (S&D)</a> | 1 | 0 | 0–1 |0–1 |0–1 |0–1 |
 | <a href="#eesti-200-(*)">Eesti 200 (*)</a> | 0 | 0 | 0 |0 |0–1 |0–1 |
@@ -47,9 +47,9 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0% | 100% | Last Result |
-| 2 | 0.2% | 100% |  |
-| 3 | 96% | 99.8% | Median |
-| 4 | 4% | 4% | Majority |
+| 2 | 0.5% | 100% |  |
+| 3 | 97% | 99.5% | Median |
+| 4 | 3% | 3% | Majority |
 | 5 | 0% | 0% |  |
 
 ### Eesti Reformierakond (ALDE)
@@ -60,9 +60,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 1.4% | 100% |  |
-| 2 | 98% | 98.6% | Last Result, Median |
-| 3 | 0.7% | 0.7% |  |
+| 1 | 0.7% | 100% |  |
+| 2 | 99.2% | 99.3% | Last Result, Median |
+| 3 | 0.2% | 0.2% |  |
 | 4 | 0% | 0% | Majority |
 
 ### Eesti Konservatiivne Rahvaerakond (NI)
@@ -74,8 +74,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 27% | 100% |  |
-| 2 | 73% | 73% | Median |
+| 1 | 24% | 100% |  |
+| 2 | 76% | 76% | Median |
 | 3 | 0% | 0% |  |
 
 ### Sotsiaaldemokraatlik Erakond (S&D)
@@ -86,8 +86,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 80% | 100% | Median |
-| 1 | 20% | 20% | Last Result |
+| 0 | 81% | 100% | Median |
+| 1 | 19% | 19% | Last Result |
 | 2 | 0% | 0% |  |
 
 ### Eesti 200 (*)
@@ -98,8 +98,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 95% | 100% | Last Result, Median |
-| 1 | 5% | 5% |  |
+| 0 | 97% | 100% | Last Result, Median |
+| 1 | 3% | 3% |  |
 | 2 | 0% | 0% |  |
 
 ### Erakond Isamaa (EPP)
@@ -156,9 +156,9 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0% | 100% | Last Result |
-| 4 | 2% | 100% | Majority |
-| 5 | 94% | 98% | Median |
-| 6 | 4% | 4% |  |
+| 4 | 1.1% | 100% | Majority |
+| 5 | 96% | 98.9% | Median |
+| 6 | 3% | 3% |  |
 | 7 | 0% | 0% |  |
 
 ### Eesti Konservatiivne Rahvaerakond (NI)
@@ -168,8 +168,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 27% | 100% |  |
-| 2 | 73% | 73% | Median |
+| 1 | 24% | 100% |  |
+| 2 | 76% | 76% | Median |
 | 3 | 0% | 0% |  |
 
 ### Eesti 200 (*) – Eesti Vabaerakond (*)
@@ -178,8 +178,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 95% | 100% | Last Result, Median |
-| 1 | 5% | 5% |  |
+| 0 | 97% | 100% | Last Result, Median |
+| 1 | 3% | 3% |  |
 | 2 | 0% | 0% |  |
 
 ### Sotsiaaldemokraatlik Erakond (S&D)
@@ -188,8 +188,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 80% | 100% | Median |
-| 1 | 20% | 20% | Last Result |
+| 0 | 81% | 100% | Median |
+| 1 | 19% | 19% | Last Result |
 | 2 | 0% | 0% |  |
 
 ### Erakond Eestimaa Rohelised (Greens/EFA)
@@ -221,6 +221,6 @@
 ### Calculations
 
 + **Sample size:** 1000
-+ **Simulations done:** 131,072
-+ **Error estimate:** 2.16%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 1.98%
 
