@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/estonian_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2019-01-12T19:07:16.184449+01:00</updated>
+  <updated>2019-01-13T11:03:56.649299+01:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Eesti Reformierakond (ALDE): 17.7–22.6%, 1–2 seats</li><li>Eesti Keskerakond (ALDE): 23.4–28.8%, 2–3 seats</li><li>Sotsiaaldemokraatlik Erakond (S&amp;D): 10.1–14.1%, 1 seats</li><li>Erakond Isamaa (EPP): 7.4–11.0%, 0–1 seats</li><li>Eesti Vabaerakond (*): 0.5–1.8%, 0 seats</li><li>Eesti Konservatiivne Rahvaerakond (ECR): 17.7–22.6%, 1–2 seats</li><li>Erakond Eestimaa Rohelised (Greens/EFA): 0.5–1.8%, 0 seats</li><li>Eesti 200 (ALDE): 5.6–8.8%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/estonian_ep_polls/2019-01-09-Turu-uuringuteAS.html</id>
@@ -14,6 +14,14 @@
     <title>Opinion Poll by Turu-uuringute AS for ERR, 3–9 January 2019</title>
     <updated>2019-01-12T19:07:16.184449+01:00</updated>
     <dc:date>2019-01-12T19:07:16.184449+01:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Eesti Reformierakond (ALDE): 22.2–26.8%, 2 seats</li><li>Eesti Keskerakond (ALDE): 21.1–25.6%, 2 seats</li><li>Sotsiaaldemokraatlik Erakond (S&amp;D): 10.2–13.6%, 1 seats</li><li>Erakond Isamaa (EPP): 6.6–9.6%, 0 seats</li><li>Eesti Vabaerakond (*): 0.9–2.2%, 0 seats</li><li>Eesti Konservatiivne Rahvaerakond (ECR): 18.2–22.5%, 2 seats</li><li>Erakond Eestimaa Rohelised (Greens/EFA): 2.2–4.0%, 0 seats</li><li>Eesti 200 (ALDE): 5.4–8.0%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/estonian_ep_polls/2019-01-08-KantarEmor.html</id>
+    <link href="https://filipvanlaenen.github.io/estonian_ep_polls/2019-01-08-KantarEmor.html"/>
+    <title>Opinion Poll by Kantar Emor for BNS and Postimees, 4–8 January 2019</title>
+    <updated>2019-01-13T11:03:56.649299+01:00</updated>
+    <dc:date>2019-01-13T11:03:56.649299+01:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Eesti Reformierakond (ALDE): 19.5–24.7%, 2 seats</li><li>Eesti Keskerakond (ALDE): 22.4–27.8%, 2 seats</li><li>Sotsiaaldemokraatlik Erakond (S&amp;D): 10.1–14.2%, 1 seats</li><li>Erakond Isamaa (EPP): 6.5–9.8%, 0 seats</li><li>Eesti Vabaerakond (*): 0.5–1.8%, 0 seats</li><li>Eesti Konservatiivne Rahvaerakond (ECR): 18.6–23.6%, 2 seats</li><li>Erakond Eestimaa Rohelised (Greens/EFA): 2.1–4.3%, 0 seats</li><li>Eesti 200 (ALDE): 4.7–7.7%, 0 seats</li></ul></div></content>
@@ -175,5 +183,5 @@
     <updated>2018-10-10T16:48:38.267789+02:00</updated>
     <dc:date>2018-10-10T16:48:38.267789+02:00</dc:date>
   </entry>
-  <dc:date>2019-01-12T19:07:16.184449+01:00</dc:date>
+  <dc:date>2019-01-13T11:03:56.649299+01:00</dc:date>
 </feed>
