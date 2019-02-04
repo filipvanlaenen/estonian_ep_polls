@@ -48,8 +48,8 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0% | 100% | Last Result |
 | 2 | 0% | 100% |  |
-| 3 | 85% | 100% | Median |
-| 4 | 15% | 15% | Majority |
+| 3 | 79% | 100% | Median |
+| 4 | 21% | 21% | Majority |
 | 5 | 0% | 0% |  |
 
 ### Eesti Reformierakond (ALDE)
@@ -60,8 +60,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 66% | 100% | Last Result, Median |
-| 3 | 34% | 34% |  |
+| 2 | 72% | 100% | Last Result, Median |
+| 3 | 28% | 28% |  |
 | 4 | 0% | 0% | Majority |
 
 ### Eesti Konservatiivne Rahvaerakond (ECR)
@@ -97,8 +97,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.7% | 100% | Median |
-| 1 | 0.3% | 0.3% | Last Result |
+| 0 | 99.8% | 100% | Median |
+| 1 | 0.2% | 0.2% | Last Result |
 | 2 | 0% | 0% |  |
 
 ### Eesti 200 (ALDE)
@@ -155,8 +155,8 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0% | 100% | Last Result |
 | 4 | 0% | 100% | Majority |
-| 5 | 51% | 100% | Median |
-| 6 | 49% | 49% |  |
+| 5 | 52% | 100% | Median |
+| 6 | 48% | 48% |  |
 | 7 | 0% | 0% |  |
 
 ### Eesti Konservatiivne Rahvaerakond (ECR)
@@ -202,8 +202,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.7% | 100% | Median |
-| 1 | 0.3% | 0.3% | Last Result |
+| 0 | 99.8% | 100% | Median |
+| 1 | 0.2% | 0.2% | Last Result |
 | 2 | 0% | 0% |  |
 
 
@@ -218,6 +218,6 @@
 ### Calculations
 
 + **Sample size:** 1000
-+ **Simulations done:** 262,144
-+ **Error estimate:** 1.48%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 1.83%
 
