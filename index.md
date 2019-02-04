@@ -6,7 +6,7 @@ The table below lists the most recent polls (less than 90 days old) registered a
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 24.3% <br> 2 | 22.4% <br> 1 | 13.9% <br> 1 | 13.6% <br> 1 | 4.0% <br> 0 | 0.3% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 | N/A | [Poll Average](average.html) | 23–29% <br> 2–3 | 22–35% <br> 2–4 | 5–9% <br> 0 | 6–12% <br> 0–1 | 15–22% <br> 1–2 | 2–5% <br> 0 | 0–2% <br> 0 | 2–8% <br> 0 |
-| [24–29 January 2019](2019-01-29-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 24–29% <br> 2–3 | 22–27% <br> 2–3 | 6–9% <br> 0 | 8–12% <br> 0–1 | 16–21% <br> 1–2 | 3–6% <br> 0 | 1–3% <br> 0 | 6–9% <br> 0 |
+| [24–29 January 2019](2019-01-29-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 24–29% <br> 2–3 | 22–27% <br> 2–3 | 6–9% <br> 0–1 | 8–12% <br> 0–1 | 16–21% <br> 1–2 | 3–6% <br> 0 | 1–3% <br> 0 | 6–9% <br> 0 |
 | [15–28 January 2019](2019-01-28-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 22–28% <br> 2–3 | 30–36% <br> 3–4 | 5–8% <br> 0 | 6–9% <br> 0–1 | 15–19% <br> 1–2 | 2–4% <br> 0 | 1–2% <br> 0 | 4–7% <br> 0 |
 | [7–13 January 2019](2019-01-13-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 24–30% <br> 2–3 | 24–30% <br> 2–3 | 6–9% <br> 0 | 8–12% <br> 0–1 | 18–22% <br> 1–2 | 1–3% <br> 0 | 0–1% <br> 0 | 1–3% <br> 0 |
 | 25 May 2014 | General Election | 24.3% <br> 2 | 22.4% <br> 1 | 13.9% <br> 1 | 13.6% <br> 1 | 4.0% <br> 0 | 0.3% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
