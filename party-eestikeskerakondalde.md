@@ -11,6 +11,7 @@ Last result: **22.4%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 27.0% | 23.7–33.8% | 23.0–34.6% | 22.5–35.2% | 21.6–36.3% |
+| [28 January–4 February 2019](2019-02-04-Norstat.html) | Norstat | 30.5% | 28.7–32.4% | 28.2–33.0% | 27.7–33.4% | 26.9–34.4% |
 | [24–29 January 2019](2019-01-29-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 24.4% | 22.7–26.2% | 22.2–26.7% | 21.8–27.1% | 21.0–28.0% |
 | [15–28 January 2019](2019-01-28-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 33.0% | 31.1–34.9% | 30.6–35.5% | 30.1–36.0% | 29.3–36.9% |
 | [7–13 January 2019](2019-01-13-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 26.9% | 25.2–28.7% | 24.7–29.2% | 24.3–29.6% | 23.5–30.5% |
@@ -74,6 +75,7 @@ Last result: **1** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2–3 | 2–4 | 2–4 | 2–4 |
+| [28 January–4 February 2019](2019-02-04-Norstat.html) | Norstat | 3 | 3 | 3 | 2–3 | 2–3 |
 | [24–29 January 2019](2019-01-29-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 2 | 2 | 2 | 2–3 | 2–3 |
 | [15–28 January 2019](2019-01-28-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [7–13 January 2019](2019-01-13-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
