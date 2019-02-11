@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/estonian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 07 Feb 2019 20:31:47 +0100</pubDate>
+    <pubDate>Mon, 11 Feb 2019 19:34:42 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Kantar Emor for BNS and Postimees, 4–7 February 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/estonian_ep_polls/2019-02-07-KantarEmor.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Eesti Reformierakond (ALDE): 22.1–27.1%&lt;/li&gt;&lt;li&gt;Eesti Keskerakond (ALDE): 24.0–29.1%&lt;/li&gt;&lt;li&gt;Sotsiaaldemokraatlik Erakond (S&amp;amp;D): 9.8–13.5%&lt;/li&gt;&lt;li&gt;Erakond Isamaa (EPP): 7.1–10.4%&lt;/li&gt;&lt;li&gt;Eesti Vabaerakond (*): 0.4–1.4%&lt;/li&gt;&lt;li&gt;Eesti Konservatiivne Rahvaerakond (ECR): 16.8–21.3%&lt;/li&gt;&lt;li&gt;Erakond Eestimaa Rohelised (Greens/EFA): 1.5–3.2%&lt;/li&gt;&lt;li&gt;Eesti 200 (ALDE): 5.1–8.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2019-02-07-KantarEmor.png"
+        length="240885"
+        type="image/png"/>
+      <pubDate>Mon, 11 Feb 2019 19:34:42 +0100</pubDate>
+      <dc:date>2019-02-11T19:34:42.503643+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Norstat, 28 January–4 February 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/estonian_ep_polls/2019-02-04-Norstat.html#seats</link>
@@ -789,6 +799,6 @@
       <pubDate>Wed, 10 Oct 2018 16:48:38 +0200</pubDate>
       <dc:date>2018-10-10T16:48:38.267789+02:00</dc:date>
     </item>
-    <dc:date>2019-02-07T20:31:47.989414+01:00</dc:date>
+    <dc:date>2019-02-11T19:34:42.503643+01:00</dc:date>
   </channel>
 </rss>
