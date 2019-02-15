@@ -11,7 +11,7 @@ Last result: **24.3%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 26.1% | 24.1–28.1% | 23.5–28.7% | 23.0–29.2% | 22.1–30.1% |
-| [4–11 February 2019](2019-02-11-Norstat.html) | Norstat | 31.0% | 29.2–32.9% | 28.7–33.5% | 28.2–33.9% | 27.3–34.9% |
+| [4–11 February 2019](2019-02-11-Norstat.html) | Norstat | 30.6% | 28.8–32.5% | 28.3–33.1% | 27.8–33.5% | 27.0–34.5% |
 | [4–7 February 2019](2019-02-07-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 24.5% | 22.9–26.2% | 22.4–26.6% | 22.1–27.1% | 21.3–27.9% |
 | [28 January–4 February 2019](2019-02-04-Norstat.html) | Norstat | 26.6% | 24.9–28.5% | 24.4–29.0% | 23.9–29.4% | 23.1–30.3% |
 | [24–29 January 2019](2019-01-29-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 26.3% | 24.5–28.1% | 24.1–28.6% | 23.6–29.1% | 22.8–30.0% |
@@ -70,7 +70,7 @@ Last result: **2** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [4–11 February 2019](2019-02-11-Norstat.html) | Norstat | 3 | 3 | 3 | 2–3 | 2–3 |
+| [4–11 February 2019](2019-02-11-Norstat.html) | Norstat | 3 | 3 | 2–3 | 2–3 | 2–3 |
 | [4–7 February 2019](2019-02-07-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 2 | 2 | 2 | 2 | 2–3 |
 | [28 January–4 February 2019](2019-02-04-Norstat.html) | Norstat | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [24–29 January 2019](2019-01-29-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
