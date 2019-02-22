@@ -91,8 +91,8 @@ Last result: **1** seats (General Election of 25 May 2014)
 | [28 January–4 February 2019](2019-02-04-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 3 | 3 | 3 | 3 | 2–3 |
 | [24–29 January 2019](2019-01-29-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 2 | 2 | 2 | 2–3 | 2–3 |
 | [15–28 January 2019](2019-01-28-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [21–27 January 2019](2019-01-27-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 2 | 2 | 2 | 2–3 | 2–3 |
-| [14–21 January 2019](2019-01-21-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 3 | 3 | 2–3 | 2–3 | 2–3 |
+| [21–27 January 2019](2019-01-27-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [14–21 January 2019](2019-01-21-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 3 | 3 | 3 | 2–3 | 2–4 |
 | [7–13 January 2019](2019-01-13-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 2 | 2 | 2 | 2 | 2–3 |
 | [3–9 January 2019](2019-01-09-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [4–8 January 2019](2019-01-08-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 2 | 2 | 2 | 2 | 2 |
@@ -112,11 +112,11 @@ Last result: **1** seats (General Election of 25 May 2014)
 | [29 May–11 June 2018](2018-06-11-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [21 May 2018](2018-05-21-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [21 May 2018](2018-05-21-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 2 | 2 | 2 | 2 | 2 |
-| [19 April 2018](2018-04-19-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [19 April 2018](2018-04-19-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [12–18 April 2018](2018-04-18-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [8–21 March 2018](2018-03-21-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [8–14 March 2018](2018-03-14-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 2 | 2 | 2 | 2 | 2 |
-| [1–25 February 2018](2018-02-25-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 2 | 2 | 2 | 2 | 2 |
+| [1–25 February 2018](2018-02-25-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 2 | 2 | 2 | 1–2 | 1–2 |
 | [7–20 February 2018](2018-02-20-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [15–29 January 2018](2018-01-29-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [18–25 January 2018](2018-01-25-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 2 | 1–2 | 1–2 | 1–2 | 1–2 |

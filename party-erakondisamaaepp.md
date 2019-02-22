@@ -85,7 +85,7 @@ Last result: **1** seats (General Election of 25 May 2014)
 | [28 January–4 February 2019](2019-02-04-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 0 | 0 | 0 | 0 | 0 |
 | [24–29 January 2019](2019-01-29-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 0 | 0 | 0 | 0–1 | 0–1 |
 | [15–28 January 2019](2019-01-28-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 0 | 0 | 0 | 0 | 0 |
-| [21–27 January 2019](2019-01-27-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [21–27 January 2019](2019-01-27-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [14–21 January 2019](2019-01-21-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 0 | 0 | 0 | 0 | 0 |
 | [7–13 January 2019](2019-01-13-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 0 | 0 | 0 | 0 | 0 |
 | [3–9 January 2019](2019-01-09-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 0 | 0–1 | 0–1 | 0–1 | 0–1 |

@@ -28,10 +28,10 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#eesti-reformierakond-(alde)">Eesti Reformierakond (ALDE)</a> | 2 | 3 | 3 |3 |3 |2–4 |
-| <a href="#eesti-keskerakond-(alde)">Eesti Keskerakond (ALDE)</a> | 1 | 2 | 2 |2 |2 |2 |
-| <a href="#eesti-konservatiivne-rahvaerakond-(ecr)">Eesti Konservatiivne Rahvaerakond (ECR)</a> | 0 | 1 | 1 |1 |1 |1–2 |
-| <a href="#sotsiaaldemokraatlik-erakond-(s&d)">Sotsiaaldemokraatlik Erakond (S&D)</a> | 1 | 1 | 1 |1 |1 |0–1 |
+| <a href="#eesti-reformierakond-(alde)">Eesti Reformierakond (ALDE)</a> | 2 | 3 | 3 |3 |3 |3–4 |
+| <a href="#eesti-keskerakond-(alde)">Eesti Keskerakond (ALDE)</a> | 1 | 2 | 2 |2 |1–2 |1–2 |
+| <a href="#eesti-konservatiivne-rahvaerakond-(ecr)">Eesti Konservatiivne Rahvaerakond (ECR)</a> | 0 | 1 | 1 |1 |1–2 |1–2 |
+| <a href="#sotsiaaldemokraatlik-erakond-(s&d)">Sotsiaaldemokraatlik Erakond (S&D)</a> | 1 | 1 | 1 |1 |0–1 |0–1 |
 | <a href="#eesti-vabaerakond-(*)">Eesti Vabaerakond (*)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#erakond-isamaa-(epp)">Erakond Isamaa (EPP)</a> | 1 | 0 | 0 |0 |0 |0 |
 | <a href="#erakond-eestimaa-rohelised-(greens/efa)">Erakond Eestimaa Rohelised (Greens/EFA)</a> | 0 | 0 | 0 |0 |0 |0 |
@@ -44,9 +44,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 0.5% | 100% | Last Result |
-| 3 | 98.9% | 99.5% | Median |
-| 4 | 0.6% | 0.6% | Majority |
+| 2 | 0.1% | 100% | Last Result |
+| 3 | 99.0% | 99.9% | Median |
+| 4 | 0.8% | 0.8% | Majority |
 | 5 | 0% | 0% |  |
 
 ### Eesti Keskerakond (ALDE)
@@ -57,8 +57,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 0.1% | 100% | Last Result |
-| 2 | 99.9% | 99.9% | Median |
+| 1 | 3% | 100% | Last Result |
+| 2 | 97% | 97% | Median |
 | 3 | 0% | 0% |  |
 
 ### Eesti Konservatiivne Rahvaerakond (ECR)
@@ -70,8 +70,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 99.5% | 100% | Median |
-| 2 | 0.5% | 0.5% |  |
+| 1 | 96% | 100% | Median |
+| 2 | 4% | 4% |  |
 | 3 | 0% | 0% |  |
 
 ### Sotsiaaldemokraatlik Erakond (S&D)
@@ -82,8 +82,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.5% | 100% |  |
-| 1 | 99.5% | 99.5% | Last Result, Median |
+| 0 | 3% | 100% |  |
+| 1 | 97% | 97% | Last Result, Median |
 | 2 | 0% | 0% |  |
 
 ### Eesti Vabaerakond (*)
@@ -94,7 +94,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Last Result, Median |
+| 0 | 99.7% | 100% | Last Result, Median |
+| 1 | 0.3% | 0.3% |  |
+| 2 | 0% | 0% |  |
 
 ### Erakond Isamaa (EPP)
 
@@ -126,8 +128,8 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Eesti Konservatiivne Rahvaerakond (ECR) | 0 | 1 | 0% | 1 | 1 | 1 | 1–2 |
-| Sotsiaaldemokraatlik Erakond (S&D) | 1 | 1 | 0% | 1 | 1 | 1 | 0–1 |
+| Eesti Konservatiivne Rahvaerakond (ECR) | 0 | 1 | 0% | 1 | 1 | 1–2 | 1–2 |
+| Sotsiaaldemokraatlik Erakond (S&D) | 1 | 1 | 0% | 1 | 1 | 0–1 | 0–1 |
 | Eesti Vabaerakond (*) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 | Erakond Eestimaa Rohelised (Greens/EFA) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 | Erakond Isamaa (EPP) | 1 | 0 | 0% | 0 | 0 | 0 | 0 |
@@ -139,8 +141,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 99.5% | 100% | Median |
-| 2 | 0.5% | 0.5% |  |
+| 1 | 96% | 100% | Median |
+| 2 | 4% | 4% |  |
 | 3 | 0% | 0% |  |
 
 ### Sotsiaaldemokraatlik Erakond (S&D)
@@ -149,8 +151,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.5% | 100% |  |
-| 1 | 99.5% | 99.5% | Last Result, Median |
+| 0 | 3% | 100% |  |
+| 1 | 97% | 97% | Last Result, Median |
 | 2 | 0% | 0% |  |
 
 ### Eesti Vabaerakond (*)
@@ -159,7 +161,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Last Result, Median |
+| 0 | 99.7% | 100% | Last Result, Median |
+| 1 | 0.3% | 0.3% |  |
+| 2 | 0% | 0% |  |
 
 ### Erakond Eestimaa Rohelised (Greens/EFA)
 
@@ -190,6 +194,6 @@
 ### Calculations
 
 + **Sample size:** 874
-+ **Simulations done:** 1,024
-+ **Error estimate:** 6.23%
++ **Simulations done:** 131,072
++ **Error estimate:** 1.83%
 
