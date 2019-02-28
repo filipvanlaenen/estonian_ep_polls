@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/estonian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Tue, 26 Feb 2019 19:29:59 +0100</pubDate>
+    <pubDate>Thu, 28 Feb 2019 11:28:26 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 18–24 February 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/estonian_ep_polls/2019-02-24-Norstat.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Eesti Reformierakond (ALDE): 27.7–33.4%&lt;/li&gt;&lt;li&gt;Eesti Keskerakond (ALDE): 19.0–24.1%&lt;/li&gt;&lt;li&gt;Sotsiaaldemokraatlik Erakond (S&amp;amp;D): 10.1–14.2%&lt;/li&gt;&lt;li&gt;Erakond Isamaa (EPP): 7.6–11.2%&lt;/li&gt;&lt;li&gt;Eesti Vabaerakond (*): 0.5–1.8%&lt;/li&gt;&lt;li&gt;Eesti Konservatiivne Rahvaerakond (ECR): 16.5–21.3%&lt;/li&gt;&lt;li&gt;Erakond Eestimaa Rohelised (Greens/EFA): 1.5–3.4%&lt;/li&gt;&lt;li&gt;Eesti 200 (ALDE): 2.6–4.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2019-02-24-Norstat.png"
+        length="238194"
+        type="image/png"/>
+      <pubDate>Wed, 27 Feb 2019 21:20:04 +0100</pubDate>
+      <dc:date>2019-02-27T21:20:04.895424+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Turu-uuringute AS for ERR, 7–20 February 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/estonian_ep_polls/2019-02-20-Turu-uuringuteAS.html</link>
@@ -36,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2019-02-18-OÜFaktumAriko.png"
         length="242633"
         type="image/png"/>
-      <pubDate>Tue, 26 Feb 2019 19:29:59 +0100</pubDate>
-      <dc:date>2019-02-26T19:29:59.696441+01:00</dc:date>
+      <pubDate>Thu, 28 Feb 2019 11:28:26 +0100</pubDate>
+      <dc:date>2019-02-28T11:28:26.635171+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 11–17 February 2019 – Voting Intentions</title>
@@ -889,6 +899,6 @@
       <pubDate>Wed, 10 Oct 2018 16:48:38 +0200</pubDate>
       <dc:date>2018-10-10T16:48:38.267789+02:00</dc:date>
     </item>
-    <dc:date>2019-02-26T19:29:59.696441+01:00</dc:date>
+    <dc:date>2019-02-28T11:28:26.635171+01:00</dc:date>
   </channel>
 </rss>
