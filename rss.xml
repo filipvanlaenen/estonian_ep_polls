@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/estonian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 02 Mar 2019 15:40:32 +0100</pubDate>
+    <pubDate>Sat, 02 Mar 2019 19:01:35 +0100</pubDate>
     <item>
       <title>Opinion Poll by Kantar Emor for BNS and Postimees, 26–28 February 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/estonian_ep_polls/2019-02-28-KantarEmor.html</link>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2019-02-24-Norstat.png"
         length="238194"
         type="image/png"/>
-      <pubDate>Wed, 27 Feb 2019 21:20:04 +0100</pubDate>
-      <dc:date>2019-02-27T21:20:04.895424+01:00</dc:date>
+      <pubDate>Sat, 02 Mar 2019 17:56:59 +0100</pubDate>
+      <dc:date>2019-03-02T17:56:59.057968+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Turu-uuringute AS for ERR, 7–20 February 2019 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2019-02-20-Turu-uuringuteAS.png"
         length="207135"
         type="image/png"/>
-      <pubDate>Mon, 25 Feb 2019 19:17:45 +0100</pubDate>
-      <dc:date>2019-02-25T19:17:45.435351+01:00</dc:date>
+      <pubDate>Sat, 02 Mar 2019 19:01:35 +0100</pubDate>
+      <dc:date>2019-03-02T19:01:35.327983+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Kantar Emor for BNS and Postimees, 14–20 February 2019 – Voting Intentions</title>
@@ -909,6 +909,6 @@
       <pubDate>Wed, 10 Oct 2018 16:48:38 +0200</pubDate>
       <dc:date>2018-10-10T16:48:38.267789+02:00</dc:date>
     </item>
-    <dc:date>2019-03-02T15:40:32.347693+01:00</dc:date>
+    <dc:date>2019-03-02T19:01:35.327983+01:00</dc:date>
   </channel>
 </rss>
