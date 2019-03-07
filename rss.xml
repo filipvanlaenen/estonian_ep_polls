@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/estonian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 03 Mar 2019 14:25:58 +0100</pubDate>
+    <pubDate>Wed, 06 Mar 2019 23:08:14 +0100</pubDate>
     <item>
       <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 24 February–1 March 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/estonian_ep_polls/2019-03-01-Norstat.html</link>
@@ -20,14 +20,54 @@
       <dc:date>2019-03-03T14:25:58.101677+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Kantar Emor for BNS and Postimees, 26–28 February 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/estonian_ep_polls/2019-02-28-KantarEmor.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Eesti Reformierakond (ALDE): 2–3 seats&lt;/li&gt;&lt;li&gt;Eesti Keskerakond (ALDE): 2 seats&lt;/li&gt;&lt;li&gt;Sotsiaaldemokraatlik Erakond (S&amp;amp;D): 1 seats&lt;/li&gt;&lt;li&gt;Erakond Isamaa (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Eesti Vabaerakond (*): 0 seats&lt;/li&gt;&lt;li&gt;Eesti Konservatiivne Rahvaerakond (ECR): 1–2 seats&lt;/li&gt;&lt;li&gt;Erakond Eestimaa Rohelised (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Eesti 200 (ALDE): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2019-02-28-KantarEmor-seats.png"
+        length="169534"
+        type="image/png"/>
+      <pubDate>Wed, 06 Mar 2019 22:30:18 +0100</pubDate>
+      <dc:date>2019-03-06T22:30:18.450027+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar Emor for BNS and Postimees, 26–28 February 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/estonian_ep_polls/2019-02-28-KantarEmor.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2019-02-28-KantarEmor-coalitions-seats.png"
+        length="108669"
+        type="image/png"/>
+      <pubDate>Wed, 06 Mar 2019 22:30:18 +0100</pubDate>
+      <dc:date>2019-03-06T22:30:18.450027+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Kantar Emor for BNS and Postimees, 26–28 February 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/estonian_ep_polls/2019-02-28-KantarEmor.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Eesti Reformierakond (ALDE): 24.1–29.2%&lt;/li&gt;&lt;li&gt;Eesti Keskerakond (ALDE): 22.1–27.1%&lt;/li&gt;&lt;li&gt;Sotsiaaldemokraatlik Erakond (S&amp;amp;D): 10.1–13.9%&lt;/li&gt;&lt;li&gt;Erakond Isamaa (EPP): 8.5–12.0%&lt;/li&gt;&lt;li&gt;Eesti Vabaerakond (*): 0.8–2.2%&lt;/li&gt;&lt;li&gt;Eesti Konservatiivne Rahvaerakond (ECR): 15.2–19.6%&lt;/li&gt;&lt;li&gt;Erakond Eestimaa Rohelised (Greens/EFA): 1.5–3.3%&lt;/li&gt;&lt;li&gt;Eesti 200 (ALDE): 3.2–5.7%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2019-02-28-KantarEmor.png"
         length="242131"
         type="image/png"/>
-      <pubDate>Sat, 02 Mar 2019 15:40:32 +0100</pubDate>
-      <dc:date>2019-03-02T15:40:32.347693+01:00</dc:date>
+      <pubDate>Wed, 06 Mar 2019 22:30:18 +0100</pubDate>
+      <dc:date>2019-03-06T22:30:18.450027+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 18–24 February 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/estonian_ep_polls/2019-02-24-Norstat.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Eesti Reformierakond (ALDE): 2–3 seats&lt;/li&gt;&lt;li&gt;Eesti Keskerakond (ALDE): 1–2 seats&lt;/li&gt;&lt;li&gt;Sotsiaaldemokraatlik Erakond (S&amp;amp;D): 1 seats&lt;/li&gt;&lt;li&gt;Erakond Isamaa (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Eesti Vabaerakond (*): 0 seats&lt;/li&gt;&lt;li&gt;Eesti Konservatiivne Rahvaerakond (ECR): 1–2 seats&lt;/li&gt;&lt;li&gt;Erakond Eestimaa Rohelised (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Eesti 200 (ALDE): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2019-02-24-Norstat-seats.png"
+        length="204351"
+        type="image/png"/>
+      <pubDate>Wed, 06 Mar 2019 22:57:41 +0100</pubDate>
+      <dc:date>2019-03-06T22:57:41.226873+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 18–24 February 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/estonian_ep_polls/2019-02-24-Norstat.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2019-02-24-Norstat-coalitions-seats.png"
+        length="105836"
+        type="image/png"/>
+      <pubDate>Wed, 06 Mar 2019 22:57:41 +0100</pubDate>
+      <dc:date>2019-03-06T22:57:41.226873+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 18–24 February 2019 – Voting Intentions</title>
@@ -36,8 +76,8 @@
       <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2019-02-24-Norstat.png"
         length="238194"
         type="image/png"/>
-      <pubDate>Sat, 02 Mar 2019 17:56:59 +0100</pubDate>
-      <dc:date>2019-03-02T17:56:59.057968+01:00</dc:date>
+      <pubDate>Wed, 06 Mar 2019 22:57:41 +0100</pubDate>
+      <dc:date>2019-03-06T22:57:41.226873+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Turu-uuringute AS for ERR, 7–20 February 2019 – Voting Intentions</title>
@@ -46,8 +86,8 @@
       <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2019-02-20-Turu-uuringuteAS.png"
         length="207135"
         type="image/png"/>
-      <pubDate>Sat, 02 Mar 2019 19:01:35 +0100</pubDate>
-      <dc:date>2019-03-02T19:01:35.327983+01:00</dc:date>
+      <pubDate>Wed, 06 Mar 2019 23:08:14 +0100</pubDate>
+      <dc:date>2019-03-06T23:08:14.096563+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Kantar Emor for BNS and Postimees, 14–20 February 2019 – Voting Intentions</title>
@@ -919,6 +959,6 @@
       <pubDate>Wed, 10 Oct 2018 16:48:38 +0200</pubDate>
       <dc:date>2018-10-10T16:48:38.267789+02:00</dc:date>
     </item>
-    <dc:date>2019-03-03T14:25:58.101677+01:00</dc:date>
+    <dc:date>2019-03-06T23:08:14.096563+01:00</dc:date>
   </channel>
 </rss>
