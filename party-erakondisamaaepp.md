@@ -10,12 +10,12 @@ Last result: **13.9%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10.1% | 8.9–11.6% | 8.5–12.0% | 8.2–12.4% | 7.6–13.1% |
+| N/A | [Poll Average](average.html) | 9.7% | 6.9–11.6% | 6.7–12.0% | 6.5–12.4% | 6.3–13.1% |
 | [12–13 March 2019](2019-03-13-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 7.0% | 6.0–8.4% | 5.7–8.8% | 5.4–9.1% | 5.0–9.8% |
 | [24 February–1 March 2019](2019-03-01-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 12.3% | 11.1–13.7% | 10.7–14.1% | 10.4–14.5% | 9.8–15.2% |
 | [26–28 February 2019](2019-02-28-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 10.1% | 9.0–11.4% | 8.7–11.7% | 8.5–12.0% | 8.0–12.6% |
 | [18–24 February 2019](2019-02-24-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 9.3% | 8.2–10.6% | 7.9–10.9% | 7.6–11.2% | 7.1–11.9% |
-| [7–20 February 2019](2019-02-20-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 10.0% | 9.5–10.6% | 9.3–10.8% | 9.2–10.9% | 8.9–11.2% |
+| [7–20 February 2019](2019-02-20-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 7.0% | 6.5–7.5% | 6.4–7.6% | 6.3–7.8% | 6.1–8.0% |
 | [14–20 February 2019](2019-02-20-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 9.2% | 8.2–10.4% | 7.9–10.7% | 7.7–11.0% | 7.3–11.6% |
 | [12–18 February 2019](2019-02-18-OÜFaktumAriko.html) | OÜ Faktum & Ariko | 11.1% | 10.0–12.4% | 9.7–12.7% | 9.4–13.0% | 8.9–13.7% |
 | [11–17 February 2019](2019-02-17-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 12.9% | 11.6–14.4% | 11.3–14.8% | 11.0–15.1% | 10.4–15.9% |
@@ -23,7 +23,7 @@ Last result: **13.9%** (General Election of 25 May 2014)
 | [4–7 February 2019](2019-02-07-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 8.6% | 7.6–9.8% | 7.4–10.1% | 7.1–10.4% | 6.7–11.0% |
 | [28 January–4 February 2019](2019-02-04-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 7.3% | 6.3–8.5% | 6.1–8.8% | 5.8–9.1% | 5.4–9.7% |
 | [24–29 January 2019](2019-01-29-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 7.5% | 6.5–8.7% | 6.2–9.0% | 6.0–9.3% | 5.6–9.9% |
-| [15–28 January 2019](2019-01-28-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 6.0% | 5.1–7.1% | 4.9–7.4% | 4.7–7.7% | 4.3–8.2% |
+| [15–28 January 2019](2019-01-28-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 4.9% | 4.1–5.9% | 3.9–6.2% | 3.7–6.4% | 3.4–6.9% |
 | [21–27 January 2019](2019-01-27-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 9.1% | 8.0–10.4% | 7.7–10.7% | 7.5–11.1% | 7.0–11.7% |
 | [14–21 January 2019](2019-01-21-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 6.5% | 5.6–7.6% | 5.3–7.9% | 5.1–8.2% | 4.7–8.8% |
 | [7–13 January 2019](2019-01-13-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 6.8% | 5.9–7.9% | 5.7–8.2% | 5.5–8.5% | 5.0–9.0% |
@@ -33,7 +33,7 @@ Last result: **13.9%** (General Election of 25 May 2014)
 | [5–12 December 2018](2018-12-12-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 7.8% | 6.7–9.1% | 6.4–9.4% | 6.2–9.8% | 5.7–10.4% |
 | [27 November–10 December 2018](2018-12-10-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 5.0% | 4.2–6.0% | 4.0–6.3% | 3.8–6.5% | 3.5–7.0% |
 | [31 October–13 November 2018](2018-11-13-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 5.0% | 4.2–6.0% | 4.0–6.3% | 3.8–6.5% | 3.5–7.0% |
-| [8–13 November 2018](2018-11-13-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 4.6% | 3.9–5.6% | 3.7–5.9% | 3.5–6.1% | 3.2–6.6% |
+| [8–13 November 2018](2018-11-13-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 5.0% | 4.3–6.0% | 4.0–6.3% | 3.9–6.5% | 3.5–7.0% |
 | [11–18 October 2018](2018-10-18-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 5.1% | 4.3–6.2% | 4.1–6.5% | 3.9–6.7% | 3.6–7.3% |
 | [2–15 October 2018](2018-10-15-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 5.0% | 4.2–6.0% | 4.0–6.3% | 3.8–6.5% | 3.5–7.0% |
 | [12–20 September 2018](2018-09-20-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 4.9% | 4.1–5.9% | 3.9–6.2% | 3.7–6.5% | 3.4–7.0% |
@@ -60,12 +60,13 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 5.5–6.5% | 0% | 100% |  |
-| 6.5–7.5% | 0.5% | 100% |  |
-| 7.5–8.5% | 5% | 99.5% |  |
-| 8.5–9.5% | 20% | 95% |  |
-| 9.5–10.5% | 42% | 75% | Median |
-| 10.5–11.5% | 22% | 32% |  |
+| 4.5–5.5% | 0% | 100% |  |
+| 5.5–6.5% | 3% | 100% |  |
+| 6.5–7.5% | 21% | 97% |  |
+| 7.5–8.5% | 7% | 76% |  |
+| 8.5–9.5% | 16% | 70% |  |
+| 9.5–10.5% | 24% | 53% | Median |
+| 10.5–11.5% | 19% | 29% |  |
 | 11.5–12.5% | 8% | 10% |  |
 | 12.5–13.5% | 2% | 2% |  |
 | 13.5–14.5% | 0.2% | 0.2% | Last Result |
@@ -85,7 +86,7 @@ Last result: **1** seats (General Election of 25 May 2014)
 | [24 February–1 March 2019](2019-03-01-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1 | 1 | 1 | 1 | 1 |
 | [26–28 February 2019](2019-02-28-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [18–24 February 2019](2019-02-24-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [7–20 February 2019](2019-02-20-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| [7–20 February 2019](2019-02-20-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 0 | 0 | 0 | 0 | 0 |
 | [14–20 February 2019](2019-02-20-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [12–18 February 2019](2019-02-18-OÜFaktumAriko.html) | OÜ Faktum & Ariko | 1 | 1 | 1 | 0–1 | 0–1 |
 | [11–17 February 2019](2019-02-17-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1 | 1 | 1 | 1 | 1 |
@@ -132,8 +133,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 25% | 100% |  |
-| 1 | 75% | 75% | Last Result, Median |
+| 0 | 48% | 100% |  |
+| 1 | 52% | 52% | Last Result, Median |
 | 2 | 0% | 0% |  |
 
 
