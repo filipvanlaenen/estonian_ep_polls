@@ -10,7 +10,7 @@ Last result: **4.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17.5% | 14.9–19.6% | 14.6–20.1% | 14.3–20.6% | 14.0–21.5% |
+| N/A | [Poll Average](average.html) | 17.5% | 14.9–19.4% | 14.6–20.0% | 14.3–20.4% | 14.0–21.3% |
 | [12–13 March 2019](2019-03-13-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 18.1% | 16.4–20.0% | 15.9–20.5% | 15.5–21.0% | 14.7–21.9% |
 | [24 February–1 March 2019](2019-03-01-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 17.7% | 16.2–19.3% | 15.8–19.8% | 15.5–20.2% | 14.8–21.0% |
 | [26–28 February 2019](2019-02-28-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 17.3% | 15.9–18.8% | 15.5–19.2% | 15.2–19.6% | 14.5–20.3% |
@@ -73,14 +73,13 @@ The following table shows the probability mass function per percentage block of 
 | 13.5–14.5% | 5% | 99.9% |  |
 | 14.5–15.5% | 18% | 95% |  |
 | 15.5–16.5% | 11% | 77% |  |
-| 16.5–17.5% | 17% | 66% |  |
-| 17.5–18.5% | 22% | 50% | Median |
-| 18.5–19.5% | 17% | 27% |  |
-| 19.5–20.5% | 8% | 11% |  |
-| 20.5–21.5% | 2% | 3% |  |
-| 21.5–22.5% | 0.4% | 0.5% |  |
-| 22.5–23.5% | 0% | 0.1% |  |
-| 23.5–24.5% | 0% | 0% |  |
+| 16.5–17.5% | 18% | 66% | Median |
+| 17.5–18.5% | 23% | 49% |  |
+| 18.5–19.5% | 17% | 25% |  |
+| 19.5–20.5% | 7% | 9% |  |
+| 20.5–21.5% | 2% | 2% |  |
+| 21.5–22.5% | 0.3% | 0.3% |  |
+| 22.5–23.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -144,8 +143,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 93% | 100% | Median |
-| 2 | 7% | 7% |  |
+| 1 | 94% | 100% | Median |
+| 2 | 6% | 6% |  |
 | 3 | 0% | 0% |  |
 
 
