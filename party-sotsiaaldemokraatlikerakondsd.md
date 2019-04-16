@@ -10,7 +10,7 @@ Last result: **13.6%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10.4% | 7.8–12.0% | 7.3–12.4% | 7.0–12.7% | 6.4–13.4% |
+| N/A | [Poll Average](average.html) | 10.5% | 7.6–12.1% | 7.2–12.5% | 6.9–12.8% | 6.3–13.5% |
 | [1–8 April 2019](2019-04-08-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 8.0% | N/A | N/A | N/A | N/A |
 | [25–29 March 2019](2019-03-29-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 10.1% | 9.0–11.4% | 8.7–11.8% | 8.4–12.1% | 7.9–12.8% |
 | [18–24 March 2019](2019-03-24-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 9.3% | N/A | N/A | N/A | N/A |
@@ -68,15 +68,15 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 0.8% | 100% |  |
-| 6.5–7.5% | 6% | 99.2% |  |
-| 7.5–8.5% | 12% | 93% |  |
-| 8.5–9.5% | 13% | 81% |  |
-| 9.5–10.5% | 22% | 68% | Median |
-| 10.5–11.5% | 28% | 45% |  |
-| 11.5–12.5% | 14% | 18% |  |
-| 12.5–13.5% | 3% | 3% |  |
-| 13.5–14.5% | 0.3% | 0.3% | Last Result |
+| 5.5–6.5% | 1.1% | 100% |  |
+| 6.5–7.5% | 8% | 98.9% |  |
+| 7.5–8.5% | 15% | 91% |  |
+| 8.5–9.5% | 10% | 76% |  |
+| 9.5–10.5% | 17% | 66% |  |
+| 10.5–11.5% | 28% | 49% | Median |
+| 11.5–12.5% | 17% | 21% |  |
+| 12.5–13.5% | 4% | 4% |  |
+| 13.5–14.5% | 0.4% | 0.4% | Last Result |
 | 14.5–15.5% | 0% | 0% |  |
 
 
