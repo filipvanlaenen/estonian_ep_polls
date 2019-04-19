@@ -8,8 +8,8 @@ The table below lists all polls registered and analyzed so far.
 | [1–8 April 2019](2019-04-08-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 31–36% <br> 2–3 | 20–25% <br> 1–2 | 10–14% <br> 0–1 | 6–10% <br> 0 | 13–17% <br> 1 | 2–4% <br> 0 | 0–1% <br> 0 | 4–6% <br> 0 |
 | [25–29 March 2019](2019-03-29-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [18–24 March 2019](2019-03-24-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [14–21 March 2019](2019-03-21-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [5–18 March 2019](2019-03-18-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [14–21 March 2019](2019-03-21-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 29–35% <br> 2–3 | 15–19% <br> 1 | 6–9% <br> 0 | 9–13% <br> 0–1 | 16–20% <br> 1 | 2–4% <br> 0 | 0–1% <br> 0 | 8–12% <br> 0–1 |
+| [5–18 March 2019](2019-03-18-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 27–33% <br> 2–3 | 20–25% <br> 1–2 | 9–13% <br> 0–1 | 6–10% <br> 0 | 16–21% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 3–5% <br> 0 |
 | [11–15 March 2019](2019-03-15-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [12–13 March 2019](2019-03-13-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [5–11 March 2019](2019-03-11-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
@@ -18,7 +18,7 @@ The table below lists all polls registered and analyzed so far.
 | [18–24 February 2019](2019-02-24-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [7–20 February 2019](2019-02-20-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [14–20 February 2019](2019-02-20-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [12–18 February 2019](2019-02-18-OÜFaktumAriko.html) | OÜ Faktum & Ariko | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [12–18 February 2019](2019-02-18-OÜFaktumAriko.html) | OÜ Faktum & Ariko | 23–28% <br> 2 | 20–25% <br> 1 | 9–13% <br> 0 | 9–13% <br> 0 | 16–20% <br> 1 | 1–3% <br> 0 | 1–3% <br> 0 | 3–5% <br> 0 |
 | [11–17 February 2019](2019-02-17-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [4–11 February 2019](2019-02-11-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [4–7 February 2019](2019-02-07-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
@@ -65,7 +65,7 @@ Only polls for which at least the sample size has been published are included in
 + **Kesk:** Eesti Keskerakond (ALDE)
 + **Isamaa:** Erakond Isamaa (EPP)
 + **SDE:** Sotsiaaldemokraatlik Erakond (S&D)
-+ **EKRE:** Eesti Konservatiivne Rahvaerakond (ECR)
++ **EKRE:** Eesti Konservatiivne Rahvaerakond (EAPN)
 + **Rohelised:** Erakond Eestimaa Rohelised (Greens/EFA)
 + **EVA:** Eesti Vabaerakond (*)
 + **E200:** Eesti 200 (ALDE)
