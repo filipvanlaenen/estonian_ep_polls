@@ -6,15 +6,15 @@
 
 The table below lists the polls on which the average is based. They are the most recent polls (less than 90 days old) registered and analyzed so far.
 
-| Period     | Polling firm/Commissioner(s) | Ref | Kesk | Isamaa | SDE | EKRE | Rohelised | EVA | E200 |
-|:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| 25 May 2014 | General Election | 24.3% <br> 2 | 22.4% <br> 1 | 13.9% <br> 1 | 13.6% <br> 1 | 4.0% <br> 0 | 0.3% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | Poll Average | 24–36% <br> 2–3 | 20–25% <br> 1–2 | 9–13% <br> 0–1 | 7–12% <br> 0–1 | 13–20% <br> 1 | 1–4% <br> 0 | 0–3% <br> 0 | 3–6% <br> 0 |
-| [10 April 2019](2019-04-10-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [1–8 April 2019](2019-04-08-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 31–36% <br> 2–3 | 20–25% <br> 1–2 | 10–14% <br> 0–1 | 6–10% <br> 0 | 13–17% <br> 1 | 2–4% <br> 0 | 0–1% <br> 0 | 4–6% <br> 0 |
-| [5–18 March 2019](2019-03-18-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 27–33% <br> 2–3 | 20–25% <br> 1–2 | 9–13% <br> 0–1 | 6–10% <br> 0 | 16–21% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 3–5% <br> 0 |
-| [12–18 February 2019](2019-02-18-OÜFaktumAriko.html) | OÜ Faktum & Ariko | 23–28% <br> 2 | 20–25% <br> 1–2 | 9–13% <br> 0–1 | 9–13% <br> 0–1 | 16–20% <br> 1 | 1–3% <br> 0 | 1–3% <br> 0 | 3–5% <br> 0 |
-| 25 May 2014 | General Election | 24.3% <br> 2 | 22.4% <br> 1 | 13.9% <br> 1 | 13.6% <br> 1 | 4.0% <br> 0 | 0.3% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| Period     | Polling firm/Commissioner(s) | Ref | Kesk | Isamaa | SDE | EKRE | Rohelised | EVA | E200 | Kaljulaid |
+|:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| 25 May 2014 | General Election | 24.3% <br> 2 | 22.4% <br> 1 | 13.9% <br> 1 | 13.6% <br> 1 | 4.0% <br> 0 | 0.3% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| N/A | Poll Average | 24–36% <br> 2–3 | 20–25% <br> 1–2 | 9–13% <br> 0–1 | 7–12% <br> 0–1 | 13–20% <br> 1 | 1–4% <br> 0 | 0–3% <br> 0 | 3–6% <br> 0 | N/A <br> N/A |
+| [10–15 April 2019](2019-04-15-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [1–8 April 2019](2019-04-08-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 31–36% <br> 2–3 | 20–25% <br> 1–2 | 10–14% <br> 0–1 | 6–10% <br> 0 | 13–17% <br> 1 | 2–4% <br> 0 | 0–1% <br> 0 | 4–6% <br> 0 | N/A <br> N/A |
+| [5–18 March 2019](2019-03-18-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 27–33% <br> 2–3 | 20–25% <br> 1–2 | 9–13% <br> 0–1 | 6–10% <br> 0 | 16–21% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 3–5% <br> 0 | N/A <br> N/A |
+| [12–18 February 2019](2019-02-18-OÜFaktumAriko.html) | OÜ Faktum & Ariko | 23–28% <br> 2 | 20–25% <br> 1–2 | 9–13% <br> 0–1 | 9–13% <br> 0–1 | 16–20% <br> 1 | 1–3% <br> 0 | 1–3% <br> 0 | 3–5% <br> 0 | N/A <br> N/A |
+| 25 May 2014 | General Election | 24.3% <br> 2 | 22.4% <br> 1 | 13.9% <br> 1 | 13.6% <br> 1 | 4.0% <br> 0 | 0.3% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
 
@@ -29,6 +29,7 @@ Only polls for which at least the sample size has been published are included in
 + **Rohelised:** Erakond Eestimaa Rohelised (Greens/EFA)
 + **EVA:** Eesti Vabaerakond (*)
 + **E200:** Eesti 200 (ALDE)
++ **Kaljulaid:** Raimond Kaljulaid (ALDE)
 + **N/A (single party):** Party not included the published results
 + **N/A (entire row):** Calculation for this opinion poll not started yet
 
@@ -48,6 +49,7 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#erakond-eestimaa-rohelised-(greens/efa)">Erakond Eestimaa Rohelised (Greens/EFA)</a> | 0.3% | 2.5% | 1.7–3.5% |1.5–3.8% | 1.4–4.0% | 1.2–4.5% |
 | <a href="#eesti-vabaerakond-(*)">Eesti Vabaerakond (*)</a> | 0.0% | 1.3% | 0.4–2.4% |0.3–2.6% | 0.3–2.8% | 0.2–3.1% |
 | <a href="#eesti-200-(alde)">Eesti 200 (ALDE)</a> | 0.0% | 4.3% | 3.5–5.3% |3.3–5.6% | 3.1–5.9% | 2.8–6.5% |
+| <a href="#raimond-kaljulaid-(alde)">Raimond Kaljulaid (ALDE)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 
 ### Eesti Reformierakond (ALDE)
 
@@ -216,6 +218,7 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#erakond-eestimaa-rohelised-(greens/efa)">Erakond Eestimaa Rohelised (Greens/EFA)</a> | 0 | 0 | 0 |0 | 0 | 0 |
 | <a href="#eesti-vabaerakond-(*)">Eesti Vabaerakond (*)</a> | 0 | 0 | 0 |0 | 0 | 0 |
 | <a href="#eesti-200-(alde)">Eesti 200 (ALDE)</a> | 0 | 0 | 0 |0 | 0 | 0 |
+| <a href="#raimond-kaljulaid-(alde)">Raimond Kaljulaid (ALDE)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 
 ### Eesti Reformierakond (ALDE)
 
@@ -388,5 +391,5 @@ Only polls for which at least the sample size has been published are included in
 
 + **Number of polls included in this average:** 4
 + **Lowest number of simulations done in a poll included in this average:** 0
-+ **Total number of simulations done in the polls included in this average:** 3,145,728
-+ **Error estimate:** 2.38%
++ **Total number of simulations done in the polls included in this average:** 0
++ **Error estimate:** 0.00%
