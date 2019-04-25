@@ -10,9 +10,12 @@ Last result: **13.6%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.6% | 7.2–11.6% | 6.9–12.1% | 6.6–12.5% | 6.1–13.2% |
+| N/A | [Poll Average](average.html) | 11.1% | 10.0–12.4% | 9.7–12.7% | 9.4–13.0% | 8.9–13.6% |
+| [15–22 April 2019](2019-04-22-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 8.6% | 7.6–9.8% | 7.3–10.2% | 7.0–10.5% | 6.5–11.1% |
 | [12–17 April 2019](2019-04-17-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 17.0% | 15.5–18.6% | 15.2–19.1% | 14.8–19.5% | 14.1–20.3% |
-| [10–15 April 2019](2019-04-15-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 16.0% | N/A | N/A | N/A | N/A |
+| [2–15 April 2019](2019-04-15-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 8.1% | N/A | N/A | N/A | N/A |
+| [8–15 April 2019](2019-04-15-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 10.2% | N/A | N/A | N/A | N/A |
+| [10–15 April 2019](2019-04-15-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 11.4% | N/A | N/A | N/A | N/A |
 | [1–8 April 2019](2019-04-08-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 8.0% | 7.0–9.2% | 6.7–9.6% | 6.5–9.8% | 6.0–10.5% |
 | [25–29 March 2019](2019-03-29-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 10.1% | N/A | N/A | N/A | N/A |
 | [18–24 March 2019](2019-03-24-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 9.3% | N/A | N/A | N/A | N/A |
@@ -69,16 +72,14 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 2% | 100% |  |
-| 6.5–7.5% | 16% | 98% |  |
-| 7.5–8.5% | 30% | 81% |  |
-| 8.5–9.5% | 17% | 52% | Median |
-| 9.5–10.5% | 10% | 35% |  |
-| 10.5–11.5% | 14% | 25% |  |
-| 11.5–12.5% | 9% | 11% |  |
-| 12.5–13.5% | 2% | 2% |  |
-| 13.5–14.5% | 0.2% | 0.2% | Last Result |
+| 6.5–7.5% | 0% | 100% |  |
+| 7.5–8.5% | 0.1% | 100% |  |
+| 8.5–9.5% | 4% | 99.9% |  |
+| 9.5–10.5% | 22% | 96% |  |
+| 10.5–11.5% | 42% | 74% | Median |
+| 11.5–12.5% | 26% | 33% |  |
+| 12.5–13.5% | 6% | 7% |  |
+| 13.5–14.5% | 0.6% | 0.7% | Last Result |
 | 14.5–15.5% | 0% | 0% |  |
 
 
@@ -90,8 +91,11 @@ Last result: **1** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [15–22 April 2019](2019-04-22-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 0 | 0 | 0 | 0 | 0 |
 | [12–17 April 2019](2019-04-17-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1 | 1 | 1 | 1 | 1 |
+| [2–15 April 2019](2019-04-15-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR |  |  |  |  |  |
+| [8–15 April 2019](2019-04-15-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
 | [10–15 April 2019](2019-04-15-KantarEmor.html) | Kantar Emor <br> BNS and Postimees |  |  |  |  |  |
 | [1–8 April 2019](2019-04-08-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 0 | 0 | 0 | 0 | 0 |
 | [25–29 March 2019](2019-03-29-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
@@ -151,8 +155,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 78% | 100% | Median |
-| 1 | 22% | 22% | Last Result |
+| 0 | 34% | 100% |  |
+| 1 | 66% | 66% | Last Result, Median |
 | 2 | 0% | 0% |  |
 
 
