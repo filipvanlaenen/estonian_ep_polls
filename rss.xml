@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/estonian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 24 Apr 2019 15:41:31 +0200</pubDate>
+    <pubDate>Thu, 25 Apr 2019 10:33:23 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 15–22 April 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/estonian_ep_polls/2019-04-22-Norstat.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Eesti Reformierakond (ALDE): 29.4–35.2%&lt;/li&gt;&lt;li&gt;Eesti Keskerakond (ALDE): 17.8–22.8%&lt;/li&gt;&lt;li&gt;Sotsiaaldemokraatlik Erakond (S&amp;amp;D): 7.0–10.5%&lt;/li&gt;&lt;li&gt;Erakond Isamaa (EPP): 7.7–11.3%&lt;/li&gt;&lt;li&gt;Eesti Vabaerakond (*): 0.3–1.4%&lt;/li&gt;&lt;li&gt;Eesti Konservatiivne Rahvaerakond (EAPN): 17.8–22.8%&lt;/li&gt;&lt;li&gt;Erakond Eestimaa Rohelised (Greens/EFA): 1.8–3.8%&lt;/li&gt;&lt;li&gt;Eesti 200 (ALDE): 4.2–7.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2019-04-22-Norstat.png"
+        length="238164"
+        type="image/png"/>
+      <pubDate>Thu, 25 Apr 2019 10:33:23 +0200</pubDate>
+      <dc:date>2019-04-25T10:33:23.863695+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 12–17 April 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/estonian_ep_polls/2019-04-17-Norstat.html</link>
@@ -79,6 +89,6 @@
       <pubDate>Wed, 16 Jan 2019 20:39:42 +0100</pubDate>
       <dc:date>2019-01-16T20:39:42.221237+01:00</dc:date>
     </item>
-    <dc:date>2019-04-24T15:41:31.604346+02:00</dc:date>
+    <dc:date>2019-04-25T10:33:23.863695+02:00</dc:date>
   </channel>
 </rss>
