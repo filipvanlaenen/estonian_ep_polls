@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/estonian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 26 Apr 2019 20:10:05 +0200</pubDate>
+    <pubDate>Sun, 28 Apr 2019 12:40:38 +0200</pubDate>
     <item>
       <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 15–22 April 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/estonian_ep_polls/2019-04-22-Norstat.html</link>
@@ -28,6 +28,26 @@
         type="image/png"/>
       <pubDate>Wed, 24 Apr 2019 15:41:31 +0200</pubDate>
       <dc:date>2019-04-24T15:41:31.604346+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Turu-uuringute AS for ERR, 2–15 April 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/estonian_ep_polls/2019-04-15-Turu-uuringuteAS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Eesti Reformierakond (ALDE): 27.5–33.2%&lt;/li&gt;&lt;li&gt;Eesti Keskerakond (ALDE): 21.6–27.0%&lt;/li&gt;&lt;li&gt;Sotsiaaldemokraatlik Erakond (S&amp;amp;D): 6.6–10.0%&lt;/li&gt;&lt;li&gt;Erakond Isamaa (EPP): 7.5–11.1%&lt;/li&gt;&lt;li&gt;Eesti Vabaerakond (*): 0.5–1.8%&lt;/li&gt;&lt;li&gt;Eesti Konservatiivne Rahvaerakond (EAPN): 14.0–18.6%&lt;/li&gt;&lt;li&gt;Erakond Eestimaa Rohelised (Greens/EFA): 1.3–3.1%&lt;/li&gt;&lt;li&gt;Eesti 200 (ALDE): 6.6–10.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2019-04-15-Turu-uuringuteAS.png"
+        length="235685"
+        type="image/png"/>
+      <pubDate>Sun, 28 Apr 2019 12:19:19 +0200</pubDate>
+      <dc:date>2019-04-28T12:19:19.366078+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar Emor for BNS and Postimees, 10–15 April 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/estonian_ep_polls/2019-04-15-KantarEmor.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Eesti Reformierakond (ALDE): 29.5–35.3%&lt;/li&gt;&lt;li&gt;Eesti Keskerakond (ALDE): 14.8–19.5%&lt;/li&gt;&lt;li&gt;Sotsiaaldemokraatlik Erakond (S&amp;amp;D): 9.6–13.5%&lt;/li&gt;&lt;li&gt;Erakond Isamaa (EPP): 6.9–10.4%&lt;/li&gt;&lt;li&gt;Eesti Vabaerakond (*): 0.6–2.0%&lt;/li&gt;&lt;li&gt;Eesti Konservatiivne Rahvaerakond (EAPN): 13.3–17.8%&lt;/li&gt;&lt;li&gt;Erakond Eestimaa Rohelised (Greens/EFA): 1.9–3.9%&lt;/li&gt;&lt;li&gt;Eesti 200 (ALDE): 8.6–12.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2019-04-15-KantarEmor.png"
+        length="237833"
+        type="image/png"/>
+      <pubDate>Sun, 28 Apr 2019 12:29:42 +0200</pubDate>
+      <dc:date>2019-04-28T12:29:42.21389+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Kantar Emor for BNS and Postimees, 14–21 March 2019 – Seat Projections for the Parties</title>
@@ -60,6 +80,16 @@
       <dc:date>2019-04-18T21:27:40.317841+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by OÜ Faktum &amp; Ariko, 12–18 February 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/estonian_ep_polls/2019-02-18-OÜFaktumAriko.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Eesti Reformierakond (ALDE): 22.9–27.9%&lt;/li&gt;&lt;li&gt;Eesti Keskerakond (ALDE): 19.9–24.7%&lt;/li&gt;&lt;li&gt;Sotsiaaldemokraatlik Erakond (S&amp;amp;D): 9.4–13.0%&lt;/li&gt;&lt;li&gt;Erakond Isamaa (EPP): 9.4–13.0%&lt;/li&gt;&lt;li&gt;Eesti Vabaerakond (*): 1.3–3.0%&lt;/li&gt;&lt;li&gt;Eesti Konservatiivne Rahvaerakond (EAPN): 16.0–20.5%&lt;/li&gt;&lt;li&gt;Erakond Eestimaa Rohelised (Greens/EFA): 1.3–3.0%&lt;/li&gt;&lt;li&gt;Eesti 200 (ALDE): 3.0–5.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2019-02-18-OÜFaktumAriko.png"
+        length="243302"
+        type="image/png"/>
+      <pubDate>Sun, 28 Apr 2019 12:40:38 +0200</pubDate>
+      <dc:date>2019-04-28T12:40:38.4859+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Turu-uuringute AS for ERR, 3–9 January 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/estonian_ep_polls/2019-01-09-Turu-uuringuteAS.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Eesti Reformierakond (ALDE): 17.7–22.6%&lt;/li&gt;&lt;li&gt;Eesti Keskerakond (ALDE): 23.4–28.8%&lt;/li&gt;&lt;li&gt;Sotsiaaldemokraatlik Erakond (S&amp;amp;D): 10.1–14.1%&lt;/li&gt;&lt;li&gt;Erakond Isamaa (EPP): 7.4–11.0%&lt;/li&gt;&lt;li&gt;Eesti Vabaerakond (*): 0.5–1.8%&lt;/li&gt;&lt;li&gt;Eesti Konservatiivne Rahvaerakond (EAPN): 17.7–22.6%&lt;/li&gt;&lt;li&gt;Erakond Eestimaa Rohelised (Greens/EFA): 0.5–1.8%&lt;/li&gt;&lt;li&gt;Eesti 200 (ALDE): 5.6–8.8%&lt;/li&gt;&lt;/ul&gt;</description>
@@ -89,6 +119,6 @@
       <pubDate>Wed, 16 Jan 2019 20:39:42 +0100</pubDate>
       <dc:date>2019-01-16T20:39:42.221237+01:00</dc:date>
     </item>
-    <dc:date>2019-04-26T20:10:05.248336+02:00</dc:date>
+    <dc:date>2019-04-28T12:40:38.4859+02:00</dc:date>
   </channel>
 </rss>
