@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/estonian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 28 Apr 2019 14:35:17 +0200</pubDate>
+    <pubDate>Sun, 28 Apr 2019 19:38:53 +0200</pubDate>
     <item>
       <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 15–22 April 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/estonian_ep_polls/2019-04-22-Norstat.html#seats</link>
@@ -56,8 +56,18 @@
       <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2019-04-15-Turu-uuringuteAS.png"
         length="235685"
         type="image/png"/>
-      <pubDate>Sun, 28 Apr 2019 12:19:19 +0200</pubDate>
-      <dc:date>2019-04-28T12:19:19.366078+02:00</dc:date>
+      <pubDate>Sun, 28 Apr 2019 19:13:44 +0200</pubDate>
+      <dc:date>2019-04-28T19:13:44.611614+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar Emor for BNS and Postimees, 10–15 April 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/estonian_ep_polls/2019-04-15-KantarEmor.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Eesti Reformierakond (ALDE): 20.8–25.5%&lt;/li&gt;&lt;li&gt;Eesti Keskerakond (ALDE): 15.9–20.3%&lt;/li&gt;&lt;li&gt;Sotsiaaldemokraatlik Erakond (S&amp;amp;D): 14.1–18.2%&lt;/li&gt;&lt;li&gt;Erakond Isamaa (EPP): 7.5–10.7%&lt;/li&gt;&lt;li&gt;Eesti Vabaerakond (*): 0.1–0.7%&lt;/li&gt;&lt;li&gt;Eesti Konservatiivne Rahvaerakond (EAPN): 9.3–12.9%&lt;/li&gt;&lt;li&gt;Erakond Eestimaa Rohelised (Greens/EFA): 2.1–4.1%&lt;/li&gt;&lt;li&gt;Eesti 200 (ALDE): 2.1–4.1%&lt;/li&gt;&lt;li&gt;Raimond Kaljulaid (ALDE): 8.4–11.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2019-04-15-KantarEmor.png"
+        length="262210"
+        type="image/png"/>
+      <pubDate>Sun, 28 Apr 2019 19:31:17 +0200</pubDate>
+      <dc:date>2019-04-28T19:31:17.289718+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Kantar Emor for BNS and Postimees, 14–21 March 2019 – Seat Projections for the Parties</title>
@@ -96,8 +106,8 @@
       <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2019-02-18-OÜFaktumAriko.png"
         length="243302"
         type="image/png"/>
-      <pubDate>Sun, 28 Apr 2019 12:40:38 +0200</pubDate>
-      <dc:date>2019-04-28T12:40:38.4859+02:00</dc:date>
+      <pubDate>Sun, 28 Apr 2019 19:38:53 +0200</pubDate>
+      <dc:date>2019-04-28T19:38:53.322383+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Turu-uuringute AS for ERR, 3–9 January 2019 – Voting Intentions</title>
@@ -129,6 +139,6 @@
       <pubDate>Wed, 16 Jan 2019 20:39:42 +0100</pubDate>
       <dc:date>2019-01-16T20:39:42.221237+01:00</dc:date>
     </item>
-    <dc:date>2019-04-28T14:35:17.799232+02:00</dc:date>
+    <dc:date>2019-04-28T19:38:53.322383+02:00</dc:date>
   </channel>
 </rss>
