@@ -23,7 +23,7 @@ Last result: **13.9%** (General Election of 25 May 2014)
 | [5–18 March 2019](2019-03-18-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 11.0% | 9.8–12.3% | 9.4–12.7% | 9.2–13.0% | 8.6–13.7% |
 | [11–15 March 2019](2019-03-15-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 11.2% | 10.0–12.6% | 9.7–13.0% | 9.4–13.3% | 8.9–14.0% |
 | [12–13 March 2019](2019-03-13-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 7.3% | 6.2–8.7% | 5.9–9.1% | 5.7–9.4% | 5.2–10.1% |
-| [5–11 March 2019](2019-03-11-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 11.4% | N/A | N/A | N/A | N/A |
+| [5–11 March 2019](2019-03-11-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 11.4% | 10.2–12.8% | 9.9–13.2% | 9.6–13.5% | 9.0–14.2% |
 | [24 February–1 March 2019](2019-03-01-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 12.3% | N/A | N/A | N/A | N/A |
 | [26–28 February 2019](2019-02-28-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 10.1% | N/A | N/A | N/A | N/A |
 | [18–24 February 2019](2019-02-24-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 9.3% | N/A | N/A | N/A | N/A |
@@ -107,7 +107,7 @@ Last result: **1** seats (General Election of 25 May 2014)
 | [5–18 March 2019](2019-03-18-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [11–15 March 2019](2019-03-15-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [12–13 March 2019](2019-03-13-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 0 | 0 | 0 | 0 | 0–1 |
-| [5–11 March 2019](2019-03-11-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
+| [5–11 March 2019](2019-03-11-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [24 February–1 March 2019](2019-03-01-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
 | [26–28 February 2019](2019-02-28-KantarEmor.html) | Kantar Emor <br> BNS and Postimees |  |  |  |  |  |
 | [18–24 February 2019](2019-02-24-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
