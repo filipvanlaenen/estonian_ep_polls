@@ -10,7 +10,7 @@ Last result: **24.3%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 27.7% | 22.7–35.2% | 22.0–36.1% | 21.5–36.8% | 20.6–37.9% |
+| N/A | [Poll Average](average.html) | 27.7% | 22.7–34.0% | 22.0–34.9% | 21.5–35.6% | 20.6–36.7% |
 | [22–29 April 2019](2019-04-29-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 33.6% | 31.7–35.6% | 31.2–36.1% | 30.7–36.6% | 29.9–37.5% |
 | [15–22 April 2019](2019-04-22-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 32.3% | 30.4–34.2% | 29.9–34.8% | 29.5–35.3% | 28.6–36.2% |
 | [12–17 April 2019](2019-04-17-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 22.0% | 20.4–23.7% | 19.9–24.2% | 19.5–24.7% | 18.8–25.5% |
@@ -85,16 +85,15 @@ The following table shows the probability mass function per percentage block of 
 | 27.5–28.5% | 3% | 50% | Median |
 | 28.5–29.5% | 5% | 47% |  |
 | 29.5–30.5% | 7% | 43% |  |
-| 30.5–31.5% | 6% | 36% |  |
-| 31.5–32.5% | 5% | 30% |  |
-| 32.5–33.5% | 5% | 25% |  |
-| 33.5–34.5% | 6% | 20% |  |
-| 34.5–35.5% | 6% | 14% |  |
-| 35.5–36.5% | 5% | 8% |  |
-| 36.5–37.5% | 2% | 3% |  |
-| 37.5–38.5% | 0.7% | 0.9% |  |
-| 38.5–39.5% | 0.2% | 0.2% |  |
-| 39.5–40.5% | 0% | 0% |  |
+| 30.5–31.5% | 8% | 36% |  |
+| 31.5–32.5% | 7% | 28% |  |
+| 32.5–33.5% | 7% | 21% |  |
+| 33.5–34.5% | 7% | 13% |  |
+| 34.5–35.5% | 4% | 7% |  |
+| 35.5–36.5% | 2% | 3% |  |
+| 36.5–37.5% | 0.5% | 0.7% |  |
+| 37.5–38.5% | 0.1% | 0.1% |  |
+| 38.5–39.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -173,7 +172,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0.3% | 100% |  |
 | 2 | 56% | 99.7% | Last Result, Median |
 | 3 | 43% | 44% |  |
-| 4 | 0.2% | 0.2% | Majority |
+| 4 | 0.4% | 0.4% | Majority |
 | 5 | 0% | 0% |  |
 
 

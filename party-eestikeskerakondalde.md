@@ -10,7 +10,7 @@ Last result: **22.4%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20.9% | 17.6–24.7% | 17.0–25.4% | 16.6–26.0% | 15.8–27.1% |
+| N/A | [Poll Average](average.html) | 20.5% | 17.3–24.7% | 16.8–25.4% | 16.4–26.0% | 15.7–27.1% |
 | [22–29 April 2019](2019-04-29-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 18.5% | 17.0–20.1% | 16.6–20.6% | 16.2–21.0% | 15.5–21.8% |
 | [15–22 April 2019](2019-04-22-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 20.3% | 18.7–22.0% | 18.3–22.5% | 17.9–22.9% | 17.2–23.7% |
 | [12–17 April 2019](2019-04-17-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 20.0% | 18.4–21.7% | 18.0–22.2% | 17.6–22.6% | 16.9–23.4% |
@@ -74,14 +74,14 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 13.5–14.5% | 0% | 100% |  |
-| 14.5–15.5% | 0.2% | 100% |  |
-| 15.5–16.5% | 2% | 99.8% |  |
-| 16.5–17.5% | 7% | 98% |  |
-| 17.5–18.5% | 13% | 91% |  |
-| 18.5–19.5% | 13% | 78% |  |
-| 19.5–20.5% | 11% | 64% |  |
-| 20.5–21.5% | 10% | 54% | Median |
-| 21.5–22.5% | 11% | 44% | Last Result |
+| 14.5–15.5% | 0.4% | 100% |  |
+| 15.5–16.5% | 3% | 99.6% |  |
+| 16.5–17.5% | 10% | 97% |  |
+| 17.5–18.5% | 16% | 87% |  |
+| 18.5–19.5% | 13% | 70% |  |
+| 19.5–20.5% | 7% | 57% | Median |
+| 20.5–21.5% | 7% | 50% |  |
+| 21.5–22.5% | 10% | 42% | Last Result |
 | 22.5–23.5% | 11% | 32% |  |
 | 23.5–24.5% | 10% | 21% |  |
 | 24.5–25.5% | 7% | 11% |  |
@@ -164,8 +164,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 47% | 100% | Last Result |
-| 2 | 53% | 53% | Median |
+| 1 | 48% | 100% | Last Result |
+| 2 | 52% | 52% | Median |
 | 3 | 0.1% | 0.1% |  |
 | 4 | 0% | 0% | Majority |
 
