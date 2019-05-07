@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/estonian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 05 May 2019 00:08:47 +0200</pubDate>
+    <pubDate>Mon, 06 May 2019 22:01:49 +0200</pubDate>
     <item>
       <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 22–29 April 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/estonian_ep_polls/2019-04-29-Norstat.html#seats</link>
@@ -40,14 +40,34 @@
       <dc:date>2019-05-03T16:17:07.294956+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 15–22 April 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/estonian_ep_polls/2019-04-22-Norstat.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Eesti Reformierakond (ALDE): 2–3 seats&lt;/li&gt;&lt;li&gt;Eesti Keskerakond (ALDE): 1–2 seats&lt;/li&gt;&lt;li&gt;Sotsiaaldemokraatlik Erakond (S&amp;amp;D): 0–1 seats&lt;/li&gt;&lt;li&gt;Erakond Isamaa (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Eesti Vabaerakond (*): 0 seats&lt;/li&gt;&lt;li&gt;Eesti Konservatiivne Rahvaerakond (EAPN): 1–2 seats&lt;/li&gt;&lt;li&gt;Erakond Eestimaa Rohelised (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Eesti 200 (ALDE): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2019-04-22-Norstat-seats.png"
+        length="210608"
+        type="image/png"/>
+      <pubDate>Mon, 06 May 2019 22:01:49 +0200</pubDate>
+      <dc:date>2019-05-06T22:01:49.531489+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 15–22 April 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/estonian_ep_polls/2019-04-22-Norstat.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2019-04-22-Norstat-coalitions-seats.png"
+        length="135856"
+        type="image/png"/>
+      <pubDate>Mon, 06 May 2019 22:01:49 +0200</pubDate>
+      <dc:date>2019-05-06T22:01:49.531489+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 15–22 April 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/estonian_ep_polls/2019-04-22-Norstat.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Eesti Reformierakond (ALDE): 29.5–35.3%&lt;/li&gt;&lt;li&gt;Eesti Keskerakond (ALDE): 17.9–22.9%&lt;/li&gt;&lt;li&gt;Sotsiaaldemokraatlik Erakond (S&amp;amp;D): 6.9–10.4%&lt;/li&gt;&lt;li&gt;Erakond Isamaa (EPP): 7.7–11.3%&lt;/li&gt;&lt;li&gt;Eesti Vabaerakond (*): 0.3–1.4%&lt;/li&gt;&lt;li&gt;Eesti Konservatiivne Rahvaerakond (EAPN): 17.9–22.9%&lt;/li&gt;&lt;li&gt;Erakond Eestimaa Rohelised (Greens/EFA): 1.8–3.8%&lt;/li&gt;&lt;li&gt;Eesti 200 (ALDE): 4.2–7.0%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2019-04-22-Norstat.png"
         length="238641"
         type="image/png"/>
-      <pubDate>Sun, 05 May 2019 00:08:47 +0200</pubDate>
-      <dc:date>2019-05-05T00:08:47.306258+02:00</dc:date>
+      <pubDate>Mon, 06 May 2019 22:01:49 +0200</pubDate>
+      <dc:date>2019-05-06T22:01:49.531489+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 12–17 April 2019 – Seat Projections for the Parties</title>
@@ -349,6 +369,6 @@
       <pubDate>Wed, 16 Jan 2019 20:39:42 +0100</pubDate>
       <dc:date>2019-01-16T20:39:42.221237+01:00</dc:date>
     </item>
-    <dc:date>2019-05-05T00:08:47.306258+02:00</dc:date>
+    <dc:date>2019-05-06T22:01:49.531489+02:00</dc:date>
   </channel>
 </rss>
