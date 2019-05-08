@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/estonian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 06 May 2019 22:01:49 +0200</pubDate>
+    <pubDate>Wed, 08 May 2019 19:54:48 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 29 April–7 May 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/estonian_ep_polls/2019-05-07-Norstat.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Eesti Reformierakond (ALDE): 32.6–38.5%&lt;/li&gt;&lt;li&gt;Eesti Keskerakond (ALDE): 17.5–22.5%&lt;/li&gt;&lt;li&gt;Sotsiaaldemokraatlik Erakond (S&amp;amp;D): 9.0–12.9%&lt;/li&gt;&lt;li&gt;Erakond Isamaa (EPP): 6.7–10.2%&lt;/li&gt;&lt;li&gt;Eesti Vabaerakond (*): 0.2–1.2%&lt;/li&gt;&lt;li&gt;Eesti Konservatiivne Rahvaerakond (EAPN): 12.9–17.4%&lt;/li&gt;&lt;li&gt;Erakond Eestimaa Rohelised (Greens/EFA): 1.7–3.7%&lt;/li&gt;&lt;li&gt;Eesti 200 (ALDE): 4.7–7.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2019-05-07-Norstat.png"
+        length="230383"
+        type="image/png"/>
+      <pubDate>Wed, 08 May 2019 19:38:22 +0200</pubDate>
+      <dc:date>2019-05-08T19:38:22.518524+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 29 April–2 May 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/estonian_ep_polls/2019-05-02-Norstat.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Eesti Reformierakond (ALDE): 20.1–25.3%&lt;/li&gt;&lt;li&gt;Eesti Keskerakond (ALDE): 16.6–21.4%&lt;/li&gt;&lt;li&gt;Sotsiaaldemokraatlik Erakond (S&amp;amp;D): 18.9–23.9%&lt;/li&gt;&lt;li&gt;Erakond Isamaa (EPP): 8.3–12.0%&lt;/li&gt;&lt;li&gt;Eesti Vabaerakond (*): 0.1–0.9%&lt;/li&gt;&lt;li&gt;Eesti Konservatiivne Rahvaerakond (EAPN): 9.4–13.3%&lt;/li&gt;&lt;li&gt;Erakond Eestimaa Rohelised (Greens/EFA): 2.4–4.6%&lt;/li&gt;&lt;li&gt;Eesti 200 (ALDE): 2.9–5.3%&lt;/li&gt;&lt;li&gt;Raimond Kaljulaid (ALDE): 4.2–7.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2019-05-02-Norstat.png"
+        length="273933"
+        type="image/png"/>
+      <pubDate>Wed, 08 May 2019 19:54:48 +0200</pubDate>
+      <dc:date>2019-05-08T19:54:48.366843+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 22–29 April 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/estonian_ep_polls/2019-04-29-Norstat.html#seats</link>
@@ -369,6 +389,6 @@
       <pubDate>Wed, 16 Jan 2019 20:39:42 +0100</pubDate>
       <dc:date>2019-01-16T20:39:42.221237+01:00</dc:date>
     </item>
-    <dc:date>2019-05-06T22:01:49.531489+02:00</dc:date>
+    <dc:date>2019-05-08T19:54:48.366843+02:00</dc:date>
   </channel>
 </rss>
