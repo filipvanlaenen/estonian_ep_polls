@@ -10,11 +10,8 @@ Last result: **22.4%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20.5% | 17.3–24.7% | 16.8–25.4% | 16.4–26.0% | 15.7–27.1% |
-| [29 April–7 May 2019](2019-05-07-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 19.9% | 18.4–21.6% | 17.9–22.1% | 17.5–22.5% | 16.8–23.3% |
+| N/A | [Poll Average](average.html) | 21.1% | 17.7–24.7% | 17.1–25.4% | 16.6–26.0% | 15.8–27.1% |
 | [29 April–2 May 2019](2019-05-02-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 18.9% | 17.4–20.6% | 17.0–21.0% | 16.6–21.4% | 15.9–22.3% |
-| [22–29 April 2019](2019-04-29-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 18.5% | 17.0–20.1% | 16.6–20.6% | 16.2–21.0% | 15.5–21.8% |
-| [15–22 April 2019](2019-04-22-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 20.3% | 18.7–22.0% | 18.3–22.5% | 17.9–22.9% | 17.2–23.7% |
 | [12–17 April 2019](2019-04-17-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 20.0% | 18.4–21.7% | 18.0–22.2% | 17.6–22.6% | 16.9–23.4% |
 | [2–15 April 2019](2019-04-15-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 24.2% | 22.5–26.0% | 22.1–26.5% | 21.6–27.0% | 20.9–27.8% |
 | [8–15 April 2019](2019-04-15-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 19.5% | 18.0–21.2% | 17.5–21.7% | 17.2–22.1% | 16.4–22.9% |
@@ -76,15 +73,15 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 13.5–14.5% | 0% | 100% |  |
-| 14.5–15.5% | 0.4% | 100% |  |
-| 15.5–16.5% | 3% | 99.6% |  |
-| 16.5–17.5% | 10% | 97% |  |
-| 17.5–18.5% | 16% | 87% |  |
-| 18.5–19.5% | 13% | 70% |  |
-| 19.5–20.5% | 7% | 57% | Median |
-| 20.5–21.5% | 7% | 50% |  |
-| 21.5–22.5% | 10% | 42% | Last Result |
-| 22.5–23.5% | 11% | 32% |  |
+| 14.5–15.5% | 0.2% | 100% |  |
+| 15.5–16.5% | 2% | 99.8% |  |
+| 16.5–17.5% | 7% | 98% |  |
+| 17.5–18.5% | 11% | 91% |  |
+| 18.5–19.5% | 12% | 80% |  |
+| 19.5–20.5% | 11% | 68% |  |
+| 20.5–21.5% | 12% | 57% | Median |
+| 21.5–22.5% | 12% | 45% | Last Result |
+| 22.5–23.5% | 12% | 33% |  |
 | 23.5–24.5% | 10% | 21% |  |
 | 24.5–25.5% | 7% | 11% |  |
 | 25.5–26.5% | 3% | 4% |  |
@@ -102,10 +99,7 @@ Last result: **1** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [29 April–7 May 2019](2019-05-07-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [29 April–2 May 2019](2019-05-02-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [22–29 April 2019](2019-04-29-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [15–22 April 2019](2019-04-22-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [12–17 April 2019](2019-04-17-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [2–15 April 2019](2019-04-15-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 2 | 2 | 2 | 2 | 2 |
 | [8–15 April 2019](2019-04-15-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
