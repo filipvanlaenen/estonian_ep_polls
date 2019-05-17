@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.5% | 2.9–8.4% | 2.6–8.9% | 2.4–9.3% | 2.1–10.1% |
+| N/A | [Poll Average](average.html) | 5.1% | 2.8–8.6% | 2.5–9.1% | 2.4–9.5% | 2.1–10.2% |
 | [7–9 May 2019](2019-05-09-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 12.0% | 10.9–13.3% | 10.6–13.6% | 10.4–13.9% | 9.9–14.6% |
 | [29 April–2 May 2019](2019-05-02-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 3.9% | 3.2–4.8% | 3.0–5.1% | 2.9–5.3% | 2.6–5.8% |
 | [12–17 April 2019](2019-04-17-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 5.0% | 4.2–6.0% | 4.0–6.3% | 3.8–6.5% | 3.5–7.0% |
@@ -75,16 +75,16 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 4% | 100% |  |
-| 2.5–3.5% | 22% | 96% |  |
-| 3.5–4.5% | 25% | 75% |  |
-| 4.5–5.5% | 18% | 50% | Median |
-| 5.5–6.5% | 6% | 31% |  |
-| 6.5–7.5% | 6% | 25% |  |
-| 7.5–8.5% | 11% | 19% |  |
-| 8.5–9.5% | 7% | 8% |  |
-| 9.5–10.5% | 1.4% | 2% |  |
-| 10.5–11.5% | 0.1% | 0.1% |  |
+| 1.5–2.5% | 5% | 100% |  |
+| 2.5–3.5% | 23% | 95% |  |
+| 3.5–4.5% | 12% | 72% |  |
+| 4.5–5.5% | 18% | 59% | Median |
+| 5.5–6.5% | 8% | 42% |  |
+| 6.5–7.5% | 8% | 33% |  |
+| 7.5–8.5% | 15% | 26% |  |
+| 8.5–9.5% | 9% | 11% |  |
+| 9.5–10.5% | 2% | 2% |  |
+| 10.5–11.5% | 0.2% | 0.2% |  |
 | 11.5–12.5% | 0% | 0% |  |
 
 
@@ -161,8 +161,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.2% | 100% | Last Result, Median |
-| 1 | 0.8% | 0.8% |  |
+| 0 | 98.9% | 100% | Last Result, Median |
+| 1 | 1.1% | 1.1% |  |
 | 2 | 0% | 0% |  |
 
 
