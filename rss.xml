@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/estonian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 20 May 2019 20:38:54 +0200</pubDate>
+    <pubDate>Tue, 21 May 2019 00:36:33 +0200</pubDate>
     <item>
       <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 3–9 May 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/estonian_ep_polls/2019-05-09-Norstat.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2019-05-09-Norstat.png"
         length="249800"
         type="image/png"/>
-      <pubDate>Mon, 20 May 2019 20:38:54 +0200</pubDate>
-      <dc:date>2019-05-20T20:38:54.925177+02:00</dc:date>
+      <pubDate>Tue, 21 May 2019 00:32:55 +0200</pubDate>
+      <dc:date>2019-05-21T00:32:55.902214+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Kantar Emor for BNS and Postimees, 7–9 May 2019 – Voting Intentions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2019-05-09-KantarEmor.png"
         length="241418"
         type="image/png"/>
-      <pubDate>Sun, 19 May 2019 23:17:56 +0200</pubDate>
-      <dc:date>2019-05-19T23:17:56.204726+02:00</dc:date>
+      <pubDate>Tue, 21 May 2019 00:36:33 +0200</pubDate>
+      <dc:date>2019-05-21T00:36:33.956573+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 29 April–2 May 2019 – Seat Projections for the Parties</title>
@@ -359,6 +359,6 @@
       <pubDate>Wed, 16 Jan 2019 20:39:42 +0100</pubDate>
       <dc:date>2019-01-16T20:39:42.221237+01:00</dc:date>
     </item>
-    <dc:date>2019-05-20T20:38:54.925177+02:00</dc:date>
+    <dc:date>2019-05-21T00:36:33.956573+02:00</dc:date>
   </channel>
 </rss>
