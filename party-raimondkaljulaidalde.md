@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10.0% | 9.0–11.2% | 8.7–11.5% | 8.4–11.8% | 8.0–12.4% |
+| N/A | [Poll Average](average.html) | 6.4% | 5.2–7.6% | 4.9–7.9% | 4.6–8.2% | 4.2–8.8% |
 | [2–15 May 2019](2019-05-15-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 0.0% | N/A | N/A | N/A | N/A |
 | [3–9 May 2019](2019-05-09-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 5.7% | 4.9–6.8% | 4.6–7.1% | 4.4–7.3% | 4.1–7.8% |
 | [7–9 May 2019](2019-05-09-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 6.9% | 6.1–7.9% | 5.9–8.2% | 5.7–8.5% | 5.3–9.0% |
@@ -79,17 +79,13 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 0% | 100% |  |
-| 6.5–7.5% | 0.1% | 100% |  |
-| 7.5–8.5% | 3% | 99.9% |  |
-| 8.5–9.5% | 25% | 96% |  |
-| 9.5–10.5% | 43% | 71% | Median |
-| 10.5–11.5% | 23% | 28% |  |
-| 11.5–12.5% | 4% | 5% |  |
-| 12.5–13.5% | 0.3% | 0.3% |  |
-| 13.5–14.5% | 0% | 0% |  |
+| 3.5–4.5% | 2% | 100% |  |
+| 4.5–5.5% | 18% | 98% |  |
+| 5.5–6.5% | 36% | 80% | Median |
+| 6.5–7.5% | 32% | 44% |  |
+| 7.5–8.5% | 10% | 11% |  |
+| 8.5–9.5% | 0.9% | 1.0% |  |
+| 9.5–10.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -100,7 +96,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [2–15 May 2019](2019-05-15-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR |  |  |  |  |  |
 | [3–9 May 2019](2019-05-09-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 0 | 0 | 0 | 0 | 0 |
 | [7–9 May 2019](2019-05-09-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 0 | 0 | 0 | 0 | 0 |
@@ -167,8 +163,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 21% | 100% | Last Result |
-| 1 | 79% | 79% | Median |
+| 0 | 99.9% | 100% | Last Result, Median |
+| 1 | 0.1% | 0.1% |  |
 | 2 | 0% | 0% |  |
 
 

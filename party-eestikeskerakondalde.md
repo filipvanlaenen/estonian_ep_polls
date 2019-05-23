@@ -10,7 +10,7 @@ Last result: **22.4%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20.1% | 17.4–24.9% | 16.9–25.7% | 16.5–26.2% | 15.7–27.2% |
+| N/A | [Poll Average](average.html) | 18.8% | 17.0–20.6% | 16.5–21.0% | 16.1–21.4% | 15.4–22.0% |
 | [2–15 May 2019](2019-05-15-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 20.0% | 18.9–21.2% | 18.6–21.5% | 18.3–21.8% | 17.8–22.3% |
 | [3–9 May 2019](2019-05-09-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 18.5% | 17.0–20.1% | 16.6–20.6% | 16.2–21.0% | 15.5–21.8% |
 | [7–9 May 2019](2019-05-09-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 17.8% | 16.5–19.2% | 16.1–19.6% | 15.8–20.0% | 15.2–20.7% |
@@ -76,21 +76,16 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 13.5–14.5% | 0% | 100% |  |
-| 14.5–15.5% | 0.3% | 100% |  |
-| 15.5–16.5% | 3% | 99.7% |  |
-| 16.5–17.5% | 9% | 97% |  |
-| 17.5–18.5% | 15% | 88% |  |
-| 18.5–19.5% | 16% | 74% |  |
-| 19.5–20.5% | 13% | 58% | Median |
-| 20.5–21.5% | 9% | 45% |  |
-| 21.5–22.5% | 6% | 37% | Last Result |
-| 22.5–23.5% | 7% | 31% |  |
-| 23.5–24.5% | 10% | 23% |  |
-| 24.5–25.5% | 8% | 14% |  |
-| 25.5–26.5% | 4% | 6% |  |
-| 26.5–27.5% | 1.3% | 2% |  |
-| 27.5–28.5% | 0.2% | 0.3% |  |
-| 28.5–29.5% | 0% | 0% |  |
+| 14.5–15.5% | 0.6% | 100% |  |
+| 15.5–16.5% | 5% | 99.4% |  |
+| 16.5–17.5% | 15% | 95% |  |
+| 17.5–18.5% | 23% | 80% |  |
+| 18.5–19.5% | 25% | 57% | Median |
+| 19.5–20.5% | 21% | 32% |  |
+| 20.5–21.5% | 9% | 11% |  |
+| 21.5–22.5% | 2% | 2% | Last Result |
+| 22.5–23.5% | 0.1% | 0.1% |  |
+| 23.5–24.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -168,9 +163,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 54% | 100% | Last Result, Median |
-| 2 | 46% | 46% |  |
-| 3 | 0.1% | 0.1% |  |
-| 4 | 0% | 0% | Majority |
+| 1 | 67% | 100% | Last Result, Median |
+| 2 | 33% | 33% |  |
+| 3 | 0% | 0% |  |
 
 
