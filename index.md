@@ -5,10 +5,10 @@ The table below lists the most recent polls (less than 60 days old) registered a
 | Period     | Polling firm/Commissioner(s) | Ref | Kesk | Isamaa | SDE | EKRE | Rohelised | EVA | E200 | Kaljulaid |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 24.3% <br> 2 | 22.4% <br> 1 | 13.9% <br> 1 | 13.6% <br> 1 | 4.0% <br> 0 | 0.3% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 20–32% <br> 1–3 | 16–26% <br> 1–2 | 8–12% <br> 0–1 | 7–19% <br> 0–1 | 10–18% <br> 1 | 2–4% <br> 0 | 0–2% <br> 0 | 2–10% <br> 0 | 8–12% <br> 0–1 |
-| [12–17 April 2019](2019-04-17-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 20–25% <br> 1–2 | 18–23% <br> 1–2 | 9–13% <br> 0–1 | 15–19% <br> 1 | 12–16% <br> 1 | 2–4% <br> 0 | 0–1% <br> 0 | 4–7% <br> 0 | N/A <br> N/A |
-| [2–15 April 2019](2019-04-15-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 28–33% <br> 2–3 | 22–27% <br> 2 | 7–11% <br> 0–1 | 7–10% <br> 0 | 14–19% <br> 1 | 1–3% <br> 0 | 1–2% <br> 0 | 7–10% <br> 0–1 | N/A <br> N/A |
-| [10–15 April 2019](2019-04-15-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 21–25% <br> 2 | 16–20% <br> 1–2 | 8–11% <br> 0–1 | 14–18% <br> 1 | 9–13% <br> 0–1 | 2–4% <br> 0 | 0–1% <br> 0 | 2–4% <br> 0 | 8–12% <br> 0–1 |
+| N/A | [Poll Average](average.html) | 20–29% <br> 1–3 | 16–21% <br> 1–2 | 7–11% <br> 0–1 | 9–27% <br> 0–2 | 10–18% <br> 1 | 1–4% <br> 0 | N/A <br> N/A | 3–9% <br> 0 | 5–8% <br> 0 |
+| [2–15 May 2019](2019-05-15-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 25–29% <br> 2–3 | 18–22% <br> 1–2 | 9–11% <br> 0–1 | 9–11% <br> 0–1 | 15–19% <br> 1 | N/A <br> N/A | N/A <br> N/A | 7–9% <br> 0 | N/A <br> N/A |
+| [3–9 May 2019](2019-05-09-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 19–24% <br> 1–2 | 16–21% <br> 1–2 | 6–10% <br> 0 | 22–28% <br> 2 | 11–15% <br> 1 | 2–4% <br> 0 | N/A <br> N/A | 3–5% <br> 0 | 4–7% <br> 0 |
+| [7–9 May 2019](2019-05-09-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 25–30% <br> 2–3 | 16–20% <br> 1–2 | 7–10% <br> 0–1 | 16–20% <br> 1–2 | 10–13% <br> 1 | 1–2% <br> 0 | N/A <br> N/A | 6–9% <br> 0 | 6–8% <br> 0 |
 | 25 May 2014 | General Election | 24.3% <br> 2 | 22.4% <br> 1 | 13.9% <br> 1 | 13.6% <br> 1 | 4.0% <br> 0 | 0.3% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
