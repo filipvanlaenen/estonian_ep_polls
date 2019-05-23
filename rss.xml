@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/estonian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Tue, 21 May 2019 02:54:43 +0200</pubDate>
+    <pubDate>Thu, 23 May 2019 05:06:36 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Turu-uuringute AS for ERR, 2–15 May 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/estonian_ep_polls/2019-05-15-Turu-uuringuteAS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Eesti Reformierakond (ALDE): 25.1–29.0%&lt;/li&gt;&lt;li&gt;Eesti Keskerakond (ALDE): 18.3–21.8%&lt;/li&gt;&lt;li&gt;Sotsiaaldemokraatlik Erakond (S&amp;amp;D): 8.8–11.4%&lt;/li&gt;&lt;li&gt;Erakond Isamaa (EPP): 8.8–11.4%&lt;/li&gt;&lt;li&gt;Eesti Konservatiivne Rahvaerakond (EAPN): 15.4–18.7%&lt;/li&gt;&lt;li&gt;Eesti 200 (ALDE): 6.9–9.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2019-05-15-Turu-uuringuteAS.png"
+        length="207517"
+        type="image/png"/>
+      <pubDate>Thu, 23 May 2019 05:06:36 +0200</pubDate>
+      <dc:date>2019-05-23T05:06:36.516486+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 3–9 May 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/estonian_ep_polls/2019-05-09-Norstat.html#seats</link>
@@ -399,6 +409,6 @@
       <pubDate>Wed, 16 Jan 2019 20:39:42 +0100</pubDate>
       <dc:date>2019-01-16T20:39:42.221237+01:00</dc:date>
     </item>
-    <dc:date>2019-05-21T02:54:43.393103+02:00</dc:date>
+    <dc:date>2019-05-23T05:06:36.516486+02:00</dc:date>
   </channel>
 </rss>
