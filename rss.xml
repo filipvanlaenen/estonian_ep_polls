@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/estonian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 25 May 2019 13:58:54 +0200</pubDate>
+    <pubDate>Sat, 25 May 2019 23:48:08 +0200</pubDate>
     <item>
       <title>Opinion Poll by Kantar Emor for BNS and Postimees, 20–23 May 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/estonian_ep_polls/2019-05-23-KantarEmor.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2019-05-23-KantarEmor.png"
         length="239226"
         type="image/png"/>
-      <pubDate>Sat, 25 May 2019 13:58:54 +0200</pubDate>
-      <dc:date>2019-05-25T13:58:54.401347+02:00</dc:date>
+      <pubDate>Sat, 25 May 2019 23:48:08 +0200</pubDate>
+      <dc:date>2019-05-25T23:48:08.963623+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Turu-uuringute AS for ERR, 2–15 May 2019 – Seat Projections for the Parties</title>
@@ -439,6 +439,6 @@
       <pubDate>Wed, 16 Jan 2019 20:39:42 +0100</pubDate>
       <dc:date>2019-01-16T20:39:42.221237+01:00</dc:date>
     </item>
-    <dc:date>2019-05-25T13:58:54.401347+02:00</dc:date>
+    <dc:date>2019-05-25T23:48:08.963623+02:00</dc:date>
   </channel>
 </rss>
