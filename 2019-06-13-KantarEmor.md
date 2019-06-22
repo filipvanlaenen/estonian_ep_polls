@@ -86,7 +86,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Last Result, Median |
+| 0 | 99.9% | 100% | Last Result, Median |
+| 1 | 0.1% | 0.1% |  |
+| 2 | 0% | 0% |  |
 
 ### Erakond Isamaa (EPP)
 
@@ -169,6 +171,6 @@
 ### Calculations
 
 + **Sample size:** 1129
-+ **Simulations done:** 1,024
-+ **Error estimate:** 4.30%
++ **Simulations done:** 131,072
++ **Error estimate:** 2.44%
 
