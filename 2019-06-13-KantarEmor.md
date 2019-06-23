@@ -45,7 +45,7 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0% | 100% | Last Result |
-| 3 | 100% | 100% | Median |
+| 3 | 99.9% | 100% | Median |
 
 ### Eesti Konservatiivne Rahvaerakond (EAPN)
 
@@ -76,7 +76,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 100% | 100% | Last Result, Median |
+| 0 | 0.1% | 100% |  |
+| 1 | 99.9% | 99.9% | Last Result, Median |
+| 2 | 0% | 0% |  |
 
 ### Eesti 200 (ALDE)
 
@@ -140,7 +142,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 100% | 100% | Last Result, Median |
+| 0 | 0.1% | 100% |  |
+| 1 | 99.9% | 99.9% | Last Result, Median |
+| 2 | 0% | 0% |  |
 
 ### Erakond Eestimaa Rohelised (Greens/EFA)
 
@@ -171,6 +175,6 @@
 ### Calculations
 
 + **Sample size:** 1129
-+ **Simulations done:** 131,072
-+ **Error estimate:** 2.44%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 1.52%
 

@@ -31,7 +31,7 @@
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | <a href="#eesti-reformierakond-(alde)">Eesti Reformierakond (ALDE)</a> | 2 | 3 | 2–3 |2–3 |2–3 |2–3 |
 | <a href="#eesti-keskerakond-(alde)">Eesti Keskerakond (ALDE)</a> | 1 | 1 | 1–2 |1–2 |1–2 |1–2 |
-| <a href="#eesti-konservatiivne-rahvaerakond-(eapn)">Eesti Konservatiivne Rahvaerakond (EAPN)</a> | 0 | 1 | 1 |1 |1 |1–2 |
+| <a href="#eesti-konservatiivne-rahvaerakond-(eapn)">Eesti Konservatiivne Rahvaerakond (EAPN)</a> | 0 | 1 | 1 |1 |1–2 |1–2 |
 | <a href="#sotsiaaldemokraatlik-erakond-(s&d)">Sotsiaaldemokraatlik Erakond (S&D)</a> | 1 | 1 | 0–1 |0–1 |0–1 |0–1 |
 | <a href="#erakond-isamaa-(epp)">Erakond Isamaa (EPP)</a> | 1 | 0 | 0–1 |0–1 |0–1 |0–1 |
 | <a href="#eesti-200-(alde)">Eesti 200 (ALDE)</a> | 0 | 0 | 0 |0 |0 |0 |
@@ -46,8 +46,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 35% | 100% | Last Result |
-| 3 | 65% | 65% | Median |
+| 2 | 18% | 100% | Last Result |
+| 3 | 82% | 82% | Median |
 | 4 | 0% | 0% | Majority |
 
 ### Eesti Keskerakond (ALDE)
@@ -58,8 +58,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 73% | 100% | Last Result, Median |
-| 2 | 27% | 27% |  |
+| 1 | 82% | 100% | Last Result, Median |
+| 2 | 18% | 18% |  |
 | 3 | 0% | 0% |  |
 
 ### Eesti Konservatiivne Rahvaerakond (EAPN)
@@ -71,8 +71,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 98% | 100% | Median |
-| 2 | 2% | 2% |  |
+| 1 | 96% | 100% | Median |
+| 2 | 4% | 4% |  |
 | 3 | 0% | 0% |  |
 
 ### Sotsiaaldemokraatlik Erakond (S&D)
@@ -83,8 +83,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 10% | 100% |  |
-| 1 | 90% | 90% | Last Result, Median |
+| 0 | 14% | 100% |  |
+| 1 | 86% | 86% | Last Result, Median |
 | 2 | 0% | 0% |  |
 
 ### Erakond Isamaa (EPP)
@@ -95,8 +95,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 84% | 100% | Median |
-| 1 | 16% | 16% | Last Result |
+| 0 | 89% | 100% | Median |
+| 1 | 11% | 11% | Last Result |
 | 2 | 0% | 0% |  |
 
 ### Eesti 200 (ALDE)
@@ -138,7 +138,7 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Eesti Konservatiivne Rahvaerakond (EAPN) | 0 | 1 | 0% | 1 | 1 | 1 | 1–2 |
+| Eesti Konservatiivne Rahvaerakond (EAPN) | 0 | 1 | 0% | 1 | 1 | 1–2 | 1–2 |
 | Erakond Isamaa (EPP) | 1 | 0 | 0% | 0–1 | 0–1 | 0–1 | 0–1 |
 | Sotsiaaldemokraatlik Erakond (S&D) | 1 | 1 | 0% | 0–1 | 0–1 | 0–1 | 0–1 |
 | Eesti Vabaerakond (*) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
@@ -151,8 +151,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 98% | 100% | Median |
-| 2 | 2% | 2% |  |
+| 1 | 96% | 100% | Median |
+| 2 | 4% | 4% |  |
 | 3 | 0% | 0% |  |
 
 ### Erakond Isamaa (EPP)
@@ -161,8 +161,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 84% | 100% | Median |
-| 1 | 16% | 16% | Last Result |
+| 0 | 89% | 100% | Median |
+| 1 | 11% | 11% | Last Result |
 | 2 | 0% | 0% |  |
 
 ### Sotsiaaldemokraatlik Erakond (S&D)
@@ -171,8 +171,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 10% | 100% |  |
-| 1 | 90% | 90% | Last Result, Median |
+| 0 | 14% | 100% |  |
+| 1 | 86% | 86% | Last Result, Median |
 | 2 | 0% | 0% |  |
 
 ### Eesti Vabaerakond (*)
@@ -203,6 +203,6 @@
 ### Calculations
 
 + **Sample size:** 1000
-+ **Simulations done:** 131,072
-+ **Error estimate:** 2.30%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 2.47%
 
