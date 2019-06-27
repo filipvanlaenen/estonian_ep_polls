@@ -10,11 +10,11 @@
 
 | Party | Last Result | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Eesti Reformierakond (ALDE) | 24.3% | 36.2% | 34.4–38.1% |33.9–38.6% |33.5–39.1% |32.6–40.0% |
-| Eesti Konservatiivne Rahvaerakond (EAPN) | 4.0% | 16.8% | 15.5–18.3% |15.1–18.8% |14.8–19.1% |14.1–19.9% |
-| Eesti Keskerakond (ALDE) | 22.4% | 14.8% | 13.5–16.2% |13.2–16.6% |12.8–17.0% |12.3–17.7% |
+| Eesti Reformierakond (RE) | 24.3% | 36.2% | 34.4–38.1% |33.9–38.6% |33.5–39.1% |32.6–40.0% |
+| Eesti Konservatiivne Rahvaerakond (ID) | 4.0% | 16.8% | 15.5–18.3% |15.1–18.8% |14.8–19.1% |14.1–19.9% |
+| Eesti Keskerakond (RE) | 22.4% | 14.8% | 13.5–16.2% |13.2–16.6% |12.8–17.0% |12.3–17.7% |
 | Sotsiaaldemokraatlik Erakond (S&D) | 13.6% | 12.8% | 11.6–14.2% |11.3–14.6% |11.0–14.9% |10.5–15.6% |
-| Eesti 200 (ALDE) | 0.0% | 8.3% | 7.3–9.5% |7.1–9.8% |6.8–10.1% |6.4–10.7% |
+| Eesti 200 (RE) | 0.0% | 8.3% | 7.3–9.5% |7.1–9.8% |6.8–10.1% |6.4–10.7% |
 | Erakond Isamaa (EPP) | 13.9% | 6.9% | 6.0–8.0% |5.8–8.3% |5.6–8.6% |5.2–9.1% |
 | Erakond Eestimaa Rohelised (Greens/EFA) | 0.3% | 3.0% | 2.5–3.8% |2.3–4.0% |2.2–4.2% |1.9–4.6% |
 
@@ -28,41 +28,41 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#eesti-reformierakond-(alde)">Eesti Reformierakond (ALDE)</a> | 2 | 3 | 3 |3 |3 |3 |
-| <a href="#eesti-konservatiivne-rahvaerakond-(eapn)">Eesti Konservatiivne Rahvaerakond (EAPN)</a> | 0 | 1 | 1 |1 |1 |1 |
-| <a href="#eesti-keskerakond-(alde)">Eesti Keskerakond (ALDE)</a> | 1 | 1 | 1 |1 |1 |1 |
+| <a href="#eesti-reformierakond-(re)">Eesti Reformierakond (RE)</a> | 2 | 3 | 3 |3 |3 |3 |
+| <a href="#eesti-konservatiivne-rahvaerakond-(id)">Eesti Konservatiivne Rahvaerakond (ID)</a> | 0 | 1 | 1 |1 |1 |1 |
+| <a href="#eesti-keskerakond-(re)">Eesti Keskerakond (RE)</a> | 1 | 1 | 1 |1 |1 |1 |
 | <a href="#sotsiaaldemokraatlik-erakond-(s&d)">Sotsiaaldemokraatlik Erakond (S&D)</a> | 1 | 1 | 1 |1 |1 |1 |
-| <a href="#eesti-200-(alde)">Eesti 200 (ALDE)</a> | 0 | 0 | 0 |0 |0 |0 |
+| <a href="#eesti-200-(re)">Eesti 200 (RE)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#erakond-isamaa-(epp)">Erakond Isamaa (EPP)</a> | 1 | 0 | 0 |0 |0 |0 |
 | <a href="#erakond-eestimaa-rohelised-(greens/efa)">Erakond Eestimaa Rohelised (Greens/EFA)</a> | 0 | 0 | 0 |0 |0 |0 |
 
-### Eesti Reformierakond (ALDE)
+### Eesti Reformierakond (RE)
 
-*For a full overview of the results for this party, see the [Eesti Reformierakond (ALDE)](party-eestireformierakondalde.html) page.*
+*For a full overview of the results for this party, see the [Eesti Reformierakond (RE)](party-eestireformierakondre.html) page.*
 
-![Graph with seats probability mass function not yet produced](2019-06-13-KantarEmor-seats-pmf-eestireformierakondalde.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-06-13-KantarEmor-seats-pmf-eestireformierakondre.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0% | 100% | Last Result |
 | 3 | 99.9% | 100% | Median |
 
-### Eesti Konservatiivne Rahvaerakond (EAPN)
+### Eesti Konservatiivne Rahvaerakond (ID)
 
-*For a full overview of the results for this party, see the [Eesti Konservatiivne Rahvaerakond (EAPN)](party-eestikonservatiivnerahvaerakondeapn.html) page.*
+*For a full overview of the results for this party, see the [Eesti Konservatiivne Rahvaerakond (ID)](party-eestikonservatiivnerahvaerakondid.html) page.*
 
-![Graph with seats probability mass function not yet produced](2019-06-13-KantarEmor-seats-pmf-eestikonservatiivnerahvaerakondeapn.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-06-13-KantarEmor-seats-pmf-eestikonservatiivnerahvaerakondid.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 100% | 100% | Median |
 
-### Eesti Keskerakond (ALDE)
+### Eesti Keskerakond (RE)
 
-*For a full overview of the results for this party, see the [Eesti Keskerakond (ALDE)](party-eestikeskerakondalde.html) page.*
+*For a full overview of the results for this party, see the [Eesti Keskerakond (RE)](party-eestikeskerakondre.html) page.*
 
-![Graph with seats probability mass function not yet produced](2019-06-13-KantarEmor-seats-pmf-eestikeskerakondalde.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-06-13-KantarEmor-seats-pmf-eestikeskerakondre.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -80,11 +80,11 @@
 | 1 | 99.9% | 99.9% | Last Result, Median |
 | 2 | 0% | 0% |  |
 
-### Eesti 200 (ALDE)
+### Eesti 200 (RE)
 
-*For a full overview of the results for this party, see the [Eesti 200 (ALDE)](party-eesti200alde.html) page.*
+*For a full overview of the results for this party, see the [Eesti 200 (RE)](party-eesti200re.html) page.*
 
-![Graph with seats probability mass function not yet produced](2019-06-13-KantarEmor-seats-pmf-eesti200alde.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-06-13-KantarEmor-seats-pmf-eesti200re.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -122,12 +122,12 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Eesti Konservatiivne Rahvaerakond (EAPN) | 0 | 1 | 0% | 1 | 1 | 1 | 1 |
+| Eesti Konservatiivne Rahvaerakond (ID) | 0 | 1 | 0% | 1 | 1 | 1 | 1 |
 | Sotsiaaldemokraatlik Erakond (S&D) | 1 | 1 | 0% | 1 | 1 | 1 | 1 |
 | Erakond Eestimaa Rohelised (Greens/EFA) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 | Erakond Isamaa (EPP) | 1 | 0 | 0% | 0 | 0 | 0 | 0 |
 
-### Eesti Konservatiivne Rahvaerakond (EAPN)
+### Eesti Konservatiivne Rahvaerakond (ID)
 
 ![Graph with seats probability mass function not yet produced](2019-06-13-KantarEmor-coalitions-seats-pmf-ekre.png "Seats Probability Mass Function")
 
