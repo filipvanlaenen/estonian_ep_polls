@@ -16,15 +16,15 @@ Only polls for which at least the sample size has been published are included in
 **Legend:**
 + **Top half of each row:** Voting intentions (95% confidence interval)
 + **Bottom half of each row:** Seat projections for the European Parliament (95% confidence interval)
-+ **Ref:** Eesti Reformierakond (ALDE)
-+ **Kesk:** Eesti Keskerakond (ALDE)
++ **Ref:** Eesti Reformierakond (RE)
++ **Kesk:** Eesti Keskerakond (RE)
 + **Isamaa:** Erakond Isamaa (EPP)
 + **SDE:** Sotsiaaldemokraatlik Erakond (S&D)
-+ **EKRE:** Eesti Konservatiivne Rahvaerakond (EAPN)
++ **EKRE:** Eesti Konservatiivne Rahvaerakond (ID)
 + **Rohelised:** Erakond Eestimaa Rohelised (Greens/EFA)
 + **EVA:** Eesti Vabaerakond (*)
-+ **E200:** Eesti 200 (ALDE)
-+ **Kaljulaid:** Raimond Kaljulaid (ALDE)
++ **E200:** Eesti 200 (RE)
++ **Kaljulaid:** Raimond Kaljulaid (RE)
 + **N/A (single party):** Party not included the published results
 + **N/A (entire row):** Calculation for this opinion poll not started yet
 
