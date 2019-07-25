@@ -5,6 +5,9 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | Ref | Kesk | Isamaa | SDE | EKRE | Rohelised | EVA | E200 | Kaljulaid |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 24.3% <br> 2 | 22.4% <br> 1 | 13.9% <br> 1 | 13.6% <br> 1 | 4.0% <br> 0 | 0.3% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [8–15 July 2019](2019-07-15-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 35–41% <br> 3–4 | 14–19% <br> 1 | 9–13% <br> 0–1 | 7–11% <br> 0–1 | 14–18% <br> 1 | 2–4% <br> 0 | 1–2% <br> 0 | 3–5% <br> 0 | N/A <br> N/A |
+| [2–8 July 2019](2019-07-08-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 29–35% <br> 2–3 | 20–25% <br> 1–2 | 7–10% <br> 0 | 9–13% <br> 0–1 | 16–21% <br> 1 | 2–4% <br> 0 | 0–2% <br> 0 | 3–6% <br> 0 | N/A <br> N/A |
+| [26 June–1 July 2019](2019-07-01-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 31–37% <br> 2–3 | 18–23% <br> 1–2 | 8–11% <br> 0–1 | 8–12% <br> 0–1 | 15–20% <br> 1–2 | 1–3% <br> 0 | 0–1% <br> 0 | 4–7% <br> 0 | N/A <br> N/A |
 | [11–19 June 2019](2019-06-19-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 32–37% <br> 2–3 | 16–21% <br> 1 | 4–7% <br> 0 | 11–15% <br> 0–1 | 12–16% <br> 1 | 1–3% <br> 0 | 0–1% <br> 0 | 11–15% <br> 0–1 | N/A <br> N/A |
 | [6–13 June 2019](2019-06-13-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 33–39% <br> 3 | 13–17% <br> 1 | 6–9% <br> 0 | 11–15% <br> 1 | 15–19% <br> 1 | 2–4% <br> 0 | N/A <br> N/A | 7–10% <br> 0 | N/A <br> N/A |
 | [4–11 June 2019](2019-06-11-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 28–33% <br> 2–3 | 19–24% <br> 1–2 | 7–11% <br> 0–1 | 8–11% <br> 0–1 | 17–22% <br> 1–2 | 2–4% <br> 0 | 1–2% <br> 0 | 5–7% <br> 0 | N/A <br> N/A |
