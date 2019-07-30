@@ -7,7 +7,7 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | 26 May 2019 | General Election | 24.3% <br> 2 | 22.4% <br> 1 | 13.9% <br> 1 | 13.6% <br> 1 | 4.0% <br> 0 | 0.3% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 | N/A | [Poll Average](average.html) | 31–41% <br> 2–4 | 14–22% <br> 1–2 | 6–11% <br> 0–1 | 6–13% <br> 0–1 | 15–21% <br> 1–2 | 1–4% <br> 0 | 0–2% <br> 0 | 3–9% <br> 0 | N/A <br> N/A |
 | [18–24 July 2019](2019-07-24-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 32–37% <br> 3 | 13–17% <br> 1 | 6–8% <br> 0 | 9–13% <br> 0–1 | 17–22% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 7–9% <br> 0 | N/A <br> N/A |
-| [15–22 July 2019](2019-07-22-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 36–42% <br> 3–4 | 16–21% <br> 1–2 | 6–10% <br> 0 | 6–9% <br> 0 | 14–19% <br> 1–2 | 2–4% <br> 0 | 0–1% <br> 0 | 3–6% <br> 0 | N/A <br> N/A |
+| [15–22 July 2019](2019-07-22-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 36–42% <br> 3–4 | 16–21% <br> 1–2 | 6–10% <br> 0 | 6–9% <br> 0 | 14–19% <br> 1 | 2–4% <br> 0 | 0–1% <br> 0 | 3–6% <br> 0 | N/A <br> N/A |
 | [28 May–10 June 2019](2019-06-10-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 30–36% <br> 2–3 | 17–22% <br> 1–2 | 8–11% <br> 0–1 | 10–14% <br> 0–1 | 16–21% <br> 1–2 | 1–2% <br> 0 | 1–2% <br> 0 | 3–6% <br> 0 | N/A <br> N/A |
 | 26 May 2019 | General Election | 24.3% <br> 2 | 22.4% <br> 1 | 13.9% <br> 1 | 13.6% <br> 1 | 4.0% <br> 0 | 0.3% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
