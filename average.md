@@ -11,7 +11,7 @@ The table below lists the polls on which the average is based. They are the most
 | 26 May 2019 | General Election | 24.3% <br> 2 | 22.4% <br> 1 | 13.9% <br> 1 | 13.6% <br> 1 | 4.0% <br> 0 | 0.3% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 | N/A | Poll Average | 31–41% <br> 2–4 | 14–22% <br> 1–2 | 6–11% <br> 0–1 | 6–13% <br> 0–1 | 15–21% <br> 1–2 | 1–4% <br> 0 | 0–2% <br> 0 | 3–9% <br> 0 | N/A <br> N/A |
 | [18–24 July 2019](2019-07-24-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 32–37% <br> 3 | 13–17% <br> 1 | 6–8% <br> 0 | 9–13% <br> 0–1 | 17–22% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 7–9% <br> 0 | N/A <br> N/A |
-| [15–22 July 2019](2019-07-22-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 36–42% <br> 3–4 | 16–21% <br> 1–2 | 6–10% <br> 0 | 6–9% <br> 0 | 14–19% <br> 1–2 | 2–4% <br> 0 | 0–1% <br> 0 | 3–6% <br> 0 | N/A <br> N/A |
+| [15–22 July 2019](2019-07-22-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 36–42% <br> 3–4 | 16–21% <br> 1–2 | 6–10% <br> 0 | 6–9% <br> 0 | 14–19% <br> 1 | 2–4% <br> 0 | 0–1% <br> 0 | 3–6% <br> 0 | N/A <br> N/A |
 | [28 May–10 June 2019](2019-06-10-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 30–36% <br> 2–3 | 17–22% <br> 1–2 | 8–11% <br> 0–1 | 10–14% <br> 0–1 | 16–21% <br> 1–2 | 1–2% <br> 0 | 1–2% <br> 0 | 3–6% <br> 0 | N/A <br> N/A |
 | 26 May 2019 | General Election | 24.3% <br> 2 | 22.4% <br> 1 | 13.9% <br> 1 | 13.6% <br> 1 | 4.0% <br> 0 | 0.3% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
@@ -238,8 +238,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 6% | 100% | Last Result |
-| 3 | 67% | 94% | Median |
-| 4 | 27% | 27% | Majority |
+| 3 | 69% | 94% | Median |
+| 4 | 25% | 25% | Majority |
 | 5 | 0% | 0% |  |
 
 ### Eesti Keskerakond (RE)
@@ -250,8 +250,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 89% | 100% | Last Result, Median |
-| 2 | 11% | 11% |  |
+| 1 | 87% | 100% | Last Result, Median |
+| 2 | 13% | 13% |  |
 | 3 | 0% | 0% |  |
 
 ### Erakond Isamaa (EPP)
@@ -274,8 +274,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 44% | 100% |  |
-| 1 | 56% | 56% | Last Result, Median |
+| 0 | 43% | 100% |  |
+| 1 | 57% | 57% | Last Result, Median |
 | 2 | 0% | 0% |  |
 
 ### Eesti Konservatiivne Rahvaerakond (ID)
@@ -287,8 +287,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 92% | 100% | Median |
-| 2 | 8% | 8% |  |
+| 1 | 93% | 100% | Median |
+| 2 | 7% | 7% |  |
 | 3 | 0% | 0% |  |
 
 ### Erakond Eestimaa Rohelised (Greens/EFA)
@@ -357,8 +357,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 92% | 100% | Median |
-| 2 | 8% | 8% |  |
+| 1 | 93% | 100% | Median |
+| 2 | 7% | 7% |  |
 | 3 | 0% | 0% |  |
 
 ### Erakond Isamaa (EPP)
@@ -377,8 +377,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 44% | 100% |  |
-| 1 | 56% | 56% | Last Result, Median |
+| 0 | 43% | 100% |  |
+| 1 | 57% | 57% | Last Result, Median |
 | 2 | 0% | 0% |  |
 
 ### Eesti Vabaerakond (*)
@@ -401,6 +401,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 3
-+ **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 1,310,720
-+ **Error estimate:** 2.67%
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 3,145,728
++ **Error estimate:** 2.47%
