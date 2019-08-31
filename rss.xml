@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/estonian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 31 Aug 2019 16:24:27 +0200</pubDate>
+    <pubDate>Sat, 31 Aug 2019 17:00:15 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 21–26 August 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/estonian_ep_polls/2019-08-26-Norstat.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Eesti Reformierakond (RE): 3 seats&lt;/li&gt;&lt;li&gt;Eesti Keskerakond (RE): 2 seats&lt;/li&gt;&lt;li&gt;Sotsiaaldemokraatlik Erakond (S&amp;amp;D): 0–1 seats&lt;/li&gt;&lt;li&gt;Erakond Isamaa (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Eesti Vabaerakond (*): 0 seats&lt;/li&gt;&lt;li&gt;Eesti Konservatiivne Rahvaerakond (ID): 1 seats&lt;/li&gt;&lt;li&gt;Erakond Eestimaa Rohelised (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Eesti 200 (RE): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2019-08-26-Norstat-seats.png"
+        length="125541"
+        type="image/png"/>
+      <pubDate>Sat, 31 Aug 2019 16:36:39 +0200</pubDate>
+      <dc:date>2019-08-31T16:36:39.244072+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 21–26 August 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/estonian_ep_polls/2019-08-26-Norstat.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2019-08-26-Norstat-coalitions-seats.png"
+        length="119964"
+        type="image/png"/>
+      <pubDate>Sat, 31 Aug 2019 16:36:39 +0200</pubDate>
+      <dc:date>2019-08-31T16:36:39.244072+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 21–26 August 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/estonian_ep_polls/2019-08-26-Norstat.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2019-08-26-Norstat.png"
         length="227028"
         type="image/png"/>
-      <pubDate>Sat, 31 Aug 2019 16:24:27 +0200</pubDate>
-      <dc:date>2019-08-31T16:24:27.797398+02:00</dc:date>
+      <pubDate>Sat, 31 Aug 2019 16:36:39 +0200</pubDate>
+      <dc:date>2019-08-31T16:36:39.244072+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Kantar Emor for BNS and Postimees, 15–21 August 2019 – Seat Projections for the Parties</title>
@@ -50,14 +70,34 @@
       <dc:date>2019-08-31T13:47:40.602848+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Turu-uuringute AS for ERR, 9–20 August 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/estonian_ep_polls/2019-08-20-Turu-uuringuteAS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Eesti Reformierakond (RE): 3 seats&lt;/li&gt;&lt;li&gt;Eesti Keskerakond (RE): 2 seats&lt;/li&gt;&lt;li&gt;Sotsiaaldemokraatlik Erakond (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Erakond Isamaa (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Eesti Vabaerakond (*): 0 seats&lt;/li&gt;&lt;li&gt;Eesti Konservatiivne Rahvaerakond (ID): 1 seats&lt;/li&gt;&lt;li&gt;Erakond Eestimaa Rohelised (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Eesti 200 (RE): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2019-08-20-Turu-uuringuteAS-seats.png"
+        length="119161"
+        type="image/png"/>
+      <pubDate>Sat, 31 Aug 2019 17:00:15 +0200</pubDate>
+      <dc:date>2019-08-31T17:00:15.507225+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Turu-uuringute AS for ERR, 9–20 August 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/estonian_ep_polls/2019-08-20-Turu-uuringuteAS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2019-08-20-Turu-uuringuteAS-coalitions-seats.png"
+        length="82561"
+        type="image/png"/>
+      <pubDate>Sat, 31 Aug 2019 17:00:15 +0200</pubDate>
+      <dc:date>2019-08-31T17:00:15.507225+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Turu-uuringute AS for ERR, 9–20 August 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/estonian_ep_polls/2019-08-20-Turu-uuringuteAS.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Eesti Reformierakond (RE): 32.2–38.1%&lt;/li&gt;&lt;li&gt;Eesti Keskerakond (RE): 20.2–25.4%&lt;/li&gt;&lt;li&gt;Sotsiaaldemokraatlik Erakond (S&amp;amp;D): 6.6–10.1%&lt;/li&gt;&lt;li&gt;Erakond Isamaa (EPP): 5.8–9.0%&lt;/li&gt;&lt;li&gt;Eesti Vabaerakond (*): 0.5–1.8%&lt;/li&gt;&lt;li&gt;Eesti Konservatiivne Rahvaerakond (ID): 14.3–18.9%&lt;/li&gt;&lt;li&gt;Erakond Eestimaa Rohelised (Greens/EFA): 2.2–4.4%&lt;/li&gt;&lt;li&gt;Eesti 200 (RE): 4.0–6.8%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2019-08-20-Turu-uuringuteAS.png"
         length="226672"
         type="image/png"/>
-      <pubDate>Thu, 29 Aug 2019 20:39:54 +0200</pubDate>
-      <dc:date>2019-08-29T20:39:54.230113+02:00</dc:date>
+      <pubDate>Sat, 31 Aug 2019 17:00:15 +0200</pubDate>
+      <dc:date>2019-08-31T17:00:15.507225+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 13–19 August 2019 – Seat Projections for the Parties</title>
@@ -479,6 +519,6 @@
       <pubDate>Wed, 12 Jun 2019 17:30:07 +0200</pubDate>
       <dc:date>2019-06-12T17:30:07.009709+02:00</dc:date>
     </item>
-    <dc:date>2019-08-31T16:24:27.797398+02:00</dc:date>
+    <dc:date>2019-08-31T17:00:15.507225+02:00</dc:date>
   </channel>
 </rss>
