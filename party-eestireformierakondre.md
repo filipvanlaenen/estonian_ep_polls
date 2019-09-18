@@ -12,7 +12,7 @@ Last result: **24.3%** (General Election of 26 May 2019)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 34.6% | 32.3–37.2% | 31.7–37.9% | 31.1–38.4% | 30.1–39.6% |
 | [3–9 September 2019](2019-09-09-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 33.9% | 32.0–35.9% | 31.5–36.4% | 31.0–36.9% | 30.1–37.8% |
-| [27 August–2 September 2019](2019-09-02-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 35.9% | N/A | N/A | N/A | N/A |
+| [27 August–2 September 2019](2019-09-02-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 35.9% | 34.0–37.9% | 33.5–38.4% | 33.0–38.9% | 32.1–39.9% |
 | [21–26 August 2019](2019-08-26-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 34.3% | 32.4–36.3% | 31.9–36.8% | 31.4–37.3% | 30.5–38.3% |
 | [15–21 August 2019](2019-08-21-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 36.4% | 34.6–38.3% | 34.1–38.8% | 33.7–39.2% | 32.9–40.1% |
 | [9–20 August 2019](2019-08-20-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 35.1% | 33.2–37.1% | 32.7–37.6% | 32.2–38.1% | 31.3–39.1% |
@@ -68,7 +68,7 @@ Last result: **2** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 3 | 2–3 | 2–3 | 2–3 |
 | [3–9 September 2019](2019-09-09-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 3 | 3 | 3 | 3 | 3 |
-| [27 August–2 September 2019](2019-09-02-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
+| [27 August–2 September 2019](2019-09-02-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 3 | 3 | 3 | 3 | 3 |
 | [21–26 August 2019](2019-08-26-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 3 | 3 | 3 | 3 | 2–3 |
 | [15–21 August 2019](2019-08-21-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 3 | 3 | 3 | 3 | 3 |
 | [9–20 August 2019](2019-08-20-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 3 | 3 | 3 | 3 | 3 |
