@@ -11,6 +11,8 @@ Last result: **13.9%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7.5% | 6.2–9.9% | 6.0–10.4% | 5.7–10.8% | 5.3–11.6% |
+| [10–17 September 2019](2019-09-17-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 7.2% | N/A | N/A | N/A | N/A |
+| [5–16 September 2019](2019-09-16-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 6.3% | N/A | N/A | N/A | N/A |
 | [3–9 September 2019](2019-09-09-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 7.8% | 6.8–9.0% | 6.5–9.3% | 6.3–9.6% | 5.9–10.2% |
 | [27 August–2 September 2019](2019-09-02-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 6.5% | 5.6–7.6% | 5.3–7.9% | 5.1–8.2% | 4.7–8.8% |
 | [21–26 August 2019](2019-08-26-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 6.2% | 5.3–7.3% | 5.1–7.6% | 4.9–7.9% | 4.5–8.4% |
@@ -59,6 +61,8 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–1 | 0–1 |
+| [10–17 September 2019](2019-09-17-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
+| [5–16 September 2019](2019-09-16-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR |  |  |  |  |  |
 | [3–9 September 2019](2019-09-09-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 0 | 0 | 0 | 0 | 0 |
 | [27 August–2 September 2019](2019-09-02-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 0 | 0 | 0 | 0 | 0 |
 | [21–26 August 2019](2019-08-26-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 0 | 0 | 0 | 0 | 0 |
