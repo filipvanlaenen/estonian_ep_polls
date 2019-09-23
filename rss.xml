@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/estonian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 23 Sep 2019 11:21:20 +0200</pubDate>
+    <pubDate>Mon, 23 Sep 2019 16:10:47 +0200</pubDate>
     <item>
       <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 10–17 September 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/estonian_ep_polls/2019-09-17-Norstat.html</link>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2019-09-16-Turu-uuringuteAS.png"
         length="227821"
         type="image/png"/>
-      <pubDate>Mon, 23 Sep 2019 11:21:20 +0200</pubDate>
-      <dc:date>2019-09-23T11:21:20.777537+02:00</dc:date>
+      <pubDate>Mon, 23 Sep 2019 16:10:47 +0200</pubDate>
+      <dc:date>2019-09-23T16:10:47.437092+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 3–9 September 2019 – Voting Intentions</title>
@@ -559,6 +559,6 @@
       <pubDate>Wed, 12 Jun 2019 17:30:07 +0200</pubDate>
       <dc:date>2019-06-12T17:30:07.009709+02:00</dc:date>
     </item>
-    <dc:date>2019-09-23T11:21:20.777537+02:00</dc:date>
+    <dc:date>2019-09-23T16:10:47.437092+02:00</dc:date>
   </channel>
 </rss>
