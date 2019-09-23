@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/estonian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 20 Sep 2019 15:00:23 +0200</pubDate>
+    <pubDate>Mon, 23 Sep 2019 11:21:20 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 10–17 September 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/estonian_ep_polls/2019-09-17-Norstat.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Eesti Reformierakond (RE): 30.8–36.7%&lt;/li&gt;&lt;li&gt;Eesti Keskerakond (RE): 21.6–26.9%&lt;/li&gt;&lt;li&gt;Sotsiaaldemokraatlik Erakond (S&amp;amp;D): 5.0–8.1%&lt;/li&gt;&lt;li&gt;Erakond Isamaa (EPP): 5.8–9.0%&lt;/li&gt;&lt;li&gt;Eesti Vabaerakond (*): 0.0–0.6%&lt;/li&gt;&lt;li&gt;Eesti Konservatiivne Rahvaerakond (ID): 14.9–19.6%&lt;/li&gt;&lt;li&gt;Erakond Eestimaa Rohelised (Greens/EFA): 2.7–5.1%&lt;/li&gt;&lt;li&gt;Eesti 200 (RE): 4.0–6.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2019-09-17-Norstat.png"
+        length="227549"
+        type="image/png"/>
+      <pubDate>Mon, 23 Sep 2019 10:45:11 +0200</pubDate>
+      <dc:date>2019-09-23T10:45:11.452886+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Turu-uuringute AS for ERR, 5–16 September 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/estonian_ep_polls/2019-09-16-Turu-uuringuteAS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Eesti Reformierakond (RE): 30.8–36.5%&lt;/li&gt;&lt;li&gt;Eesti Keskerakond (RE): 19.6–24.6%&lt;/li&gt;&lt;li&gt;Sotsiaaldemokraatlik Erakond (S&amp;amp;D): 7.8–11.4%&lt;/li&gt;&lt;li&gt;Erakond Isamaa (EPP): 5.0–8.0%&lt;/li&gt;&lt;li&gt;Eesti Vabaerakond (*): 0.1–0.9%&lt;/li&gt;&lt;li&gt;Eesti Konservatiivne Rahvaerakond (ID): 17.6–22.5%&lt;/li&gt;&lt;li&gt;Erakond Eestimaa Rohelised (Greens/EFA): 1.4–3.2%&lt;/li&gt;&lt;li&gt;Eesti 200 (RE): 4.1–6.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2019-09-16-Turu-uuringuteAS.png"
+        length="227821"
+        type="image/png"/>
+      <pubDate>Mon, 23 Sep 2019 11:21:20 +0200</pubDate>
+      <dc:date>2019-09-23T11:21:20.777537+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 3–9 September 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/estonian_ep_polls/2019-09-09-Norstat.html</link>
@@ -539,6 +559,6 @@
       <pubDate>Wed, 12 Jun 2019 17:30:07 +0200</pubDate>
       <dc:date>2019-06-12T17:30:07.009709+02:00</dc:date>
     </item>
-    <dc:date>2019-09-20T15:00:23.475789+02:00</dc:date>
+    <dc:date>2019-09-23T11:21:20.777537+02:00</dc:date>
   </channel>
 </rss>
