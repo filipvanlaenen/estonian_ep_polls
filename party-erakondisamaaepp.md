@@ -10,7 +10,7 @@ Last result: **13.9%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.1% | 4.5–7.8% | 4.2–8.2% | 3.9–8.5% | 3.6–9.2% |
+| N/A | [Poll Average](average.html) | 6.2% | 4.5–7.8% | 4.2–8.2% | 3.9–8.5% | 3.6–9.2% |
 | [10–17 September 2019](2019-09-17-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 7.2% | 6.2–8.4% | 6.0–8.7% | 5.8–9.0% | 5.3–9.6% |
 | [5–16 September 2019](2019-09-16-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 6.3% | 5.5–7.4% | 5.2–7.7% | 5.0–8.0% | 4.6–8.6% |
 | [3–9 September 2019](2019-09-09-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 7.8% | 6.8–9.0% | 6.5–9.3% | 6.3–9.6% | 5.9–10.2% |
@@ -41,11 +41,11 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0.5% | 100% |  |
-| 3.5–4.5% | 12% | 99.5% |  |
-| 4.5–5.5% | 23% | 88% |  |
-| 5.5–6.5% | 26% | 65% | Median |
-| 6.5–7.5% | 25% | 39% |  |
-| 7.5–8.5% | 12% | 14% |  |
+| 3.5–4.5% | 11% | 99.5% |  |
+| 4.5–5.5% | 22% | 88% |  |
+| 5.5–6.5% | 25% | 66% | Median |
+| 6.5–7.5% | 27% | 41% |  |
+| 7.5–8.5% | 12% | 15% |  |
 | 8.5–9.5% | 2% | 2% |  |
 | 9.5–10.5% | 0.2% | 0.2% |  |
 | 10.5–11.5% | 0% | 0% |  |
