@@ -5,10 +5,10 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | Ref | Kesk | Isamaa | SDE | EKRE | Rohelised | EVA | E200 | Kaljulaid |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 24.3% <br> 2 | 22.4% <br> 1 | 13.9% <br> 1 | 13.6% <br> 1 | 4.0% <br> 0 | 0.3% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 31–38% <br> 2–3 | 14–26% <br> 1–2 | 4–8% <br> 0 | 5–14% <br> 0–1 | 15–22% <br> 1–2 | 2–5% <br> 0 | 0–2% <br> 0 | 4–8% <br> 0 | N/A <br> N/A |
-| [10–17 September 2019](2019-09-17-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 31–37% <br> 3 | 22–27% <br> 2 | 6–9% <br> 0 | 5–8% <br> 0 | 15–20% <br> 1 | 3–5% <br> 0 | 0–1% <br> 0 | 4–7% <br> 0 | N/A <br> N/A |
+| N/A | [Poll Average](average.html) | 31–36% <br> 2–3 | 20–25% <br> 1–2 | 5–8% <br> 0 | 8–11% <br> 0–1 | 18–22% <br> 1–2 | 1–3% <br> 0 | 0–1% <br> 0 | 4–7% <br> 0 | N/A <br> N/A |
+| [25–30 September 2019](2019-09-30-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [11–19 September 2019](2019-09-19-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [5–16 September 2019](2019-09-16-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 31–36% <br> 2–3 | 20–25% <br> 1–2 | 5–8% <br> 0 | 8–11% <br> 0–1 | 18–22% <br> 1–2 | 1–3% <br> 0 | 0–1% <br> 0 | 4–7% <br> 0 | N/A <br> N/A |
-| [15–21 August 2019](2019-08-21-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 34–39% <br> 3 | 14–18% <br> 1 | 4–6% <br> 0 | 11–15% <br> 1 | 15–20% <br> 1 | 3–5% <br> 0 | 1–2% <br> 0 | 5–8% <br> 0 | N/A <br> N/A |
 | 26 May 2019 | General Election | 24.3% <br> 2 | 22.4% <br> 1 | 13.9% <br> 1 | 13.6% <br> 1 | 4.0% <br> 0 | 0.3% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
