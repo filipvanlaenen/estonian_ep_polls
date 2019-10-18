@@ -48,7 +48,8 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 2% | 100% | Last Result |
 | 3 | 98% | 98% | Median |
-| 4 | 0% | 0% | Majority |
+| 4 | 0.1% | 0.1% | Majority |
+| 5 | 0% | 0% |  |
 
 ### Eesti Konservatiivne Rahvaerakond (ID)
 
@@ -83,8 +84,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 4% | 100% |  |
-| 1 | 96% | 96% | Last Result, Median |
+| 0 | 5% | 100% |  |
+| 1 | 95% | 95% | Last Result, Median |
 | 2 | 0% | 0% |  |
 
 ### Eesti 200 (RE)
@@ -151,8 +152,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 4% | 100% |  |
-| 1 | 96% | 96% | Last Result, Median |
+| 0 | 5% | 100% |  |
+| 1 | 95% | 95% | Last Result, Median |
 | 2 | 0% | 0% |  |
 
 ### Erakond Eestimaa Rohelised (Greens/EFA)
@@ -184,6 +185,6 @@
 ### Calculations
 
 + **Sample size:** 1161
-+ **Simulations done:** 131,072
-+ **Error estimate:** 1.57%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 0.53%
 
