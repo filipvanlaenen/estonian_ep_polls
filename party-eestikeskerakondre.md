@@ -10,7 +10,7 @@ Last result: **22.4%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21.9% | 16.1–25.1% | 15.6–25.8% | 15.1–26.3% | 14.4–27.4% |
+| N/A | [Poll Average](average.html) | 21.3% | 16.1–23.5% | 15.6–24.1% | 15.1–24.5% | 14.4–25.4% |
 | [1–8 October 2019](2019-10-08-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 22.2% | 20.6–24.0% | 20.1–24.4% | 19.7–24.9% | 19.0–25.7% |
 | [25–30 September 2019](2019-09-30-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 24.3% | 22.6–26.1% | 22.1–26.6% | 21.7–27.1% | 21.0–27.9% |
 | [18–23 September 2019](2019-09-23-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 20.7% | 19.1–22.4% | 18.7–22.9% | 18.3–23.3% | 17.6–24.2% |
@@ -49,17 +49,15 @@ The following table shows the probability mass function per percentage block of 
 | 15.5–16.5% | 10% | 95% |  |
 | 16.5–17.5% | 11% | 85% |  |
 | 17.5–18.5% | 6% | 74% |  |
-| 18.5–19.5% | 2% | 68% |  |
-| 19.5–20.5% | 3% | 66% |  |
-| 20.5–21.5% | 8% | 63% |  |
-| 21.5–22.5% | 13% | 55% | Last Result, Median |
-| 22.5–23.5% | 14% | 42% |  |
-| 23.5–24.5% | 13% | 28% |  |
-| 24.5–25.5% | 9% | 15% |  |
-| 25.5–26.5% | 5% | 6% |  |
-| 26.5–27.5% | 1.5% | 2% |  |
-| 27.5–28.5% | 0.3% | 0.3% |  |
-| 28.5–29.5% | 0% | 0% |  |
+| 18.5–19.5% | 3% | 68% |  |
+| 19.5–20.5% | 6% | 66% |  |
+| 20.5–21.5% | 15% | 60% | Median |
+| 21.5–22.5% | 20% | 45% | Last Result |
+| 22.5–23.5% | 15% | 25% |  |
+| 23.5–24.5% | 7% | 10% |  |
+| 24.5–25.5% | 2% | 2% |  |
+| 25.5–26.5% | 0.3% | 0.4% |  |
+| 26.5–27.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -105,8 +103,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 40% | 100% | Last Result |
-| 2 | 60% | 60% | Median |
+| 1 | 42% | 100% | Last Result |
+| 2 | 58% | 58% | Median |
 | 3 | 0% | 0% |  |
 
 
