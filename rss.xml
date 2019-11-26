@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/estonian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 18 Oct 2019 23:04:59 +0200</pubDate>
+    <pubDate>Tue, 26 Nov 2019 20:12:58 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 11–15 November 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/estonian_ep_polls/2019-11-15-Norstat.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Eesti Reformierakond (RE): 32.4–38.3%&lt;/li&gt;&lt;li&gt;Eesti Keskerakond (RE): 23.4–28.8%&lt;/li&gt;&lt;li&gt;Sotsiaaldemokraatlik Erakond (S&amp;amp;D): 7.8–11.5%&lt;/li&gt;&lt;li&gt;Erakond Isamaa (EPP): 5.8–9.0%&lt;/li&gt;&lt;li&gt;Eesti Vabaerakond (*): 0.0–0.6%&lt;/li&gt;&lt;li&gt;Eesti Konservatiivne Rahvaerakond (ID): 10.7–14.8%&lt;/li&gt;&lt;li&gt;Erakond Eestimaa Rohelised (Greens/EFA): 1.1–2.7%&lt;/li&gt;&lt;li&gt;Eesti 200 (RE): 2.8–5.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2019-11-15-Norstat.png"
+        length="223498"
+        type="image/png"/>
+      <pubDate>Tue, 26 Nov 2019 20:12:58 +0100</pubDate>
+      <dc:date>2019-11-26T20:12:58.10789+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 1–8 October 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/estonian_ep_polls/2019-10-08-Norstat.html#seats</link>
@@ -719,6 +729,6 @@
       <pubDate>Wed, 12 Jun 2019 17:30:07 +0200</pubDate>
       <dc:date>2019-06-12T17:30:07.009709+02:00</dc:date>
     </item>
-    <dc:date>2019-10-18T23:04:59.265435+02:00</dc:date>
+    <dc:date>2019-11-26T20:12:58.10789+01:00</dc:date>
   </channel>
 </rss>
