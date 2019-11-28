@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/estonian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 27 Nov 2019 18:41:13 +0100</pubDate>
+    <pubDate>Thu, 28 Nov 2019 19:54:08 +0100</pubDate>
     <item>
       <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 11–15 November 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/estonian_ep_polls/2019-11-15-Norstat.html</link>
@@ -68,6 +68,46 @@
         type="image/png"/>
       <pubDate>Wed, 27 Nov 2019 18:41:13 +0100</pubDate>
       <dc:date>2019-11-27T18:41:13.902378+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 15–21 October 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/estonian_ep_polls/2019-10-21-Norstat.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Eesti Reformierakond (RE): 33.5–39.4%&lt;/li&gt;&lt;li&gt;Eesti Keskerakond (RE): 21.0–26.2%&lt;/li&gt;&lt;li&gt;Sotsiaaldemokraatlik Erakond (S&amp;amp;D): 5.9–9.2%&lt;/li&gt;&lt;li&gt;Erakond Isamaa (EPP): 5.2–8.3%&lt;/li&gt;&lt;li&gt;Eesti Vabaerakond (*): 0.1–0.9%&lt;/li&gt;&lt;li&gt;Eesti Konservatiivne Rahvaerakond (ID): 13.5–18.0%&lt;/li&gt;&lt;li&gt;Erakond Eestimaa Rohelised (Greens/EFA): 1.9–3.9%&lt;/li&gt;&lt;li&gt;Eesti 200 (RE): 3.4–6.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2019-10-21-Norstat.png"
+        length="224934"
+        type="image/png"/>
+      <pubDate>Thu, 28 Nov 2019 19:06:52 +0100</pubDate>
+      <dc:date>2019-11-28T19:06:52.169232+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar Emor for BNS and Postimees, 10–16 October 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/estonian_ep_polls/2019-10-16-KantarEmor.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Eesti Reformierakond (RE): 30.1–35.5%&lt;/li&gt;&lt;li&gt;Eesti Keskerakond (RE): 15.6–20.0%&lt;/li&gt;&lt;li&gt;Sotsiaaldemokraatlik Erakond (S&amp;amp;D): 10.7–14.5%&lt;/li&gt;&lt;li&gt;Erakond Isamaa (EPP): 5.0–7.8%&lt;/li&gt;&lt;li&gt;Eesti Konservatiivne Rahvaerakond (ID): 14.7–19.0%&lt;/li&gt;&lt;li&gt;Erakond Eestimaa Rohelised (Greens/EFA): 2.1–4.1%&lt;/li&gt;&lt;li&gt;Eesti 200 (RE): 7.9–11.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2019-10-16-KantarEmor.png"
+        length="212117"
+        type="image/png"/>
+      <pubDate>Thu, 28 Nov 2019 19:37:13 +0100</pubDate>
+      <dc:date>2019-11-28T19:37:13.319595+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 9–14 October 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/estonian_ep_polls/2019-10-14-Norstat.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Eesti Reformierakond (RE): 28.1–33.8%&lt;/li&gt;&lt;li&gt;Eesti Keskerakond (RE): 23.4–28.8%&lt;/li&gt;&lt;li&gt;Sotsiaaldemokraatlik Erakond (S&amp;amp;D): 6.8–10.3%&lt;/li&gt;&lt;li&gt;Erakond Isamaa (EPP): 5.8–9.0%&lt;/li&gt;&lt;li&gt;Eesti Vabaerakond (*): 0.2–1.0%&lt;/li&gt;&lt;li&gt;Eesti Konservatiivne Rahvaerakond (ID): 15.5–20.2%&lt;/li&gt;&lt;li&gt;Erakond Eestimaa Rohelised (Greens/EFA): 1.5–3.4%&lt;/li&gt;&lt;li&gt;Eesti 200 (RE): 4.3–7.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2019-10-14-Norstat.png"
+        length="235152"
+        type="image/png"/>
+      <pubDate>Thu, 28 Nov 2019 19:49:15 +0100</pubDate>
+      <dc:date>2019-11-28T19:49:15.53748+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Turu-uuringute AS for ERR, 3–13 October 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/estonian_ep_polls/2019-10-13-Turu-uuringuteAS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Eesti Reformierakond (RE): 29.2–34.9%&lt;/li&gt;&lt;li&gt;Eesti Keskerakond (RE): 19.6–24.6%&lt;/li&gt;&lt;li&gt;Sotsiaaldemokraatlik Erakond (S&amp;amp;D): 7.4–10.9%&lt;/li&gt;&lt;li&gt;Erakond Isamaa (EPP): 4.7–7.6%&lt;/li&gt;&lt;li&gt;Eesti Vabaerakond (*): 0.5–1.8%&lt;/li&gt;&lt;li&gt;Eesti Konservatiivne Rahvaerakond (ID): 14.9–19.4%&lt;/li&gt;&lt;li&gt;Erakond Eestimaa Rohelised (Greens/EFA): 2.1–4.2%&lt;/li&gt;&lt;li&gt;Eesti 200 (RE): 5.6–8.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2019-10-13-Turu-uuringuteAS.png"
+        length="229631"
+        type="image/png"/>
+      <pubDate>Thu, 28 Nov 2019 19:54:08 +0100</pubDate>
+      <dc:date>2019-11-28T19:54:08.802681+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 1–8 October 2019 – Seat Projections for the Parties</title>
@@ -779,6 +819,6 @@
       <pubDate>Wed, 12 Jun 2019 17:30:07 +0200</pubDate>
       <dc:date>2019-06-12T17:30:07.009709+02:00</dc:date>
     </item>
-    <dc:date>2019-11-27T18:41:13.902378+01:00</dc:date>
+    <dc:date>2019-11-28T19:54:08.802681+01:00</dc:date>
   </channel>
 </rss>
