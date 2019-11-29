@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/estonian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 28 Nov 2019 19:54:08 +0100</pubDate>
+    <pubDate>Fri, 29 Nov 2019 20:28:35 +0100</pubDate>
     <item>
       <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 11–15 November 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/estonian_ep_polls/2019-11-15-Norstat.html</link>
@@ -46,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2019-11-11-Norstat.png"
         length="230003"
         type="image/png"/>
-      <pubDate>Wed, 27 Nov 2019 11:36:57 +0100</pubDate>
-      <dc:date>2019-11-27T11:36:57.282563+01:00</dc:date>
+      <pubDate>Fri, 29 Nov 2019 19:56:14 +0100</pubDate>
+      <dc:date>2019-11-29T19:56:14.47745+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 28 October–5 November 2019 – Voting Intentions</title>
@@ -66,8 +66,8 @@
       <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2019-10-28-Norstat.png"
         length="226013"
         type="image/png"/>
-      <pubDate>Wed, 27 Nov 2019 18:41:13 +0100</pubDate>
-      <dc:date>2019-11-27T18:41:13.902378+01:00</dc:date>
+      <pubDate>Fri, 29 Nov 2019 18:48:08 +0100</pubDate>
+      <dc:date>2019-11-29T18:48:08.468363+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 15–21 October 2019 – Voting Intentions</title>
@@ -76,8 +76,8 @@
       <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2019-10-21-Norstat.png"
         length="224934"
         type="image/png"/>
-      <pubDate>Thu, 28 Nov 2019 19:06:52 +0100</pubDate>
-      <dc:date>2019-11-28T19:06:52.169232+01:00</dc:date>
+      <pubDate>Fri, 29 Nov 2019 18:23:07 +0100</pubDate>
+      <dc:date>2019-11-29T18:23:07.056337+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Kantar Emor for BNS and Postimees, 10–16 October 2019 – Voting Intentions</title>
@@ -86,8 +86,8 @@
       <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2019-10-16-KantarEmor.png"
         length="212117"
         type="image/png"/>
-      <pubDate>Thu, 28 Nov 2019 19:37:13 +0100</pubDate>
-      <dc:date>2019-11-28T19:37:13.319595+01:00</dc:date>
+      <pubDate>Fri, 29 Nov 2019 19:15:01 +0100</pubDate>
+      <dc:date>2019-11-29T19:15:01.314079+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 9–14 October 2019 – Voting Intentions</title>
@@ -96,8 +96,8 @@
       <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2019-10-14-Norstat.png"
         length="235152"
         type="image/png"/>
-      <pubDate>Thu, 28 Nov 2019 19:49:15 +0100</pubDate>
-      <dc:date>2019-11-28T19:49:15.53748+01:00</dc:date>
+      <pubDate>Fri, 29 Nov 2019 20:28:35 +0100</pubDate>
+      <dc:date>2019-11-29T20:28:35.484674+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Turu-uuringute AS for ERR, 3–13 October 2019 – Voting Intentions</title>
@@ -106,8 +106,8 @@
       <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2019-10-13-Turu-uuringuteAS.png"
         length="229631"
         type="image/png"/>
-      <pubDate>Thu, 28 Nov 2019 19:54:08 +0100</pubDate>
-      <dc:date>2019-11-28T19:54:08.802681+01:00</dc:date>
+      <pubDate>Fri, 29 Nov 2019 18:41:06 +0100</pubDate>
+      <dc:date>2019-11-29T18:41:06.524093+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 1–8 October 2019 – Seat Projections for the Parties</title>
@@ -819,6 +819,6 @@
       <pubDate>Wed, 12 Jun 2019 17:30:07 +0200</pubDate>
       <dc:date>2019-06-12T17:30:07.009709+02:00</dc:date>
     </item>
-    <dc:date>2019-11-28T19:54:08.802681+01:00</dc:date>
+    <dc:date>2019-11-29T20:28:35.484674+01:00</dc:date>
   </channel>
 </rss>
