@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/estonian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 29 Nov 2019 20:28:35 +0100</pubDate>
+    <pubDate>Sat, 30 Nov 2019 18:17:09 +0100</pubDate>
     <item>
       <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 11–15 November 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/estonian_ep_polls/2019-11-15-Norstat.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2019-11-15-Norstat.png"
         length="223498"
         type="image/png"/>
-      <pubDate>Wed, 27 Nov 2019 18:21:02 +0100</pubDate>
-      <dc:date>2019-11-27T18:21:02.567991+01:00</dc:date>
+      <pubDate>Sat, 30 Nov 2019 17:59:02 +0100</pubDate>
+      <dc:date>2019-11-30T17:59:02.785503+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Kantar Emor for BNS and Postimees, 7–13 November 2019 – Voting Intentions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2019-11-13-KantarEmor.png"
         length="233779"
         type="image/png"/>
-      <pubDate>Wed, 27 Nov 2019 18:23:44 +0100</pubDate>
-      <dc:date>2019-11-27T18:23:44.616984+01:00</dc:date>
+      <pubDate>Sat, 30 Nov 2019 18:06:52 +0100</pubDate>
+      <dc:date>2019-11-30T18:06:52.610485+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Turu-uuringute AS for ERR, 31 October–12 November 2019 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2019-11-12-Turu-uuringuteAS.png"
         length="235806"
         type="image/png"/>
-      <pubDate>Wed, 27 Nov 2019 18:26:33 +0100</pubDate>
-      <dc:date>2019-11-27T18:26:33.342132+01:00</dc:date>
+      <pubDate>Sat, 30 Nov 2019 18:17:09 +0100</pubDate>
+      <dc:date>2019-11-30T18:17:09.737917+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 5–11 November 2019 – Voting Intentions</title>
@@ -56,8 +56,8 @@
       <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2019-11-05-Norstat.png"
         length="227401"
         type="image/png"/>
-      <pubDate>Wed, 27 Nov 2019 12:12:21 +0100</pubDate>
-      <dc:date>2019-11-27T12:12:21.323774+01:00</dc:date>
+      <pubDate>Sat, 30 Nov 2019 13:19:06 +0100</pubDate>
+      <dc:date>2019-11-30T13:19:06.459765+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 22–28 October 2019 – Voting Intentions</title>
@@ -96,8 +96,8 @@
       <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2019-10-14-Norstat.png"
         length="235152"
         type="image/png"/>
-      <pubDate>Fri, 29 Nov 2019 20:28:35 +0100</pubDate>
-      <dc:date>2019-11-29T20:28:35.484674+01:00</dc:date>
+      <pubDate>Fri, 29 Nov 2019 20:30:25 +0100</pubDate>
+      <dc:date>2019-11-29T20:30:25.891642+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Turu-uuringute AS for ERR, 3–13 October 2019 – Voting Intentions</title>
@@ -819,6 +819,6 @@
       <pubDate>Wed, 12 Jun 2019 17:30:07 +0200</pubDate>
       <dc:date>2019-06-12T17:30:07.009709+02:00</dc:date>
     </item>
-    <dc:date>2019-11-29T20:28:35.484674+01:00</dc:date>
+    <dc:date>2019-11-30T18:17:09.737917+01:00</dc:date>
   </channel>
 </rss>
