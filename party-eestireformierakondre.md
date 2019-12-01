@@ -10,8 +10,8 @@ Last result: **24.3%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 29.0% | 26.5–32.2% | 25.9–32.8% | 25.5–33.3% | 24.8–34.4% |
-| [18–25 November 2019](2019-11-25-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 36.1% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 30.9% | 26.8–36.9% | 26.2–37.7% | 25.8–38.3% | 24.9–39.5% |
+| [18–25 November 2019](2019-11-25-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 36.1% | 34.2–38.1% | 33.6–38.6% | 33.2–39.1% | 32.3–40.1% |
 | [11–15 November 2019](2019-11-15-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 35.3% | 33.4–37.3% | 32.9–37.8% | 32.4–38.3% | 31.5–39.3% |
 | [7–13 November 2019](2019-11-13-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 27.4% | 25.9–29.0% | 25.5–29.4% | 25.2–29.8% | 24.5–30.6% |
 | [31 October–12 November 2019](2019-11-12-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 30.9% | 29.1–32.8% | 28.6–33.3% | 28.2–33.8% | 27.3–34.8% |
@@ -55,20 +55,25 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 22.5–23.5% | 0% | 100% |  |
-| 23.5–24.5% | 0.3% | 100% | Last Result |
-| 24.5–25.5% | 2% | 99.7% |  |
-| 25.5–26.5% | 9% | 97% |  |
-| 26.5–27.5% | 16% | 89% |  |
-| 27.5–28.5% | 16% | 73% |  |
-| 28.5–29.5% | 13% | 57% | Median |
-| 29.5–30.5% | 13% | 44% |  |
-| 30.5–31.5% | 14% | 31% |  |
-| 31.5–32.5% | 10% | 17% |  |
-| 32.5–33.5% | 5% | 7% |  |
-| 33.5–34.5% | 2% | 2% |  |
-| 34.5–35.5% | 0.3% | 0.4% |  |
-| 35.5–36.5% | 0% | 0% |  |
-| 36.5–37.5% | 0% | 0% |  |
+| 23.5–24.5% | 0.2% | 100% | Last Result |
+| 24.5–25.5% | 1.5% | 99.8% |  |
+| 25.5–26.5% | 6% | 98% |  |
+| 26.5–27.5% | 11% | 93% |  |
+| 27.5–28.5% | 11% | 82% |  |
+| 28.5–29.5% | 9% | 71% |  |
+| 29.5–30.5% | 9% | 62% |  |
+| 30.5–31.5% | 9% | 54% | Median |
+| 31.5–32.5% | 7% | 45% |  |
+| 32.5–33.5% | 4% | 38% |  |
+| 33.5–34.5% | 5% | 33% |  |
+| 34.5–35.5% | 7% | 29% |  |
+| 35.5–36.5% | 9% | 22% |  |
+| 36.5–37.5% | 7% | 13% |  |
+| 37.5–38.5% | 4% | 6% |  |
+| 38.5–39.5% | 1.5% | 2% |  |
+| 39.5–40.5% | 0.4% | 0.4% |  |
+| 40.5–41.5% | 0.1% | 0.1% |  |
+| 41.5–42.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -80,7 +85,7 @@ Last result: **2** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [18–25 November 2019](2019-11-25-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
+| [18–25 November 2019](2019-11-25-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 3 | 3 | 3 | 3 | 2–3 |
 | [11–15 November 2019](2019-11-15-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 3 | 3 | 3 | 3 | 2–3 |
 | [7–13 November 2019](2019-11-13-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [31 October–12 November 2019](2019-11-12-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -125,8 +130,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 78% | 100% | Last Result, Median |
-| 3 | 22% | 22% |  |
+| 2 | 53% | 100% | Last Result, Median |
+| 3 | 47% | 47% |  |
 | 4 | 0% | 0% | Majority |
 
 
