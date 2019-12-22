@@ -5,6 +5,11 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | Ref | Kesk | Isamaa | SDE | EKRE | Rohelised | EVA | E200 | Kaljulaid |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 24.3% <br> 2 | 22.4% <br> 1 | 13.9% <br> 1 | 13.6% <br> 1 | 4.0% <br> 0 | 0.3% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [11–17 December 2019](2019-12-17-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 31–37% <br> 2–3 | 20–25% <br> 1–2 | 4–7% <br> 0 | 10–14% <br> 0–1 | 12–16% <br> 1 | 2–4% <br> 0 | 0–1% <br> 0 | 5–9% <br> 0 | N/A <br> N/A |
+| [5–12 December 2019](2019-12-12-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [28 November–9 December 2019](2019-12-09-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [2–9 December 2019](2019-12-09-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [25–29 November 2019](2019-11-29-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [18–25 November 2019](2019-11-25-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 33–39% <br> 3 | 21–27% <br> 1–2 | 5–9% <br> 0 | 8–12% <br> 0–1 | 10–14% <br> 0–1 | 3–5% <br> 0 | 0–1% <br> 0 | 4–7% <br> 0 | N/A <br> N/A |
 | [11–15 November 2019](2019-11-15-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 32–38% <br> 3 | 23–29% <br> 2 | 6–9% <br> 0 | 8–11% <br> 0–1 | 11–15% <br> 1 | 1–3% <br> 0 | 0–1% <br> 0 | 3–5% <br> 0 | N/A <br> N/A |
 | [7–13 November 2019](2019-11-13-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 25–30% <br> 2–3 | 14–18% <br> 1 | 5–7% <br> 0 | 14–18% <br> 1 | 16–20% <br> 1–2 | 3–5% <br> 0 | 1–2% <br> 0 | 8–11% <br> 0–1 | N/A <br> N/A |
