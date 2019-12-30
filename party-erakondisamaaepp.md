@@ -10,7 +10,7 @@ Last result: **13.9%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.3% | 4.9–8.6% | 4.6–9.1% | 4.3–9.5% | 3.9–10.2% |
+| N/A | [Poll Average](average.html) | 5.6% | 4.5–6.8% | 4.3–7.1% | 4.1–7.4% | 3.7–7.9% |
 | [11–17 December 2019](2019-12-17-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 5.4% | 4.6–6.4% | 4.4–6.7% | 4.2–7.0% | 3.8–7.5% |
 | [5–12 December 2019](2019-12-12-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 6.3% | 5.6–7.2% | 5.3–7.5% | 5.2–7.7% | 4.8–8.2% |
 | [28 November–9 December 2019](2019-12-09-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 5.0% | 4.3–6.0% | 4.0–6.3% | 3.8–6.6% | 3.5–7.1% |
@@ -60,15 +60,15 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 0.1% | 100% |  |
-| 3.5–4.5% | 5% | 99.9% |  |
-| 4.5–5.5% | 22% | 95% |  |
-| 5.5–6.5% | 30% | 73% | Median |
-| 6.5–7.5% | 17% | 43% |  |
-| 7.5–8.5% | 15% | 26% |  |
-| 8.5–9.5% | 9% | 11% |  |
-| 9.5–10.5% | 2% | 2% |  |
-| 10.5–11.5% | 0.2% | 0.2% |  |
+| 2.5–3.5% | 0.2% | 100% |  |
+| 3.5–4.5% | 10% | 99.8% |  |
+| 4.5–5.5% | 36% | 90% |  |
+| 5.5–6.5% | 38% | 54% | Median |
+| 6.5–7.5% | 15% | 16% |  |
+| 7.5–8.5% | 2% | 2% |  |
+| 8.5–9.5% | 0% | 0% |  |
+| 9.5–10.5% | 0% | 0% |  |
+| 10.5–11.5% | 0% | 0% |  |
 | 11.5–12.5% | 0% | 0% |  |
 | 12.5–13.5% | 0% | 0% |  |
 | 13.5–14.5% | 0% | 0% | Last Result |
@@ -133,8 +133,7 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.9% | 100% | Median |
-| 1 | 0.1% | 0.1% | Last Result |
-| 2 | 0% | 0% |  |
+| 0 | 100% | 100% | Median |
+| 1 | 0% | 0% | Last Result |
 
 
