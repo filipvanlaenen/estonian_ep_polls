@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/estonian_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2020-01-08T20:03:19.661964+01:00</updated>
+  <updated>2020-01-15T18:49:44.659571+01:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Eesti Reformierakond (RE): 31.4–37.3%, 2–3 seats</li><li>Eesti Keskerakond (RE): 20.0–25.2%, 1–2 seats</li><li>Sotsiaaldemokraatlik Erakond (S&amp;D): 9.9–13.9%, 0–1 seats</li><li>Erakond Isamaa (EPP): 4.2–7.0%, 0 seats</li><li>Eesti Vabaerakond (*): 0.0–0.6%, 0 seats</li><li>Eesti Konservatiivne Rahvaerakond (ID): 11.5–15.8%, 1 seats</li><li>Erakond Eestimaa Rohelised (Greens/EFA): 2.3–4.5%, 0 seats</li><li>Eesti 200 (RE): 5.4–8.5%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/estonian_ep_polls/2019-12-17-Norstat.html</id>
@@ -102,6 +102,14 @@
     <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 22–28 October 2019</title>
     <updated>2020-01-08T20:03:19.661964+01:00</updated>
     <dc:date>2020-01-08T20:03:19.661964+01:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Eesti Reformierakond (RE): 33.5–39.4%, 3 seats</li><li>Eesti Keskerakond (RE): 21.0–26.2%, 2 seats</li><li>Sotsiaaldemokraatlik Erakond (S&amp;D): 5.9–9.2%, 0 seats</li><li>Erakond Isamaa (EPP): 5.2–8.3%, 0 seats</li><li>Eesti Vabaerakond (*): 0.1–0.9%, 0 seats</li><li>Eesti Konservatiivne Rahvaerakond (ID): 13.5–18.0%, 1 seats</li><li>Erakond Eestimaa Rohelised (Greens/EFA): 1.9–3.9%, 0 seats</li><li>Eesti 200 (RE): 3.4–6.0%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/estonian_ep_polls/2019-10-21-Norstat.html</id>
+    <link href="https://filipvanlaenen.github.io/estonian_ep_polls/2019-10-21-Norstat.html"/>
+    <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 15–21 October 2019</title>
+    <updated>2020-01-15T18:49:44.659571+01:00</updated>
+    <dc:date>2020-01-15T18:49:44.659571+01:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Eesti Reformierakond (RE): 30.1–35.5%, 2–3 seats</li><li>Eesti Keskerakond (RE): 15.6–20.0%, 1 seats</li><li>Sotsiaaldemokraatlik Erakond (S&amp;D): 10.7–14.5%, 1 seats</li><li>Erakond Isamaa (EPP): 5.0–7.8%, 0 seats</li><li>Eesti Konservatiivne Rahvaerakond (ID): 14.7–19.0%, 1 seats</li><li>Erakond Eestimaa Rohelised (Greens/EFA): 2.1–4.1%, 0 seats</li><li>Eesti 200 (RE): 7.9–11.3%, 0–1 seats</li></ul></div></content>
@@ -327,5 +335,5 @@
     <updated>2019-06-12T17:30:07.009709+02:00</updated>
     <dc:date>2019-06-12T17:30:07.009709+02:00</dc:date>
   </entry>
-  <dc:date>2020-01-08T20:03:19.661964+01:00</dc:date>
+  <dc:date>2020-01-15T18:49:44.659571+01:00</dc:date>
 </feed>
