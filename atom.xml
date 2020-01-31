@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/estonian_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2020-01-29T20:51:14.427889+01:00</updated>
+  <updated>2020-01-31T19:11:43.514606+01:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Eesti Reformierakond (RE): 22.1–28.1%, 2–3 seats</li><li>Eesti Keskerakond (RE): 21.2–27.1%, 2 seats</li><li>Sotsiaaldemokraatlik Erakond (S&amp;D): 8.1–12.3%, 0–1 seats</li><li>Erakond Isamaa (EPP): 5.5–9.0%, 0 seats</li><li>Eesti Vabaerakond (*): 0.5–2.0%, 0 seats</li><li>Eesti Konservatiivne Rahvaerakond (ID): 15.5–20.7%, 1–2 seats</li><li>Erakond Eestimaa Rohelised (Greens/EFA): 2.0–4.4%, 0 seats</li><li>Eesti 200 (RE): 6.4–10.1%, 0–1 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/estonian_ep_polls/2020-01-27-Turu-uuringuteAS.html</id>
+    <link href="https://filipvanlaenen.github.io/estonian_ep_polls/2020-01-27-Turu-uuringuteAS.html"/>
+    <title>Opinion Poll by Turu-uuringute AS for ERR, 17–27 January 2020</title>
+    <updated>2020-01-31T19:11:43.514606+01:00</updated>
+    <dc:date>2020-01-31T19:11:43.514606+01:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Eesti Reformierakond (RE): 32.1–38.0%, 3 seats</li><li>Eesti Keskerakond (RE): 20.3–25.5%, 1–2 seats</li><li>Sotsiaaldemokraatlik Erakond (S&amp;D): 7.7–11.3%, 0–1 seats</li><li>Erakond Isamaa (EPP): 4.3–7.2%, 0 seats</li><li>Eesti Vabaerakond (*): 0.6–2.0%, 0 seats</li><li>Eesti Konservatiivne Rahvaerakond (ID): 12.5–16.9%, 1 seats</li><li>Erakond Eestimaa Rohelised (Greens/EFA): 2.0–4.1%, 0 seats</li><li>Eesti 200 (RE): 5.8–9.0%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/estonian_ep_polls/2020-01-24-Norstat.html</id>
@@ -367,5 +375,5 @@
     <updated>2019-06-12T17:30:07.009709+02:00</updated>
     <dc:date>2019-06-12T17:30:07.009709+02:00</dc:date>
   </entry>
-  <dc:date>2020-01-29T20:51:14.427889+01:00</dc:date>
+  <dc:date>2020-01-31T19:11:43.514606+01:00</dc:date>
 </feed>
