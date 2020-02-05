@@ -10,8 +10,9 @@ Last result: **22.4%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22.4% | 17.4–25.1% | 16.9–25.8% | 16.5–26.3% | 15.8–27.4% |
+| N/A | [Poll Average](average.html) | 20.5% | 17.1–25.3% | 16.7–26.0% | 16.3–26.6% | 15.6–27.7% |
 | [17–27 January 2020](2020-01-27-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 24.0% | 22.2–26.0% | 21.6–26.6% | 21.2–27.1% | 20.3–28.1% |
+| [23–27 January 2020](2020-01-27-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 19.3% | N/A | N/A | N/A | N/A |
 | [16–24 January 2020](2020-01-24-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 22.8% | 21.2–24.6% | 20.7–25.1% | 20.3–25.5% | 19.5–26.4% |
 | [8–14 January 2020](2020-01-14-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 24.4% | 22.7–26.2% | 22.2–26.7% | 21.8–27.2% | 21.0–28.0% |
 | [3–7 January 2020](2020-01-07-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 23.6% | 21.9–25.4% | 21.5–25.9% | 21.1–26.3% | 20.3–27.2% |
@@ -65,20 +66,20 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 13.5–14.5% | 0% | 100% |  |
-| 14.5–15.5% | 0.2% | 100% |  |
-| 15.5–16.5% | 2% | 99.8% |  |
-| 16.5–17.5% | 9% | 97% |  |
-| 17.5–18.5% | 13% | 88% |  |
-| 18.5–19.5% | 7% | 76% |  |
-| 19.5–20.5% | 3% | 69% |  |
-| 20.5–21.5% | 6% | 65% |  |
-| 21.5–22.5% | 12% | 60% | Last Result, Median |
-| 22.5–23.5% | 17% | 48% |  |
-| 23.5–24.5% | 15% | 31% |  |
-| 24.5–25.5% | 9% | 16% |  |
-| 25.5–26.5% | 4% | 6% |  |
-| 26.5–27.5% | 1.4% | 2% |  |
-| 27.5–28.5% | 0.3% | 0.4% |  |
+| 14.5–15.5% | 0.4% | 100% |  |
+| 15.5–16.5% | 4% | 99.6% |  |
+| 16.5–17.5% | 13% | 96% |  |
+| 17.5–18.5% | 19% | 83% |  |
+| 18.5–19.5% | 11% | 64% |  |
+| 19.5–20.5% | 3% | 53% |  |
+| 20.5–21.5% | 2% | 50% | Median |
+| 21.5–22.5% | 6% | 48% | Last Result |
+| 22.5–23.5% | 11% | 42% |  |
+| 23.5–24.5% | 13% | 32% |  |
+| 24.5–25.5% | 10% | 18% |  |
+| 25.5–26.5% | 6% | 8% |  |
+| 26.5–27.5% | 2% | 3% |  |
+| 27.5–28.5% | 0.5% | 0.6% |  |
 | 28.5–29.5% | 0.1% | 0.1% |  |
 | 29.5–30.5% | 0% | 0% |  |
 
@@ -91,8 +92,9 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [17–27 January 2020](2020-01-27-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 2 | 2 | 2 | 2 | 2–3 |
+| [23–27 January 2020](2020-01-27-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
 | [16–24 January 2020](2020-01-24-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 2 | 2 | 2 | 1–2 | 1–2 |
 | [8–14 January 2020](2020-01-14-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 2 | 2 | 2 | 2 | 2 |
 | [3–7 January 2020](2020-01-07-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 2 | 2 | 2 | 2 | 2 |
@@ -147,9 +149,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 35% | 100% | Last Result |
-| 2 | 65% | 65% | Median |
-| 3 | 0.4% | 0.4% |  |
+| 1 | 50% | 100% | Last Result, Median |
+| 2 | 49% | 50% |  |
+| 3 | 0.6% | 0.6% |  |
 | 4 | 0% | 0% | Majority |
 
 
