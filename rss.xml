@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/estonian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Tue, 18 Feb 2020 18:44:58 +0100</pubDate>
+    <pubDate>Wed, 19 Feb 2020 09:30:53 +0100</pubDate>
     <item>
       <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 4–11 February 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/estonian_ep_polls/2020-02-11-Norstat.html#seats</link>
@@ -916,8 +916,8 @@
       <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2019-07-01-Norstat.png"
         length="226903"
         type="image/png"/>
-      <pubDate>Sun, 28 Jul 2019 17:15:29 +0200</pubDate>
-      <dc:date>2019-07-28T17:15:29.529028+02:00</dc:date>
+      <pubDate>Tue, 18 Feb 2020 23:01:44 +0100</pubDate>
+      <dc:date>2020-02-18T23:01:44.703671+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 11–19 June 2019 – Voting Intentions</title>
@@ -946,8 +946,8 @@
       <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2019-06-11-Norstat.png"
         length="224155"
         type="image/png"/>
-      <pubDate>Sun, 23 Jun 2019 15:10:15 +0200</pubDate>
-      <dc:date>2019-06-23T15:10:15.279999+02:00</dc:date>
+      <pubDate>Wed, 19 Feb 2020 09:30:53 +0100</pubDate>
+      <dc:date>2020-02-19T09:30:53.85007+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Turu-uuringute AS for ERR, 28 May–10 June 2019 – Voting Intentions</title>
@@ -969,6 +969,6 @@
       <pubDate>Tue, 18 Feb 2020 18:44:58 +0100</pubDate>
       <dc:date>2020-02-18T18:44:58.116758+01:00</dc:date>
     </item>
-    <dc:date>2020-02-18T18:44:58.116758+01:00</dc:date>
+    <dc:date>2020-02-19T09:30:53.85007+01:00</dc:date>
   </channel>
 </rss>
