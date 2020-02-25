@@ -5,8 +5,8 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | Ref | Kesk | Isamaa | SDE | EKRE | Rohelised | EVA | E200 | Kaljulaid |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 24.3% <br> 2 | 22.4% <br> 1 | 13.9% <br> 1 | 13.6% <br> 1 | 4.0% <br> 0 | 0.3% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| [13–18 February 2020](2020-02-18-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [6–17 February 2020](2020-02-17-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [13–18 February 2020](2020-02-18-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 28–34% <br> 2–3 | 20–25% <br> 2 | 5–8% <br> 0 | 6–10% <br> 0–1 | 16–21% <br> 1–2 | 2–4% <br> 0 | 0–1% <br> 0 | 8–12% <br> 0–1 | N/A <br> N/A |
+| [6–17 February 2020](2020-02-17-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 24–30% <br> 2–3 | 23–29% <br> 2–3 | 4–7% <br> 0 | 9–13% <br> 0–1 | 15–20% <br> 1–2 | 1–4% <br> 0 | N/A <br> N/A | 8–12% <br> 0–1 | N/A <br> N/A |
 | [4–11 February 2020](2020-02-11-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 31–37% <br> 3–4 | 18–23% <br> 1–2 | 6–9% <br> 0 | 5–8% <br> 0 | 15–20% <br> 1–2 | 2–5% <br> 0 | 0–1% <br> 0 | 8–11% <br> 0–1 | N/A <br> N/A |
 | [28 January–3 February 2020](2020-02-03-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 32–38% <br> 3–4 | 18–23% <br> 1–2 | 5–8% <br> 0 | 8–12% <br> 0–1 | 13–18% <br> 1 | 2–4% <br> 0 | 0–1% <br> 0 | 7–10% <br> 0–1 | N/A <br> N/A |
 | [1–31 January 2020](2020-01-31-KantarEmor.html) | Kantar Emor | 27–33% <br> 2–3 | 15–20% <br> 1–2 | 6–10% <br> 0–1 | 12–16% <br> 1 | 14–19% <br> 1–2 | 2–4% <br> 0 | 1–2% <br> 0 | 7–11% <br> 0–1 | N/A <br> N/A |
