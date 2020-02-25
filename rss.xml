@@ -8,7 +8,67 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/estonian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 19 Feb 2020 09:30:53 +0100</pubDate>
+    <pubDate>Tue, 25 Feb 2020 06:41:20 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 13–18 February 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/estonian_ep_polls/2020-02-18-Norstat.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Eesti Reformierakond (RE): 2–3 seats&lt;/li&gt;&lt;li&gt;Eesti Keskerakond (RE): 2 seats&lt;/li&gt;&lt;li&gt;Sotsiaaldemokraatlik Erakond (S&amp;amp;D): 0–1 seats&lt;/li&gt;&lt;li&gt;Erakond Isamaa (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Eesti Vabaerakond (*): 0 seats&lt;/li&gt;&lt;li&gt;Eesti Konservatiivne Rahvaerakond (ID): 1–2 seats&lt;/li&gt;&lt;li&gt;Erakond Eestimaa Rohelised (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Eesti 200 (RE): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2020-02-18-Norstat-seats.png"
+        length="201028"
+        type="image/png"/>
+      <pubDate>Tue, 25 Feb 2020 06:41:20 +0100</pubDate>
+      <dc:date>2020-02-25T06:41:20.443628+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 13–18 February 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/estonian_ep_polls/2020-02-18-Norstat.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2020-02-18-Norstat-coalitions-seats.png"
+        length="119125"
+        type="image/png"/>
+      <pubDate>Tue, 25 Feb 2020 06:41:20 +0100</pubDate>
+      <dc:date>2020-02-25T06:41:20.443628+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 13–18 February 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/estonian_ep_polls/2020-02-18-Norstat.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Eesti Reformierakond (RE): 28.1–33.8%&lt;/li&gt;&lt;li&gt;Eesti Keskerakond (RE): 19.9–25.1%&lt;/li&gt;&lt;li&gt;Sotsiaaldemokraatlik Erakond (S&amp;amp;D): 6.4–9.7%&lt;/li&gt;&lt;li&gt;Erakond Isamaa (EPP): 4.7–7.7%&lt;/li&gt;&lt;li&gt;Eesti Vabaerakond (*): 0.3–1.4%&lt;/li&gt;&lt;li&gt;Eesti Konservatiivne Rahvaerakond (ID): 15.7–20.5%&lt;/li&gt;&lt;li&gt;Erakond Eestimaa Rohelised (Greens/EFA): 2.1–4.3%&lt;/li&gt;&lt;li&gt;Eesti 200 (RE): 8.1–11.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2020-02-18-Norstat.png"
+        length="237642"
+        type="image/png"/>
+      <pubDate>Tue, 25 Feb 2020 06:41:20 +0100</pubDate>
+      <dc:date>2020-02-25T06:41:20.443628+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Turu-uuringute AS for ERR, 6–17 February 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/estonian_ep_polls/2020-02-17-Turu-uuringuteAS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Eesti Reformierakond (RE): 2–3 seats&lt;/li&gt;&lt;li&gt;Eesti Keskerakond (RE): 2–3 seats&lt;/li&gt;&lt;li&gt;Sotsiaaldemokraatlik Erakond (S&amp;amp;D): 0–1 seats&lt;/li&gt;&lt;li&gt;Erakond Isamaa (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Eesti Konservatiivne Rahvaerakond (ID): 1–2 seats&lt;/li&gt;&lt;li&gt;Erakond Eestimaa Rohelised (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Eesti 200 (RE): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2020-02-17-Turu-uuringuteAS-seats.png"
+        length="198614"
+        type="image/png"/>
+      <pubDate>Tue, 25 Feb 2020 06:41:17 +0100</pubDate>
+      <dc:date>2020-02-25T06:41:17.287571+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Turu-uuringute AS for ERR, 6–17 February 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/estonian_ep_polls/2020-02-17-Turu-uuringuteAS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2020-02-17-Turu-uuringuteAS-coalitions-seats.png"
+        length="150677"
+        type="image/png"/>
+      <pubDate>Tue, 25 Feb 2020 06:41:17 +0100</pubDate>
+      <dc:date>2020-02-25T06:41:17.287571+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Turu-uuringute AS for ERR, 6–17 February 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/estonian_ep_polls/2020-02-17-Turu-uuringuteAS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Eesti Reformierakond (RE): 24.3–30.4%&lt;/li&gt;&lt;li&gt;Eesti Keskerakond (RE): 23.2–29.3%&lt;/li&gt;&lt;li&gt;Sotsiaaldemokraatlik Erakond (S&amp;amp;D): 8.9–13.2%&lt;/li&gt;&lt;li&gt;Erakond Isamaa (EPP): 4.1–7.2%&lt;/li&gt;&lt;li&gt;Eesti Konservatiivne Rahvaerakond (ID): 15.0–20.2%&lt;/li&gt;&lt;li&gt;Erakond Eestimaa Rohelised (Greens/EFA): 1.4–3.5%&lt;/li&gt;&lt;li&gt;Eesti 200 (RE): 7.9–12.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2020-02-17-Turu-uuringuteAS.png"
+        length="232154"
+        type="image/png"/>
+      <pubDate>Tue, 25 Feb 2020 06:41:17 +0100</pubDate>
+      <dc:date>2020-02-25T06:41:17.287571+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 4–11 February 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/estonian_ep_polls/2020-02-11-Norstat.html#seats</link>
@@ -969,6 +1029,6 @@
       <pubDate>Tue, 18 Feb 2020 18:44:58 +0100</pubDate>
       <dc:date>2020-02-18T18:44:58.116758+01:00</dc:date>
     </item>
-    <dc:date>2020-02-19T09:30:53.85007+01:00</dc:date>
+    <dc:date>2020-02-25T06:41:20.443628+01:00</dc:date>
   </channel>
 </rss>
