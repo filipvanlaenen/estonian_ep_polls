@@ -11,6 +11,7 @@ Last result: **13.9%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6.9% | 5.1–8.6% | 4.7–9.1% | 4.4–9.5% | 4.0–10.2% |
+| [4–9 March 2020](2020-03-09-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 5.9% | N/A | N/A | N/A | N/A |
 | [26 February–2 March 2020](2020-03-02-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 5.8% | 5.0–6.9% | 4.7–7.2% | 4.5–7.4% | 4.1–8.0% |
 | [19–25 February 2020](2020-02-25-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 6.9% | 6.0–8.0% | 5.7–8.4% | 5.5–8.6% | 5.1–9.2% |
 | [13–18 February 2020](2020-02-18-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 6.0% | 5.1–7.1% | 4.9–7.4% | 4.7–7.7% | 4.3–8.2% |
@@ -95,6 +96,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [4–9 March 2020](2020-03-09-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
 | [26 February–2 March 2020](2020-03-02-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 0 | 0 | 0 | 0 | 0 |
 | [19–25 February 2020](2020-02-25-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 0 | 0 | 0 | 0 | 0 |
 | [13–18 February 2020](2020-02-18-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 0 | 0 | 0 | 0 | 0 |
