@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/estonian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 20 Mar 2020 17:54:47 +0100</pubDate>
+    <pubDate>Tue, 24 Mar 2020 17:25:32 +0100</pubDate>
     <item>
       <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 4–9 March 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/estonian_ep_polls/2020-03-09-Norstat.html#seats</link>
@@ -890,14 +890,34 @@
       <dc:date>2020-02-05T18:13:01.318137+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 18–23 September 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/estonian_ep_polls/2019-09-23-Norstat.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Eesti Reformierakond (RE): 3–4 seats&lt;/li&gt;&lt;li&gt;Eesti Keskerakond (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Sotsiaaldemokraatlik Erakond (S&amp;amp;D): 0–1 seats&lt;/li&gt;&lt;li&gt;Erakond Isamaa (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Eesti Vabaerakond (*): 0 seats&lt;/li&gt;&lt;li&gt;Eesti Konservatiivne Rahvaerakond (ID): 1–2 seats&lt;/li&gt;&lt;li&gt;Erakond Eestimaa Rohelised (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Eesti 200 (RE): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2019-09-23-Norstat-seats.png"
+        length="163067"
+        type="image/png"/>
+      <pubDate>Tue, 24 Mar 2020 17:25:32 +0100</pubDate>
+      <dc:date>2020-03-24T17:25:32.568275+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 18–23 September 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/estonian_ep_polls/2019-09-23-Norstat.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2019-09-23-Norstat-coalitions-seats.png"
+        length="105945"
+        type="image/png"/>
+      <pubDate>Tue, 24 Mar 2020 17:25:32 +0100</pubDate>
+      <dc:date>2020-03-24T17:25:32.568275+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 18–23 September 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/estonian_ep_polls/2019-09-23-Norstat.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Eesti Reformierakond (RE): 34.2–40.1%&lt;/li&gt;&lt;li&gt;Eesti Keskerakond (RE): 18.3–23.3%&lt;/li&gt;&lt;li&gt;Sotsiaaldemokraatlik Erakond (S&amp;amp;D): 7.0–10.5%&lt;/li&gt;&lt;li&gt;Erakond Isamaa (EPP): 4.2–7.0%&lt;/li&gt;&lt;li&gt;Eesti Vabaerakond (*): 0.3–1.3%&lt;/li&gt;&lt;li&gt;Eesti Konservatiivne Rahvaerakond (ID): 16.0–20.8%&lt;/li&gt;&lt;li&gt;Erakond Eestimaa Rohelised (Greens/EFA): 2.4–4.7%&lt;/li&gt;&lt;li&gt;Eesti 200 (RE): 3.1–5.6%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2019-09-23-Norstat.png"
         length="224259"
         type="image/png"/>
-      <pubDate>Wed, 05 Feb 2020 21:36:27 +0100</pubDate>
-      <dc:date>2020-02-05T21:36:27.648249+01:00</dc:date>
+      <pubDate>Tue, 24 Mar 2020 17:25:32 +0100</pubDate>
+      <dc:date>2020-03-24T17:25:32.568275+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Kantar Emor for BNS and Postimees, 11–19 September 2019 – Voting Intentions</title>
@@ -1119,6 +1139,6 @@
       <pubDate>Tue, 18 Feb 2020 18:44:58 +0100</pubDate>
       <dc:date>2020-02-18T18:44:58.116758+01:00</dc:date>
     </item>
-    <dc:date>2020-03-20T17:54:47.476112+01:00</dc:date>
+    <dc:date>2020-03-24T17:25:32.568275+01:00</dc:date>
   </channel>
 </rss>
