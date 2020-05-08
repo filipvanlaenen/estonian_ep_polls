@@ -50,7 +50,7 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 2% | 100% | Last Result |
 | 3 | 98% | 98% | Median |
-| 4 | 0.1% | 0.1% | Majority |
+| 4 | 0.2% | 0.2% | Majority |
 | 5 | 0% | 0% |  |
 
 ### Eesti Keskerakond (RE)
@@ -61,8 +61,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 42% | 100% | Last Result |
-| 2 | 58% | 58% | Median |
+| 1 | 36% | 100% | Last Result |
+| 2 | 64% | 64% | Median |
 | 3 | 0% | 0% |  |
 
 ### Eesti Konservatiivne Rahvaerakond (ID)
@@ -74,8 +74,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 83% | 100% | Median |
-| 2 | 17% | 17% |  |
+| 1 | 82% | 100% | Median |
+| 2 | 18% | 18% |  |
 | 3 | 0% | 0% |  |
 
 ### Sotsiaaldemokraatlik Erakond (S&D)
@@ -98,8 +98,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 68% | 100% | Median |
-| 1 | 32% | 32% | Last Result |
+| 0 | 75% | 100% | Median |
+| 1 | 25% | 25% | Last Result |
 | 2 | 0% | 0% |  |
 
 ### Eesti 200 (RE)
@@ -154,8 +154,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 83% | 100% | Median |
-| 2 | 17% | 17% |  |
+| 1 | 82% | 100% | Median |
+| 2 | 18% | 18% |  |
 | 3 | 0% | 0% |  |
 
 ### Erakond Isamaa (EPP)
@@ -164,8 +164,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 68% | 100% | Median |
-| 1 | 32% | 32% | Last Result |
+| 0 | 75% | 100% | Median |
+| 1 | 25% | 25% | Last Result |
 | 2 | 0% | 0% |  |
 
 ### Sotsiaaldemokraatlik Erakond (S&D)
@@ -206,6 +206,6 @@
 ### Calculations
 
 + **Sample size:** 1000
-+ **Simulations done:** 131,072
-+ **Error estimate:** 2.30%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 2.47%
 
