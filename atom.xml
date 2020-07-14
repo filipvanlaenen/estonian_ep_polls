@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/estonian_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2020-07-09T19:38:16.923804+02:00</updated>
+  <updated>2020-07-14T17:37:58.463586+02:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Eesti Reformierakond (RE): 25.5–30.5%, 2–3 seats</li><li>Eesti Keskerakond (RE): 16.9–21.2%, 1–2 seats</li><li>Sotsiaaldemokraatlik Erakond (S&amp;D): 8.4–11.7%, 0–1 seats</li><li>Erakond Isamaa (EPP): 3.9–6.3%, 0 seats</li><li>Eesti Vabaerakond (*): 0.1–0.7%, 0 seats</li><li>Eesti Konservatiivne Rahvaerakond (ID): 16.9–21.2%, 1–2 seats</li><li>Erakond Eestimaa Rohelised (Greens/EFA): 2.2–4.1%, 0 seats</li><li>Eesti 200 (RE): 11.2–14.9%, 1 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/estonian_ep_polls/2020-06-30-KantarEmor.html</id>
@@ -615,5 +615,13 @@
     <updated>2020-05-08T18:55:24.528919+02:00</updated>
     <dc:date>2020-05-08T18:55:24.528919+02:00</dc:date>
   </entry>
-  <dc:date>2020-07-09T19:38:16.923804+02:00</dc:date>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Eesti Reformierakond (RE): 27.4–33.1%, 2–3 seats</li><li>Eesti Keskerakond (RE): 20.7–25.9%, 2 seats</li><li>Sotsiaaldemokraatlik Erakond (S&amp;D): 10.2–14.3%, 1 seats</li><li>Erakond Isamaa (EPP): 6.6–10.0%, 0–1 seats</li><li>Eesti Vabaerakond (*): 0.1–0.9%, 0 seats</li><li>Eesti Konservatiivne Rahvaerakond (ID): 16.8–21.7%, 1–2 seats</li><li>Erakond Eestimaa Rohelised (Greens/EFA): 2.1–4.3%, 0 seats</li><li>Eesti 200 (RE): 2.1–4.3%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/estonian_ep_polls/2019-06-03-Norstat.html</id>
+    <link href="https://filipvanlaenen.github.io/estonian_ep_polls/2019-06-03-Norstat.html"/>
+    <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 27 May–3 June 2019</title>
+    <updated>2020-07-14T17:37:58.463586+02:00</updated>
+    <dc:date>2020-07-14T17:37:58.463586+02:00</dc:date>
+  </entry>
+  <dc:date>2020-07-14T17:37:58.463586+02:00</dc:date>
 </feed>
