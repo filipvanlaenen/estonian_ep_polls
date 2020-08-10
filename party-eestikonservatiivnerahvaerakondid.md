@@ -10,7 +10,7 @@ Last result: **4.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17.7% | 15.5–19.6% | 15.0–20.1% | 14.5–20.6% | 13.8–21.5% |
+| N/A | [Poll Average](average.html) | 17.6% | 15.5–19.5% | 15.0–20.0% | 14.5–20.4% | 13.8–21.3% |
 | [27 July–3 August 2020](2020-08-03-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 18.4% | 16.9–20.1% | 16.5–20.5% | 16.1–20.9% | 15.4–21.7% |
 | [21–28 July 2020](2020-07-28-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 18.6% | 17.1–20.3% | 16.7–20.7% | 16.3–21.1% | 15.6–21.9% |
 | [16–22 July 2020](2020-07-22-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 18.0% | 16.7–19.4% | 16.3–19.8% | 16.0–20.2% | 15.3–20.9% |
@@ -115,12 +115,12 @@ The following table shows the probability mass function per percentage block of 
 | 13.5–14.5% | 2% | 99.7% |  |
 | 14.5–15.5% | 8% | 97% |  |
 | 15.5–16.5% | 15% | 90% |  |
-| 16.5–17.5% | 21% | 75% |  |
-| 17.5–18.5% | 25% | 54% | Median |
-| 18.5–19.5% | 18% | 29% |  |
-| 19.5–20.5% | 8% | 10% |  |
-| 20.5–21.5% | 2% | 3% |  |
-| 21.5–22.5% | 0.4% | 0.4% |  |
+| 16.5–17.5% | 22% | 75% |  |
+| 17.5–18.5% | 26% | 52% | Median |
+| 18.5–19.5% | 18% | 27% |  |
+| 19.5–20.5% | 7% | 9% |  |
+| 20.5–21.5% | 2% | 2% |  |
+| 21.5–22.5% | 0.2% | 0.3% |  |
 | 22.5–23.5% | 0% | 0% |  |
 
 
@@ -227,8 +227,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 62% | 100% | Median |
-| 2 | 38% | 38% |  |
+| 1 | 65% | 100% | Median |
+| 2 | 35% | 35% |  |
 | 3 | 0% | 0% |  |
 
 
