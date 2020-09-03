@@ -6,6 +6,30 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Thu, 16 Jul 2020 23:38:25 +0200</pubDate>
     <item>
+      <title>Opinion Poll by Kantar Emor for BNS and Postimees, 1–31 August 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/estonian_ep_polls/2020-08-31-KantarEmor.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Kantar Emor for BNS and Postimees, 1–31 August 2020<br/>Details on https://filipvanlaenen.github.io/estonian_ep_polls/2020-08-31-KantarEmor.html<br/><img src="https://filipvanlaenen.github.io/estonian_ep_polls/2020-08-31-KantarEmor.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2020-08-31-KantarEmor.png" length="291652" type="image/png"/>
+      <pubDate>Wed, 2 Sep 2020 22:40:48 +0200</pubDate>
+      <dc:date>2020-09-02T22:40:48.321327+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 17–25 August 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/estonian_ep_polls/2020-08-25-Norstat.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 17–25 August 2020<br/>Details on https://filipvanlaenen.github.io/estonian_ep_polls/2020-08-25-Norstat.html<br/><img src="https://filipvanlaenen.github.io/estonian_ep_polls/2020-08-25-Norstat.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2020-08-25-Norstat.png" length="290026" type="image/png"/>
+      <pubDate>Thu, 3 Sep 2020 08:06:09 +0200</pubDate>
+      <dc:date>2020-09-03T08:06:09.547428+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Turu-uuringute AS for ERR, 12–24 August 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/estonian_ep_polls/2020-08-24-Turu-uuringuteAS.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Turu-uuringute AS for ERR, 12–24 August 2020<br/>Details on https://filipvanlaenen.github.io/estonian_ep_polls/2020-08-24-Turu-uuringuteAS.html<br/><img src="https://filipvanlaenen.github.io/estonian_ep_polls/2020-08-24-Turu-uuringuteAS.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2020-08-24-Turu-uuringuteAS.png" length="299140" type="image/png"/>
+      <pubDate>Thu, 3 Sep 2020 08:22:59 +0200</pubDate>
+      <dc:date>2020-09-03T08:22:59.048938+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 10–17 August 2020 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/estonian_ep_polls/2020-08-17-Norstat.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>4 seats needed for a majority<br/>Opinion poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 10–17 August 2020<br/>Details on https://filipvanlaenen.github.io/estonian_ep_polls/2020-08-17-Norstat.html<br/><img src="https://filipvanlaenen.github.io/estonian_ep_polls/2020-08-17-Norstat-seating-plan.png"/>]]></description>
@@ -172,78 +196,6 @@
       <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2020-07-13-Norstat.png" length="292700" type="image/png"/>
       <pubDate>Wed, 22 Jul 2020 19:16:51 +0200</pubDate>
       <dc:date>2020-07-22T19:16:51.165721+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 29–6 July 2020 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/estonian_ep_polls/2020-07-06-Norstat.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>4 seats needed for a majority<br/>Opinion poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 29–6 July 2020<br/>Details on https://filipvanlaenen.github.io/estonian_ep_polls/2020-07-06-Norstat.html<br/><img src="https://filipvanlaenen.github.io/estonian_ep_polls/2020-07-06-Norstat-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2020-07-06-Norstat-seating-plan.png" length="382967" type="image/png"/>
-      <pubDate>Wed, 15 Jul 2020 21:11:34 +0200</pubDate>
-      <dc:date>2020-07-15T21:11:34.601299+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 29–6 July 2020 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/estonian_ep_polls/2020-07-06-Norstat.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>4 seats needed for a majority<br/>Opinion poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 29–6 July 2020<br/>Details on https://filipvanlaenen.github.io/estonian_ep_polls/2020-07-06-Norstat.html<br/><img src="https://filipvanlaenen.github.io/estonian_ep_polls/2020-07-06-Norstat-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2020-07-06-Norstat-seats.png" length="247780" type="image/png"/>
-      <pubDate>Wed, 15 Jul 2020 21:11:34 +0200</pubDate>
-      <dc:date>2020-07-15T21:11:34.601299+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 29–6 July 2020 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/estonian_ep_polls/2020-07-06-Norstat.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 29–6 July 2020<br/>Details on https://filipvanlaenen.github.io/estonian_ep_polls/2020-07-06-Norstat.html<br/><img src="https://filipvanlaenen.github.io/estonian_ep_polls/2020-07-06-Norstat.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2020-07-06-Norstat.png" length="294881" type="image/png"/>
-      <pubDate>Wed, 15 Jul 2020 21:11:34 +0200</pubDate>
-      <dc:date>2020-07-15T21:11:34.601299+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Kantar Emor for BNS and Postimees, 1–30 June 2020 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/estonian_ep_polls/2020-06-30-KantarEmor.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>4 seats needed for a majority<br/>Opinion poll by Kantar Emor for BNS and Postimees, 1–30 June 2020<br/>Details on https://filipvanlaenen.github.io/estonian_ep_polls/2020-06-30-KantarEmor.html<br/><img src="https://filipvanlaenen.github.io/estonian_ep_polls/2020-06-30-KantarEmor-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2020-06-30-KantarEmor-seating-plan.png" length="412381" type="image/png"/>
-      <pubDate>Sat, 4 Jul 2020 09:17:49 +0200</pubDate>
-      <dc:date>2020-07-04T09:17:49.664134+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Kantar Emor for BNS and Postimees, 1–30 June 2020 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/estonian_ep_polls/2020-06-30-KantarEmor.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>4 seats needed for a majority<br/>Opinion poll by Kantar Emor for BNS and Postimees, 1–30 June 2020<br/>Details on https://filipvanlaenen.github.io/estonian_ep_polls/2020-06-30-KantarEmor.html<br/><img src="https://filipvanlaenen.github.io/estonian_ep_polls/2020-06-30-KantarEmor-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2020-06-30-KantarEmor-seats.png" length="222102" type="image/png"/>
-      <pubDate>Sat, 4 Jul 2020 09:17:49 +0200</pubDate>
-      <dc:date>2020-07-04T09:17:49.664134+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Kantar Emor for BNS and Postimees, 1–30 June 2020 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/estonian_ep_polls/2020-06-30-KantarEmor.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Kantar Emor for BNS and Postimees, 1–30 June 2020<br/>Details on https://filipvanlaenen.github.io/estonian_ep_polls/2020-06-30-KantarEmor.html<br/><img src="https://filipvanlaenen.github.io/estonian_ep_polls/2020-06-30-KantarEmor.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2020-06-30-KantarEmor.png" length="291156" type="image/png"/>
-      <pubDate>Sat, 4 Jul 2020 09:17:49 +0200</pubDate>
-      <dc:date>2020-07-04T09:17:49.664134+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 16–22 June 2020 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/estonian_ep_polls/2020-06-22-Norstat.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>4 seats needed for a majority<br/>Opinion poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 16–22 June 2020<br/>Details on https://filipvanlaenen.github.io/estonian_ep_polls/2020-06-22-Norstat.html<br/><img src="https://filipvanlaenen.github.io/estonian_ep_polls/2020-06-22-Norstat-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2020-06-22-Norstat-seating-plan.png" length="385532" type="image/png"/>
-      <pubDate>Mon, 6 Jul 2020 21:55:18 +0200</pubDate>
-      <dc:date>2020-07-06T21:55:18.469981+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 16–22 June 2020 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/estonian_ep_polls/2020-06-22-Norstat.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>4 seats needed for a majority<br/>Opinion poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 16–22 June 2020<br/>Details on https://filipvanlaenen.github.io/estonian_ep_polls/2020-06-22-Norstat.html<br/><img src="https://filipvanlaenen.github.io/estonian_ep_polls/2020-06-22-Norstat-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2020-06-22-Norstat-seats.png" length="251715" type="image/png"/>
-      <pubDate>Mon, 6 Jul 2020 21:55:18 +0200</pubDate>
-      <dc:date>2020-07-06T21:55:18.469981+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 16–22 June 2020 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/estonian_ep_polls/2020-06-22-Norstat.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 16–22 June 2020<br/>Details on https://filipvanlaenen.github.io/estonian_ep_polls/2020-06-22-Norstat.html<br/><img src="https://filipvanlaenen.github.io/estonian_ep_polls/2020-06-22-Norstat.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2020-06-22-Norstat.png" length="297477" type="image/png"/>
-      <pubDate>Mon, 6 Jul 2020 21:55:18 +0200</pubDate>
-      <dc:date>2020-07-06T21:55:18.469981+02:00</dc:date>
     </item>
   </channel>
 </rss>
