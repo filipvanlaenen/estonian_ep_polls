@@ -10,7 +10,7 @@ Last result: **4.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17.3% | 15.4–21.5% | 15.0–22.1% | 14.6–22.7% | 13.9–23.6% |
+| N/A | [Poll Average](average.html) | 16.7% | 13.3–21.5% | 12.7–22.1% | 12.3–22.7% | 11.6–23.6% |
 | [9–15 September 2020](2020-09-15-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 13.8% | 12.5–15.3% | 12.1–15.7% | 11.8–16.1% | 11.2–16.8% |
 | [2–9 September 2020](2020-09-09-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 15.6% | 14.2–17.2% | 13.8–17.6% | 13.5–18.0% | 12.8–18.7% |
 | [25–31 August 2020](2020-08-31-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 16.4% | 15.0–18.0% | 14.6–18.4% | 14.2–18.8% | 13.6–19.6% |
@@ -117,15 +117,15 @@ The following table shows the probability mass function per percentage block of 
 | 7.5–8.5% | 0% | 100% |  |
 | 8.5–9.5% | 0% | 100% |  |
 | 9.5–10.5% | 0% | 100% |  |
-| 10.5–11.5% | 0% | 100% |  |
-| 11.5–12.5% | 0% | 100% |  |
-| 12.5–13.5% | 0.2% | 100% |  |
-| 13.5–14.5% | 2% | 99.8% |  |
-| 14.5–15.5% | 10% | 98% |  |
-| 15.5–16.5% | 21% | 88% |  |
-| 16.5–17.5% | 21% | 67% | Median |
-| 17.5–18.5% | 11% | 46% |  |
-| 18.5–19.5% | 7% | 35% |  |
+| 10.5–11.5% | 0.4% | 100% |  |
+| 11.5–12.5% | 3% | 99.6% |  |
+| 12.5–13.5% | 9% | 96% |  |
+| 13.5–14.5% | 12% | 87% |  |
+| 14.5–15.5% | 10% | 75% |  |
+| 15.5–16.5% | 12% | 64% |  |
+| 16.5–17.5% | 12% | 52% | Median |
+| 17.5–18.5% | 7% | 40% |  |
+| 18.5–19.5% | 6% | 33% |  |
 | 19.5–20.5% | 9% | 28% |  |
 | 20.5–21.5% | 10% | 19% |  |
 | 21.5–22.5% | 6% | 9% |  |
@@ -246,8 +246,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 67% | 100% | Median |
-| 2 | 33% | 33% |  |
+| 1 | 71% | 100% | Median |
+| 2 | 29% | 29% |  |
 | 3 | 0% | 0% |  |
 
 

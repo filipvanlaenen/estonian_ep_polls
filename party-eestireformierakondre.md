@@ -10,7 +10,7 @@ Last result: **24.3%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 29.4% | 23.3–34.3% | 22.6–35.1% | 22.1–35.7% | 21.1–36.8% |
+| N/A | [Poll Average](average.html) | 29.4% | 23.3–33.3% | 22.6–34.1% | 22.1–34.7% | 21.1–35.8% |
 | [9–15 September 2020](2020-09-15-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 32.5% | 30.6–34.4% | 30.1–35.0% | 29.7–35.5% | 28.8–36.4% |
 | [2–9 September 2020](2020-09-09-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 33.6% | 31.7–35.6% | 31.2–36.1% | 30.7–36.6% | 29.9–37.5% |
 | [25–31 August 2020](2020-08-31-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 33.5% | 31.6–35.5% | 31.1–36.0% | 30.6–36.5% | 29.8–37.4% |
@@ -121,16 +121,15 @@ The following table shows the probability mass function per percentage block of 
 | 26.5–27.5% | 3% | 67% |  |
 | 27.5–28.5% | 6% | 65% |  |
 | 28.5–29.5% | 10% | 59% | Median |
-| 29.5–30.5% | 10% | 49% |  |
-| 30.5–31.5% | 7% | 39% |  |
-| 31.5–32.5% | 7% | 32% |  |
-| 32.5–33.5% | 9% | 25% |  |
-| 33.5–34.5% | 8% | 16% |  |
-| 34.5–35.5% | 5% | 8% |  |
-| 35.5–36.5% | 2% | 3% |  |
-| 36.5–37.5% | 0.6% | 0.7% |  |
-| 37.5–38.5% | 0.1% | 0.1% |  |
-| 38.5–39.5% | 0% | 0% |  |
+| 29.5–30.5% | 11% | 48% |  |
+| 30.5–31.5% | 10% | 37% |  |
+| 31.5–32.5% | 10% | 27% |  |
+| 32.5–33.5% | 8% | 17% |  |
+| 33.5–34.5% | 5% | 8% |  |
+| 34.5–35.5% | 2% | 3% |  |
+| 35.5–36.5% | 0.6% | 0.7% |  |
+| 36.5–37.5% | 0.1% | 0.1% |  |
+| 37.5–38.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -141,7 +140,7 @@ Last result: **2** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
+| N/A | [Poll Average](average.html) | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [9–15 September 2020](2020-09-15-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 3 | 3 | 3 | 3 | 2–4 |
 | [2–9 September 2020](2020-09-09-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [25–31 August 2020](2020-08-31-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -244,9 +243,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0.1% | 100% |  |
-| 2 | 35% | 99.9% | Last Result |
-| 3 | 60% | 65% | Median |
-| 4 | 5% | 5% | Majority |
+| 2 | 36% | 99.9% | Last Result |
+| 3 | 64% | 64% | Median |
+| 4 | 0.5% | 0.5% | Majority |
 | 5 | 0% | 0% |  |
 
 

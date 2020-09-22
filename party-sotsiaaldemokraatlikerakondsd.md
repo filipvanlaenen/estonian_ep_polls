@@ -10,7 +10,7 @@ Last result: **13.6%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10.5% | 8.5–13.3% | 8.0–13.8% | 7.7–14.2% | 7.1–14.9% |
+| N/A | [Poll Average](average.html) | 10.6% | 8.6–13.3% | 8.2–13.8% | 7.9–14.2% | 7.3–14.9% |
 | [9–15 September 2020](2020-09-15-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 9.1% | 8.0–10.4% | 7.7–10.7% | 7.5–11.1% | 7.0–11.7% |
 | [2–9 September 2020](2020-09-09-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 8.4% | 7.4–9.6% | 7.1–10.0% | 6.8–10.3% | 6.4–10.9% |
 | [25–31 August 2020](2020-08-31-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 8.9% | 7.8–10.2% | 7.5–10.5% | 7.3–10.8% | 6.8–11.5% |
@@ -110,11 +110,11 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 5.5–6.5% | 0.1% | 100% |  |
-| 6.5–7.5% | 2% | 99.9% |  |
-| 7.5–8.5% | 10% | 98% |  |
-| 8.5–9.5% | 19% | 89% |  |
-| 9.5–10.5% | 20% | 69% |  |
+| 5.5–6.5% | 0% | 100% |  |
+| 6.5–7.5% | 1.0% | 100% |  |
+| 7.5–8.5% | 8% | 99.0% |  |
+| 8.5–9.5% | 19% | 91% |  |
+| 9.5–10.5% | 21% | 72% |  |
 | 10.5–11.5% | 15% | 50% | Median |
 | 11.5–12.5% | 14% | 35% |  |
 | 12.5–13.5% | 14% | 21% |  |
@@ -234,8 +234,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 22% | 100% |  |
-| 1 | 78% | 78% | Last Result, Median |
+| 0 | 28% | 100% |  |
+| 1 | 72% | 72% | Last Result, Median |
 | 2 | 0% | 0% |  |
 
 
