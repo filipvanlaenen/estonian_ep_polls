@@ -6,6 +6,7 @@ The table below lists all polls registered and analyzed so far.
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 24.3% <br> 2 | 22.4% <br> 1 | 13.9% <br> 1 | 13.6% <br> 1 | 4.0% <br> 0 | 0.3% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 | [15–21 September 2020](2020-09-21-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 32–38% <br> 3–4 | 19–24% <br> 2 | 4–6% <br> 0 | 7–10% <br> 0–1 | 12–17% <br> 1 | 2–4% <br> 0 | 1–2% <br> 0 | 7–10% <br> 0–1 | N/A <br> N/A |
+| [7–17 September 2020](2020-09-17-Turu-uuringuteAS.html) | Turu-uuringute AS | 24–30% <br> 2–3 | 21–27% <br> 2–3 | 4–7% <br> 0 | 9–13% <br> 1 | 14–18% <br> 1–2 | 2–4% <br> 0 | 2–4% <br> 0 | 7–11% <br> 0–1 | N/A <br> N/A |
 | [9–15 September 2020](2020-09-15-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 30–35% <br> 3 | 20–25% <br> 2 | 5–7% <br> 0 | 7–11% <br> 0–1 | 12–16% <br> 1 | 2–4% <br> 0 | 1–2% <br> 0 | 8–12% <br> 0–1 | N/A <br> N/A |
 | [2–9 September 2020](2020-09-09-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 31–37% <br> 3–4 | 24–29% <br> 2–3 | 3–6% <br> 0 | 7–10% <br> 0–1 | 13–18% <br> 1–2 | 1–3% <br> 0 | N/A <br> N/A | 7–10% <br> 0–1 | N/A <br> N/A |
 | [25–31 August 2020](2020-08-31-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 31–36% <br> 3–4 | 22–28% <br> 2–3 | 3–6% <br> 0 | 7–11% <br> 0–1 | 14–19% <br> 1–2 | 2–5% <br> 0 | N/A <br> N/A | 6–10% <br> 0–1 | N/A <br> N/A |
