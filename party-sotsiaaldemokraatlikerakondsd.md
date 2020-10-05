@@ -10,7 +10,9 @@ Last result: **13.6%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11.0% | 7.8–13.3% | 7.4–13.8% | 7.1–14.2% | 6.5–14.9% |
+| N/A | [Poll Average](average.html) | 11.8% | 10.4–13.2% | 10.0–13.6% | 9.6–13.9% | 9.0–14.6% |
+| [1–30 September 2020](2020-09-30-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 12.0% | 10.9–13.2% | 10.6–13.6% | 10.3–13.9% | 9.8–14.5% |
+| [23–28 September 2020](2020-09-28-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 12.1% | 10.9–13.5% | 10.5–13.9% | 10.2–14.3% | 9.7–15.0% |
 | [15–21 September 2020](2020-09-21-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 8.2% | 7.2–9.4% | 6.9–9.8% | 6.6–10.1% | 6.2–10.7% |
 | [7–17 September 2020](2020-09-17-Turu-uuringuteAS.html) | Turu-uuringute AS | 11.0% | 9.8–12.3% | 9.5–12.7% | 9.2–13.1% | 8.7–13.7% |
 | [9–15 September 2020](2020-09-15-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 9.1% | 8.0–10.4% | 7.7–10.7% | 7.5–11.1% | 7.0–11.7% |
@@ -112,19 +114,16 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 0.6% | 100% |  |
-| 6.5–7.5% | 6% | 99.4% |  |
-| 7.5–8.5% | 14% | 93% |  |
-| 8.5–9.5% | 12% | 79% |  |
-| 9.5–10.5% | 11% | 67% |  |
-| 10.5–11.5% | 16% | 57% | Median |
-| 11.5–12.5% | 18% | 41% |  |
-| 12.5–13.5% | 15% | 23% |  |
-| 13.5–14.5% | 6% | 8% | Last Result |
-| 14.5–15.5% | 1.1% | 1.2% |  |
-| 15.5–16.5% | 0.1% | 0.1% |  |
-| 16.5–17.5% | 0% | 0% |  |
+| 6.5–7.5% | 0% | 100% |  |
+| 7.5–8.5% | 0.1% | 100% |  |
+| 8.5–9.5% | 2% | 99.9% |  |
+| 9.5–10.5% | 11% | 98% |  |
+| 10.5–11.5% | 29% | 87% |  |
+| 11.5–12.5% | 34% | 58% | Median |
+| 12.5–13.5% | 19% | 24% |  |
+| 13.5–14.5% | 5% | 5% | Last Result |
+| 14.5–15.5% | 0.6% | 0.6% |  |
+| 15.5–16.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -135,7 +134,9 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1 | 0–1 |
+| [1–30 September 2020](2020-09-30-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 1 | 1 | 1 | 1 | 1 |
+| [23–28 September 2020](2020-09-28-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1 | 1 | 1 | 1 | 1 |
 | [15–21 September 2020](2020-09-21-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [7–17 September 2020](2020-09-17-Turu-uuringuteAS.html) | Turu-uuringute AS | 1 | 1 | 1 | 1 | 0–1 |
 | [9–15 September 2020](2020-09-15-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -239,8 +240,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 24% | 100% |  |
-| 1 | 76% | 76% | Last Result, Median |
+| 0 | 0.7% | 100% |  |
+| 1 | 99.3% | 99.3% | Last Result, Median |
 | 2 | 0% | 0% |  |
 
 
