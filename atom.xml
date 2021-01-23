@@ -6,7 +6,23 @@
   </author>
   <id>https://filipvanlaenen.github.io/estonian_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2021-01-18T17:54:34.431737+01:00</updated>
+  <updated>2021-01-23T14:37:41.850409+01:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Eesti Reformierakond (RE): 24.6–29.6%, 2–3 seats</li><li>Eesti Keskerakond (RE): 16.9–21.3%, 1–2 seats</li><li>Sotsiaaldemokraatlik Erakond (S&amp;D): 7.5–10.8%, 0–1 seats</li><li>Erakond Isamaa (EPP): 6.6–9.7%, 0–1 seats</li><li>Eesti Vabaerakond (*): 0.6–1.7%, 0 seats</li><li>Eesti Konservatiivne Rahvaerakond (ID): 12.2–16.1%, 1 seats</li><li>Erakond Eestimaa Rohelised (Greens/EFA): 3.0–5.3%, 0 seats</li><li>Eesti 200 (RE): 15.0–19.2%, 1–2 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/estonian_ep_polls/2021-01-19-KantarEmor.html</id>
+    <link href="https://filipvanlaenen.github.io/estonian_ep_polls/2021-01-19-KantarEmor.html"/>
+    <title>Opinion Poll by Kantar Emor for BNS and PostimeesA, 14–19 January 2021</title>
+    <updated>2021-01-23T14:37:41.850409+01:00</updated>
+    <dc:date>2021-01-23T14:37:41.850409+01:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Eesti Reformierakond (RE): 26.0–31.6%, 2–3 seats</li><li>Eesti Keskerakond (RE): 19.3–24.5%, 2 seats</li><li>Sotsiaaldemokraatlik Erakond (S&amp;D): 6.0–9.3%, 0–1 seats</li><li>Erakond Isamaa (EPP): 5.6–8.8%, 0 seats</li><li>Eesti Konservatiivne Rahvaerakond (ID): 14.1–18.7%, 1–2 seats</li><li>Erakond Eestimaa Rohelised (Greens/EFA): 1.9–3.9%, 0 seats</li><li>Eesti 200 (RE): 12.2–16.5%, 1 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/estonian_ep_polls/2021-01-18-Norstat.html</id>
+    <link href="https://filipvanlaenen.github.io/estonian_ep_polls/2021-01-18-Norstat.html"/>
+    <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 12–18 January 2021</title>
+    <updated>2021-01-23T12:50:45.167655+01:00</updated>
+    <dc:date>2021-01-23T12:50:45.167655+01:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Eesti Reformierakond (RE): 26.7–32.4%, 2–3 seats</li><li>Eesti Keskerakond (RE): 18.5–23.5%, 1–2 seats</li><li>Sotsiaaldemokraatlik Erakond (S&amp;D): 7.1–10.6%, 0–1 seats</li><li>Erakond Isamaa (EPP): 4.0–6.8%, 0 seats</li><li>Eesti Konservatiivne Rahvaerakond (ID): 13.0–17.5%, 1 seats</li><li>Erakond Eestimaa Rohelised (Greens/EFA): 1.2–3.0%, 0 seats</li><li>Eesti 200 (RE): 13.1–17.6%, 1 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/estonian_ep_polls/2021-01-11-Norstat.html</id>
@@ -935,5 +951,5 @@
     <updated>2020-07-14T17:37:58.463586+02:00</updated>
     <dc:date>2020-07-14T17:37:58.463586+02:00</dc:date>
   </entry>
-  <dc:date>2021-01-18T17:54:34.431737+01:00</dc:date>
+  <dc:date>2021-01-23T14:37:41.850409+01:00</dc:date>
 </feed>
