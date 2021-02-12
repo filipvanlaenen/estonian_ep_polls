@@ -10,7 +10,8 @@ Last result: **13.6%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.7% | 6.3–9.5% | 6.0–10.0% | 5.7–10.3% | 5.2–11.0% |
+| N/A | [Poll Average](average.html) | 7.5% | 4.7–9.5% | 4.4–10.0% | 4.1–10.3% | 3.7–11.0% |
+| [2–8 February 2021](2021-02-08-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 5.0% | 4.2–6.0% | 4.0–6.3% | 3.8–6.5% | 3.5–7.0% |
 | [26 January–1 February 2021](2021-02-01-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 6.8% | 5.9–7.9% | 5.6–8.3% | 5.4–8.5% | 5.0–9.1% |
 | [18–25 January 2021](2021-01-25-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 4.6% | 3.9–5.6% | 3.6–5.8% | 3.5–6.1% | 3.1–6.6% |
 | [12–21 January 2021](2021-01-21-Turu-uuringuteAS.html) | Turu-uuringute AS | 7.4% | 6.5–8.6% | 6.2–8.9% | 6.0–9.2% | 5.5–9.8% |
@@ -139,12 +140,14 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 1.5% | 100% |  |
-| 5.5–6.5% | 14% | 98.5% |  |
-| 6.5–7.5% | 29% | 84% |  |
-| 7.5–8.5% | 26% | 55% | Median |
-| 8.5–9.5% | 19% | 29% |  |
+| 1.5–2.5% | 0% | 100% |  |
+| 2.5–3.5% | 0.2% | 100% |  |
+| 3.5–4.5% | 7% | 99.8% |  |
+| 4.5–5.5% | 18% | 92% |  |
+| 5.5–6.5% | 11% | 75% |  |
+| 6.5–7.5% | 15% | 64% | Median |
+| 7.5–8.5% | 20% | 48% |  |
+| 8.5–9.5% | 19% | 28% |  |
 | 9.5–10.5% | 8% | 10% |  |
 | 10.5–11.5% | 1.4% | 1.4% |  |
 | 11.5–12.5% | 0.1% | 0.1% |  |
@@ -161,6 +164,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [2–8 February 2021](2021-02-08-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 0 | 0 | 0 | 0 | 0 |
 | [26 January–1 February 2021](2021-02-01-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 0 | 0 | 0 | 0 | 0 |
 | [18–25 January 2021](2021-01-25-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 0 | 0 | 0 | 0 | 0 |
 | [12–21 January 2021](2021-01-21-Turu-uuringuteAS.html) | Turu-uuringute AS | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
