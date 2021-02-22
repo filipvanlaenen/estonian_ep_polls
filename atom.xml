@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/estonian_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2021-02-20T18:17:56.554576+01:00</updated>
+  <updated>2021-02-20T23:06:47.94232+01:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Eesti Reformierakond (RE): 30.4–36.3%, 3 seats</li><li>Eesti Keskerakond (RE): 17.0–21.9%, 1–2 seats</li><li>Sotsiaaldemokraatlik Erakond (S&amp;D): 5.0–8.0%, 0 seats</li><li>Erakond Isamaa (EPP): 4.1–6.9%, 0 seats</li><li>Eesti Konservatiivne Rahvaerakond (ID): 16.3–21.1%, 1–2 seats</li><li>Eesti 200 (RE): 12.0–16.3%, 1 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/estonian_ep_polls/2021-02-17-Norstat.html</id>
@@ -14,6 +14,22 @@
     <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 17 February 2021</title>
     <updated>2021-02-19T10:35:37.325952+01:00</updated>
     <dc:date>2021-02-19T10:35:37.325952+01:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Eesti Reformierakond (RE): 25.3–30.8%, 2–3 seats</li><li>Eesti Keskerakond (RE): 14.8–19.5%, 1–2 seats</li><li>Sotsiaaldemokraatlik Erakond (S&amp;D): 5.5–8.7%, 0 seats</li><li>Erakond Isamaa (EPP): 4.7–7.6%, 0 seats</li><li>Eesti Konservatiivne Rahvaerakond (ID): 17.6–22.6%, 1–2 seats</li><li>Erakond Eestimaa Rohelised (Greens/EFA): 1.3–3.1%, 0 seats</li><li>Eesti 200 (RE): 13.9–18.4%, 1–2 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/estonian_ep_polls/2021-02-15-Turu-uuringuteAS.html</id>
+    <link href="https://filipvanlaenen.github.io/estonian_ep_polls/2021-02-15-Turu-uuringuteAS.html"/>
+    <title>Opinion Poll by Turu-uuringute AS, 10–15 February 2021</title>
+    <updated>2021-02-20T20:04:38.026894+01:00</updated>
+    <dc:date>2021-02-20T20:04:38.026894+01:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Eesti Reformierakond (RE): 32.3–38.2%, 3–4 seats</li><li>Eesti Keskerakond (RE): 13.4–17.9%, 1 seats</li><li>Sotsiaaldemokraatlik Erakond (S&amp;D): 6.1–9.4%, 0 seats</li><li>Erakond Isamaa (EPP): 3.6–6.3%, 0 seats</li><li>Eesti Konservatiivne Rahvaerakond (ID): 17.8–22.8%, 1–2 seats</li><li>Erakond Eestimaa Rohelised (Greens/EFA): 1.2–3.0%, 0 seats</li><li>Eesti 200 (RE): 11.7–16.0%, 1 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/estonian_ep_polls/2021-02-15-Norstat.html</id>
+    <link href="https://filipvanlaenen.github.io/estonian_ep_polls/2021-02-15-Norstat.html"/>
+    <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 9–15 February 2021</title>
+    <updated>2021-02-20T23:06:47.94232+01:00</updated>
+    <dc:date>2021-02-20T23:06:47.94232+01:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Eesti Reformierakond (RE): 27.4–32.7%, 2–3 seats</li><li>Eesti Keskerakond (RE): 14.9–19.3%, 1–2 seats</li><li>Sotsiaaldemokraatlik Erakond (S&amp;D): 7.5–10.8%, 0–1 seats</li><li>Erakond Isamaa (EPP): 3.9–6.4%, 0 seats</li><li>Eesti Konservatiivne Rahvaerakond (ID): 17.8–22.5%, 1–2 seats</li><li>Erakond Eestimaa Rohelised (Greens/EFA): 1.3–3.0%, 0 seats</li><li>Eesti 200 (RE): 13.1–17.3%, 1 seats</li></ul></div></content>
@@ -999,5 +1015,5 @@
     <updated>2020-07-14T17:37:58.463586+02:00</updated>
     <dc:date>2020-07-14T17:37:58.463586+02:00</dc:date>
   </entry>
-  <dc:date>2021-02-20T18:17:56.554576+01:00</dc:date>
+  <dc:date>2021-02-20T23:06:47.94232+01:00</dc:date>
 </feed>
