@@ -232,8 +232,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 11% | 100% | Last Result |
-| 3 | 89% | 89% | Median |
+| 2 | 12% | 100% | Last Result |
+| 3 | 88% | 88% | Median |
 | 4 | 0.3% | 0.3% | Majority |
 | 5 | 0% | 0% |  |
 
@@ -245,8 +245,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 68% | 100% | Last Result, Median |
-| 2 | 32% | 32% |  |
+| 1 | 67% | 100% | Last Result, Median |
+| 2 | 33% | 33% |  |
 | 3 | 0% | 0% |  |
 
 ### Erakond Isamaa (EPP)
@@ -343,8 +343,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0% | 100% | Last Result |
-| 4 | 4% | 100% | Majority |
-| 5 | 68% | 96% | Median |
+| 4 | 5% | 100% | Majority |
+| 5 | 68% | 95% | Median |
 | 6 | 28% | 28% |  |
 | 7 | 0% | 0% |  |
 
@@ -398,6 +398,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 3
-+ **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 2,228,224
-+ **Error estimate:** 1.97%
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 3,145,728
++ **Error estimate:** 1.95%
