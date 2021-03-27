@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/estonian_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2021-03-20T23:35:50.65815+01:00</updated>
+  <updated>2021-03-27T13:33:30.958664+01:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Eesti Reformierakond (RE): 30.4–36.3%, 3–4 seats</li><li>Eesti Keskerakond (RE): 17.1–22.0%, 1–2 seats</li><li>Sotsiaaldemokraatlik Erakond (S&amp;D): 5.2–8.3%, 0 seats</li><li>Erakond Isamaa (EPP): 5.2–8.3%, 0 seats</li><li>Eesti Konservatiivne Rahvaerakond (ID): 15.5–20.2%, 1–2 seats</li><li>Erakond Eestimaa Rohelised (Greens/EFA): 1.7–3.7%, 0 seats</li><li>Eesti 200 (RE): 10.3–14.4%, 1 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/estonian_ep_polls/2021-03-22-Norstat.html</id>
+    <link href="https://filipvanlaenen.github.io/estonian_ep_polls/2021-03-22-Norstat.html"/>
+    <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 17–22 March 2021</title>
+    <updated>2021-03-27T13:33:30.958664+01:00</updated>
+    <dc:date>2021-03-27T13:33:30.958664+01:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Eesti Reformierakond (RE): 25.5–30.7%, 2–3 seats</li><li>Eesti Keskerakond (RE): 15.9–20.4%, 1–2 seats</li><li>Sotsiaaldemokraatlik Erakond (S&amp;D): 7.4–10.8%, 0–1 seats</li><li>Erakond Isamaa (EPP): 3.9–6.5%, 0 seats</li><li>Eesti Konservatiivne Rahvaerakond (ID): 16.8–21.4%, 1–2 seats</li><li>Erakond Eestimaa Rohelised (Greens/EFA): 3.0–5.4%, 0 seats</li><li>Eesti 200 (RE): 13.9–18.3%, 1–2 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/estonian_ep_polls/2021-03-16-KantarEmor.html</id>
@@ -1063,5 +1071,5 @@
     <updated>2020-07-14T17:37:58.463586+02:00</updated>
     <dc:date>2020-07-14T17:37:58.463586+02:00</dc:date>
   </entry>
-  <dc:date>2021-03-20T23:35:50.65815+01:00</dc:date>
+  <dc:date>2021-03-27T13:33:30.958664+01:00</dc:date>
 </feed>
