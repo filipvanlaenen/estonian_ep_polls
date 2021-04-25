@@ -183,7 +183,7 @@ Last result: **2** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [15–21 April 2021](2021-04-21-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [13–19 April 2021](2021-04-19-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [13–19 April 2021](2021-04-19-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 3 | 3 | 2–3 | 2–3 | 2–3 |
 | [8–14 April 2021](2021-04-14-Turu-uuringuteAS.html) | Turu-uuringute AS | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [7–12 April 2021](2021-04-12-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 3 | 3 | 2–3 | 2–3 | 2–3 |
 | [30 March–5 April 2021](2021-04-05-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 3 | 3 | 3 | 3 | 2–4 |
@@ -330,8 +330,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 55% | 100% | Last Result, Median |
-| 3 | 45% | 45% |  |
+| 2 | 52% | 100% | Last Result, Median |
+| 3 | 48% | 48% |  |
 | 4 | 0% | 0% | Majority |
 
 
