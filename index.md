@@ -5,10 +5,10 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | Ref | Kesk | Isamaa | SDE | EKRE | Rohelised | EVA | E200 | Kaljulaid |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 24.3% <br> 2 | 22.4% <br> 1 | 13.9% <br> 1 | 13.6% <br> 1 | 4.0% <br> 0 | 0.3% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 24–32% <br> 2–3 | 14–22% <br> 1–2 | 4–8% <br> 0 | 7–12% <br> 0–1 | 17–23% <br> 1–2 | 1–4% <br> 0 | N/A <br> N/A | 13–18% <br> 1 | N/A <br> N/A |
+| N/A | [Poll Average](average.html) | 24–34% <br> 2–3 | 14–22% <br> 1–2 | 4–8% <br> 0 | 6–12% <br> 0–1 | 17–23% <br> 1–2 | 2–4% <br> 0 | N/A <br> N/A | 12–18% <br> 1 | N/A <br> N/A |
+| [19–25 May 2021](2021-05-25-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 29–35% <br> 2–3 | 16–20% <br> 1–2 | 4–7% <br> 0 | 6–9% <br> 0 | 18–23% <br> 1–2 | 2–4% <br> 0 | N/A <br> N/A | 12–16% <br> 1 | N/A <br> N/A |
 | [12–18 May 2021](2021-05-18-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 25–30% <br> 2–3 | 14–18% <br> 1 | 5–9% <br> 0 | 9–13% <br> 0–1 | 16–21% <br> 1–2 | 2–4% <br> 0 | N/A <br> N/A | 14–18% <br> 1 | N/A <br> N/A |
 | [6–11 May 2021](2021-05-11-Turu-uuringuteAS.html) | Turu-uuringute AS | 23–29% <br> 2–3 | 18–23% <br> 1–2 | 4–7% <br> 0 | 6–10% <br> 0–1 | 19–24% <br> 1–2 | 1–3% <br> 0 | N/A <br> N/A | 13–17% <br> 1 | N/A <br> N/A |
-| [4–10 May 2021](2021-05-10-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 28–33% <br> 2–3 | 16–21% <br> 1–2 | 3–6% <br> 0 | 7–10% <br> 0–1 | 18–23% <br> 1–2 | 1–2% <br> 0 | N/A <br> N/A | 13–18% <br> 1 | N/A <br> N/A |
 | 26 May 2019 | General Election | 24.3% <br> 2 | 22.4% <br> 1 | 13.9% <br> 1 | 13.6% <br> 1 | 4.0% <br> 0 | 0.3% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
