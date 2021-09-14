@@ -10,7 +10,7 @@ The table below lists the polls on which the average is based. They are the most
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 24.3% <br> 2 | 22.4% <br> 1 | 13.9% <br> 1 | 13.6% <br> 1 | 4.0% <br> 0 | 0.3% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 | N/A | Poll Average | 22–27% <br> 2–3 | 14–21% <br> 1–2 | 3–10% <br> 0–1 | 6–12% <br> 0–1 | 19–27% <br> 2 | 2–5% <br> 0 | N/A <br> N/A | 11–18% <br> 1–2 | N/A <br> N/A |
-| [1–7 September 2021](2021-09-07-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 22–27% <br> 2–3 | 17–22% <br> 1–2 | 7–10% <br> 0–1 | 6–9% <br> 0 | 22–27% <br> 2 | 2–4% <br> 0 | N/A <br> N/A | 11–15% <br> 1 | N/A <br> N/A |
+| [1–7 September 2021](2021-09-07-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 22–27% <br> 2–3 | 17–22% <br> 1–2 | 7–10% <br> 0–1 | 6–9% <br> 0 | 22–27% <br> 2–3 | 2–4% <br> 0 | N/A <br> N/A | 11–15% <br> 1 | N/A <br> N/A |
 | [12–17 August 2021](2021-08-17-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 23–28% <br> 2 | 14–18% <br> 1 | 3–5% <br> 0 | 9–13% <br> 1 | 22–27% <br> 2 | 3–5% <br> 0 | N/A <br> N/A | 13–17% <br> 1 | N/A <br> N/A |
 | [5–13 August 2021](2021-08-13-Turu-uuringuteAS.html) | Turu-uuringute AS | 21–27% <br> 2–3 | 15–19% <br> 1–2 | 4–7% <br> 0 | 7–11% <br> 0–1 | 19–24% <br> 2 | 3–5% <br> 0 | N/A <br> N/A | 14–18% <br> 1–2 | N/A <br> N/A |
 | 26 May 2019 | General Election | 24.3% <br> 2 | 22.4% <br> 1 | 13.9% <br> 1 | 13.6% <br> 1 | 4.0% <br> 0 | 0.3% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
@@ -285,8 +285,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0.3% | 100% |  |
-| 2 | 98.8% | 99.7% | Median |
-| 3 | 0.9% | 0.9% |  |
+| 2 | 98% | 99.7% | Median |
+| 3 | 1.2% | 1.2% |  |
 | 4 | 0% | 0% | Majority |
 
 ### Erakond Eestimaa Rohelised (Greens/EFA)
@@ -359,8 +359,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0.3% | 100% |  |
-| 2 | 98.8% | 99.7% | Median |
-| 3 | 0.9% | 0.9% |  |
+| 2 | 98% | 99.7% | Median |
+| 3 | 1.2% | 1.2% |  |
 | 4 | 0% | 0% | Majority |
 
 ### Erakond Isamaa (EPP)
@@ -403,6 +403,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 3
-+ **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 2,228,224
-+ **Error estimate:** 1.54%
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 3,145,728
++ **Error estimate:** 1.28%
