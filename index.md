@@ -5,10 +5,10 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | Ref | Kesk | Isamaa | SDE | EKRE | Rohelised | EVA | E200 | Kaljulaid |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 24.3% <br> 2 | 22.4% <br> 1 | 13.9% <br> 1 | 13.6% <br> 1 | 4.0% <br> 0 | 0.3% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 22–27% <br> 2–3 | 14–19% <br> 1–2 | 3–9% <br> 0–1 | 6–12% <br> 0–1 | 20–28% <br> 2–3 | 2–5% <br> 0 | N/A <br> N/A | 12–18% <br> 1–2 | N/A <br> N/A |
-| [14–20 September 2021](2021-09-20-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 22–27% <br> 2 | 13–18% <br> 1 | 5–8% <br> 0 | 8–12% <br> 0–1 | 23–29% <br> 2–3 | 1–3% <br> 0 | N/A <br> N/A | 12–16% <br> 1 | N/A <br> N/A |
-| [6–15 September 2021](2021-09-15-Turu-uuringuteAS.html) | Turu-uuringute AS | 21–27% <br> 2–3 | 15–20% <br> 1–2 | 6–10% <br> 0–1 | 6–9% <br> 0–1 | 20–25% <br> 2 | 2–4% <br> 0 | N/A <br> N/A | 14–18% <br> 1–2 | N/A <br> N/A |
-| [12–17 August 2021](2021-08-17-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 23–28% <br> 2 | 14–18% <br> 1 | 3–5% <br> 0 | 9–13% <br> 1 | 22–27% <br> 2 | 3–5% <br> 0 | N/A <br> N/A | 13–17% <br> 1 | N/A <br> N/A |
+| N/A | [Poll Average](average.html) | 21–26% <br> 2 | 16–21% <br> 1–2 | 6–10% <br> 0–1 | 6–11% <br> 0–1 | 19–28% <br> 2–3 | 1–5% <br> 0 | N/A <br> N/A | 10–17% <br> 1 | N/A <br> N/A |
+| [14–20 October 2021](2021-10-20-KantarEmor.html) | Kantar Emor <br> BNS and Postimees | 20–25% <br> 2 | 16–20% <br> 1–2 | 6–10% <br> 0–1 | 8–12% <br> 0–1 | 19–23% <br> 1–2 | 3–5% <br> 0 | N/A <br> N/A | 14–18% <br> 1 | N/A <br> N/A |
+| [13–18 October 2021](2021-10-18-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 21–26% <br> 2 | 16–21% <br> 1–2 | 7–11% <br> 0–1 | 7–11% <br> 0–1 | 24–29% <br> 2–3 | 1–3% <br> 0 | N/A <br> N/A | 9–13% <br> 0–1 | N/A <br> N/A |
+| [4–8 October 2021](2021-10-08-Turu-uuringuteAS.html) | Turu-uuringute AS | 21–27% <br> 2–3 | 17–22% <br> 1–2 | 6–9% <br> 0 | 6–9% <br> 0 | 20–26% <br> 2 | 2–4% <br> 0 | N/A <br> N/A | 11–15% <br> 1 | N/A <br> N/A |
 | 26 May 2019 | General Election | 24.3% <br> 2 | 22.4% <br> 1 | 13.9% <br> 1 | 13.6% <br> 1 | 4.0% <br> 0 | 0.3% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
