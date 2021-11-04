@@ -6,6 +6,14 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Thu, 28 Jan 2021 21:33:48 +0100</pubDate>
     <item>
+      <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 20–25 October 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/estonian_ep_polls/2021-10-25-Norstat.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 20–25 October 2021<br/>Details on https://filipvanlaenen.github.io/estonian_ep_polls/2021-10-25-Norstat.html<br/><img src="https://filipvanlaenen.github.io/estonian_ep_polls/2021-10-25-Norstat.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2021-10-25-Norstat.png" length="294743" type="image/png"/>
+      <pubDate>Wed, 3 Nov 2021 19:44:46 +0100</pubDate>
+      <dc:date>2021-11-03T19:44:46.10716+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Kantar Emor for BNS and Postimees, 14–20 October 2021 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/estonian_ep_polls/2021-10-20-KantarEmor.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>4 seats needed for a majority<br/>Opinion poll by Kantar Emor for BNS and Postimees, 14–20 October 2021<br/>Details on https://filipvanlaenen.github.io/estonian_ep_polls/2021-10-20-KantarEmor.html<br/><img src="https://filipvanlaenen.github.io/estonian_ep_polls/2021-10-20-KantarEmor-seating-plan.png"/>]]></description>
@@ -220,30 +228,6 @@
       <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2021-09-15-Turu-uuringuteAS.png" length="288704" type="image/png"/>
       <pubDate>Sun, 26 Sep 2021 22:24:04 +0200</pubDate>
       <dc:date>2021-09-26T22:24:04.703222+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 8–13 September 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/estonian_ep_polls/2021-09-13-Norstat.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>4 seats needed for a majority<br/>Opinion poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 8–13 September 2021<br/>Details on https://filipvanlaenen.github.io/estonian_ep_polls/2021-09-13-Norstat.html<br/><img src="https://filipvanlaenen.github.io/estonian_ep_polls/2021-09-13-Norstat-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2021-09-13-Norstat-seating-plan.png" length="384955" type="image/png"/>
-      <pubDate>Sun, 26 Sep 2021 21:13:48 +0200</pubDate>
-      <dc:date>2021-09-26T21:13:48.235245+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 8–13 September 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/estonian_ep_polls/2021-09-13-Norstat.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>4 seats needed for a majority<br/>Opinion poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 8–13 September 2021<br/>Details on https://filipvanlaenen.github.io/estonian_ep_polls/2021-09-13-Norstat.html<br/><img src="https://filipvanlaenen.github.io/estonian_ep_polls/2021-09-13-Norstat-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2021-09-13-Norstat-seats.png" length="271552" type="image/png"/>
-      <pubDate>Sun, 26 Sep 2021 21:13:48 +0200</pubDate>
-      <dc:date>2021-09-26T21:13:48.235245+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 8–13 September 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/estonian_ep_polls/2021-09-13-Norstat.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 8–13 September 2021<br/>Details on https://filipvanlaenen.github.io/estonian_ep_polls/2021-09-13-Norstat.html<br/><img src="https://filipvanlaenen.github.io/estonian_ep_polls/2021-09-13-Norstat.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2021-09-13-Norstat.png" length="291204" type="image/png"/>
-      <pubDate>Sun, 26 Sep 2021 21:13:48 +0200</pubDate>
-      <dc:date>2021-09-26T21:13:48.235245+02:00</dc:date>
     </item>
   </channel>
 </rss>
