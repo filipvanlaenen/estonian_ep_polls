@@ -10,15 +10,18 @@ Last result: **22.4%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19.5% | 17.8–21.3% | 17.3–21.8% | 16.8–22.3% | 16.1–23.1% |
+| N/A | [Poll Average](average.html) | 19.5% | 17.8–21.3% | 17.3–21.8% | 16.8–22.2% | 16.1–23.2% |
+| [10–18 February 2022](2022-02-18-KantarEmor.html) | Kantar Emor | 19.8% | 18.5–21.1% | 18.1–21.5% | 17.8–21.9% | 17.2–22.5% |
 | [8–14 February 2022](2022-02-14-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 18.6% | 17.1–20.3% | 16.7–20.7% | 16.3–21.1% | 15.6–21.9% |
 | [1–7 February 2022](2022-02-07-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 19.6% | 18.1–21.3% | 17.6–21.8% | 17.3–22.2% | 16.5–23.0% |
 | [25–31 January 2022](2022-01-31-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 23.1% | 21.5–24.9% | 21.0–25.4% | 20.6–25.8% | 19.8–26.7% |
 | [18–24 January 2022](2022-01-24-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 21.8% | N/A | N/A | N/A | N/A |
 | [13–21 January 2022](2022-01-21-KantarEmor.html) | Kantar Emor <br> ERR | 19.6% | 18.2–21.1% | 17.8–21.5% | 17.5–21.9% | 16.8–22.7% |
+| [12–17 January 2022](2022-01-17-Turu-uuringuteAS.html) | Turu-uuringute AS | 20.0% | 18.4–21.9% | 17.9–22.4% | 17.5–22.8% | 16.8–23.7% |
 | [11–17 January 2022](2022-01-17-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 20.6% | N/A | N/A | N/A | N/A |
 | [5–10 January 2022](2022-01-10-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 18.6% | N/A | N/A | N/A | N/A |
-| [14–20 December 2021](2021-12-20-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 22.3% | 20.7–24.1% | 20.2–24.6% | 19.8–25.0% | 19.1–25.8% |
+| [27 December–4 January 2022](2022-01-04-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 21.2% | N/A | N/A | N/A | N/A |
+| [14–20 December 2021](2021-12-20-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 22.1% | N/A | N/A | N/A | N/A |
 | [9–15 December 2021](2021-12-15-KantarEmor.html) | Kantar Emor | 17.0% | 15.7–18.4% | 15.3–18.8% | 15.0–19.2% | 14.4–19.9% |
 | [7–13 December 2021](2021-12-13-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 18.7% | 17.2–20.4% | 16.8–20.8% | 16.4–21.2% | 15.7–22.1% |
 | [30 November–7 December 2021](2021-12-07-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 20.2% | 18.7–21.9% | 18.2–22.4% | 17.8–22.8% | 17.1–23.6% |
@@ -222,12 +225,12 @@ The following table shows the probability mass function per percentage block of 
 | 14.5–15.5% | 0.1% | 100% |  |
 | 15.5–16.5% | 1.3% | 99.9% |  |
 | 16.5–17.5% | 6% | 98.6% |  |
-| 17.5–18.5% | 17% | 93% |  |
-| 18.5–19.5% | 27% | 76% |  |
-| 19.5–20.5% | 26% | 49% | Median |
-| 20.5–21.5% | 16% | 23% |  |
-| 21.5–22.5% | 6% | 7% | Last Result |
-| 22.5–23.5% | 1.3% | 2% |  |
+| 17.5–18.5% | 16% | 93% |  |
+| 18.5–19.5% | 27% | 77% |  |
+| 19.5–20.5% | 27% | 49% | Median |
+| 20.5–21.5% | 15% | 22% |  |
+| 21.5–22.5% | 5% | 7% | Last Result |
+| 22.5–23.5% | 1.2% | 1.5% |  |
 | 23.5–24.5% | 0.2% | 0.2% |  |
 | 24.5–25.5% | 0% | 0% |  |
 
@@ -241,14 +244,17 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [10–18 February 2022](2022-02-18-KantarEmor.html) | Kantar Emor | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [8–14 February 2022](2022-02-14-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [1–7 February 2022](2022-02-07-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [25–31 January 2022](2022-01-31-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 2 | 2 | 2 | 2 | 2 |
 | [18–24 January 2022](2022-01-24-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
 | [13–21 January 2022](2022-01-21-KantarEmor.html) | Kantar Emor <br> ERR | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [12–17 January 2022](2022-01-17-Turu-uuringuteAS.html) | Turu-uuringute AS | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [11–17 January 2022](2022-01-17-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
 | [5–10 January 2022](2022-01-10-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
-| [14–20 December 2021](2021-12-20-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 2 | 2 | 2 | 2 | 2 |
+| [27 December–4 January 2022](2022-01-04-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
+| [14–20 December 2021](2021-12-20-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
 | [9–15 December 2021](2021-12-15-KantarEmor.html) | Kantar Emor | 1 | 1 | 1 | 1–2 | 1–2 |
 | [7–13 December 2021](2021-12-13-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [30 November–7 December 2021](2021-12-07-Turu-uuringuteAS.html) | Turu-uuringute AS <br> ERR | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -450,8 +456,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 35% | 100% | Last Result |
-| 2 | 65% | 65% | Median |
+| 1 | 32% | 100% | Last Result |
+| 2 | 68% | 68% | Median |
 | 3 | 0% | 0% |  |
 
 
