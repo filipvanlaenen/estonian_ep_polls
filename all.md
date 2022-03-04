@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | Ref | Kesk | Isamaa | SDE | EKRE | Rohelised | EVA | E200 | Kaljulaid |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 24.3% <br> 2 | 22.4% <br> 1 | 13.9% <br> 1 | 13.6% <br> 1 | 4.0% <br> 0 | 0.3% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [22–28 February 2022](2022-02-28-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 24–29% <br> 2–3 | 13–17% <br> 1 | 5–8% <br> 0 | 6–10% <br> 0 | 20–25% <br> 2 | 1–2% <br> 0 | N/A <br> N/A | 18–23% <br> 1–2 | N/A <br> N/A |
 | [15–21 February 2022](2022-02-21-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 21–26% <br> 2 | 16–21% <br> 1–2 | 6–10% <br> 0–1 | 7–10% <br> 0–1 | 19–24% <br> 2 | 2–4% <br> 0 | N/A <br> N/A | 16–20% <br> 1–2 | N/A <br> N/A |
 | [10–18 February 2022](2022-02-18-KantarEmor.html) | Kantar Emor <br> ERR | 18–22% <br> 1–2 | 18–22% <br> 1–2 | 6–8% <br> 0 | 8–10% <br> 0–1 | 18–22% <br> 1–2 | 3–5% <br> 0 | N/A <br> N/A | 19–23% <br> 1–2 | N/A <br> N/A |
 | [8–14 February 2022](2022-02-14-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 21–26% <br> 2 | 16–21% <br> 1–2 | 6–9% <br> 0 | 7–10% <br> 0–1 | 17–22% <br> 1–2 | 1–3% <br> 0 | N/A <br> N/A | 18–24% <br> 1–2 | N/A <br> N/A |
@@ -15,7 +16,7 @@ The table below lists all polls registered and analyzed so far.
 | [12–17 January 2022](2022-01-17-Turu-uuringuteAS.html) | Turu-uuringute AS | 16–21% <br> 1–2 | 18–23% <br> 1–2 | 5–9% <br> 0 | 6–10% <br> 0–1 | 21–27% <br> 2 | N/A <br> N/A | N/A <br> N/A | 18–23% <br> 1–2 | N/A <br> N/A |
 | [11–17 January 2022](2022-01-17-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [5–10 January 2022](2022-01-10-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [27 December–4 January 2022](2022-01-04-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [27 December 2021–4 January 2022](2022-01-04-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [14–20 December 2021](2021-12-20-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [9–15 December 2021](2021-12-15-KantarEmor.html) | Kantar Emor | 17–21% <br> 1–2 | 15–19% <br> 1–2 | 6–9% <br> 0 | 8–12% <br> 0–1 | 20–24% <br> 2 | 3–5% <br> 0 | N/A <br> N/A | 18–22% <br> 1–2 | N/A <br> N/A |
 | [7–13 December 2021](2021-12-13-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 24–30% <br> 2–3 | 16–21% <br> 1–2 | 6–10% <br> 0–1 | 6–10% <br> 0–1 | 20–25% <br> 2 | 1–2% <br> 0 | N/A <br> N/A | 12–17% <br> 1 | N/A <br> N/A |
