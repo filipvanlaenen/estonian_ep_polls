@@ -10,7 +10,8 @@ Last result: **22.4%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16.5% | 13.4–18.8% | 12.8–19.4% | 12.4–19.8% | 11.5–20.6% |
+| N/A | [Poll Average](average.html) | 16.1% | 13.4–18.8% | 12.8–19.3% | 12.4–19.8% | 11.5–20.6% |
+| [6–11 April 2022](2022-04-11-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 16.0% | 14.6–17.6% | 14.2–18.0% | 13.9–18.4% | 13.2–19.2% |
 | [28 March–4 April 2022](2022-04-04-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 16.6% | 15.2–18.2% | 14.8–18.6% | 14.4–19.0% | 13.8–19.8% |
 | [21–28 March 2022](2022-03-28-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 16.2% | 14.8–17.8% | 14.4–18.2% | 14.0–18.6% | 13.4–19.4% |
 | [19 March 2022](2022-03-19-Turu-uuringuteAS.html) | Turu-uuringute AS | 14.0% | 12.5–15.7% | 12.1–16.1% | 11.8–16.6% | 11.1–17.4% |
@@ -235,14 +236,14 @@ The following table shows the probability mass function per percentage block of 
 | 10.5–11.5% | 0.5% | 100% |  |
 | 11.5–12.5% | 3% | 99.5% |  |
 | 12.5–13.5% | 8% | 97% |  |
-| 13.5–14.5% | 12% | 89% |  |
-| 14.5–15.5% | 12% | 77% |  |
-| 15.5–16.5% | 15% | 65% |  |
-| 16.5–17.5% | 18% | 50% | Median |
-| 17.5–18.5% | 18% | 32% |  |
-| 18.5–19.5% | 10% | 14% |  |
-| 19.5–20.5% | 3% | 4% |  |
-| 20.5–21.5% | 0.5% | 0.6% |  |
+| 13.5–14.5% | 13% | 88% |  |
+| 14.5–15.5% | 16% | 75% |  |
+| 15.5–16.5% | 16% | 59% | Median |
+| 16.5–17.5% | 16% | 43% |  |
+| 17.5–18.5% | 15% | 28% |  |
+| 18.5–19.5% | 9% | 13% |  |
+| 19.5–20.5% | 3% | 3% |  |
+| 20.5–21.5% | 0.5% | 0.5% |  |
 | 21.5–22.5% | 0% | 0% | Last Result |
 | 22.5–23.5% | 0% | 0% |  |
 
@@ -256,6 +257,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [6–11 April 2022](2022-04-11-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1 | 1 | 1 | 1 | 1–2 |
 | [28 March–4 April 2022](2022-04-04-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1 | 1 | 1 | 1 | 1–2 |
 | [21–28 March 2022](2022-03-28-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1 | 1 | 1 | 1 | 1 |
 | [19 March 2022](2022-03-19-Turu-uuringuteAS.html) | Turu-uuringute AS | 1 | 1 | 1 | 1 | 1 |
