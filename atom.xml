@@ -6,7 +6,23 @@
   </author>
   <id>https://filipvanlaenen.github.io/estonian_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2022-05-18T20:04:44.696842+02:00</updated>
+  <updated>2022-05-26T11:19:35.073861+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Eesti Reformierakond (RE): 32.5–38.4%, 3–4 seats</li><li>Eesti Keskerakond (RE): 15.0–19.7%, 1–2 seats</li><li>Sotsiaaldemokraatlik Erakond (S&amp;D): 4.8–7.8%, 0 seats</li><li>Erakond Isamaa (EPP): 5.4–8.5%, 0 seats</li><li>Eesti Konservatiivne Rahvaerakond (ID): 16.2–21.0%, 1–2 seats</li><li>Erakond Eestimaa Rohelised (Greens/EFA): 1.4–3.2%, 0 seats</li><li>Eesti 200 (RE): 10.4–14.5%, 1 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/estonian_ep_polls/2022-05-23-Norstat.html</id>
+    <link href="https://filipvanlaenen.github.io/estonian_ep_polls/2022-05-23-Norstat.html"/>
+    <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 16–23 May 2022</title>
+    <updated>2022-05-26T09:45:39.311118+02:00</updated>
+    <dc:date>2022-05-26T09:45:39.311118+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Eesti Reformierakond (RE): 30.6–35.4%, 3–4 seats</li><li>Eesti Keskerakond (RE): 14.2–17.9%, 1–2 seats</li><li>Sotsiaaldemokraatlik Erakond (S&amp;D): 5.8–8.4%, 0 seats</li><li>Erakond Isamaa (EPP): 5.8–8.4%, 0 seats</li><li>Eesti Konservatiivne Rahvaerakond (ID): 15.1–19.0%, 1–2 seats</li><li>Erakond Eestimaa Rohelised (Greens/EFA): 2.2–4.0%, 0 seats</li><li>Eesti 200 (RE): 15.1–19.0%, 1–2 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/estonian_ep_polls/2022-05-20-KantarEmor.html</id>
+    <link href="https://filipvanlaenen.github.io/estonian_ep_polls/2022-05-20-KantarEmor.html"/>
+    <title>Opinion Poll by Kantar Emor for ERR, 12–20 May 2022</title>
+    <updated>2022-05-26T11:19:35.073861+02:00</updated>
+    <dc:date>2022-05-26T11:19:35.073861+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Eesti Reformierakond (RE): 30.4–36.3%, 3 seats</li><li>Eesti Keskerakond (RE): 12.6–17.0%, 1 seats</li><li>Sotsiaaldemokraatlik Erakond (S&amp;D): 6.5–9.8%, 0–1 seats</li><li>Erakond Isamaa (EPP): 6.0–9.3%, 0 seats</li><li>Eesti Konservatiivne Rahvaerakond (ID): 18.2–23.2%, 1–2 seats</li><li>Erakond Eestimaa Rohelised (Greens/EFA): 1.4–3.2%, 0 seats</li><li>Eesti 200 (RE): 11.0–15.1%, 1 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/estonian_ep_polls/2022-05-16-Norstat.html</id>
@@ -1527,5 +1543,5 @@
     <updated>2020-07-14T17:37:58+02:00</updated>
     <dc:date>2020-07-14T17:37:58+02:00</dc:date>
   </entry>
-  <dc:date>2022-05-18T20:04:44.696842+02:00</dc:date>
+  <dc:date>2022-05-26T11:19:35.073861+02:00</dc:date>
 </feed>
