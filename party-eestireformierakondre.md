@@ -10,9 +10,9 @@ Last result: **24.3%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 32.0% | 30.5–33.5% | 30.0–33.9% | 29.7–34.3% | 29.0–35.1% |
-| [14–20 June 2022](2022-06-20-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 34.1% | N/A | N/A | N/A | N/A |
-| [17 June 2022](2022-06-17-Turu-uuringuteAS.html) | Turu-uuringute AS | 31.0% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 32.4% | 29.9–35.0% | 29.1–35.7% | 28.4–36.3% | 27.1–37.4% |
+| [14–20 June 2022](2022-06-20-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 34.1% | 32.2–36.1% | 31.7–36.6% | 31.2–37.1% | 30.3–38.0% |
+| [17 June 2022](2022-06-17-Turu-uuringuteAS.html) | Turu-uuringute AS | 31.0% | 28.7–33.5% | 28.0–34.2% | 27.4–34.8% | 26.3–36.0% |
 | [9–14 June 2022](2022-06-14-KantarEmor.html) | Kantar Emor <br> ERR | 31.9% | 30.5–33.5% | 30.0–33.9% | 29.7–34.3% | 29.0–35.1% |
 | [7–13 June 2022](2022-06-13-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 35.2% | 33.3–37.2% | 32.8–37.7% | 32.3–38.2% | 31.4–39.2% |
 | [1–6 June 2022](2022-06-06-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 33.5% | 31.6–35.5% | 31.1–36.0% | 30.6–36.5% | 29.8–37.4% |
@@ -250,18 +250,21 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 23.5–24.5% | 0% | 100% | Last Result |
 | 24.5–25.5% | 0% | 100% |  |
-| 25.5–26.5% | 0% | 100% |  |
-| 26.5–27.5% | 0% | 100% |  |
-| 27.5–28.5% | 0.2% | 100% |  |
-| 28.5–29.5% | 2% | 99.8% |  |
-| 29.5–30.5% | 9% | 98% |  |
-| 30.5–31.5% | 25% | 89% |  |
-| 31.5–32.5% | 33% | 64% | Median |
-| 32.5–33.5% | 22% | 31% |  |
-| 33.5–34.5% | 8% | 9% |  |
-| 34.5–35.5% | 1.4% | 2% |  |
-| 35.5–36.5% | 0.1% | 0.2% |  |
-| 36.5–37.5% | 0% | 0% |  |
+| 25.5–26.5% | 0.2% | 100% |  |
+| 26.5–27.5% | 0.7% | 99.8% |  |
+| 27.5–28.5% | 2% | 99.0% |  |
+| 28.5–29.5% | 5% | 97% |  |
+| 29.5–30.5% | 9% | 92% |  |
+| 30.5–31.5% | 16% | 83% |  |
+| 31.5–32.5% | 20% | 66% | Median |
+| 32.5–33.5% | 18% | 46% |  |
+| 33.5–34.5% | 13% | 28% |  |
+| 34.5–35.5% | 8% | 15% |  |
+| 35.5–36.5% | 4% | 6% |  |
+| 36.5–37.5% | 1.5% | 2% |  |
+| 37.5–38.5% | 0.3% | 0.4% |  |
+| 38.5–39.5% | 0.1% | 0.1% |  |
+| 39.5–40.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -272,9 +275,9 @@ Last result: **2** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 3 | 3 | 3 | 3–4 |
-| [14–20 June 2022](2022-06-20-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
-| [17 June 2022](2022-06-17-Turu-uuringuteAS.html) | Turu-uuringute AS |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 3 | 3 | 3 | 2–4 | 2–4 |
+| [14–20 June 2022](2022-06-20-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 3 | 3 | 3–4 | 3–4 | 3–4 |
+| [17 June 2022](2022-06-17-Turu-uuringuteAS.html) | Turu-uuringute AS | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [9–14 June 2022](2022-06-14-KantarEmor.html) | Kantar Emor <br> ERR | 3 | 3 | 3 | 3 | 3–4 |
 | [7–13 June 2022](2022-06-13-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [1–6 June 2022](2022-06-06-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 3 | 3 | 3 | 2–3 | 2–3 |
@@ -512,9 +515,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 0.4% | 100% | Last Result |
-| 3 | 98% | 99.6% | Median |
-| 4 | 1.2% | 1.2% | Majority |
+| 2 | 4% | 100% | Last Result |
+| 3 | 93% | 96% | Median |
+| 4 | 3% | 3% | Majority |
 | 5 | 0% | 0% |  |
 
 
