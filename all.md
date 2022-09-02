@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | Ref | Kesk | Isamaa | SDE | EKRE | Rohelised | EVA | E200 | Kaljulaid |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 24.3% <br> 2 | 22.4% <br> 1 | 13.9% <br> 1 | 13.6% <br> 1 | 4.0% <br> 0 | 0.3% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [23–29 August 2022](2022-08-29-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 29–35% <br> 3 | 14–18% <br> 1–2 | 6–9% <br> 0–1 | 5–8% <br> 0 | 22–28% <br> 2–3 | 1–2% <br> 0 | N/A <br> N/A | 8–12% <br> 0–1 | N/A <br> N/A |
 | [16–22 August 2022](2022-08-22-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 32–38% <br> 3–4 | 13–18% <br> 1 | 8–12% <br> 0–1 | 6–9% <br> 0 | 18–23% <br> 1–2 | 1–3% <br> 0 | N/A <br> N/A | 7–11% <br> 0–1 | N/A <br> N/A |
 | [11–22 August 2022](2022-08-22-KantarEmor.html) | Kantar Emor <br> ERR | 29–34% <br> 2–3 | 14–18% <br> 1 | 6–8% <br> 0 | 10–13% <br> 1 | 16–20% <br> 1–2 | 1–3% <br> 0 | N/A <br> N/A | 12–15% <br> 1 | N/A <br> N/A |
 | [9–15 August 2022](2022-08-15-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 29–35% <br> 3 | 17–22% <br> 1–2 | 6–9% <br> 0 | 6–10% <br> 0–1 | 21–26% <br> 2 | 1–2% <br> 0 | N/A <br> N/A | 6–10% <br> 0–1 | N/A <br> N/A |
