@@ -5,10 +5,10 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | Ref | Kesk | Isamaa | SDE | EKRE | Rohelised | EVA | E200 | Kaljulaid | EP |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 24.3% <br> 2 | 22.4% <br> 1 | 13.9% <br> 1 | 13.6% <br> 1 | 4.0% <br> 0 | 0.3% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 26–33% <br> 2–3 | 13–19% <br> 1–2 | 5–10% <br> 0–1 | 6–13% <br> 0–1 | 15–30% <br> 1–3 | 1–3% <br> 0 | N/A <br> N/A | 8–16% <br> 0–1 | N/A <br> N/A | 1–2% <br> 0 |
+| N/A | [Poll Average](average.html) | 25–33% <br> 2–3 | 12–19% <br> 1–2 | 5–10% <br> 0–1 | 6–13% <br> 0–1 | 15–30% <br> 1–3 | 1–4% <br> 0 | N/A <br> N/A | 8–16% <br> 0–1 | N/A <br> N/A | 1–2% <br> 0 |
 | [13–19 September 2022](2022-09-19-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 28–33% <br> 2–3 | 15–19% <br> 1–2 | 5–8% <br> 0 | 5–8% <br> 0 | 25–31% <br> 2–3 | 1–2% <br> 0 | N/A <br> N/A | 8–11% <br> 0–1 | N/A <br> N/A | 1–2% <br> 0 |
+| [8–14 September 2022](2022-09-14-KantarEmor.html) | Kantar Emor <br> ERR | 26–31% <br> 2–3 | 12–16% <br> 1 | 7–9% <br> 0 | 9–13% <br> 0–1 | 21–25% <br> 2 | 2–4% <br> 0 | N/A <br> N/A | 9–13% <br> 0–1 | N/A <br> N/A | 1–2% <br> 0 |
 | [25 August 2022](2022-08-25-Turu-uuringuteAS.html) | Turu-uuringute AS | 25–32% <br> 2–3 | 12–18% <br> 1–2 | 6–10% <br> 0–1 | 9–14% <br> 0–1 | 14–20% <br> 1–2 | 1–3% <br> 0 | N/A <br> N/A | 11–17% <br> 1 | N/A <br> N/A | N/A <br> N/A |
-| [11–22 August 2022](2022-08-22-KantarEmor.html) | Kantar Emor <br> ERR | 29–34% <br> 2–3 | 14–18% <br> 1 | 6–8% <br> 0 | 10–13% <br> 1 | 16–20% <br> 1–2 | 1–3% <br> 0 | N/A <br> N/A | 12–15% <br> 1 | N/A <br> N/A | N/A <br> N/A |
 | 26 May 2019 | General Election | 24.3% <br> 2 | 22.4% <br> 1 | 13.9% <br> 1 | 13.6% <br> 1 | 4.0% <br> 0 | 0.3% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
