@@ -6,6 +6,30 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Thu, 28 Jan 2021 21:33:48 +0100</pubDate>
     <item>
+      <title>Opinion Poll by Kantar Emor for ERR, 13–19 October 2022 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/estonian_ep_polls/2022-10-19-KantarEmor.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the European Parliament<br/>4 seats needed for a majority<br/>Opinion poll by Kantar Emor for ERR, 13–19 October 2022<br/>Details on https://filipvanlaenen.github.io/estonian_ep_polls/2022-10-19-KantarEmor.html<br/><img src="https://filipvanlaenen.github.io/estonian_ep_polls/2022-10-19-KantarEmor-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2022-10-19-KantarEmor-seating-plan.png" length="325804" type="image/png"/>
+      <pubDate>Fri, 21 Oct 2022 17:37:59 +0200</pubDate>
+      <dc:date>2022-10-21T17:37:59.085544+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar Emor for ERR, 13–19 October 2022 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/estonian_ep_polls/2022-10-19-KantarEmor.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>4 seats needed for a majority<br/>Opinion poll by Kantar Emor for ERR, 13–19 October 2022<br/>Details on https://filipvanlaenen.github.io/estonian_ep_polls/2022-10-19-KantarEmor.html<br/><img src="https://filipvanlaenen.github.io/estonian_ep_polls/2022-10-19-KantarEmor-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2022-10-19-KantarEmor-seats.png" length="215342" type="image/png"/>
+      <pubDate>Fri, 21 Oct 2022 17:37:59 +0200</pubDate>
+      <dc:date>2022-10-21T17:37:59.085544+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar Emor for ERR, 13–19 October 2022 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/estonian_ep_polls/2022-10-19-KantarEmor.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Kantar Emor for ERR, 13–19 October 2022<br/>Details on https://filipvanlaenen.github.io/estonian_ep_polls/2022-10-19-KantarEmor.html<br/><img src="https://filipvanlaenen.github.io/estonian_ep_polls/2022-10-19-KantarEmor.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2022-10-19-KantarEmor.png" length="288688" type="image/png"/>
+      <pubDate>Fri, 21 Oct 2022 17:37:59 +0200</pubDate>
+      <dc:date>2022-10-21T17:37:59.085544+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 11–17 October 2022 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/estonian_ep_polls/2022-10-17-Norstat.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>4 seats needed for a majority<br/>Opinion poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 11–17 October 2022<br/>Details on https://filipvanlaenen.github.io/estonian_ep_polls/2022-10-17-Norstat.html<br/><img src="https://filipvanlaenen.github.io/estonian_ep_polls/2022-10-17-Norstat-seating-plan.png"/>]]></description>
@@ -196,30 +220,6 @@
       <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2022-08-29-Norstat.png" length="297335" type="image/png"/>
       <pubDate>Thu, 22 Sep 2022 18:37:37 +0200</pubDate>
       <dc:date>2022-09-22T18:37:37.668657+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Turu-uuringute AS, 25 August 2022 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/estonian_ep_polls/2022-08-25-Turu-uuringuteAS.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>4 seats needed for a majority<br/>Opinion poll by Turu-uuringute AS, 25 August 2022<br/>Details on https://filipvanlaenen.github.io/estonian_ep_polls/2022-08-25-Turu-uuringuteAS.html<br/><img src="https://filipvanlaenen.github.io/estonian_ep_polls/2022-08-25-Turu-uuringuteAS-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2022-08-25-Turu-uuringuteAS-seating-plan.png" length="361483" type="image/png"/>
-      <pubDate>Thu, 22 Sep 2022 18:43:39 +0200</pubDate>
-      <dc:date>2022-09-22T18:43:39.031883+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Turu-uuringute AS, 25 August 2022 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/estonian_ep_polls/2022-08-25-Turu-uuringuteAS.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>4 seats needed for a majority<br/>Opinion poll by Turu-uuringute AS, 25 August 2022<br/>Details on https://filipvanlaenen.github.io/estonian_ep_polls/2022-08-25-Turu-uuringuteAS.html<br/><img src="https://filipvanlaenen.github.io/estonian_ep_polls/2022-08-25-Turu-uuringuteAS-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2022-08-25-Turu-uuringuteAS-seats.png" length="235238" type="image/png"/>
-      <pubDate>Thu, 22 Sep 2022 18:43:39 +0200</pubDate>
-      <dc:date>2022-09-22T18:43:39.031883+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Turu-uuringute AS, 25 August 2022 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/estonian_ep_polls/2022-08-25-Turu-uuringuteAS.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Turu-uuringute AS, 25 August 2022<br/>Details on https://filipvanlaenen.github.io/estonian_ep_polls/2022-08-25-Turu-uuringuteAS.html<br/><img src="https://filipvanlaenen.github.io/estonian_ep_polls/2022-08-25-Turu-uuringuteAS.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2022-08-25-Turu-uuringuteAS.png" length="290946" type="image/png"/>
-      <pubDate>Thu, 22 Sep 2022 18:43:39 +0200</pubDate>
-      <dc:date>2022-09-22T18:43:39.031883+02:00</dc:date>
     </item>
   </channel>
 </rss>
