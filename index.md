@@ -5,8 +5,8 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | Ref | Kesk | Isamaa | SDE | EKRE | Rohelised | EVA | E200 | Kaljulaid | EP |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 24.3% <br> 2 | 22.4% <br> 1 | 13.9% <br> 1 | 13.6% <br> 1 | 4.0% <br> 0 | 0.3% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 26–36% <br> 2–3 | 10–17% <br> 1 | 4–10% <br> 0–1 | 6–9% <br> 0 | 20–31% <br> 2–3 | 1–4% <br> 0 | N/A <br> N/A | 9–15% <br> 0–1 | N/A <br> N/A | 0–2% <br> 0 |
-| [29 November–5 December 2022](2022-12-05-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 31–37% <br> 3–4 | 13–18% <br> 1 | 4–7% <br> 0 | 6–9% <br> 0 | 21–27% <br> 2 | 1–3% <br> 0 | N/A <br> N/A | 9–12% <br> 0–1 | N/A <br> N/A | 1–2% <br> 0 |
+| N/A | [Poll Average](average.html) | 26–34% <br> 2–3 | 10–17% <br> 1 | 5–10% <br> 0–1 | 5–9% <br> 0 | 20–31% <br> 2–3 | 1–4% <br> 0 | N/A <br> N/A | 7–15% <br> 0–1 | N/A <br> N/A | 0–2% <br> 0 |
+| [6–12 December 2022](2022-12-12-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 29–34% <br> 3 | 13–17% <br> 1 | 7–10% <br> 0–1 | 5–8% <br> 0 | 24–30% <br> 2–3 | 1–2% <br> 0 | N/A <br> N/A | 7–11% <br> 0–1 | N/A <br> N/A | 0–2% <br> 0 |
 | [10–17 November 2022](2022-11-17-KantarEmor.html) | Kantar Emor <br> ERR | 29–33% <br> 3 | 13–17% <br> 1 | 5–7% <br> 0 | 7–9% <br> 0 | 20–24% <br> 2 | 2–4% <br> 0 | N/A <br> N/A | 12–16% <br> 1 | N/A <br> N/A | 1–2% <br> 0 |
 | [12 October 2022](2022-10-12-Turu-uuringuteAS.html) | Turu-uuringute AS | 26–33% <br> 2–3 | 10–15% <br> 1 | 6–10% <br> 0–1 | 5–9% <br> 0 | 25–32% <br> 2–3 | 0–2% <br> 0 | N/A <br> N/A | 10–15% <br> 1 | N/A <br> N/A | 0–1% <br> 0 |
 | 26 May 2019 | General Election | 24.3% <br> 2 | 22.4% <br> 1 | 13.9% <br> 1 | 13.6% <br> 1 | 4.0% <br> 0 | 0.3% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
