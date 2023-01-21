@@ -10,7 +10,7 @@ Last result: **4.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19.7% | 17.6–22.2% | 17.1–22.9% | 16.7–23.6% | 16.1–24.8% |
+| N/A | [Poll Average](average.html) | 20.0% | 18.4–21.7% | 18.0–22.2% | 17.6–22.6% | 16.9–23.4% |
 | [10–16 January 2023](2023-01-16-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 20.0% | 18.4–21.7% | 18.0–22.2% | 17.6–22.6% | 16.9–23.4% |
 | [2–9 January 2023](2023-01-09-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 23.3% | N/A | N/A | N/A | N/A |
 | [20–27 December 2022](2022-12-27-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 22.8% | 21.2–24.6% | 20.7–25.1% | 20.3–25.5% | 19.5–26.4% |
@@ -298,19 +298,17 @@ The following table shows the probability mass function per percentage block of 
 | 11.5–12.5% | 0% | 100% |  |
 | 12.5–13.5% | 0% | 100% |  |
 | 13.5–14.5% | 0% | 100% |  |
-| 14.5–15.5% | 0.1% | 100% |  |
-| 15.5–16.5% | 2% | 99.9% |  |
-| 16.5–17.5% | 8% | 98% |  |
-| 17.5–18.5% | 18% | 90% |  |
-| 18.5–19.5% | 21% | 73% |  |
-| 19.5–20.5% | 19% | 52% | Median |
-| 20.5–21.5% | 16% | 33% |  |
-| 21.5–22.5% | 10% | 17% |  |
-| 22.5–23.5% | 5% | 7% |  |
-| 23.5–24.5% | 2% | 3% |  |
-| 24.5–25.5% | 0.6% | 0.7% |  |
-| 25.5–26.5% | 0.1% | 0.2% |  |
-| 26.5–27.5% | 0% | 0% |  |
+| 14.5–15.5% | 0% | 100% |  |
+| 15.5–16.5% | 0.2% | 100% |  |
+| 16.5–17.5% | 2% | 99.8% |  |
+| 17.5–18.5% | 9% | 98% |  |
+| 18.5–19.5% | 24% | 89% |  |
+| 19.5–20.5% | 31% | 65% | Median |
+| 20.5–21.5% | 23% | 35% |  |
+| 21.5–22.5% | 9% | 12% |  |
+| 22.5–23.5% | 2% | 3% |  |
+| 23.5–24.5% | 0.3% | 0.4% |  |
+| 24.5–25.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -601,8 +599,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 28% | 100% |  |
-| 2 | 72% | 72% | Median |
+| 1 | 25% | 100% |  |
+| 2 | 75% | 75% | Median |
 | 3 | 0% | 0% |  |
 
 
