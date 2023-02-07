@@ -5,9 +5,10 @@ The table below lists the most recent polls (less than 30 days old) registered a
 | Period     | Polling firm/Commissioner(s) | Ref | Kesk | Isamaa | SDE | EKRE | Rohelised | EVA | E200 | Kaljulaid | EP |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 24.3% <br> 2 | 22.4% <br> 1 | 13.9% <br> 1 | 13.6% <br> 1 | 4.0% <br> 0 | 0.3% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 25–32% <br> 2–3 | 15–22% <br> 1–2 | 6–9% <br> 0 | 6–10% <br> 0–1 | 18–24% <br> 1–2 | 1–3% <br> 0 | N/A <br> N/A | 11–15% <br> 1 | N/A <br> N/A | 1–2% <br> 0 |
+| N/A | [Poll Average](average.html) | 24–32% <br> 2–3 | 14–21% <br> 1–2 | 6–9% <br> 0–1 | 5–10% <br> 0–1 | 18–28% <br> 1–3 | 1–3% <br> 0 | N/A <br> N/A | 11–15% <br> 1 | N/A <br> N/A | 1–2% <br> 0 |
 | [30 January–2 February 2023](2023-02-02-KantarEmor.html) | Kantar Emor <br> ERR | 28–33% <br> 3 | 15–18% <br> 1 | 6–8% <br> 0 | 7–10% <br> 0–1 | 17–21% <br> 1–2 | 2–3% <br> 0 | N/A <br> N/A | 11–15% <br> 1 | N/A <br> N/A | 1–2% <br> 0 |
 | [24–30 January 2023](2023-01-30-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 25–31% <br> 2–3 | 17–22% <br> 1–2 | 6–10% <br> 0–1 | 5–8% <br> 0 | 19–24% <br> 1–2 | 1–2% <br> 0 | N/A <br> N/A | 11–15% <br> 1 | N/A <br> N/A | 1–2% <br> 0 |
+| [27 January 2023](2023-01-27-Turu-uuringuteAS.html) | Turu-uuringute AS | 23–30% <br> 2–3 | 13–19% <br> 1–2 | 5–9% <br> 0–1 | 5–9% <br> 0–1 | 22–29% <br> 2–3 | 1–3% <br> 0 | N/A <br> N/A | 11–16% <br> 1 | N/A <br> N/A | 0–2% <br> 0 |
 | 26 May 2019 | General Election | 24.3% <br> 2 | 22.4% <br> 1 | 13.9% <br> 1 | 13.6% <br> 1 | 4.0% <br> 0 | 0.3% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
