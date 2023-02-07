@@ -10,9 +10,10 @@ Last result: **4.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20.3% | 18.5–22.6% | 18.1–23.2% | 17.7–23.7% | 17.1–24.7% |
+| N/A | [Poll Average](average.html) | 21.5% | 18.8–26.0% | 18.3–26.9% | 17.9–27.7% | 17.2–29.0% |
 | [30 January–2 February 2023](2023-02-02-KantarEmor.html) | Kantar Emor <br> ERR | 19.3% | 18.1–20.6% | 17.7–21.0% | 17.4–21.4% | 16.8–22.0% |
 | [24–30 January 2023](2023-01-30-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 21.5% | 19.9–23.2% | 19.4–23.7% | 19.1–24.2% | 18.3–25.0% |
+| [27 January 2023](2023-01-27-Turu-uuringuteAS.html) | Turu-uuringute AS | 25.0% | 22.8–27.4% | 22.2–28.0% | 21.7–28.6% | 20.7–29.8% |
 | [17–23 January 2023](2023-01-23-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 18.4% | N/A | N/A | N/A | N/A |
 | [10–16 January 2023](2023-01-16-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 20.0% | 18.4–21.7% | 18.0–22.2% | 17.6–22.6% | 16.9–23.4% |
 | [5–11 January 2023](2023-01-11-KantarEmor.html) | Kantar Emor <br> ERR | 21.2% | 19.9–22.5% | 19.6–22.9% | 19.3–23.2% | 18.7–23.9% |
@@ -305,17 +306,22 @@ The following table shows the probability mass function per percentage block of 
 | 13.5–14.5% | 0% | 100% |  |
 | 14.5–15.5% | 0% | 100% |  |
 | 15.5–16.5% | 0.1% | 100% |  |
-| 16.5–17.5% | 2% | 99.9% |  |
-| 17.5–18.5% | 9% | 98% |  |
-| 18.5–19.5% | 21% | 89% |  |
-| 19.5–20.5% | 23% | 68% | Median |
-| 20.5–21.5% | 19% | 45% |  |
-| 21.5–22.5% | 15% | 26% |  |
-| 22.5–23.5% | 8% | 11% |  |
-| 23.5–24.5% | 3% | 3% |  |
-| 24.5–25.5% | 0.5% | 0.6% |  |
-| 25.5–26.5% | 0.1% | 0.1% |  |
-| 26.5–27.5% | 0% | 0% |  |
+| 16.5–17.5% | 1.1% | 99.9% |  |
+| 17.5–18.5% | 6% | 98.9% |  |
+| 18.5–19.5% | 14% | 93% |  |
+| 19.5–20.5% | 15% | 78% |  |
+| 20.5–21.5% | 13% | 63% |  |
+| 21.5–22.5% | 12% | 50% | Median |
+| 22.5–23.5% | 9% | 38% |  |
+| 23.5–24.5% | 8% | 29% |  |
+| 24.5–25.5% | 8% | 21% |  |
+| 25.5–26.5% | 6% | 13% |  |
+| 26.5–27.5% | 4% | 7% |  |
+| 27.5–28.5% | 2% | 3% |  |
+| 28.5–29.5% | 0.7% | 0.9% |  |
+| 29.5–30.5% | 0.2% | 0.2% |  |
+| 30.5–31.5% | 0% | 0% |  |
+| 31.5–32.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -326,9 +332,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2 | 1–2 | 1–2 | 1–2 |
+| N/A | [Poll Average](average.html) | 2 | 2 | 2–3 | 1–3 | 1–3 |
 | [30 January–2 February 2023](2023-02-02-KantarEmor.html) | Kantar Emor <br> ERR | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [24–30 January 2023](2023-01-30-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 2 | 2 | 2 | 1–2 | 1–2 |
+| [27 January 2023](2023-01-27-Turu-uuringuteAS.html) | Turu-uuringute AS | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [17–23 January 2023](2023-01-23-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
 | [10–16 January 2023](2023-01-16-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [5–11 January 2023](2023-01-11-KantarEmor.html) | Kantar Emor <br> ERR | 2 | 2 | 2 | 2 | 1–2 |
@@ -611,8 +618,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 6% | 100% |  |
-| 2 | 94% | 94% | Median |
-| 3 | 0% | 0% |  |
+| 1 | 4% | 100% |  |
+| 2 | 89% | 96% | Median |
+| 3 | 8% | 8% |  |
+| 4 | 0% | 0% | Majority |
 
 
