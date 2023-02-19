@@ -10,9 +10,9 @@ Last result: **24.3%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 29.1% | 24.6–32.0% | 23.8–32.5% | 23.2–32.9% | 22.0–33.7% |
+| N/A | [Poll Average](average.html) | 28.0% | 25.0–31.6% | 24.2–32.2% | 23.5–32.7% | 22.3–33.5% |
 | [13–16 February 2023](2023-02-16-KantarEmor.html) | Kantar Emor <br> ERR | 31.0% | 29.5–32.5% | 29.1–32.9% | 28.7–33.3% | 28.1–34.0% |
-| [7–13 February 2023](2023-02-13-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 27.5% | N/A | N/A | N/A | N/A |
+| [7–13 February 2023](2023-02-13-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 27.5% | 25.7–29.4% | 25.2–29.9% | 24.8–30.4% | 24.0–31.3% |
 | [6–9 February 2023](2023-02-09-KantarEmor.html) | Kantar Emor <br> ERR | 31.7% | 30.2–33.3% | 29.7–33.7% | 29.4–34.1% | 28.7–34.8% |
 | [31 January–6 February 2023](2023-02-06-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 31.9% | 30.1–33.8% | 29.5–34.4% | 29.1–34.9% | 28.2–35.8% |
 | [30 January–2 February 2023](2023-02-02-KantarEmor.html) | Kantar Emor <br> ERR | 30.2% | 28.8–31.8% | 28.4–32.2% | 28.0–32.6% | 27.3–33.3% |
@@ -298,22 +298,21 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 19.5–20.5% | 0% | 100% |  |
-| 20.5–21.5% | 0.2% | 100% |  |
-| 21.5–22.5% | 0.9% | 99.8% |  |
-| 22.5–23.5% | 3% | 98.9% |  |
-| 23.5–24.5% | 6% | 96% | Last Result |
-| 24.5–25.5% | 9% | 90% |  |
-| 25.5–26.5% | 11% | 81% |  |
-| 26.5–27.5% | 9% | 70% |  |
-| 27.5–28.5% | 7% | 60% |  |
-| 28.5–29.5% | 7% | 53% | Median |
-| 29.5–30.5% | 13% | 46% |  |
-| 30.5–31.5% | 17% | 33% |  |
-| 31.5–32.5% | 11% | 16% |  |
-| 32.5–33.5% | 4% | 4% |  |
-| 33.5–34.5% | 0.7% | 0.7% |  |
-| 34.5–35.5% | 0.1% | 0.1% |  |
-| 35.5–36.5% | 0% | 0% |  |
+| 20.5–21.5% | 0.1% | 100% |  |
+| 21.5–22.5% | 0.6% | 99.9% |  |
+| 22.5–23.5% | 2% | 99.3% |  |
+| 23.5–24.5% | 5% | 97% | Last Result |
+| 24.5–25.5% | 8% | 93% |  |
+| 25.5–26.5% | 13% | 85% |  |
+| 26.5–27.5% | 15% | 72% |  |
+| 27.5–28.5% | 13% | 56% | Median |
+| 28.5–29.5% | 10% | 44% |  |
+| 29.5–30.5% | 11% | 33% |  |
+| 30.5–31.5% | 12% | 23% |  |
+| 31.5–32.5% | 8% | 11% |  |
+| 32.5–33.5% | 3% | 3% |  |
+| 33.5–34.5% | 0.4% | 0.5% |  |
+| 34.5–35.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -326,7 +325,7 @@ Last result: **2** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [13–16 February 2023](2023-02-16-KantarEmor.html) | Kantar Emor <br> ERR | 3 | 3 | 3 | 3 | 3–4 |
-| [7–13 February 2023](2023-02-13-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
+| [7–13 February 2023](2023-02-13-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [6–9 February 2023](2023-02-09-KantarEmor.html) | Kantar Emor <br> ERR | 3 | 3 | 3 | 3 | 3 |
 | [31 January–6 February 2023](2023-02-06-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 3 | 3 | 3 | 3–4 | 2–4 |
 | [30 January–2 February 2023](2023-02-02-KantarEmor.html) | Kantar Emor <br> ERR | 3 | 3 | 3 | 3 | 2–3 |
@@ -613,9 +612,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 27% | 100% | Last Result |
-| 3 | 72% | 73% | Median |
-| 4 | 0.4% | 0.4% | Majority |
+| 2 | 44% | 100% | Last Result |
+| 3 | 56% | 56% | Median |
+| 4 | 0.3% | 0.3% | Majority |
 | 5 | 0% | 0% |  |
 
 
