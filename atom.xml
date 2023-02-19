@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/estonian_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2023-02-11T20:17:03.515522+01:00</updated>
+  <updated>2023-02-19T16:14:36.151165+01:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Eesti Reformierakond (RE): 28.7–33.3%, 3 seats</li><li>Eesti Keskerakond (RE): 14.4–18.1%, 1–2 seats</li><li>Sotsiaaldemokraatlik Erakond (S&amp;D): 7.3–10.1%, 0–1 seats</li><li>Erakond Isamaa (EPP): 6.1–8.7%, 0 seats</li><li>Eesti Konservatiivne Rahvaerakond (ID): 15.4–19.1%, 1–2 seats</li><li>Erakond Eestimaa Rohelised (Greens/EFA): 1.8–3.4%, 0 seats</li><li>Eesti 200 (RE): 11.8–15.2%, 1 seats</li><li>Erakond Parempoolsed (*): 1.5–2.9%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/estonian_ep_polls/2023-02-16-KantarEmor.html</id>
+    <link href="https://filipvanlaenen.github.io/estonian_ep_polls/2023-02-16-KantarEmor.html"/>
+    <title>Opinion Poll by Kantar Emor for ERR, 13–16 February 2023</title>
+    <updated>2023-02-19T16:14:36.151165+01:00</updated>
+    <dc:date>2023-02-19T16:14:36.151165+01:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Eesti Reformierakond (RE): 29.4–34.1%, 3 seats</li><li>Eesti Keskerakond (RE): 14.0–17.7%, 1 seats</li><li>Sotsiaaldemokraatlik Erakond (S&amp;D): 6.7–9.5%, 0–1 seats</li><li>Erakond Isamaa (EPP): 7.4–10.3%, 0–1 seats</li><li>Eesti Konservatiivne Rahvaerakond (ID): 16.7–20.6%, 1–2 seats</li><li>Erakond Eestimaa Rohelised (Greens/EFA): 2.0–3.6%, 0 seats</li><li>Eesti 200 (RE): 10.5–13.8%, 1 seats</li><li>Erakond Parempoolsed (*): 1.3–2.6%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/estonian_ep_polls/2023-02-09-KantarEmor.html</id>
@@ -1943,5 +1951,5 @@
     <updated>2020-07-14T17:37:58+02:00</updated>
     <dc:date>2020-07-14T17:37:58+02:00</dc:date>
   </entry>
-  <dc:date>2023-02-11T20:17:03.515522+01:00</dc:date>
+  <dc:date>2023-02-19T16:14:36.151165+01:00</dc:date>
 </feed>
