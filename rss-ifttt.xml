@@ -221,5 +221,29 @@
       <pubDate>Tue, 7 Feb 2023 21:17:31 +0100</pubDate>
       <dc:date>2023-02-07T21:17:31.201925+01:00</dc:date>
     </item>
+    <item>
+      <title>Opinion Poll by Kantar Emor for ERR, 19–26 January 2023 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/estonian_ep_polls/2023-01-26-KantarEmor.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the European Parliament<br/>4 seats needed for a majority<br/>Opinion poll by Kantar Emor for ERR, 19–26 January 2023<br/>Details on https://filipvanlaenen.github.io/estonian_ep_polls/2023-01-26-KantarEmor.html<br/><img src="https://filipvanlaenen.github.io/estonian_ep_polls/2023-01-26-KantarEmor-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2023-01-26-KantarEmor-seating-plan.png" length="326438" type="image/png"/>
+      <pubDate>Fri, 24 Feb 2023 10:50:34 +0100</pubDate>
+      <dc:date>2023-02-24T10:50:34.081492+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar Emor for ERR, 19–26 January 2023 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/estonian_ep_polls/2023-01-26-KantarEmor.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>4 seats needed for a majority<br/>Opinion poll by Kantar Emor for ERR, 19–26 January 2023<br/>Details on https://filipvanlaenen.github.io/estonian_ep_polls/2023-01-26-KantarEmor.html<br/><img src="https://filipvanlaenen.github.io/estonian_ep_polls/2023-01-26-KantarEmor-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2023-01-26-KantarEmor-seats.png" length="209869" type="image/png"/>
+      <pubDate>Fri, 24 Feb 2023 10:50:34 +0100</pubDate>
+      <dc:date>2023-02-24T10:50:34.081492+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar Emor for ERR, 19–26 January 2023 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/estonian_ep_polls/2023-01-26-KantarEmor.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Kantar Emor for ERR, 19–26 January 2023<br/>Details on https://filipvanlaenen.github.io/estonian_ep_polls/2023-01-26-KantarEmor.html<br/><img src="https://filipvanlaenen.github.io/estonian_ep_polls/2023-01-26-KantarEmor.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2023-01-26-KantarEmor.png" length="279288" type="image/png"/>
+      <pubDate>Fri, 24 Feb 2023 10:50:34 +0100</pubDate>
+      <dc:date>2023-02-24T10:50:34.081492+01:00</dc:date>
+    </item>
   </channel>
 </rss>
