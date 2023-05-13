@@ -5,9 +5,9 @@ The table below lists the most recent polls (less than 30 days old) registered a
 | Period     | Polling firm/Commissioner(s) | Ref | Kesk | Isamaa | SDE | EKRE | Rohelised | EVA | E200 | Kaljulaid | EP |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 24.3% <br> 2 | 22.4% <br> 1 | 13.9% <br> 1 | 13.6% <br> 1 | 4.0% <br> 0 | 0.3% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 20–26% <br> 2–3 | 12–19% <br> 1–2 | 6–9% <br> 1 | 8–13% <br> 1 | 15–27% <br> 2–3 | 1–4% <br> 0 | N/A <br> N/A | 13–19% <br> 1–2 | N/A <br> N/A | 2–5% <br> 0 |
+| N/A | [Poll Average](average.html) | 21–26% <br> 2–3 | 12–20% <br> 1–2 | 6–9% <br> 1 | 7–13% <br> 1 | 15–26% <br> 2–3 | 1–4% <br> 0 | N/A <br> N/A | 12–19% <br> 1–2 | N/A <br> N/A | 2–5% <br> 0 |
+| [2–6 May 2023](2023-05-06-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 21–27% <br> 2–3 | 16–21% <br> 2 | 5–9% <br> 1 | 6–10% <br> 1 | 21–27% <br> 2–3 | 1–2% <br> 0 | N/A <br> N/A | 12–16% <br> 1–2 | N/A <br> N/A | 1–3% <br> 0 |
 | [10–19 April 2023](2023-04-19-KantarEmor.html) | Kantar Emor <br> ERR | 21–25% <br> 2–3 | 15–19% <br> 2 | 5–8% <br> 1 | 11–14% <br> 1–2 | 15–19% <br> 2 | 2–4% <br> 0 | N/A <br> N/A | 15–19% <br> 2 | N/A <br> N/A | 3–5% <br> 0–1 |
-| [10–17 April 2023](2023-04-17-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 19–24% <br> 2–3 | 15–20% <br> 2 | 6–9% <br> 1 | 8–11% <br> 1 | 22–27% <br> 2–3 | 1–3% <br> 0 | N/A <br> N/A | 12–17% <br> 1–2 | N/A <br> N/A | 1–3% <br> 0 |
 | [3–11 April 2023](2023-04-11-Turu-uuringuteAS.html) | Turu-uuringute AS | 22–27% <br> 3 | 11–15% <br> 1–2 | 7–10% <br> 1 | 8–12% <br> 1 | 17–21% <br> 2–3 | 1–2% <br> 0 | N/A <br> N/A | 15–19% <br> 2 | N/A <br> N/A | 3–5% <br> 0–1 |
 | 26 May 2019 | General Election | 24.3% <br> 2 | 22.4% <br> 1 | 13.9% <br> 1 | 13.6% <br> 1 | 4.0% <br> 0 | 0.3% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
