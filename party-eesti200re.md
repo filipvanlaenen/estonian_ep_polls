@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16.1% | 13.0–17.9% | 12.5–18.4% | 12.0–18.8% | 11.3–19.6% |
+| N/A | [Poll Average](average.html) | 13.9% | 8.4–17.1% | 7.9–17.6% | 7.6–18.0% | 7.0–18.7% |
+| [4–15 May 2023](2023-05-15-Turu-uuringuteAS.html) | Turu-uuringute AS | 13.9% | 12.5–15.5% | 12.1–15.9% | 11.8–16.3% | 11.1–17.1% |
+| [8–15 May 2023](2023-05-15-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 8.8% | 7.7–10.1% | 7.5–10.4% | 7.2–10.7% | 6.7–11.4% |
 | [2–6 May 2023](2023-05-06-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 13.5% | 12.2–15.0% | 11.8–15.4% | 11.5–15.8% | 10.9–16.5% |
 | [25 April–1 May 2023](2023-05-01-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 15.1% | N/A | N/A | N/A | N/A |
 | [18–24 April 2023](2023-04-24-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 15.8% | 14.4–17.4% | 14.0–17.8% | 13.7–18.2% | 13.0–19.0% |
@@ -319,23 +321,22 @@ The following table shows the probability mass function per percentage block of 
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 0% | 100% |  |
-| 6.5–7.5% | 0% | 100% |  |
-| 7.5–8.5% | 0% | 100% |  |
-| 8.5–9.5% | 0% | 100% |  |
-| 9.5–10.5% | 0% | 100% |  |
-| 10.5–11.5% | 0.8% | 100% |  |
-| 11.5–12.5% | 5% | 99.1% |  |
-| 12.5–13.5% | 11% | 94% |  |
-| 13.5–14.5% | 11% | 83% |  |
-| 14.5–15.5% | 11% | 72% |  |
-| 15.5–16.5% | 21% | 61% | Median |
-| 16.5–17.5% | 23% | 40% |  |
-| 17.5–18.5% | 12% | 16% |  |
-| 18.5–19.5% | 3% | 4% |  |
-| 19.5–20.5% | 0.5% | 0.5% |  |
+| 5.5–6.5% | 0.1% | 100% |  |
+| 6.5–7.5% | 2% | 99.9% |  |
+| 7.5–8.5% | 10% | 98% |  |
+| 8.5–9.5% | 14% | 88% |  |
+| 9.5–10.5% | 6% | 74% |  |
+| 10.5–11.5% | 2% | 68% |  |
+| 11.5–12.5% | 3% | 66% |  |
+| 12.5–13.5% | 9% | 63% |  |
+| 13.5–14.5% | 12% | 54% | Median |
+| 14.5–15.5% | 11% | 43% |  |
+| 15.5–16.5% | 14% | 32% |  |
+| 16.5–17.5% | 12% | 17% |  |
+| 17.5–18.5% | 4% | 5% |  |
+| 18.5–19.5% | 0.7% | 0.7% |  |
+| 19.5–20.5% | 0% | 0% |  |
 | 20.5–21.5% | 0% | 0% |  |
-| 21.5–22.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -347,6 +348,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [4–15 May 2023](2023-05-15-Turu-uuringuteAS.html) | Turu-uuringute AS | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [8–15 May 2023](2023-05-15-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1 | 1 | 1 | 1 | 1 |
 | [2–6 May 2023](2023-05-06-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [25 April–1 May 2023](2023-05-01-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
 | [18–24 April 2023](2023-04-24-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 2 | 2 | 2 | 1–2 | 1–2 |
@@ -652,8 +655,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 24% | 100% |  |
-| 2 | 76% | 76% | Median |
+| 1 | 37% | 100% |  |
+| 2 | 63% | 63% | Median |
 | 3 | 0% | 0% |  |
 
 
