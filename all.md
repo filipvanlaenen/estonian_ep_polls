@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | Ref | Kesk | Isamaa | SDE | EKRE | Rohelised | EVA | E200 | Kaljulaid | EP |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 24.3% <br> 2 | 22.4% <br> 1 | 13.9% <br> 1 | 13.6% <br> 1 | 4.0% <br> 0 | 0.3% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [10–17 May 2023](2023-05-17-KantarEmor.html) | Kantar Emor <br> ERR | 21–25% <br> 2 | 16–20% <br> 1–2 | 7–9% <br> 0 | 9–12% <br> 0–1 | 20–25% <br> 2 | 2–3% <br> 0 | N/A <br> N/A | 11–14% <br> 1 | N/A <br> N/A | 2–4% <br> 0 |
 | [4–15 May 2023](2023-05-15-Turu-uuringuteAS.html) | Turu-uuringute AS | 20–26% <br> 2 | 14–18% <br> 1–2 | 6–10% <br> 0–1 | 8–12% <br> 0–1 | 17–23% <br> 1–2 | 2–4% <br> 0 | N/A <br> N/A | 12–16% <br> 1 | N/A <br> N/A | 2–4% <br> 0 |
 | [8–15 May 2023](2023-05-15-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 21–26% <br> 2 | 18–23% <br> 1–2 | 6–10% <br> 0–1 | 6–10% <br> 0–1 | 24–30% <br> 2–3 | 1–3% <br> 0 | N/A <br> N/A | 7–11% <br> 0–1 | N/A <br> N/A | 1–3% <br> 0 |
 | [2–6 May 2023](2023-05-06-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 21–27% <br> 2–3 | 16–21% <br> 2 | 5–9% <br> 1 | 6–10% <br> 1 | 21–27% <br> 2–3 | 1–2% <br> 0 | N/A <br> N/A | 12–16% <br> 1–2 | N/A <br> N/A | 1–3% <br> 0 |
