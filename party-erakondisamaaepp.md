@@ -10,7 +10,11 @@ Last result: **13.9%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10.2% | 9.0–11.4% | 8.7–11.8% | 8.4–12.1% | 7.9–12.8% |
+| N/A | [Poll Average](average.html) | 9.2% | 7.9–10.9% | 7.6–11.3% | 7.4–11.7% | 6.9–12.4% |
+| [31 July–7 August 2023](2023-08-07-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 10.0% | 8.9–11.3% | 8.6–11.7% | 8.3–12.0% | 7.8–12.7% |
+| [24–31 July 2023](2023-07-31-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 9.4% | 8.3–10.7% | 8.0–11.1% | 7.7–11.4% | 7.3–12.0% |
+| [18–23 July 2023](2023-07-23-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 9.8% | N/A | N/A | N/A | N/A |
+| [10–20 July 2023](2023-07-20-KantarEmor.html) | Kantar Emor <br> ERR | 8.5% | 7.6–9.5% | 7.4–9.8% | 7.2–10.0% | 6.8–10.5% |
 | [11–17 July 2023](2023-07-17-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 10.1% | 9.0–11.4% | 8.7–11.8% | 8.4–12.1% | 7.9–12.8% |
 | [4–10 July 2023](2023-07-10-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 10.1% | N/A | N/A | N/A | N/A |
 | [26–30 June 2023](2023-06-30-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 10.0% | 8.9–11.3% | 8.6–11.7% | 8.3–12.0% | 7.8–12.7% |
@@ -325,16 +329,15 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 5.5–6.5% | 0% | 100% |  |
-| 6.5–7.5% | 0.1% | 100% |  |
-| 7.5–8.5% | 4% | 99.9% |  |
-| 8.5–9.5% | 22% | 96% |  |
-| 9.5–10.5% | 40% | 74% | Median |
-| 10.5–11.5% | 26% | 34% |  |
-| 11.5–12.5% | 7% | 8% |  |
-| 12.5–13.5% | 0.9% | 0.9% |  |
-| 13.5–14.5% | 0.1% | 0.1% | Last Result |
-| 14.5–15.5% | 0% | 0% |  |
+| 5.5–6.5% | 0.1% | 100% |  |
+| 6.5–7.5% | 4% | 99.9% |  |
+| 7.5–8.5% | 24% | 96% |  |
+| 8.5–9.5% | 32% | 72% | Median |
+| 9.5–10.5% | 24% | 39% |  |
+| 10.5–11.5% | 12% | 15% |  |
+| 11.5–12.5% | 3% | 3% |  |
+| 12.5–13.5% | 0.3% | 0.3% |  |
+| 13.5–14.5% | 0% | 0% | Last Result |
 
 
 ## Seats
@@ -345,7 +348,11 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [31 July–7 August 2023](2023-08-07-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [24–31 July 2023](2023-07-31-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [18–23 July 2023](2023-07-23-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
+| [10–20 July 2023](2023-07-20-KantarEmor.html) | Kantar Emor <br> ERR | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [11–17 July 2023](2023-07-17-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [4–10 July 2023](2023-07-10-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
 | [26–30 June 2023](2023-06-30-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -662,8 +669,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 19% | 100% |  |
-| 1 | 81% | 81% | Last Result, Median |
+| 0 | 60% | 100% | Median |
+| 1 | 40% | 40% | Last Result |
 | 2 | 0% | 0% |  |
 
 
