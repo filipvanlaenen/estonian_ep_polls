@@ -10,7 +10,8 @@ Last result: **13.9%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.9% | 8.4–11.3% | 8.0–11.7% | 7.7–12.0% | 7.1–12.6% |
+| N/A | [Poll Average](average.html) | 10.7% | 8.6–13.9% | 8.1–14.5% | 7.7–14.9% | 7.1–15.8% |
+| [29 August–4 September 2023](2023-09-04-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 13.3% | 12.0–14.8% | 11.6–15.2% | 11.3–15.5% | 10.7–16.3% |
 | [10–16 August 2023](2023-08-16-KantarEmor.html) | Kantar Emor <br> ERR | 10.6% | 9.6–11.7% | 9.3–12.0% | 9.1–12.2% | 8.7–12.8% |
 | [7–14 August 2023](2023-08-14-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 9.9% | 8.8–11.2% | 8.5–11.6% | 8.2–11.9% | 7.7–12.6% |
 | [3–13 August 2023](2023-08-13-Turu-uuringuteAS.html) | Turu-uuringute AS | 9.0% | 7.9–10.4% | 7.6–10.7% | 7.3–11.1% | 6.8–11.8% |
@@ -335,13 +336,17 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 5.5–6.5% | 0.1% | 100% |  |
 | 6.5–7.5% | 2% | 99.9% |  |
-| 7.5–8.5% | 10% | 98% |  |
-| 8.5–9.5% | 25% | 88% |  |
-| 9.5–10.5% | 34% | 63% | Median |
-| 10.5–11.5% | 23% | 29% |  |
-| 11.5–12.5% | 6% | 6% |  |
-| 12.5–13.5% | 0.5% | 0.5% |  |
-| 13.5–14.5% | 0% | 0% | Last Result |
+| 7.5–8.5% | 8% | 98% |  |
+| 8.5–9.5% | 16% | 90% |  |
+| 9.5–10.5% | 21% | 74% |  |
+| 10.5–11.5% | 17% | 53% | Median |
+| 11.5–12.5% | 10% | 36% |  |
+| 12.5–13.5% | 12% | 26% |  |
+| 13.5–14.5% | 10% | 14% | Last Result |
+| 14.5–15.5% | 4% | 5% |  |
+| 15.5–16.5% | 0.7% | 0.8% |  |
+| 16.5–17.5% | 0.1% | 0.1% |  |
+| 17.5–18.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -353,6 +358,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [29 August–4 September 2023](2023-09-04-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1 | 1 | 1 | 1 | 1 |
 | [10–16 August 2023](2023-08-16-KantarEmor.html) | Kantar Emor <br> ERR | 1 | 1 | 1 | 1 | 0–1 |
 | [7–14 August 2023](2023-08-14-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [3–13 August 2023](2023-08-13-Turu-uuringuteAS.html) | Turu-uuringute AS | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -677,8 +683,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 19% | 100% |  |
-| 1 | 81% | 81% | Last Result, Median |
+| 0 | 13% | 100% |  |
+| 1 | 87% | 87% | Last Result, Median |
 | 2 | 0% | 0% |  |
 
 
