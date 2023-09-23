@@ -14,7 +14,7 @@ Last result: **13.6%** (General Election of 26 May 2019)
 | [11–18 September 2023](2023-09-18-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 10.7% | 9.5–12.1% | 9.2–12.4% | 8.9–12.8% | 8.4–13.4% |
 | [4–11 September 2023](2023-09-11-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 10.1% | N/A | N/A | N/A | N/A |
 | [29 August–4 September 2023](2023-09-04-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 8.6% | 7.6–9.8% | 7.3–10.2% | 7.0–10.5% | 6.5–11.1% |
-| [21–28 August 2023](2023-08-28-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 10.5% | N/A | N/A | N/A | N/A |
+| [21–28 August 2023](2023-08-28-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 10.5% | 9.3–11.8% | 9.0–12.2% | 8.7–12.6% | 8.2–13.2% |
 | [14–21 August 2023](2023-08-21-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 10.6% | N/A | N/A | N/A | N/A |
 | [10–16 August 2023](2023-08-16-KantarEmor.html) | Kantar Emor <br> ERR | 13.8% | 12.7–15.0% | 12.4–15.3% | 12.1–15.6% | 11.6–16.2% |
 | [7–14 August 2023](2023-08-14-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 9.2% | 8.1–10.5% | 7.8–10.8% | 7.6–11.2% | 7.1–11.8% |
@@ -361,7 +361,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [11–18 September 2023](2023-09-18-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1 | 1 | 1 | 1 | 0–1 |
 | [4–11 September 2023](2023-09-11-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
 | [29 August–4 September 2023](2023-09-04-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [21–28 August 2023](2023-08-28-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
+| [21–28 August 2023](2023-08-28-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [14–21 August 2023](2023-08-21-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
 | [10–16 August 2023](2023-08-16-KantarEmor.html) | Kantar Emor <br> ERR | 1 | 1 | 1 | 1 | 1 |
 | [7–14 August 2023](2023-08-14-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
