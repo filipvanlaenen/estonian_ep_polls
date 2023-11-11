@@ -13,7 +13,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 5.6% | 4.4–7.6% | 4.2–7.9% | 3.9–8.2% | 3.6–8.8% |
 | [26 October–6 November 2023](2023-11-06-Turu-uuringuteAS.html) | Turu-uuringute AS | 5.1% | 4.3–6.2% | 4.1–6.5% | 3.9–6.8% | 3.5–7.3% |
 | [30 October–6 November 2023](2023-11-06-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 5.0% | 4.2–6.0% | 4.0–6.3% | 3.8–6.5% | 3.5–7.0% |
-| [23–27 October 2023](2023-10-27-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 6.1% | N/A | N/A | N/A | N/A |
+| [23–27 October 2023](2023-10-27-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 6.1% | 5.2–7.2% | 5.0–7.5% | 4.8–7.8% | 4.4–8.3% |
 | [16–20 October 2023](2023-10-20-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 6.6% | 5.7–7.7% | 5.4–8.0% | 5.2–8.3% | 4.8–8.9% |
 | [13–18 October 2023](2023-10-18-KantarEmor.html) | Kantar Emor <br> ERR | 7.2% | 6.4–8.1% | 6.2–8.4% | 6.0–8.6% | 5.6–9.1% |
 | [10–13 October 2023](2023-10-13-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 6.2% | N/A | N/A | N/A | N/A |
@@ -374,7 +374,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [26 October–6 November 2023](2023-11-06-Turu-uuringuteAS.html) | Turu-uuringute AS | 0 | 0 | 0 | 0 | 0 |
 | [30 October–6 November 2023](2023-11-06-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 0 | 0 | 0 | 0 | 0 |
-| [23–27 October 2023](2023-10-27-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
+| [23–27 October 2023](2023-10-27-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 0 | 0 | 0 | 0 | 0 |
 | [16–20 October 2023](2023-10-20-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 0 | 0 | 0 | 0 | 0 |
 | [13–18 October 2023](2023-10-18-KantarEmor.html) | Kantar Emor <br> ERR | 0 | 0 | 0 | 0 | 0–1 |
 | [10–13 October 2023](2023-10-13-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |

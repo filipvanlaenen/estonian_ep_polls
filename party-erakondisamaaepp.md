@@ -13,7 +13,7 @@ Last result: **13.9%** (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 24.8% | 18.0–27.3% | 17.5–27.9% | 17.1–28.4% | 16.4–29.4% |
 | [26 October–6 November 2023](2023-11-06-Turu-uuringuteAS.html) | Turu-uuringute AS | 25.9% | 24.1–27.9% | 23.6–28.4% | 23.2–28.9% | 22.3–29.8% |
 | [30 October–6 November 2023](2023-11-06-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 25.6% | 23.9–27.4% | 23.4–28.0% | 23.0–28.4% | 22.2–29.3% |
-| [23–27 October 2023](2023-10-27-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 21.6% | N/A | N/A | N/A | N/A |
+| [23–27 October 2023](2023-10-27-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 21.6% | 20.0–23.3% | 19.5–23.8% | 19.2–24.3% | 18.4–25.1% |
 | [16–20 October 2023](2023-10-20-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 22.6% | 21.0–24.4% | 20.5–24.9% | 20.1–25.3% | 19.4–26.2% |
 | [13–18 October 2023](2023-10-18-KantarEmor.html) | Kantar Emor <br> ERR | 18.5% | 17.3–19.9% | 16.9–20.2% | 16.6–20.6% | 16.0–21.2% |
 | [10–13 October 2023](2023-10-13-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 20.1% | N/A | N/A | N/A | N/A |
@@ -382,7 +382,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | [26 October–6 November 2023](2023-11-06-Turu-uuringuteAS.html) | Turu-uuringute AS | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [30 October–6 November 2023](2023-11-06-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [23–27 October 2023](2023-10-27-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
+| [23–27 October 2023](2023-10-27-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [16–20 October 2023](2023-10-20-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 2 | 2 | 2 | 2 | 1–2 |
 | [13–18 October 2023](2023-10-18-KantarEmor.html) | Kantar Emor <br> ERR | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [10–13 October 2023](2023-10-13-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
