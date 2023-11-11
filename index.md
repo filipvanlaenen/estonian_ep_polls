@@ -5,10 +5,10 @@ The table below lists the most recent polls (less than 30 days old) registered a
 | Period     | Polling firm/Commissioner(s) | Ref | Kesk | Isamaa | SDE | EKRE | Rohelised | EVA | E200 | Kaljulaid | EP |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 24.3% <br> 2 | 22.4% <br> 1 | 13.9% <br> 1 | 13.6% <br> 1 | 4.0% <br> 0 | 0.3% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 17–25% <br> 1–2 | 12–16% <br> 1 | 14–25% <br> 1–2 | 8–16% <br> 0–1 | 16–27% <br> 1–2 | 1–4% <br> 0 | N/A <br> N/A | 6–9% <br> 0–1 | N/A <br> N/A | 2–5% <br> 0 |
-| [16–20 October 2023](2023-10-20-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 16–21% <br> 1–2 | 11–15% <br> 1 | 20–25% <br> 2 | 8–12% <br> 0–1 | 22–27% <br> 2 | 1–2% <br> 0 | N/A <br> N/A | 5–8% <br> 0 | N/A <br> N/A | 2–4% <br> 0 |
+| N/A | [Poll Average](average.html) | 15–21% <br> 1–2 | 10–16% <br> 1 | 17–28% <br> 1–3 | 8–16% <br> 0–1 | 16–26% <br> 1–2 | 1–4% <br> 0 | N/A <br> N/A | 4–8% <br> 0 | N/A <br> N/A | 2–5% <br> 0 |
+| [26 October–6 November 2023](2023-11-06-Turu-uuringuteAS.html) | Turu-uuringute AS | 16–21% <br> 1–2 | 9–13% <br> 0–1 | 23–29% <br> 2–3 | 8–12% <br> 0–1 | 18–23% <br> 1–2 | 1–2% <br> 0 | N/A <br> N/A | 4–7% <br> 0 | N/A <br> N/A | 3–5% <br> 0 |
+| [30 October–6 November 2023](2023-11-06-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 15–19% <br> 1–2 | 12–17% <br> 1 | 23–28% <br> 2–3 | 8–11% <br> 0–1 | 22–27% <br> 2–3 | 1–2% <br> 0 | N/A <br> N/A | 4–7% <br> 0 | N/A <br> N/A | 2–4% <br> 0 |
 | [13–18 October 2023](2023-10-18-KantarEmor.html) | Kantar Emor <br> ERR | 18–22% <br> 1–2 | 13–16% <br> 1 | 17–21% <br> 1–2 | 13–17% <br> 1 | 16–19% <br> 1–2 | 2–4% <br> 0 | N/A <br> N/A | 6–9% <br> 0 | N/A <br> N/A | 3–5% <br> 0 |
-| [28 September–6 October 2023](2023-10-06-Turu-uuringuteAS.html) | Turu-uuringute AS | 20–26% <br> 2 | 12–16% <br> 1 | 14–19% <br> 1–2 | 8–12% <br> 0–1 | 17–22% <br> 1–2 | 1–3% <br> 0 | N/A <br> N/A | 6–10% <br> 0–1 | N/A <br> N/A | 3–5% <br> 0 |
 | 26 May 2019 | General Election | 24.3% <br> 2 | 22.4% <br> 1 | 13.9% <br> 1 | 13.6% <br> 1 | 4.0% <br> 0 | 0.3% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
