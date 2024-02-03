@@ -5,7 +5,8 @@ The table below lists the most recent polls (less than 30 days old) registered a
 | Period     | Polling firm/Commissioner(s) | Ref | Kesk | Isamaa | SDE | EKRE | Rohelised | EVA | E200 | Kaljulaid | EP | EÜVP | Koos |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 24.3% <br> 2 | 22.4% <br> 1 | 13.9% <br> 1 | 13.6% <br> 1 | 4.0% <br> 0 | 0.3% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 15–20% <br> 1–2 | 10–14% <br> 1 | 25–30% <br> 2–3 | 14–18% <br> 1–2 | 13–18% <br> 1 | 2–4% <br> 0 | N/A <br> N/A | 4–7% <br> 0 | N/A <br> N/A | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A |
+| N/A | [Poll Average](average.html) | 14–20% <br> 1–2 | 10–14% <br> 1 | 23–30% <br> 2–3 | 14–20% <br> 1–2 | 13–18% <br> 1–2 | 1–4% <br> 0 | N/A <br> N/A | 4–7% <br> 0 | N/A <br> N/A | 2–4% <br> 0 | 0–1% <br> 0 | 1–3% <br> 0 |
+| [18–25 January 2024](2024-01-25-Turu-uuringuteAS.html) | Turu-uuringute AS | 14–19% <br> 1–2 | 10–14% <br> 1 | 22–28% <br> 2–3 | 16–21% <br> 1–2 | 14–19% <br> 1–2 | 1–2% <br> 0 | N/A <br> N/A | 4–7% <br> 0 | N/A <br> N/A | 2–4% <br> 0 | 0–1% <br> 0 | 1–3% <br> 0 |
 | [8–12 January 2024](2024-01-12-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 15–20% <br> 1–2 | 10–14% <br> 1 | 25–30% <br> 2–3 | 14–19% <br> 1–2 | 13–18% <br> 1 | 2–4% <br> 0 | N/A <br> N/A | 4–7% <br> 0 | N/A <br> N/A | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A |
 | 26 May 2019 | General Election | 24.3% <br> 2 | 22.4% <br> 1 | 13.9% <br> 1 | 13.6% <br> 1 | 4.0% <br> 0 | 0.3% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
