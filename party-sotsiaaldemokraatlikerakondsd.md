@@ -10,8 +10,12 @@ Last result: **13.6%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17.1% | 15.1–19.2% | 14.7–19.8% | 14.3–20.3% | 13.6–21.2% |
+| N/A | [Poll Average](average.html) | 17.2% | 15.4–19.0% | 14.9–19.5% | 14.5–20.0% | 13.7–21.0% |
+| [28 January–2 February 2024](2024-02-02-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 16.1% | 14.7–17.7% | 14.3–18.1% | 13.9–18.5% | 13.3–19.3% |
+| [22–26 January 2024](2024-01-26-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 17.1% | 15.7–18.7% | 15.2–19.2% | 14.9–19.6% | 14.2–20.4% |
 | [18–25 January 2024](2024-01-25-Turu-uuringuteAS.html) | Turu-uuringute AS | 18.0% | 16.4–19.8% | 16.0–20.3% | 15.6–20.7% | 14.9–21.6% |
+| [17–24 January 2024](2024-01-24-KantarEmor.html) | Kantar Emor <br> ERR | 17.2% | 16.0–18.5% | 15.7–18.9% | 15.4–19.2% | 14.8–19.9% |
+| [15–22 January 2024](2024-01-22-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 17.5% | N/A | N/A | N/A | N/A |
 | [8–12 January 2024](2024-01-12-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 16.1% | 14.7–17.7% | 14.3–18.1% | 13.9–18.5% | 13.3–19.3% |
 | [2–8 January 2024](2024-01-08-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 11.7% | N/A | N/A | N/A | N/A |
 | [18–22 December 2023](2023-12-22-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 10.5% | 9.3–11.8% | 9.0–12.2% | 8.7–12.6% | 8.2–13.2% |
@@ -364,16 +368,16 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 11.5–12.5% | 0% | 100% |  |
-| 12.5–13.5% | 0.5% | 100% |  |
-| 13.5–14.5% | 4% | 99.5% | Last Result |
-| 14.5–15.5% | 12% | 96% |  |
-| 15.5–16.5% | 22% | 84% |  |
-| 16.5–17.5% | 24% | 62% | Median |
-| 17.5–18.5% | 20% | 39% |  |
-| 18.5–19.5% | 12% | 19% |  |
-| 19.5–20.5% | 5% | 7% |  |
-| 20.5–21.5% | 1.3% | 2% |  |
-| 21.5–22.5% | 0.2% | 0.3% |  |
+| 12.5–13.5% | 0.3% | 100% |  |
+| 13.5–14.5% | 2% | 99.7% | Last Result |
+| 14.5–15.5% | 9% | 97% |  |
+| 15.5–16.5% | 21% | 88% |  |
+| 16.5–17.5% | 29% | 67% | Median |
+| 17.5–18.5% | 23% | 39% |  |
+| 18.5–19.5% | 11% | 16% |  |
+| 19.5–20.5% | 4% | 5% |  |
+| 20.5–21.5% | 0.9% | 1.1% |  |
+| 21.5–22.5% | 0.2% | 0.2% |  |
 | 22.5–23.5% | 0% | 0% |  |
 
 
@@ -386,7 +390,11 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [28 January–2 February 2024](2024-02-02-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1 | 1 | 1 | 1 | 1–2 |
+| [22–26 January 2024](2024-01-26-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1 | 1 | 1 | 1 | 1–2 |
 | [18–25 January 2024](2024-01-25-Turu-uuringuteAS.html) | Turu-uuringute AS | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [17–24 January 2024](2024-01-24-KantarEmor.html) | Kantar Emor <br> ERR | 1 | 1 | 1 | 1–2 | 1–2 |
+| [15–22 January 2024](2024-01-22-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
 | [8–12 January 2024](2024-01-12-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [2–8 January 2024](2024-01-08-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
 | [18–22 December 2023](2023-12-22-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -740,8 +748,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 69% | 100% | Last Result, Median |
-| 2 | 31% | 31% |  |
+| 1 | 79% | 100% | Last Result, Median |
+| 2 | 21% | 21% |  |
 | 3 | 0% | 0% |  |
 
 
