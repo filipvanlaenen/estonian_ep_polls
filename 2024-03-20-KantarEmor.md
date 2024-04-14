@@ -46,8 +46,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 0.4% | 100% | Last Result |
-| 2 | 99.6% | 99.6% | Median |
+| 1 | 0.3% | 100% | Last Result |
+| 2 | 99.6% | 99.7% | Median |
 | 3 | 0% | 0% |  |
 
 ### Eesti Reformierakond (RE)
@@ -138,8 +138,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 0.4% | 100% | Last Result |
-| 2 | 99.6% | 99.6% | Median |
+| 1 | 0.3% | 100% | Last Result |
+| 2 | 99.6% | 99.7% | Median |
 | 3 | 0% | 0% |  |
 
 ### Erakond Isamaa (EPP) – Erakond Parempoolsed (EPP)
@@ -175,6 +175,6 @@
 ### Calculations
 
 + **Sample size:** 1135
-+ **Simulations done:** 1,048,576
-+ **Error estimate:** 0.66%
++ **Simulations done:** 2,097,152
++ **Error estimate:** 1.48%
 
