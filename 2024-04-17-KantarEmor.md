@@ -48,8 +48,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 1.4% | 100% | Last Result |
-| 2 | 98.6% | 98.6% | Median |
+| 1 | 1.5% | 100% | Last Result |
+| 2 | 98.5% | 98.5% | Median |
 | 3 | 0% | 0% |  |
 
 ### Eesti Reformierakond (RE)
@@ -72,8 +72,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 91% | 100% | Last Result, Median |
-| 2 | 9% | 9% |  |
+| 1 | 90% | 100% | Last Result, Median |
+| 2 | 10% | 10% |  |
 | 3 | 0% | 0% |  |
 
 ### Eesti Keskerakond (RE)
@@ -147,8 +147,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 1.4% | 100% | Last Result |
-| 2 | 98.6% | 98.6% | Median |
+| 1 | 1.5% | 100% | Last Result |
+| 2 | 98.5% | 98.5% | Median |
 | 3 | 0% | 0% |  |
 
 ### Erakond Isamaa (EPP) – Erakond Parempoolsed (EPP)
@@ -157,8 +157,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 91% | 100% | Last Result, Median |
-| 2 | 9% | 9% |  |
+| 1 | 90% | 100% | Last Result, Median |
+| 2 | 10% | 10% |  |
 | 3 | 0% | 0% |  |
 
 ### Eesti Konservatiivne Rahvaerakond (ID)
@@ -190,6 +190,6 @@
 ### Calculations
 
 + **Sample size:** 1484
-+ **Simulations done:** 1,048,576
-+ **Error estimate:** 1.80%
++ **Simulations done:** 2,097,152
++ **Error estimate:** 0.70%
 
