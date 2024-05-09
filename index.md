@@ -5,9 +5,9 @@ The table below lists the most recent polls (less than 30 days old) registered a
 | Period     | Polling firm/Commissioner(s) | Ref | Kesk | Isamaa | SDE | EKRE | Rohelised | EVA | E200 | Kaljulaid | EP | EÜVP | Koos |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 24.3% <br> 2 | 22.4% <br> 1 | 13.9% <br> 1 | 13.6% <br> 1 | 4.0% <br> 0 | 0.3% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 17–21% <br> 1–2 | 10–15% <br> 1 | 15–19% <br> 1–2 | 18–23% <br> 2 | 12–18% <br> 1 | 1–2% <br> 0 | N/A <br> N/A | 4–6% <br> 0 | N/A <br> N/A | 4–7% <br> 0 | N/A <br> N/A | N/A <br> N/A |
+| N/A | [Poll Average](average.html) | 17–21% <br> 1–2 | 9–15% <br> 0–1 | 15–19% <br> 1–2 | 18–23% <br> 2 | 12–19% <br> 1–2 | 1–2% <br> 0 | N/A <br> N/A | 3–6% <br> 0 | N/A <br> N/A | 4–7% <br> 0 | N/A <br> N/A | 2–4% <br> 0 |
+| [29 April–6 May 2024](2024-05-06-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 18–21% <br> 1–2 | 8–10% <br> 0–1 | 16–18% <br> 1–2 | 20–23% <br> 2 | 17–19% <br> 1–2 | 1% <br> 0 | N/A <br> N/A | 3–5% <br> 0 | N/A <br> N/A | 4–5% <br> 0 | N/A <br> N/A | 2–4% <br> 0 |
 | [8–17 April 2024](2024-04-17-KantarEmor.html) | Kantar Emor <br> ERR | 17–21% <br> 1–2 | 12–16% <br> 1 | 15–19% <br> 1–2 | 18–22% <br> 2 | 12–16% <br> 1 | 1–2% <br> 0 | N/A <br> N/A | 4–6% <br> 0 | N/A <br> N/A | 5–7% <br> 0 | N/A <br> N/A | N/A <br> N/A |
-| [11–15 April 2024](2024-04-15-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 19–21% <br> 2 | 10–12% <br> 1 | 16–19% <br> 1 | 21–23% <br> 2 | 16–18% <br> 1 | 1–2% <br> 0 | N/A <br> N/A | 4–6% <br> 0 | N/A <br> N/A | 4–5% <br> 0 | N/A <br> N/A | N/A <br> N/A |
 | 26 May 2019 | General Election | 24.3% <br> 2 | 22.4% <br> 1 | 13.9% <br> 1 | 13.6% <br> 1 | 4.0% <br> 0 | 0.3% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
