@@ -10,7 +10,8 @@ Last result: **4.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16.3% | 13.1–18.4% | 12.7–18.7% | 12.4–19.0% | 11.9–19.4% |
+| N/A | [Poll Average](average.html) | 16.2% | 12.9–18.4% | 12.5–18.7% | 12.2–19.0% | 11.6–19.4% |
+| [6–15 May 2024](2024-05-15-KantarEmor.html) | Kantar Emor <br> ERR | 13.6% | 12.5–14.8% | 12.2–15.1% | 11.9–15.5% | 11.4–16.0% |
 | [29 April–6 May 2024](2024-05-06-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 17.9% | 17.1–18.7% | 16.8–19.0% | 16.6–19.2% | 16.3–19.6% |
 | [8–17 April 2024](2024-04-17-KantarEmor.html) | Kantar Emor <br> ERR | 13.8% | 12.7–15.0% | 12.4–15.4% | 12.1–15.7% | 11.6–16.3% |
 | [11–15 April 2024](2024-04-15-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 17.2% | 16.4–18.0% | 16.2–18.3% | 16.0–18.5% | 15.6–18.9% |
@@ -377,12 +378,12 @@ The following table shows the probability mass function per percentage block of 
 | 7.5–8.5% | 0% | 100% |  |
 | 8.5–9.5% | 0% | 100% |  |
 | 9.5–10.5% | 0% | 100% |  |
-| 10.5–11.5% | 0.2% | 100% |  |
-| 11.5–12.5% | 3% | 99.8% |  |
-| 12.5–13.5% | 15% | 97% |  |
-| 13.5–14.5% | 21% | 82% |  |
-| 14.5–15.5% | 9% | 61% |  |
-| 15.5–16.5% | 2% | 52% | Median |
+| 10.5–11.5% | 0.4% | 100% |  |
+| 11.5–12.5% | 5% | 99.6% |  |
+| 12.5–13.5% | 18% | 95% |  |
+| 13.5–14.5% | 19% | 77% |  |
+| 14.5–15.5% | 7% | 58% |  |
+| 15.5–16.5% | 2% | 51% | Median |
 | 16.5–17.5% | 14% | 49% |  |
 | 17.5–18.5% | 27% | 35% |  |
 | 18.5–19.5% | 7% | 8% |  |
@@ -399,6 +400,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [6–15 May 2024](2024-05-15-KantarEmor.html) | Kantar Emor <br> ERR | 1 | 1 | 1 | 1 | 1 |
 | [29 April–6 May 2024](2024-05-06-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [8–17 April 2024](2024-04-17-KantarEmor.html) | Kantar Emor <br> ERR | 1 | 1 | 1 | 1 | 1 |
 | [11–15 April 2024](2024-04-15-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1 | 1 | 1 | 1 | 1 |
