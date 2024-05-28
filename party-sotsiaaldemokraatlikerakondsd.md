@@ -397,7 +397,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2 | 1–3 | 1–3 | 1–3 |
+| N/A | [Poll Average](average.html) | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | [8–20 May 2024](2024-05-20-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [6–15 May 2024](2024-05-15-KantarEmor.html) | Kantar Emor <br> ERR | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [29 April–6 May 2024](2024-05-06-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 2 | 2 | 2 | 2 | 2 |
@@ -761,8 +761,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 10% | 100% | Last Result |
-| 2 | 84% | 90% | Median |
+| 1 | 12% | 100% | Last Result |
+| 2 | 83% | 88% | Median |
 | 3 | 6% | 6% |  |
 | 4 | 0% | 0% | Majority |
 
