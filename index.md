@@ -1,6 +1,6 @@
 # Overview
 
-The table below lists the most recent polls (less than 30 days old) registered and analyzed so far.
+The table below lists the most recent polls (less than 14 days old) registered and analyzed so far.
 
 | Period     | Polling firm/Commissioner(s) | Ref | Kesk | Isamaa | SDE | EKRE | Rohelised | EVA | E200 | Kaljulaid | EP | EÜVP | Koos |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
@@ -22,7 +22,7 @@ Only polls for which at least the sample size has been published are included in
 + **EKRE:** Eesti Konservatiivne Rahvaerakond (ID)
 + **Rohelised:** Erakond Eestimaa Rohelised (Greens/EFA)
 + **EVA:** Eesti Vabaerakond (*)
-+ **E200:** Eesti 200 (RE)
++ **E200:** Eesti 200 (EPP)
 + **Kaljulaid:** Raimond Kaljulaid (RE)
 + **EP:** Erakond Parempoolsed (EPP)
 + **EÜVP:** Eestimaa Ühendatud Vasakpartei (GUE/NGL)
