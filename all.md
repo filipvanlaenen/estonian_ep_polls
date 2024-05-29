@@ -373,7 +373,7 @@ Only polls for which at least the sample size has been published are included in
 + **EKRE:** Eesti Konservatiivne Rahvaerakond (ID)
 + **Rohelised:** Erakond Eestimaa Rohelised (Greens/EFA)
 + **EVA:** Eesti Vabaerakond (*)
-+ **E200:** Eesti 200 (RE)
++ **E200:** Eesti 200 (EPP)
 + **Kaljulaid:** Raimond Kaljulaid (RE)
 + **EP:** Erakond Parempoolsed (EPP)
 + **EÜVP:** Eestimaa Ühendatud Vasakpartei (GUE/NGL)
