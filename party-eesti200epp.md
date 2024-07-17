@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.3% | 2.4–4.4% | 2.2–4.8% | 2.1–5.1% | 1.8–5.6% |
+| N/A | [Poll Average](average.html) | 3.5% | 2.4–4.6% | 2.2–4.9% | 2.1–5.2% | 1.8–5.7% |
+| [8–12 July 2024](2024-07-12-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 3.8% | 3.1–4.7% | 2.9–5.0% | 2.8–5.2% | 2.5–5.6% |
 | [1–5 July 2024](2024-07-05-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 3.3% | 2.7–4.1% | 2.5–4.4% | 2.4–4.6% | 2.1–5.0% |
 | [17–24 June 2024](2024-06-24-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 3.7% | 3.0–4.6% | 2.9–4.8% | 2.7–5.1% | 2.4–5.5% |
 | [10–17 June 2024](2024-06-17-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 2.4% | N/A | N/A | N/A | N/A |
@@ -26,11 +27,11 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 17% | 100% |  |
-| 2.5–3.5% | 45% | 83% | Median |
-| 3.5–4.5% | 30% | 38% |  |
-| 4.5–5.5% | 7% | 8% |  |
-| 5.5–6.5% | 0.6% | 0.6% |  |
+| 1.5–2.5% | 15% | 100% |  |
+| 2.5–3.5% | 36% | 85% |  |
+| 3.5–4.5% | 38% | 49% | Median |
+| 4.5–5.5% | 11% | 12% |  |
+| 5.5–6.5% | 0.8% | 0.8% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
 
@@ -43,6 +44,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [8–12 July 2024](2024-07-12-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 0 | 0 | 0 | 0 | 0 |
 | [1–5 July 2024](2024-07-05-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 0 | 0 | 0 | 0 | 0 |
 | [17–24 June 2024](2024-06-24-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 0 | 0 | 0 | 0 | 0 |
 | [10–17 June 2024](2024-06-17-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
