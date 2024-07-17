@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/estonian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 14 Jul 2024 22:57:01 +0200</pubDate>
+    <pubDate>Wed, 17 Jul 2024 17:43:15 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 8–12 July 2024 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/estonian_ep_polls/2024-07-12-Norstat.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sotsiaaldemokraatlik Erakond (S&amp;amp;D): 1 seats&lt;/li&gt;&lt;li&gt;Erakond Parempoolsed (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Eesti Keskerakond (RE): 1 seats&lt;/li&gt;&lt;li&gt;Erakond Eestimaa Rohelised (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Eesti 200 (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Eesti Konservatiivne Rahvaerakond (ID): 0–1 seats&lt;/li&gt;&lt;li&gt;Eesti Reformierakond (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Erakond Isamaa (EPP): 2–3 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2024-07-12-Norstat-seats.png"
+        length="250594"
+        type="image/png"/>
+      <pubDate>Wed, 17 Jul 2024 17:43:15 +0200</pubDate>
+      <dc:date>2024-07-17T17:43:15.183562+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 8–12 July 2024 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/estonian_ep_polls/2024-07-12-Norstat.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2024-07-12-Norstat-coalitions-seats.png"
+        length="225787"
+        type="image/png"/>
+      <pubDate>Wed, 17 Jul 2024 17:43:15 +0200</pubDate>
+      <dc:date>2024-07-17T17:43:15.183562+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 8–12 July 2024 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/estonian_ep_polls/2024-07-12-Norstat.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sotsiaaldemokraatlik Erakond (S&amp;amp;D): 14.2–18.8%&lt;/li&gt;&lt;li&gt;Erakond Parempoolsed (EPP): 2.8–5.2%&lt;/li&gt;&lt;li&gt;Eesti Keskerakond (RE): 10.6–14.7%&lt;/li&gt;&lt;li&gt;Erakond Eestimaa Rohelised (Greens/EFA): 0.2–1.2%&lt;/li&gt;&lt;li&gt;Eesti 200 (EPP): 2.8–5.2%&lt;/li&gt;&lt;li&gt;Eesti Konservatiivne Rahvaerakond (ID): 9.4–13.3%&lt;/li&gt;&lt;li&gt;Eesti Reformierakond (RE): 17.1–22.0%&lt;/li&gt;&lt;li&gt;Erakond Isamaa (EPP): 27.4–33.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2024-07-12-Norstat.png"
+        length="300433"
+        type="image/png"/>
+      <pubDate>Wed, 17 Jul 2024 17:43:15 +0200</pubDate>
+      <dc:date>2024-07-17T17:43:15.183562+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 1–5 July 2024 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/estonian_ep_polls/2024-07-05-Norstat.html#seats</link>
@@ -129,6 +159,6 @@
       <pubDate>Sun, 14 Jul 2024 22:57:01 +0200</pubDate>
       <dc:date>2024-07-14T22:57:01.008825+02:00</dc:date>
     </item>
-    <dc:date>2024-07-14T22:57:01.008825+02:00</dc:date>
+    <dc:date>2024-07-17T17:43:15.183562+02:00</dc:date>
   </channel>
 </rss>
