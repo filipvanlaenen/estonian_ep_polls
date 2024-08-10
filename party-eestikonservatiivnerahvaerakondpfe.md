@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14.3% | 12.2–16.3% | 11.8–16.8% | 11.5–17.2% | 10.9–18.0% |
+| N/A | [Poll Average](average.html) | 12.3% | 10.4–13.9% | 9.9–14.3% | 9.5–14.7% | 8.8–15.5% |
 | [1–9 August 2024](2024-08-09-Turu-uuringuteAS.html) | Turu-uuringute AS | 10.9% | 9.6–12.3% | 9.3–12.7% | 9.0–13.1% | 8.4–13.8% |
 | [23 July–4 August 2024](2024-08-04-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 13.0% | 11.7–14.5% | 11.4–14.9% | 11.1–15.2% | 10.5–16.0% |
 | [22–29 July 2024](2024-07-29-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 15.0% | 13.6–16.5% | 13.2–17.0% | 12.9–17.4% | 12.3–18.1% |
@@ -38,19 +38,16 @@ The following table shows the probability mass function per percentage block of 
 | 4.5–5.5% | 0% | 100% |  |
 | 5.5–6.5% | 0% | 100% |  |
 | 6.5–7.5% | 0% | 100% |  |
-| 7.5–8.5% | 0% | 100% |  |
-| 8.5–9.5% | 0% | 100% |  |
-| 9.5–10.5% | 0.1% | 100% |  |
-| 10.5–11.5% | 3% | 99.9% |  |
-| 11.5–12.5% | 13% | 97% |  |
-| 12.5–13.5% | 19% | 84% |  |
-| 13.5–14.5% | 21% | 65% | Median |
-| 14.5–15.5% | 23% | 45% |  |
-| 15.5–16.5% | 15% | 22% |  |
-| 16.5–17.5% | 5% | 7% |  |
-| 17.5–18.5% | 1.1% | 1.3% |  |
-| 18.5–19.5% | 0.1% | 0.1% |  |
-| 19.5–20.5% | 0% | 0% |  |
+| 7.5–8.5% | 0.2% | 100% |  |
+| 8.5–9.5% | 3% | 99.8% |  |
+| 9.5–10.5% | 9% | 97% |  |
+| 10.5–11.5% | 17% | 88% |  |
+| 11.5–12.5% | 27% | 70% | Median |
+| 12.5–13.5% | 27% | 44% |  |
+| 13.5–14.5% | 13% | 16% |  |
+| 14.5–15.5% | 3% | 3% |  |
+| 15.5–16.5% | 0.4% | 0.4% |  |
+| 16.5–17.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -83,9 +80,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0% | 100% | Last Result |
-| 1 | 99.8% | 100% | Median |
-| 2 | 0.2% | 0.2% |  |
-| 3 | 0% | 0% |  |
+| 0 | 0.1% | 100% | Last Result |
+| 1 | 99.9% | 99.9% | Median |
+| 2 | 0% | 0% |  |
 
 

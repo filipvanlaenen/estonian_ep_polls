@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.6% | 1.7–3.3% | 1.5–3.6% | 1.4–3.7% | 1.2–4.1% |
+| N/A | [Poll Average](average.html) | 3.0% | 2.4–3.7% | 2.2–3.9% | 2.1–4.1% | 1.8–4.5% |
 | [1–9 August 2024](2024-08-09-Turu-uuringuteAS.html) | Turu-uuringute AS | 2.9% | 2.3–3.8% | 2.1–4.0% | 2.0–4.2% | 1.7–4.7% |
 | [23 July–4 August 2024](2024-08-04-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 0.0% | N/A | N/A | N/A | N/A |
 | [22–29 July 2024](2024-07-29-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 0.0% | N/A | N/A | N/A | N/A |
@@ -31,11 +31,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 5% | 100% |  |
-| 1.5–2.5% | 43% | 95% |  |
-| 2.5–3.5% | 46% | 51% | Median |
-| 3.5–4.5% | 5% | 5% |  |
-| 4.5–5.5% | 0% | 0% |  |
+| 0.5–1.5% | 0.1% | 100% |  |
+| 1.5–2.5% | 19% | 99.9% |  |
+| 2.5–3.5% | 68% | 81% | Median |
+| 3.5–4.5% | 13% | 13% |  |
+| 4.5–5.5% | 0.4% | 0.4% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
 
