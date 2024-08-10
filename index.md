@@ -2,14 +2,14 @@
 
 The table below lists the most recent polls (less than 90 days old) registered and analyzed so far.
 
-| Period     | Polling firm/Commissioner(s) | EÜVP | Rohelised | SDE | Ref | Kesk | Kaljulaid | Isamaa | EP | E200 | EKRE | EVA | Koos |
-|:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| 9 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 0–1% <br> 0 | 0–2% <br> 0 | 15–20% <br> 1–2 | 14–22% <br> 1–2 | 10–15% <br> 1 | N/A <br> N/A | 21–32% <br> 2–3 | 4–6% <br> 0 | 2–5% <br> 0 | 12–17% <br> 1 | N/A <br> N/A | 1–4% <br> 0 |
-| [22–29 July 2024](2024-07-29-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | N/A <br> N/A | 0–2% <br> 0 | 16–20% <br> 1–2 | 13–18% <br> 1 | 11–15% <br> 1 | N/A <br> N/A | 27–32% <br> 2–3 | 3–6% <br> 0 | 2–4% <br> 0 | 13–17% <br> 1 | N/A <br> N/A | N/A <br> N/A |
-| [11–17 July 2024](2024-07-17-KantarEmor.html) | Kantar Emor <br> ERR | 0–1% <br> 0 | 0–1% <br> 0 | 15–19% <br> 1–2 | 14–18% <br> 1–2 | 12–16% <br> 1 | N/A <br> N/A | 25–30% <br> 2–3 | 4–7% <br> 0 | 2–4% <br> 0 | 11–14% <br> 1 | N/A <br> N/A | 2–4% <br> 0 |
-| [1–11 June 2024](2024-06-11-Turu-uuringuteAS.html) | Turu-uuringute AS | 0–1% <br> 0 | 1–2% <br> 0 | 15–20% <br> 1–2 | 17–23% <br> 1–2 | 9–13% <br> 1 | N/A <br> N/A | 20–26% <br> 2 | 4–7% <br> 0 | 3–5% <br> 0 | 13–17% <br> 1 | N/A <br> N/A | 1–3% <br> 0 |
-| 9 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| Period     | Polling firm/Commissioner(s) | EÜVP | Rohelised | SDE | Ref | Kesk | Kaljulaid | Isamaa | EP | E200 | ERK | EKRE | EVA | Koos |
+|:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| 9 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| N/A | [Poll Average](average.html) | 0–1% <br> 0 | 0–2% <br> 0 | 15–20% <br> 1–2 | 14–22% <br> 1–2 | 10–15% <br> 1 | N/A <br> N/A | 21–32% <br> 2–3 | 4–6% <br> 0 | 2–5% <br> 0 | N/A <br> N/A | 12–17% <br> 1 | N/A <br> N/A | 1–4% <br> 0 |
+| [22–29 July 2024](2024-07-29-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | N/A <br> N/A | 0–2% <br> 0 | 16–20% <br> 1–2 | 13–18% <br> 1 | 11–15% <br> 1 | N/A <br> N/A | 27–32% <br> 2–3 | 3–6% <br> 0 | 2–4% <br> 0 | N/A <br> N/A | 13–17% <br> 1 | N/A <br> N/A | N/A <br> N/A |
+| [11–17 July 2024](2024-07-17-KantarEmor.html) | Kantar Emor <br> ERR | 0–1% <br> 0 | 0–1% <br> 0 | 15–19% <br> 1–2 | 14–18% <br> 1–2 | 12–16% <br> 1 | N/A <br> N/A | 25–30% <br> 2–3 | 4–7% <br> 0 | 2–4% <br> 0 | N/A <br> N/A | 11–14% <br> 1 | N/A <br> N/A | 2–4% <br> 0 |
+| [1–11 June 2024](2024-06-11-Turu-uuringuteAS.html) | Turu-uuringute AS | 0–1% <br> 0 | 1–2% <br> 0 | 15–20% <br> 1–2 | 17–23% <br> 1–2 | 9–13% <br> 1 | N/A <br> N/A | 20–26% <br> 2 | 4–7% <br> 0 | 3–5% <br> 0 | N/A <br> N/A | 13–17% <br> 1 | N/A <br> N/A | 1–3% <br> 0 |
+| 9 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
 
@@ -25,6 +25,7 @@ Only polls for which at least the sample size has been published are included in
 + **Isamaa:** Erakond Isamaa (EPP)
 + **EP:** Erakond Parempoolsed (EPP)
 + **E200:** Eesti 200 (EPP)
++ **ERK:** Eesti Rahvuslased ja Konservatiivid (ERC)
 + **EKRE:** Eesti Konservatiivne Rahvaerakond (PfE)
 + **EVA:** Eesti Vabaerakond (*)
 + **Koos:** Koos (*)
