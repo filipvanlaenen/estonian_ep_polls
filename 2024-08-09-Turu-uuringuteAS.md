@@ -18,7 +18,7 @@
 | Erakond Parempoolsed (EPP) | 0.0% | 5.9% | 5.0–7.1% |4.8–7.4% |4.6–7.7% |4.2–8.3% |
 | Koos (*) | 0.0% | 2.9% | 2.3–3.8% |2.1–4.0% |2.0–4.2% |1.7–4.7% |
 | Eesti 200 (EPP) | 0.0% | 2.9% | 2.3–3.8% |2.1–4.0% |2.0–4.2% |1.7–4.7% |
-| Eesti Rahvuslased ja Konservatiivid (ERC) | 0.0% | 2.9% | 2.3–3.8% |2.1–4.0% |2.0–4.2% |1.7–4.7% |
+| Eesti Rahvuslased ja Konservatiivid (ECR) | 0.0% | 2.9% | 2.3–3.8% |2.1–4.0% |2.0–4.2% |1.7–4.7% |
 | Erakond Eestimaa Rohelised (Greens/EFA) | 0.0% | 2.0% | 1.5–2.8% |1.4–3.0% |1.3–3.2% |1.1–3.6% |
 | Eestimaa Ühendatud Vasakpartei (GUE/NGL) | 0.0% | 0.2% | 0.1–0.6% |0.1–0.7% |0.1–0.8% |0.0–1.0% |
 
@@ -42,7 +42,7 @@
 | <a href="#erakond-parempoolsed-(epp)">Erakond Parempoolsed (EPP)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#koos-(*)">Koos (*)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#eesti-200-(epp)">Eesti 200 (EPP)</a> | 0 | 0 | 0 |0 |0 |0 |
-| <a href="#eesti-rahvuslased-ja-konservatiivid-(erc)">Eesti Rahvuslased ja Konservatiivid (ERC)</a> | 0 | 0 | 0 |0 |0 |0 |
+| <a href="#eesti-rahvuslased-ja-konservatiivid-(ecr)">Eesti Rahvuslased ja Konservatiivid (ECR)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#erakond-eestimaa-rohelised-(greens/efa)">Erakond Eestimaa Rohelised (Greens/EFA)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#eestimaa-ühendatud-vasakpartei-(gue/ngl)">Eestimaa Ühendatud Vasakpartei (GUE/NGL)</a> | 0 | 0 | 0 |0 |0 |0 |
 
@@ -141,11 +141,11 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 100% | 100% | Last Result, Median |
 
-### Eesti Rahvuslased ja Konservatiivid (ERC)
+### Eesti Rahvuslased ja Konservatiivid (ECR)
 
-*For a full overview of the results for this party, see the [Eesti Rahvuslased ja Konservatiivid (ERC)](party-eestirahvuslasedjakonservatiividerc.html) page.*
+*For a full overview of the results for this party, see the [Eesti Rahvuslased ja Konservatiivid (ECR)](party-eestirahvuslasedjakonservatiividecr.html) page.*
 
-![Graph with seats probability mass function not yet produced](2024-08-09-Turu-uuringuteAS-seats-pmf-eestirahvuslasedjakonservatiividerc.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2024-08-09-Turu-uuringuteAS-seats-pmf-eestirahvuslasedjakonservatiividecr.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -183,7 +183,7 @@
 | Erakond Isamaa (EPP) – Erakond Parempoolsed (EPP) – Eesti 200 (EPP) | 0 | 2 | 0% | 2–3 | 2–3 | 2–3 | 2–3 |
 | Sotsiaaldemokraatlik Erakond (S&D) | 0 | 2 | 0% | 1–2 | 1–2 | 1–2 | 1–2 |
 | Eesti Konservatiivne Rahvaerakond (PfE) | 0 | 1 | 0% | 1 | 1 | 1 | 1 |
-| Eesti Rahvuslased ja Konservatiivid (ERC) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
+| Eesti Rahvuslased ja Konservatiivid (ECR) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 | Eestimaa Ühendatud Vasakpartei (GUE/NGL) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 | Erakond Eestimaa Rohelised (Greens/EFA) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 
@@ -220,7 +220,7 @@
 | 1 | 99.9% | 99.9% | Median |
 | 2 | 0% | 0% |  |
 
-### Eesti Rahvuslased ja Konservatiivid (ERC)
+### Eesti Rahvuslased ja Konservatiivid (ECR)
 
 ![Graph with seats probability mass function not yet produced](2024-08-09-Turu-uuringuteAS-coalitions-seats-pmf-erk.png "Seats Probability Mass Function")
 
