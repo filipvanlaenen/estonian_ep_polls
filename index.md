@@ -25,7 +25,7 @@ Only polls for which at least the sample size has been published are included in
 + **Isamaa:** Erakond Isamaa (EPP)
 + **EP:** Erakond Parempoolsed (EPP)
 + **E200:** Eesti 200 (EPP)
-+ **ERK:** Eesti Rahvuslased ja Konservatiivid (ERC)
++ **ERK:** Eesti Rahvuslased ja Konservatiivid (ECR)
 + **EKRE:** Eesti Konservatiivne Rahvaerakond (PfE)
 + **EVA:** Eesti Vabaerakond (*)
 + **Koos:** Koos (*)
