@@ -29,7 +29,7 @@ Only polls for which at least the sample size has been published are included in
 + **Isamaa:** Erakond Isamaa (EPP)
 + **EP:** Erakond Parempoolsed (EPP)
 + **E200:** Eesti 200 (EPP)
-+ **ERK:** Eesti Rahvuslased ja Konservatiivid (ERC)
++ **ERK:** Eesti Rahvuslased ja Konservatiivid (ECR)
 + **EKRE:** Eesti Konservatiivne Rahvaerakond (PfE)
 + **EVA:** Eesti Vabaerakond (*)
 + **Koos:** Koos (*)
@@ -53,7 +53,7 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#erakond-isamaa-(epp)">Erakond Isamaa (EPP)</a> | 0.0% | 27.5% | 23.9–30.5% |23.2–31.2% | 22.6–31.8% | 21.6–32.9% |
 | <a href="#erakond-parempoolsed-(epp)">Erakond Parempoolsed (EPP)</a> | 0.0% | 5.6% | 4.7–6.6% |4.5–7.0% | 4.3–7.3% | 3.9–7.9% |
 | <a href="#eesti-200-(epp)">Eesti 200 (EPP)</a> | 0.0% | 2.9% | 2.3–3.8% |2.1–4.0% | 2.0–4.3% | 1.8–4.7% |
-| <a href="#eesti-rahvuslased-ja-konservatiivid-(erc)">Eesti Rahvuslased ja Konservatiivid (ERC)</a> | 0.0% | 3.0% | 2.3–3.8% |2.1–4.0% | 2.0–4.2% | 1.7–4.7% |
+| <a href="#eesti-rahvuslased-ja-konservatiivid-(ecr)">Eesti Rahvuslased ja Konservatiivid (ECR)</a> | 0.0% | 3.0% | 2.3–3.8% |2.1–4.0% | 2.0–4.2% | 1.7–4.7% |
 | <a href="#eesti-konservatiivne-rahvaerakond-(pfe)">Eesti Konservatiivne Rahvaerakond (PfE)</a> | 0.0% | 12.3% | 10.4–13.9% |9.9–14.3% | 9.5–14.7% | 8.8–15.5% |
 | <a href="#eesti-vabaerakond-(*)">Eesti Vabaerakond (*)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#koos-(*)">Koos (*)</a> | 0.0% | 3.0% | 2.4–3.7% |2.2–3.9% | 2.1–4.1% | 1.8–4.5% |
@@ -268,9 +268,9 @@ Only polls for which at least the sample size has been published are included in
 | 4.5–5.5% | 0.9% | 0.9% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
-### Eesti Rahvuslased ja Konservatiivid (ERC)
+### Eesti Rahvuslased ja Konservatiivid (ECR)
 
-*For a full overview of the results for this party, see the [Eesti Rahvuslased ja Konservatiivid (ERC)](party-eestirahvuslasedjakonservatiividerc.html) page.*
+*For a full overview of the results for this party, see the [Eesti Rahvuslased ja Konservatiivid (ECR)](party-eestirahvuslasedjakonservatiividecr.html) page.*
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
@@ -315,7 +315,7 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#erakond-isamaa-(epp)">Erakond Isamaa (EPP)</a> | 0 | 3 | 2–3 |2–3 | 2–3 | 2–3 |
 | <a href="#erakond-parempoolsed-(epp)">Erakond Parempoolsed (EPP)</a> | 0 | 0 | 0 |0 | 0 | 0 |
 | <a href="#eesti-200-(epp)">Eesti 200 (EPP)</a> | 0 | 0 | 0 |0 | 0 | 0 |
-| <a href="#eesti-rahvuslased-ja-konservatiivid-(erc)">Eesti Rahvuslased ja Konservatiivid (ERC)</a> | 0 | 0 | 0 |0 | 0 | 0 |
+| <a href="#eesti-rahvuslased-ja-konservatiivid-(ecr)">Eesti Rahvuslased ja Konservatiivid (ECR)</a> | 0 | 0 | 0 |0 | 0 | 0 |
 | <a href="#eesti-konservatiivne-rahvaerakond-(pfe)">Eesti Konservatiivne Rahvaerakond (PfE)</a> | 0 | 1 | 1 |1 | 1 | 1 |
 | <a href="#eesti-vabaerakond-(*)">Eesti Vabaerakond (*)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#koos-(*)">Koos (*)</a> | 0 | 0 | 0 |0 | 0 | 0 |
@@ -420,11 +420,11 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 100% | 100% | Last Result, Median |
 
-### Eesti Rahvuslased ja Konservatiivid (ERC)
+### Eesti Rahvuslased ja Konservatiivid (ECR)
 
-*For a full overview of the results for this party, see the [Eesti Rahvuslased ja Konservatiivid (ERC)](party-eestirahvuslasedjakonservatiividerc.html) page.*
+*For a full overview of the results for this party, see the [Eesti Rahvuslased ja Konservatiivid (ECR)](party-eestirahvuslasedjakonservatiividecr.html) page.*
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-eestirahvuslasedjakonservatiividerc.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-seats-pmf-eestirahvuslasedjakonservatiividecr.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -471,7 +471,7 @@ Only polls for which at least the sample size has been published are included in
 | Eesti Keskerakond (RE) – Eesti Reformierakond (RE) – Raimond Kaljulaid (RE) | 0 | 2 | 0% | 2 | 2 | 2–3 | 1–3 |
 | Sotsiaaldemokraatlik Erakond (S&D) | 0 | 1 | 0% | 1–2 | 1–2 | 1–2 | 1–2 |
 | Eesti Konservatiivne Rahvaerakond (PfE) | 0 | 1 | 0% | 1 | 1 | 1 | 1 |
-| Eesti Rahvuslased ja Konservatiivid (ERC) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
+| Eesti Rahvuslased ja Konservatiivid (ECR) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 | Eesti Vabaerakond (*) – Koos (*) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 | Eestimaa Ühendatud Vasakpartei (GUE/NGL) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 | Erakond Eestimaa Rohelised (Greens/EFA) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
@@ -521,7 +521,7 @@ Only polls for which at least the sample size has been published are included in
 | 1 | 99.9% | 99.9% | Median |
 | 2 | 0% | 0% |  |
 
-### Eesti Rahvuslased ja Konservatiivid (ERC)
+### Eesti Rahvuslased ja Konservatiivid (ECR)
 
 ![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-erk.png "Seats Probability Mass Function")
 
