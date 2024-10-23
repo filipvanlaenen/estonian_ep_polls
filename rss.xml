@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/estonian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 06 Oct 2024 22:42:54 +0200</pubDate>
+    <pubDate>Wed, 23 Oct 2024 18:39:39 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 14–21 October 2024 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/estonian_ep_polls/2024-10-21-Norstat.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Eesti Konservatiivne Rahvaerakond (PfE): 1 seats&lt;/li&gt;&lt;li&gt;Erakond Parempoolsed (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Sotsiaaldemokraatlik Erakond (S&amp;amp;D): 1 seats&lt;/li&gt;&lt;li&gt;Koos (*): 0 seats&lt;/li&gt;&lt;li&gt;Eesti Reformierakond (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Erakond Eestimaa Rohelised (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Eesti Keskerakond (RE): 1 seats&lt;/li&gt;&lt;li&gt;Erakond Isamaa (EPP): 2–3 seats&lt;/li&gt;&lt;li&gt;Eesti Rahvuslased ja Konservatiivid (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Eesti 200 (EPP): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2024-10-21-Norstat-seats.png"
+        length="244789"
+        type="image/png"/>
+      <pubDate>Wed, 23 Oct 2024 18:39:39 +0200</pubDate>
+      <dc:date>2024-10-23T18:39:39.320089+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 14–21 October 2024 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/estonian_ep_polls/2024-10-21-Norstat.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2024-10-21-Norstat-coalitions-seats.png"
+        length="179248"
+        type="image/png"/>
+      <pubDate>Wed, 23 Oct 2024 18:39:39 +0200</pubDate>
+      <dc:date>2024-10-23T18:39:39.320089+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 14–21 October 2024 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/estonian_ep_polls/2024-10-21-Norstat.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Eesti Konservatiivne Rahvaerakond (PfE): 10.1–14.2%&lt;/li&gt;&lt;li&gt;Erakond Parempoolsed (EPP): 3.2–5.7%&lt;/li&gt;&lt;li&gt;Sotsiaaldemokraatlik Erakond (S&amp;amp;D): 13.6–18.1%&lt;/li&gt;&lt;li&gt;Koos (*): 0.5–1.7%&lt;/li&gt;&lt;li&gt;Eesti Reformierakond (RE): 17.7–22.7%&lt;/li&gt;&lt;li&gt;Erakond Eestimaa Rohelised (Greens/EFA): 1.1–2.7%&lt;/li&gt;&lt;li&gt;Eesti Keskerakond (RE): 11.1–15.2%&lt;/li&gt;&lt;li&gt;Erakond Isamaa (EPP): 24.8–30.4%&lt;/li&gt;&lt;li&gt;Eesti Rahvuslased ja Konservatiivid (ECR): 0.5–1.7%&lt;/li&gt;&lt;li&gt;Eesti 200 (EPP): 2.8–5.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2024-10-21-Norstat.png"
+        length="344359"
+        type="image/png"/>
+      <pubDate>Wed, 23 Oct 2024 18:39:39 +0200</pubDate>
+      <dc:date>2024-10-23T18:39:39.320089+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 23–29 September 2024 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/estonian_ep_polls/2024-09-29-Norstat.html#seats</link>
@@ -459,6 +489,6 @@
       <pubDate>Sun, 11 Aug 2024 10:32:38 +0200</pubDate>
       <dc:date>2024-08-11T10:32:38.486558+02:00</dc:date>
     </item>
-    <dc:date>2024-10-06T22:42:54.771616+02:00</dc:date>
+    <dc:date>2024-10-23T18:39:39.320089+02:00</dc:date>
   </channel>
 </rss>
