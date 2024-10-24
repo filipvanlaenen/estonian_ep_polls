@@ -365,8 +365,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 19% | 100% |  |
-| 2 | 81% | 81% | Median |
+| 1 | 23% | 100% |  |
+| 2 | 77% | 77% | Median |
 | 3 | 0% | 0% |  |
 
 ### Eesti Keskerakond (RE)
@@ -398,8 +398,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 88% | 100% | Median |
-| 3 | 12% | 12% |  |
+| 2 | 84% | 100% | Median |
+| 3 | 16% | 16% |  |
 | 4 | 0% | 0% | Majority |
 
 ### Erakond Parempoolsed (EPP)
@@ -490,8 +490,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 88% | 100% | Median |
-| 3 | 12% | 12% |  |
+| 2 | 84% | 100% | Median |
+| 3 | 16% | 16% |  |
 | 4 | 0% | 0% | Majority |
 
 ### Eesti Keskerakond (RE) – Eesti Reformierakond (RE) – Raimond Kaljulaid (RE)
@@ -502,8 +502,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 19% | 100% |  |
-| 3 | 81% | 81% | Median |
+| 2 | 23% | 100% |  |
+| 3 | 77% | 77% | Median |
 | 4 | 0% | 0% | Majority |
 
 ### Sotsiaaldemokraatlik Erakond (S&D)
@@ -563,6 +563,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 3
-+ **Lowest number of simulations done in a poll included in this average:** 1,048,576
-+ **Total number of simulations done in the polls included in this average:** 5,242,880
-+ **Error estimate:** 2.33%
++ **Lowest number of simulations done in a poll included in this average:** 2,097,152
++ **Total number of simulations done in the polls included in this average:** 6,291,456
++ **Error estimate:** 1.97%
