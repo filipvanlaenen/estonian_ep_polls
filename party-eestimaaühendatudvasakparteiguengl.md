@@ -11,8 +11,14 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.3% | 0.1–0.6% | 0.1–0.7% | 0.1–0.8% | 0.0–1.0% |
+| [4–10 November 2024](2024-11-10-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 0.0% | N/A | N/A | N/A | N/A |
+| [28 October–3 November 2024](2024-11-03-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 0.0% | N/A | N/A | N/A | N/A |
+| [24–30 October 2024](2024-10-30-Turu-uuringuteAS.html) | Turu-uuringute AS | 0.2% | 0.1–0.6% | 0.1–0.7% | 0.1–0.8% | 0.0–1.0% |
+| [21–28 October 2024](2024-10-28-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 0.0% | N/A | N/A | N/A | N/A |
 | [14–21 October 2024](2024-10-21-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 0.0% | N/A | N/A | N/A | N/A |
+| [10–16 October 2024](2024-10-16-KantarEmor.html) | Kantar Emor <br> ERR | 0.0% | N/A | N/A | N/A | N/A |
 | [7–14 October 2024](2024-10-14-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 0.0% | N/A | N/A | N/A | N/A |
+| [1–10 October 2024](2024-10-10-Turu-uuringuteAS.html) | Turu-uuringute AS | 0.2% | N/A | N/A | N/A | N/A |
 | [30 September–6 October 2024](2024-10-06-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 0.0% | N/A | N/A | N/A | N/A |
 | [23–29 September 2024](2024-09-29-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 0.0% | N/A | N/A | N/A | N/A |
 | [16–23 September 2024](2024-09-23-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 0.0% | N/A | N/A | N/A | N/A |
@@ -44,8 +50,8 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 86% | 100% | Last Result, Median |
-| 0.5–1.5% | 14% | 14% |  |
+| 0.0–0.5% | 87% | 100% | Last Result, Median |
+| 0.5–1.5% | 13% | 13% |  |
 | 1.5–2.5% | 0% | 0% |  |
 
 
@@ -58,8 +64,14 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [4–10 November 2024](2024-11-10-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
+| [28 October–3 November 2024](2024-11-03-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
+| [24–30 October 2024](2024-10-30-Turu-uuringuteAS.html) | Turu-uuringute AS | 0 | 0 | 0 | 0 | 0 |
+| [21–28 October 2024](2024-10-28-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
 | [14–21 October 2024](2024-10-21-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
+| [10–16 October 2024](2024-10-16-KantarEmor.html) | Kantar Emor <br> ERR |  |  |  |  |  |
 | [7–14 October 2024](2024-10-14-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
+| [1–10 October 2024](2024-10-10-Turu-uuringuteAS.html) | Turu-uuringute AS |  |  |  |  |  |
 | [30 September–6 October 2024](2024-10-06-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
 | [23–29 September 2024](2024-09-29-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
 | [16–23 September 2024](2024-09-23-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
