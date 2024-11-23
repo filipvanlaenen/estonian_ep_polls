@@ -314,7 +314,7 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#erakond-eestimaa-rohelised-(greens/efa)">Erakond Eestimaa Rohelised (Greens/EFA)</a> | 0 | 0 | 0 |0 | 0 | 0 |
 | <a href="#sotsiaaldemokraatlik-erakond-(s&d)">Sotsiaaldemokraatlik Erakond (S&D)</a> | 0 | 1 | 1 |1–2 | 1–2 | 1–2 |
 | <a href="#eesti-reformierakond-(re)">Eesti Reformierakond (RE)</a> | 0 | 2 | 1–2 |1–2 | 1–2 | 1–2 |
-| <a href="#eesti-keskerakond-(re)">Eesti Keskerakond (RE)</a> | 0 | 1 | 1 |1–2 | 1–2 | 1–2 |
+| <a href="#eesti-keskerakond-(re)">Eesti Keskerakond (RE)</a> | 0 | 1 | 1–2 |1–2 | 1–2 | 1–2 |
 | <a href="#raimond-kaljulaid-(re)">Raimond Kaljulaid (RE)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#erakond-isamaa-(epp)">Erakond Isamaa (EPP)</a> | 0 | 2 | 2–3 |2–3 | 2–3 | 2–3 |
 | <a href="#erakond-parempoolsed-(epp)">Erakond Parempoolsed (EPP)</a> | 0 | 0 | 0 |0 | 0 | 0 |
@@ -366,8 +366,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 40% | 100% |  |
-| 2 | 60% | 60% | Median |
+| 1 | 42% | 100% |  |
+| 2 | 58% | 58% | Median |
 | 3 | 0% | 0% |  |
 
 ### Eesti Keskerakond (RE)
@@ -399,8 +399,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 74% | 100% | Median |
-| 3 | 26% | 26% |  |
+| 2 | 73% | 100% | Median |
+| 3 | 27% | 27% |  |
 | 4 | 0% | 0% | Majority |
 
 ### Erakond Parempoolsed (EPP)
@@ -489,8 +489,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 74% | 100% | Median |
-| 3 | 26% | 26% |  |
+| 2 | 73% | 100% | Median |
+| 3 | 27% | 27% |  |
 | 4 | 0% | 0% | Majority |
 
 ### Eesti Keskerakond (RE) – Eesti Reformierakond (RE) – Raimond Kaljulaid (RE)
@@ -563,5 +563,5 @@ Only polls for which at least the sample size has been published are included in
 
 + **Number of polls included in this average:** 3
 + **Lowest number of simulations done in a poll included in this average:** 1,048,576
-+ **Total number of simulations done in the polls included in this average:** 3,145,728
-+ **Error estimate:** 2.13%
++ **Total number of simulations done in the polls included in this average:** 4,194,304
++ **Error estimate:** 3.15%
