@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/estonian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 23 Nov 2024 11:27:26 +0100</pubDate>
+    <pubDate>Sun, 24 Nov 2024 20:41:17 +0100</pubDate>
     <item>
       <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 4–10 November 2024 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/estonian_ep_polls/2024-11-10-Norstat.html#seats</link>
@@ -46,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2024-10-30-Turu-uuringuteAS-seats.png"
         length="308142"
         type="image/png"/>
-      <pubDate>Thu, 21 Nov 2024 17:40:39 +0100</pubDate>
-      <dc:date>2024-11-21T17:40:39.158182+01:00</dc:date>
+      <pubDate>Sun, 24 Nov 2024 19:57:46 +0100</pubDate>
+      <dc:date>2024-11-24T19:57:46.823532+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Turu-uuringute AS, 24–30 October 2024 – Seat Projections for a Selection of Coalitions</title>
@@ -56,8 +56,8 @@
       <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2024-10-30-Turu-uuringuteAS-coalitions-seats.png"
         length="212763"
         type="image/png"/>
-      <pubDate>Thu, 21 Nov 2024 17:40:39 +0100</pubDate>
-      <dc:date>2024-11-21T17:40:39.158182+01:00</dc:date>
+      <pubDate>Sun, 24 Nov 2024 19:57:46 +0100</pubDate>
+      <dc:date>2024-11-24T19:57:46.823532+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Turu-uuringute AS, 24–30 October 2024 – Voting Intentions</title>
@@ -66,8 +66,8 @@
       <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2024-10-30-Turu-uuringuteAS.png"
         length="360260"
         type="image/png"/>
-      <pubDate>Thu, 21 Nov 2024 17:40:39 +0100</pubDate>
-      <dc:date>2024-11-21T17:40:39.158182+01:00</dc:date>
+      <pubDate>Sun, 24 Nov 2024 19:57:46 +0100</pubDate>
+      <dc:date>2024-11-24T19:57:46.823532+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 21–28 October 2024 – Seat Projections for the Parties</title>
@@ -76,8 +76,8 @@
       <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2024-10-28-Norstat-seats.png"
         length="210125"
         type="image/png"/>
-      <pubDate>Thu, 21 Nov 2024 17:49:50 +0100</pubDate>
-      <dc:date>2024-11-21T17:49:50.80683+01:00</dc:date>
+      <pubDate>Sun, 24 Nov 2024 20:41:17 +0100</pubDate>
+      <dc:date>2024-11-24T20:41:17.6495+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 21–28 October 2024 – Seat Projections for a Selection of Coalitions</title>
@@ -86,8 +86,8 @@
       <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2024-10-28-Norstat-coalitions-seats.png"
         length="127263"
         type="image/png"/>
-      <pubDate>Thu, 21 Nov 2024 17:49:50 +0100</pubDate>
-      <dc:date>2024-11-21T17:49:50.80683+01:00</dc:date>
+      <pubDate>Sun, 24 Nov 2024 20:41:17 +0100</pubDate>
+      <dc:date>2024-11-24T20:41:17.6495+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 21–28 October 2024 – Voting Intentions</title>
@@ -96,8 +96,8 @@
       <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2024-10-28-Norstat.png"
         length="333339"
         type="image/png"/>
-      <pubDate>Thu, 21 Nov 2024 17:49:50 +0100</pubDate>
-      <dc:date>2024-11-21T17:49:50.80683+01:00</dc:date>
+      <pubDate>Sun, 24 Nov 2024 20:41:17 +0100</pubDate>
+      <dc:date>2024-11-24T20:41:17.6495+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 14–21 October 2024 – Seat Projections for the Parties</title>
@@ -609,6 +609,6 @@
       <pubDate>Sun, 11 Aug 2024 10:32:38 +0200</pubDate>
       <dc:date>2024-08-11T10:32:38.486558+02:00</dc:date>
     </item>
-    <dc:date>2024-11-23T11:27:26.828791+01:00</dc:date>
+    <dc:date>2024-11-24T20:41:17.6495+01:00</dc:date>
   </channel>
 </rss>
