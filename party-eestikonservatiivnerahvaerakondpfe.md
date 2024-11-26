@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12.8% | 9.5–14.5% | 9.0–14.9% | 8.6–15.3% | 8.0–16.1% |
+| N/A | [Poll Average](average.html) | 12.3% | 9.5–14.3% | 9.0–14.7% | 8.6–15.1% | 8.0–15.8% |
+| [14–21 November 2024](2024-11-21-KantarEmor.html) | Kantar Emor <br> ERR | 13.7% | 12.6–14.9% | 12.3–15.3% | 12.1–15.5% | 11.6–16.1% |
+| [11–17 November 2024](2024-11-17-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 12.3% | 11.1–13.7% | 10.7–14.1% | 10.4–14.5% | 9.8–15.2% |
 | [4–10 November 2024](2024-11-10-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 13.5% | 12.2–15.0% | 11.8–15.4% | 11.5–15.8% | 10.9–16.5% |
 | [28 October–3 November 2024](2024-11-03-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 12.6% | N/A | N/A | N/A | N/A |
 | [24–30 October 2024](2024-10-30-Turu-uuringuteAS.html) | Turu-uuringute AS | 10.0% | 8.8–11.4% | 8.4–11.8% | 8.2–12.1% | 7.6–12.8% |
@@ -60,14 +62,14 @@ The following table shows the probability mass function per percentage block of 
 | 6.5–7.5% | 0.1% | 100% |  |
 | 7.5–8.5% | 2% | 99.9% |  |
 | 8.5–9.5% | 9% | 98% |  |
-| 9.5–10.5% | 13% | 89% |  |
-| 10.5–11.5% | 9% | 77% |  |
-| 11.5–12.5% | 12% | 68% |  |
-| 12.5–13.5% | 25% | 55% | Median |
-| 13.5–14.5% | 21% | 30% |  |
-| 14.5–15.5% | 7% | 9% |  |
-| 15.5–16.5% | 1.3% | 1.5% |  |
-| 16.5–17.5% | 0.1% | 0.2% |  |
+| 9.5–10.5% | 14% | 89% |  |
+| 10.5–11.5% | 14% | 76% |  |
+| 11.5–12.5% | 16% | 62% | Median |
+| 12.5–13.5% | 21% | 45% |  |
+| 13.5–14.5% | 17% | 24% |  |
+| 14.5–15.5% | 6% | 7% |  |
+| 15.5–16.5% | 0.8% | 0.9% |  |
+| 16.5–17.5% | 0% | 0% |  |
 | 17.5–18.5% | 0% | 0% |  |
 
 
@@ -80,6 +82,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| [14–21 November 2024](2024-11-21-KantarEmor.html) | Kantar Emor <br> ERR | 1 | 1 | 1 | 1 | 1 |
+| [11–17 November 2024](2024-11-17-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1 | 1 | 1 | 1 | 1 |
 | [4–10 November 2024](2024-11-10-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1 | 1 | 1 | 1 | 1 |
 | [28 October–3 November 2024](2024-11-03-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
 | [24–30 October 2024](2024-10-30-Turu-uuringuteAS.html) | Turu-uuringute AS | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
