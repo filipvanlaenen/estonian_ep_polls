@@ -10,7 +10,10 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 24.0% | 21.3–26.4% | 20.6–27.0% | 20.1–27.6% | 19.1–28.6% |
+| N/A | [Poll Average](average.html) | 24.3% | 21.3–29.7% | 20.6–30.4% | 20.1–31.0% | 19.1–32.1% |
+| [6–12 January 2025](2025-01-12-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 28.9% | 27.1–30.8% | 26.6–31.3% | 26.2–31.8% | 25.3–32.7% |
+| [30 December 2024–5 January 2025](2025-01-05-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 28.4% | N/A | N/A | N/A | N/A |
+| [16–22 December 2024](2024-12-22-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 26.4% | 24.7–28.2% | 24.2–28.8% | 23.8–29.2% | 23.0–30.1% |
 | [9–15 December 2024](2024-12-15-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 25.5% | 23.8–27.3% | 23.3–27.8% | 22.9–28.3% | 22.1–29.2% |
 | [2–8 December 2024](2024-12-08-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 28.3% | N/A | N/A | N/A | N/A |
 | [25 November–2 December 2024](2024-12-02-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 27.0% | N/A | N/A | N/A | N/A |
@@ -79,16 +82,19 @@ The following table shows the probability mass function per percentage block of 
 | 18.5–19.5% | 1.0% | 99.8% |  |
 | 19.5–20.5% | 4% | 98.9% |  |
 | 20.5–21.5% | 8% | 95% |  |
-| 21.5–22.5% | 12% | 87% |  |
-| 22.5–23.5% | 17% | 75% |  |
-| 23.5–24.5% | 21% | 59% | Median |
-| 24.5–25.5% | 18% | 38% |  |
-| 25.5–26.5% | 12% | 20% |  |
-| 26.5–27.5% | 6% | 8% |  |
-| 27.5–28.5% | 2% | 3% |  |
-| 28.5–29.5% | 0.5% | 0.5% |  |
-| 29.5–30.5% | 0.1% | 0.1% |  |
-| 30.5–31.5% | 0% | 0% |  |
+| 21.5–22.5% | 12% | 88% |  |
+| 22.5–23.5% | 15% | 76% |  |
+| 23.5–24.5% | 15% | 61% | Median |
+| 24.5–25.5% | 9% | 46% |  |
+| 25.5–26.5% | 4% | 37% |  |
+| 26.5–27.5% | 5% | 32% |  |
+| 27.5–28.5% | 8% | 28% |  |
+| 28.5–29.5% | 9% | 20% |  |
+| 29.5–30.5% | 7% | 11% |  |
+| 30.5–31.5% | 3% | 4% |  |
+| 31.5–32.5% | 1.0% | 1.2% |  |
+| 32.5–33.5% | 0.2% | 0.2% |  |
+| 33.5–34.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -100,6 +106,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [6–12 January 2025](2025-01-12-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [30 December 2024–5 January 2025](2025-01-05-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
+| [16–22 December 2024](2024-12-22-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [9–15 December 2024](2024-12-15-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [2–8 December 2024](2024-12-08-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
 | [25 November–2 December 2024](2024-12-02-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
@@ -150,8 +159,8 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 77% | 100% | Median |
-| 3 | 23% | 23% |  |
+| 2 | 74% | 100% | Median |
+| 3 | 26% | 26% |  |
 | 4 | 0% | 0% | Majority |
 
 
