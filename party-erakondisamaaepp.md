@@ -10,11 +10,17 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 24.3% | 21.3–29.7% | 20.6–30.4% | 20.1–31.0% | 19.1–32.1% |
+| N/A | [Poll Average](average.html) | 26.5% | 24.0–33.9% | 23.4–34.7% | 22.9–35.3% | 21.9–36.4% |
+| [27 January–1 February 2025](2025-02-01-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 33.1% | 31.2–35.1% | 30.7–35.6% | 30.3–36.1% | 29.4–37.0% |
+| [16–28 January 2025](2025-01-28-Turu-uuringuteAS.html) | Turu-uuringute AS | 24.9% | 23.1–26.8% | 22.6–27.4% | 22.1–27.8% | 21.3–28.8% |
+| [20–26 January 2025](2025-01-26-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 32.4% | 30.5–34.3% | 30.0–34.9% | 29.6–35.4% | 28.7–36.3% |
+| [13–22 January 2025](2025-01-22-KantarEmor.html) | Kantar Emor <br> ERR | 26.0% | 24.6–27.5% | 24.2–27.9% | 23.9–28.3% | 23.2–29.0% |
+| [13–19 January 2025](2025-01-19-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 29.3% | N/A | N/A | N/A | N/A |
 | [6–12 January 2025](2025-01-12-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 28.9% | 27.1–30.8% | 26.6–31.3% | 26.2–31.8% | 25.3–32.7% |
 | [30 December 2024–5 January 2025](2025-01-05-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 28.4% | N/A | N/A | N/A | N/A |
 | [16–22 December 2024](2024-12-22-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 26.4% | 24.7–28.2% | 24.2–28.8% | 23.8–29.2% | 23.0–30.1% |
 | [9–15 December 2024](2024-12-15-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 25.5% | 23.8–27.3% | 23.3–27.8% | 22.9–28.3% | 22.1–29.2% |
+| [4–11 December 2024](2024-12-11-KantarEmor.html) | Kantar Emor <br> ERR | 27.3% | N/A | N/A | N/A | N/A |
 | [2–8 December 2024](2024-12-08-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 28.3% | N/A | N/A | N/A | N/A |
 | [25 November–2 December 2024](2024-12-02-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 27.0% | N/A | N/A | N/A | N/A |
 | [21–30 November 2024](2024-11-30-Turu-uuringuteAS.html) | Turu-uuringute AS | 22.0% | 20.3–23.9% | 19.8–24.4% | 19.4–24.8% | 18.6–25.7% |
@@ -78,23 +84,28 @@ The following table shows the probability mass function per percentage block of 
 | 14.5–15.5% | 0% | 100% |  |
 | 15.5–16.5% | 0% | 100% |  |
 | 16.5–17.5% | 0% | 100% |  |
-| 17.5–18.5% | 0.1% | 100% |  |
-| 18.5–19.5% | 1.0% | 99.8% |  |
-| 19.5–20.5% | 4% | 98.9% |  |
-| 20.5–21.5% | 8% | 95% |  |
-| 21.5–22.5% | 12% | 88% |  |
-| 22.5–23.5% | 15% | 76% |  |
-| 23.5–24.5% | 15% | 61% | Median |
-| 24.5–25.5% | 9% | 46% |  |
-| 25.5–26.5% | 4% | 37% |  |
-| 26.5–27.5% | 5% | 32% |  |
-| 27.5–28.5% | 8% | 28% |  |
-| 28.5–29.5% | 9% | 20% |  |
-| 29.5–30.5% | 7% | 11% |  |
-| 30.5–31.5% | 3% | 4% |  |
-| 31.5–32.5% | 1.0% | 1.2% |  |
-| 32.5–33.5% | 0.2% | 0.2% |  |
-| 33.5–34.5% | 0% | 0% |  |
+| 17.5–18.5% | 0% | 100% |  |
+| 18.5–19.5% | 0% | 100% |  |
+| 19.5–20.5% | 0% | 100% |  |
+| 20.5–21.5% | 0.2% | 100% |  |
+| 21.5–22.5% | 1.3% | 99.7% |  |
+| 22.5–23.5% | 4% | 98% |  |
+| 23.5–24.5% | 10% | 94% |  |
+| 24.5–25.5% | 17% | 84% |  |
+| 25.5–26.5% | 18% | 67% | Median |
+| 26.5–27.5% | 11% | 49% |  |
+| 27.5–28.5% | 4% | 38% |  |
+| 28.5–29.5% | 0.9% | 34% |  |
+| 29.5–30.5% | 1.1% | 33% |  |
+| 30.5–31.5% | 3% | 32% |  |
+| 31.5–32.5% | 7% | 29% |  |
+| 32.5–33.5% | 9% | 22% |  |
+| 33.5–34.5% | 7% | 13% |  |
+| 34.5–35.5% | 4% | 6% |  |
+| 35.5–36.5% | 1.4% | 2% |  |
+| 36.5–37.5% | 0.3% | 0.4% |  |
+| 37.5–38.5% | 0.1% | 0.1% |  |
+| 38.5–39.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -105,11 +116,17 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| N/A | [Poll Average](average.html) | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [27 January–1 February 2025](2025-02-01-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 3 | 3 | 3 | 3 | 2–3 |
+| [16–28 January 2025](2025-01-28-Turu-uuringuteAS.html) | Turu-uuringute AS | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [20–26 January 2025](2025-01-26-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 3 | 3 | 3 | 3 | 3 |
+| [13–22 January 2025](2025-01-22-KantarEmor.html) | Kantar Emor <br> ERR | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [13–19 January 2025](2025-01-19-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
 | [6–12 January 2025](2025-01-12-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [30 December 2024–5 January 2025](2025-01-05-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
 | [16–22 December 2024](2024-12-22-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [9–15 December 2024](2024-12-15-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [4–11 December 2024](2024-12-11-KantarEmor.html) | Kantar Emor <br> ERR |  |  |  |  |  |
 | [2–8 December 2024](2024-12-08-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
 | [25 November–2 December 2024](2024-12-02-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
 | [21–30 November 2024](2024-11-30-Turu-uuringuteAS.html) | Turu-uuringute AS | 2 | 2 | 2 | 2 | 2 |
@@ -159,8 +176,9 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 74% | 100% | Median |
-| 3 | 26% | 26% |  |
-| 4 | 0% | 0% | Majority |
+| 2 | 37% | 100% |  |
+| 3 | 63% | 63% | Median |
+| 4 | 0.2% | 0.2% | Majority |
+| 5 | 0% | 0% |  |
 
 

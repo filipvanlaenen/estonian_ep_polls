@@ -10,11 +10,17 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.1% | 0.5–1.8% | 0.4–2.0% | 0.4–2.2% | 0.3–2.4% |
+| N/A | [Poll Average](average.html) | 0.8% | 0.4–1.4% | 0.4–1.6% | 0.3–1.8% | 0.2–2.1% |
+| [27 January–1 February 2025](2025-02-01-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 0.0% | N/A | N/A | N/A | N/A |
+| [16–28 January 2025](2025-01-28-Turu-uuringuteAS.html) | Turu-uuringute AS | 1.0% | 0.7–1.6% | 0.6–1.8% | 0.5–1.9% | 0.4–2.2% |
+| [20–26 January 2025](2025-01-26-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 0.5% | 0.3–0.9% | 0.3–1.1% | 0.2–1.2% | 0.2–1.4% |
+| [13–22 January 2025](2025-01-22-KantarEmor.html) | Kantar Emor <br> ERR | 0.5% | 0.4–0.9% | 0.3–0.9% | 0.3–1.0% | 0.2–1.2% |
+| [13–19 January 2025](2025-01-19-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1.4% | N/A | N/A | N/A | N/A |
 | [6–12 January 2025](2025-01-12-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 0.6% | 0.4–1.1% | 0.3–1.2% | 0.3–1.3% | 0.2–1.6% |
 | [30 December 2024–5 January 2025](2025-01-05-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 0.6% | N/A | N/A | N/A | N/A |
 | [16–22 December 2024](2024-12-22-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 0.9% | 0.6–1.4% | 0.5–1.6% | 0.5–1.7% | 0.4–2.0% |
 | [9–15 December 2024](2024-12-15-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
+| [4–11 December 2024](2024-12-11-KantarEmor.html) | Kantar Emor <br> ERR | 3.1% | N/A | N/A | N/A | N/A |
 | [2–8 December 2024](2024-12-08-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 0.1% | N/A | N/A | N/A | N/A |
 | [25 November–2 December 2024](2024-12-02-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1.3% | N/A | N/A | N/A | N/A |
 | [21–30 November 2024](2024-11-30-Turu-uuringuteAS.html) | Turu-uuringute AS | 1.0% | 0.7–1.6% | 0.6–1.8% | 0.5–1.9% | 0.4–2.2% |
@@ -60,10 +66,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 11% | 100% | Last Result |
-| 0.5–1.5% | 65% | 89% | Median |
-| 1.5–2.5% | 23% | 24% |  |
-| 2.5–3.5% | 0.3% | 0.3% |  |
+| 0.0–0.5% | 25% | 100% | Last Result |
+| 0.5–1.5% | 69% | 75% | Median |
+| 1.5–2.5% | 6% | 6% |  |
+| 2.5–3.5% | 0% | 0% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
 
@@ -76,10 +82,16 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [27 January–1 February 2025](2025-02-01-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
+| [16–28 January 2025](2025-01-28-Turu-uuringuteAS.html) | Turu-uuringute AS | 0 | 0 | 0 | 0 | 0 |
+| [20–26 January 2025](2025-01-26-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 0 | 0 | 0 | 0 | 0 |
+| [13–22 January 2025](2025-01-22-KantarEmor.html) | Kantar Emor <br> ERR | 0 | 0 | 0 | 0 | 0 |
+| [13–19 January 2025](2025-01-19-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
 | [6–12 January 2025](2025-01-12-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 0 | 0 | 0 | 0 | 0 |
 | [30 December 2024–5 January 2025](2025-01-05-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
 | [16–22 December 2024](2024-12-22-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 0 | 0 | 0 | 0 | 0 |
 | [9–15 December 2024](2024-12-15-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 0 | 0 | 0 | 0 | 0 |
+| [4–11 December 2024](2024-12-11-KantarEmor.html) | Kantar Emor <br> ERR |  |  |  |  |  |
 | [2–8 December 2024](2024-12-08-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
 | [25 November–2 December 2024](2024-12-02-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
 | [21–30 November 2024](2024-11-30-Turu-uuringuteAS.html) | Turu-uuringute AS | 0 | 0 | 0 | 0 | 0 |
