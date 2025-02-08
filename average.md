@@ -10,7 +10,7 @@ The table below lists the polls on which the average is based. They are the most
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 9 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 | N/A | Poll Average | 0–1% <br> 0 | 1–3% <br> 0 | 10–17% <br> 1 | 14–22% <br> 1–2 | 11–15% <br> 1 | N/A <br> N/A | 23–35% <br> 2–3 | 4–9% <br> 0–1 | 2–4% <br> 0 | 0–2% <br> 0 | 11–18% <br> 1 | N/A <br> N/A | 0–4% <br> 0 |
-| [27 January–1 February 2025](2025-02-01-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | N/A <br> N/A | 1–2% <br> 0 | 9–13% <br> 0–1 | 15–20% <br> 1–2 | 10–14% <br> 1 | N/A <br> N/A | 30–36% <br> 3 | 4–6% <br> 0 | 1–3% <br> 0 | N/A <br> N/A | 14–18% <br> 1 | N/A <br> N/A | 0–2% <br> 0 |
+| [27 January–2 February 2025](2025-02-02-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | N/A <br> N/A | 1–2% <br> 0 | 9–13% <br> 0–1 | 15–20% <br> 1–2 | 10–14% <br> 1 | N/A <br> N/A | 30–36% <br> 3 | 4–6% <br> 0 | 1–3% <br> 0 | N/A <br> N/A | 14–18% <br> 1 | N/A <br> N/A | 0–2% <br> 0 |
 | [16–28 January 2025](2025-01-28-Turu-uuringuteAS.html) | Turu-uuringute AS | 0–1% <br> 0 | 1–2% <br> 0 | 11–15% <br> 1 | 17–23% <br> 1–2 | 11–15% <br> 1 | N/A <br> N/A | 22–28% <br> 2–3 | 6–10% <br> 0–1 | 2–4% <br> 0 | 1–2% <br> 0 | 11–15% <br> 1 | N/A <br> N/A | 2–4% <br> 0 |
 | [13–22 January 2025](2025-01-22-KantarEmor.html) | Kantar Emor <br> ERR | N/A <br> N/A | 2–4% <br> 0 | 14–17% <br> 1–2 | 14–18% <br> 1–2 | 11–15% <br> 1 | N/A <br> N/A | 24–28% <br> 2–3 | 6–9% <br> 0–1 | 3–4% <br> 0 | 0–1% <br> 0 | 12–15% <br> 1 | N/A <br> N/A | 1–3% <br> 0 |
 | 9 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
@@ -356,8 +356,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 2% | 100% | Last Result |
-| 1 | 96% | 98% | Median |
+| 0 | 1.4% | 100% | Last Result |
+| 1 | 96% | 98.6% | Median |
 | 2 | 2% | 2% |  |
 | 3 | 0% | 0% |  |
 
@@ -370,8 +370,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 67% | 100% | Median |
-| 2 | 33% | 33% |  |
+| 1 | 68% | 100% | Median |
+| 2 | 32% | 32% |  |
 | 3 | 0% | 0% |  |
 
 ### Eesti Keskerakond (RE)
@@ -382,8 +382,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.1% | 100% | Last Result |
-| 1 | 99.9% | 99.9% | Median |
+| 0 | 0.2% | 100% | Last Result |
+| 1 | 99.8% | 99.8% | Median |
 | 2 | 0% | 0% |  |
 
 ### Raimond Kaljulaid (RE)
@@ -528,8 +528,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 2% | 100% | Last Result |
-| 1 | 96% | 98% | Median |
+| 0 | 1.4% | 100% | Last Result |
+| 1 | 96% | 98.6% | Median |
 | 2 | 2% | 2% |  |
 | 3 | 0% | 0% |  |
 
@@ -569,6 +569,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 3
-+ **Lowest number of simulations done in a poll included in this average:** 2,097,152
-+ **Total number of simulations done in the polls included in this average:** 6,291,456
-+ **Error estimate:** 2.56%
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 5,242,880
++ **Error estimate:** 2.99%
