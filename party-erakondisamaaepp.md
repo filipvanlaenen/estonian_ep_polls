@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 26.5% | 24.0–32.1% | 23.4–32.9% | 22.9–33.5% | 21.9–34.6% |
+| N/A | [Poll Average](average.html) | 26.5% | 24.0–30.0% | 23.4–30.6% | 22.9–31.1% | 21.9–31.9% |
+| [13–19 February 2025](2025-02-19-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 29.4% | 28.0–30.9% | 27.6–31.3% | 27.2–31.7% | 26.6–32.4% |
 | [10–16 February 2025](2025-02-16-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 31.3% | 29.5–33.2% | 28.9–33.8% | 28.5–34.2% | 27.6–35.2% |
 | [3–9 February 2025](2025-02-09-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 28.4% | 26.6–30.3% | 26.1–30.8% | 25.7–31.3% | 24.9–32.2% |
 | [27 January–2 February 2025](2025-02-02-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 33.1% | 31.2–35.1% | 30.7–35.6% | 30.3–36.1% | 29.4–37.0% |
@@ -95,17 +96,14 @@ The following table shows the probability mass function per percentage block of 
 | 23.5–24.5% | 10% | 94% |  |
 | 24.5–25.5% | 17% | 84% |  |
 | 25.5–26.5% | 18% | 67% | Median |
-| 26.5–27.5% | 11% | 49% |  |
-| 27.5–28.5% | 4% | 37% |  |
-| 28.5–29.5% | 3% | 33% |  |
-| 29.5–30.5% | 6% | 30% |  |
-| 30.5–31.5% | 9% | 23% |  |
-| 31.5–32.5% | 8% | 15% |  |
-| 32.5–33.5% | 4% | 7% |  |
-| 33.5–34.5% | 2% | 2% |  |
-| 34.5–35.5% | 0.4% | 0.5% |  |
-| 35.5–36.5% | 0.1% | 0.1% |  |
-| 36.5–37.5% | 0% | 0% |  |
+| 26.5–27.5% | 12% | 49% |  |
+| 27.5–28.5% | 9% | 36% |  |
+| 28.5–29.5% | 12% | 27% |  |
+| 29.5–30.5% | 10% | 15% |  |
+| 30.5–31.5% | 4% | 5% |  |
+| 31.5–32.5% | 0.9% | 1.1% |  |
+| 32.5–33.5% | 0.1% | 0.1% |  |
+| 33.5–34.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -117,6 +115,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [13–19 February 2025](2025-02-19-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 3 | 3 | 3 | 3 | 3 |
 | [10–16 February 2025](2025-02-16-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 3 | 3 | 3 | 2–3 | 2–3 |
 | [3–9 February 2025](2025-02-09-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [27 January–2 February 2025](2025-02-02-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 3 | 3 | 3 | 3 | 2–3 |
@@ -178,8 +177,8 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 37% | 100% |  |
-| 3 | 63% | 63% | Median |
+| 2 | 36% | 100% |  |
+| 3 | 64% | 64% | Median |
 | 4 | 0% | 0% | Majority |
 
 
