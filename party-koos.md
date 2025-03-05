@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.8% | 0.9–2.5% | 0.8–2.7% | 0.7–2.9% | 0.6–3.3% |
+| N/A | [Poll Average](average.html) | 1.8% | 0.4–2.5% | 0.3–2.7% | 0.2–2.9% | 0.1–3.3% |
+| [17–23 February 2025](2025-02-23-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 0.4% | 0.2–0.8% | 0.2–0.9% | 0.2–1.0% | 0.1–1.3% |
 | [13–19 February 2025](2025-02-19-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1.0% | 0.7–1.4% | 0.7–1.5% | 0.6–1.6% | 0.5–1.8% |
 | [7–16 February 2025](2025-02-16-Turu-uuringuteAS.html) | Turu-uuringute AS | 2.0% | 1.5–2.8% | 1.4–3.0% | 1.3–3.2% | 1.1–3.6% |
 | [10–16 February 2025](2025-02-16-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 0.8% | 0.5–1.3% | 0.5–1.4% | 0.4–1.6% | 0.3–1.9% |
@@ -70,9 +71,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0.3% | 100% | Last Result |
-| 0.5–1.5% | 38% | 99.7% |  |
-| 1.5–2.5% | 52% | 62% | Median |
+| 0.0–0.5% | 21% | 100% | Last Result |
+| 0.5–1.5% | 18% | 79% |  |
+| 1.5–2.5% | 51% | 61% | Median |
 | 2.5–3.5% | 10% | 10% |  |
 | 3.5–4.5% | 0.2% | 0.2% |  |
 | 4.5–5.5% | 0% | 0% |  |
@@ -87,6 +88,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [17–23 February 2025](2025-02-23-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 0 | 0 | 0 | 0 | 0 |
 | [13–19 February 2025](2025-02-19-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 0 | 0 | 0 | 0 | 0 |
 | [7–16 February 2025](2025-02-16-Turu-uuringuteAS.html) | Turu-uuringute AS | 0 | 0 | 0 | 0 | 0 |
 | [10–16 February 2025](2025-02-16-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 0 | 0 | 0 | 0 | 0 |
