@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/estonian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 05 Mar 2025 18:33:58 +0100</pubDate>
+    <pubDate>Thu, 06 Mar 2025 19:43:53 +0100</pubDate>
     <item>
       <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 17–23 February 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/estonian_ep_polls/2025-02-23-Norstat.html#seats</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2025-02-23-Norstat-seats.png"
         length="226176"
         type="image/png"/>
-      <pubDate>Wed, 05 Mar 2025 18:33:58 +0100</pubDate>
-      <dc:date>2025-03-05T18:33:58.659654+01:00</dc:date>
+      <pubDate>Thu, 06 Mar 2025 19:43:53 +0100</pubDate>
+      <dc:date>2025-03-06T19:43:53.07175+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 17–23 February 2025 – Seat Projections for a Selection of Coalitions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2025-02-23-Norstat-coalitions-seats.png"
         length="168996"
         type="image/png"/>
-      <pubDate>Wed, 05 Mar 2025 18:33:58 +0100</pubDate>
-      <dc:date>2025-03-05T18:33:58.659654+01:00</dc:date>
+      <pubDate>Thu, 06 Mar 2025 19:43:53 +0100</pubDate>
+      <dc:date>2025-03-06T19:43:53.07175+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 17–23 February 2025 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2025-02-23-Norstat.png"
         length="312270"
         type="image/png"/>
-      <pubDate>Wed, 05 Mar 2025 18:33:58 +0100</pubDate>
-      <dc:date>2025-03-05T18:33:58.659654+01:00</dc:date>
+      <pubDate>Thu, 06 Mar 2025 19:43:53 +0100</pubDate>
+      <dc:date>2025-03-06T19:43:53.07175+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 13–19 February 2025 – Seat Projections for the Parties</title>
@@ -1089,6 +1089,6 @@
       <pubDate>Sun, 11 Aug 2024 10:32:38 +0200</pubDate>
       <dc:date>2024-08-11T10:32:38.486558+02:00</dc:date>
     </item>
-    <dc:date>2025-03-05T18:33:58.659654+01:00</dc:date>
+    <dc:date>2025-03-06T19:43:53.07175+01:00</dc:date>
   </channel>
 </rss>
