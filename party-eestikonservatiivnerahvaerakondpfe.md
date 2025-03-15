@@ -10,11 +10,12 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15.8% | 14.0–20.8% | 13.6–21.5% | 13.3–22.0% | 12.6–23.0% |
+| N/A | [Poll Average](average.html) | 15.4% | 14.0–17.0% | 13.6–17.5% | 13.2–17.9% | 12.6–18.7% |
+| [3–9 March 2025](2025-03-09-Norstat.html) | Norstat <br> Ühiskonnauuringute Instituut | 16.0% | 14.6–17.6% | 14.2–18.0% | 13.9–18.4% | 13.2–19.2% |
 | [25 February–2 March 2025](2025-03-02-Norstat.html) | Norstat <br> Ühiskonnauuringute Instituut | 20.1% | 18.5–21.8% | 18.1–22.3% | 17.7–22.7% | 17.0–23.5% |
 | [17–23 February 2025](2025-02-23-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 16.6% | 15.2–18.2% | 14.8–18.6% | 14.4–19.0% | 13.8–19.8% |
 | [13–19 February 2025](2025-02-19-KantarEmor.html) | Kantar Emor <br> ERR | 15.1% | 14.0–16.3% | 13.7–16.6% | 13.4–16.9% | 12.9–17.5% |
-| [7–16 February 2025](2025-02-16-Turu-uuringuteAS.html) | Turu-uuringute AS | 15.0% | 13.6–16.7% | 13.2–17.1% | 12.8–17.5% | 12.2–18.4% |
+| [7–16 February 2025](2025-02-16-Turu-uuringuteAS.html) | Turu-uuringute AS | 14.7% | 13.6–16.7% | 13.2–17.1% | 12.8–17.5% | 12.2–18.4% |
 | [10–16 February 2025](2025-02-16-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 16.8% | 15.4–18.4% | 15.0–18.9% | 14.6–19.2% | 13.9–20.0% |
 | [3–9 February 2025](2025-02-09-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 17.7% | 16.2–19.3% | 15.8–19.8% | 15.5–20.2% | 14.8–21.0% |
 | [27 January–2 February 2025](2025-02-02-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 15.9% | 14.5–17.5% | 14.1–17.9% | 13.8–18.3% | 13.1–19.1% |
@@ -84,20 +85,16 @@ The following table shows the probability mass function per percentage block of 
 | 8.5–9.5% | 0% | 100% |  |
 | 9.5–10.5% | 0% | 100% |  |
 | 10.5–11.5% | 0% | 100% |  |
-| 11.5–12.5% | 0.4% | 100% |  |
+| 11.5–12.5% | 0.5% | 100% |  |
 | 12.5–13.5% | 4% | 99.5% |  |
-| 13.5–14.5% | 15% | 96% |  |
-| 14.5–15.5% | 25% | 80% |  |
-| 15.5–16.5% | 16% | 55% | Median |
-| 16.5–17.5% | 5% | 39% |  |
-| 17.5–18.5% | 4% | 34% |  |
-| 18.5–19.5% | 7% | 30% |  |
-| 19.5–20.5% | 10% | 23% |  |
-| 20.5–21.5% | 8% | 12% |  |
-| 21.5–22.5% | 3% | 5% |  |
-| 22.5–23.5% | 0.9% | 1.1% |  |
-| 23.5–24.5% | 0.1% | 0.2% |  |
-| 24.5–25.5% | 0% | 0% |  |
+| 13.5–14.5% | 18% | 95% |  |
+| 14.5–15.5% | 33% | 77% | Median |
+| 15.5–16.5% | 28% | 44% |  |
+| 16.5–17.5% | 12% | 17% |  |
+| 17.5–18.5% | 4% | 4% |  |
+| 18.5–19.5% | 0.7% | 0.7% |  |
+| 19.5–20.5% | 0.1% | 0.1% |  |
+| 20.5–21.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -108,7 +105,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1 | 1–2 |
+| [3–9 March 2025](2025-03-09-Norstat.html) | Norstat <br> Ühiskonnauuringute Instituut | 1 | 1 | 1 | 1 | 1–2 |
 | [25 February–2 March 2025](2025-03-02-Norstat.html) | Norstat <br> Ühiskonnauuringute Instituut | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [17–23 February 2025](2025-02-23-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [13–19 February 2025](2025-02-19-KantarEmor.html) | Kantar Emor <br> ERR | 1 | 1 | 1 | 1 | 1 |
@@ -173,8 +171,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 78% | 100% | Median |
-| 2 | 22% | 22% |  |
+| 1 | 98.8% | 100% | Median |
+| 2 | 1.2% | 1.2% |  |
 | 3 | 0% | 0% |  |
 
 
