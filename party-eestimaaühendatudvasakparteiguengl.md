@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.1% | 0.0–0.3% | 0.0–0.3% | 0.0–0.4% | 0.0–0.6% |
+| [7–13 April 2025](2025-04-13-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 0.0% | N/A | N/A | N/A | N/A |
 | [3–9 April 2025](2025-04-09-Turu-uuringuteAS.html) | Turu-uuringute AS | 0.0% | 0.0–0.3% | 0.0–0.3% | 0.0–0.4% | 0.0–0.6% |
 | [31 March–6 April 2025](2025-04-06-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 0.0% | N/A | N/A | N/A | N/A |
 | [24–30 March 2025](2025-03-30-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 0.0% | N/A | N/A | N/A | N/A |
@@ -94,6 +95,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [7–13 April 2025](2025-04-13-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
 | [3–9 April 2025](2025-04-09-Turu-uuringuteAS.html) | Turu-uuringute AS | 0 | 0 | 0 | 0 | 0 |
 | [31 March–6 April 2025](2025-04-06-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
 | [24–30 March 2025](2025-03-30-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
