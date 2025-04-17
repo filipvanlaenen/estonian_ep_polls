@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.6% | 8.0–12.4% | 7.7–12.8% | 7.4–13.1% | 6.9–13.8% |
+| N/A | [Poll Average](average.html) | 9.6% | 8.0–12.2% | 7.7–12.6% | 7.4–13.0% | 6.9–13.6% |
+| [9–15 April 2025](2025-04-15-KantarEmor.html) | Kantar Emor <br> ERR | 11.7% | 10.7–12.8% | 10.4–13.2% | 10.2–13.4% | 9.7–14.0% |
 | [7–13 April 2025](2025-04-13-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 8.8% | 7.7–10.1% | 7.5–10.4% | 7.2–10.7% | 6.7–11.4% |
 | [3–9 April 2025](2025-04-09-Turu-uuringuteAS.html) | Turu-uuringute AS | 9.0% | 7.8–10.3% | 7.5–10.7% | 7.3–11.0% | 6.8–11.7% |
 | [31 March–6 April 2025](2025-04-06-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 9.6% | 8.5–10.9% | 8.2–11.3% | 7.9–11.6% | 7.4–12.2% |
@@ -91,11 +92,11 @@ The following table shows the probability mass function per percentage block of 
 | 6.5–7.5% | 4% | 99.8% |  |
 | 7.5–8.5% | 19% | 96% |  |
 | 8.5–9.5% | 27% | 78% |  |
-| 9.5–10.5% | 15% | 50% | Median |
-| 10.5–11.5% | 12% | 35% |  |
-| 11.5–12.5% | 15% | 23% |  |
-| 12.5–13.5% | 7% | 8% |  |
-| 13.5–14.5% | 0.9% | 0.9% |  |
+| 9.5–10.5% | 16% | 50% | Median |
+| 10.5–11.5% | 15% | 34% |  |
+| 11.5–12.5% | 14% | 20% |  |
+| 12.5–13.5% | 5% | 6% |  |
+| 13.5–14.5% | 0.6% | 0.6% |  |
 | 14.5–15.5% | 0% | 0% |  |
 
 
@@ -108,6 +109,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [9–15 April 2025](2025-04-15-KantarEmor.html) | Kantar Emor <br> ERR | 1 | 1 | 1 | 1 | 1 |
 | [7–13 April 2025](2025-04-13-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [3–9 April 2025](2025-04-09-Turu-uuringuteAS.html) | Turu-uuringute AS | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [31 March–6 April 2025](2025-04-06-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
