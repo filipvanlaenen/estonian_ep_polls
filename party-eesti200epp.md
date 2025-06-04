@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.7% | 2.8–4.8% | 2.5–5.1% | 2.3–5.4% | 2.0–5.9% |
+| N/A | [Poll Average](average.html) | 3.4% | 2.6–4.2% | 2.4–4.4% | 2.2–4.6% | 1.9–5.0% |
+| [26 May–1 June 2025](2025-06-01-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 2.7% | N/A | N/A | N/A | N/A |
+| [19–25 May 2025](2025-05-25-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 3.8% | N/A | N/A | N/A | N/A |
 | [14–21 May 2025](2025-05-21-KantarEmor.html) | Kantar Emor <br> ERR | 3.6% | 3.1–4.3% | 2.9–4.5% | 2.8–4.7% | 2.5–5.0% |
 | [12–18 May 2025](2025-05-18-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 4.3% | 3.6–5.2% | 3.4–5.5% | 3.2–5.7% | 2.9–6.2% |
 | [5–11 May 2025](2025-05-11-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1.5% | 1.1–2.1% | 1.0–2.3% | 0.9–2.5% | 0.7–2.8% |
@@ -91,13 +93,11 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 5% | 100% |  |
-| 2.5–3.5% | 37% | 95% |  |
-| 3.5–4.5% | 43% | 57% | Median |
-| 4.5–5.5% | 13% | 15% |  |
-| 5.5–6.5% | 1.4% | 1.5% |  |
-| 6.5–7.5% | 0% | 0% |  |
-| 7.5–8.5% | 0% | 0% |  |
+| 1.5–2.5% | 8% | 100% |  |
+| 2.5–3.5% | 51% | 92% | Median |
+| 3.5–4.5% | 38% | 41% |  |
+| 4.5–5.5% | 3% | 3% |  |
+| 5.5–6.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -109,6 +109,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [26 May–1 June 2025](2025-06-01-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
+| [19–25 May 2025](2025-05-25-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
 | [14–21 May 2025](2025-05-21-KantarEmor.html) | Kantar Emor <br> ERR | 0 | 0 | 0 | 0 | 0 |
 | [12–18 May 2025](2025-05-18-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 0 | 0 | 0 | 0 | 0 |
 | [5–11 May 2025](2025-05-11-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 0 | 0 | 0 | 0 | 0 |
