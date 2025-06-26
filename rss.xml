@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/estonian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 25 Jun 2025 22:12:25 +0200</pubDate>
+    <pubDate>Wed, 25 Jun 2025 23:07:27 +0200</pubDate>
     <item>
       <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 16–22 June 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/estonian_ep_polls/2025-06-22-Norstat.html#seats</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2025-06-22-Norstat-seats.png"
         length="217155"
         type="image/png"/>
-      <pubDate>Wed, 25 Jun 2025 22:12:25 +0200</pubDate>
-      <dc:date>2025-06-25T22:12:25.334521+02:00</dc:date>
+      <pubDate>Wed, 25 Jun 2025 23:07:27 +0200</pubDate>
+      <dc:date>2025-06-25T23:07:27.788036+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 16–22 June 2025 – Seat Projections for a Selection of Coalitions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2025-06-22-Norstat-coalitions-seats.png"
         length="168001"
         type="image/png"/>
-      <pubDate>Wed, 25 Jun 2025 22:12:25 +0200</pubDate>
-      <dc:date>2025-06-25T22:12:25.334521+02:00</dc:date>
+      <pubDate>Wed, 25 Jun 2025 23:07:27 +0200</pubDate>
+      <dc:date>2025-06-25T23:07:27.788036+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 16–22 June 2025 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2025-06-22-Norstat.png"
         length="294964"
         type="image/png"/>
-      <pubDate>Wed, 25 Jun 2025 22:12:25 +0200</pubDate>
-      <dc:date>2025-06-25T22:12:25.334521+02:00</dc:date>
+      <pubDate>Wed, 25 Jun 2025 23:07:27 +0200</pubDate>
+      <dc:date>2025-06-25T23:07:27.788036+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Kantar Emor for ERR, 12–18 June 2025 – Seat Projections for the Parties</title>
@@ -1809,6 +1809,6 @@
       <pubDate>Sun, 11 Aug 2024 10:32:38 +0200</pubDate>
       <dc:date>2024-08-11T10:32:38.486558+02:00</dc:date>
     </item>
-    <dc:date>2025-06-25T22:12:25.334521+02:00</dc:date>
+    <dc:date>2025-06-25T23:07:27.788036+02:00</dc:date>
   </channel>
 </rss>
