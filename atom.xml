@@ -6,7 +6,23 @@
   </author>
   <id>https://filipvanlaenen.github.io/estonian_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2025-07-29T11:37:31.686605+02:00</updated>
+  <updated>2025-07-29T22:10:07.777804+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Erakond Parempoolsed (EPP): 5.3–8.4%, 0 seats</li><li>Eesti Konservatiivne Rahvaerakond (PfE): 17.6–22.6%, 1–2 seats</li><li>Sotsiaaldemokraatlik Erakond (S&amp;D): 12.7–17.1%, 1 seats</li><li>Eesti Reformierakond (RE): 8.4–12.1%, 0–1 seats</li><li>Erakond Eestimaa Rohelised (Greens/EFA): 1.0–2.6%, 0 seats</li><li>Eesti Keskerakond (RE): 15.0–19.7%, 1–2 seats</li><li>Erakond Isamaa (EPP): 22.9–28.3%, 2–3 seats</li><li>Eesti 200 (EPP): 2.1–4.3%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/estonian_ep_polls/2025-07-21-Norstat.html</id>
+    <link href="https://filipvanlaenen.github.io/estonian_ep_polls/2025-07-21-Norstat.html"/>
+    <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 14–21 July 2025</title>
+    <updated>2025-07-29T21:25:00.201816+02:00</updated>
+    <dc:date>2025-07-29T21:25:00.201816+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Erakond Parempoolsed (EPP): 6.4–9.0%, 0–1 seats</li><li>Eesti Konservatiivne Rahvaerakond (PfE): 13.6–17.2%, 1–2 seats</li><li>Sotsiaaldemokraatlik Erakond (S&amp;D): 14.5–18.1%, 1–2 seats</li><li>Koos (*): 1.0–2.2%, 0 seats</li><li>Eesti Reformierakond (RE): 12.5–15.9%, 1 seats</li><li>Erakond Eestimaa Rohelised (Greens/EFA): 1.2–2.5%, 0 seats</li><li>Eesti Keskerakond (RE): 15.3–18.9%, 1–2 seats</li><li>Erakond Isamaa (EPP): 20.3–24.4%, 2 seats</li><li>Eesti 200 (EPP): 2.3–4.1%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/estonian_ep_polls/2025-07-17-KantarEmor.html</id>
+    <link href="https://filipvanlaenen.github.io/estonian_ep_polls/2025-07-17-KantarEmor.html"/>
+    <title>Opinion Poll by Kantar Emor for ERR, 10–17 July 2025</title>
+    <updated>2025-07-29T22:10:07.777804+02:00</updated>
+    <dc:date>2025-07-29T22:10:07.777804+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Erakond Parempoolsed (EPP): 4.7–7.7%, 0 seats</li><li>Eesti Konservatiivne Rahvaerakond (PfE): 13.9–18.5%, 1 seats</li><li>Sotsiaaldemokraatlik Erakond (S&amp;D): 8.9–12.8%, 0–1 seats</li><li>Eesti Reformierakond (RE): 8.7–12.5%, 0–1 seats</li><li>Erakond Eestimaa Rohelised (Greens/EFA): 0.9–2.5%, 0 seats</li><li>Eesti Keskerakond (RE): 16.3–21.1%, 1–2 seats</li><li>Erakond Isamaa (EPP): 28.7–34.4%, 2–3 seats</li><li>Eesti 200 (EPP): 3.1–5.6%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/estonian_ep_polls/2025-07-14-Norstat.html</id>
@@ -511,5 +527,5 @@
     <updated>2024-08-11T10:32:38.486558+02:00</updated>
     <dc:date>2024-08-11T10:32:38.486558+02:00</dc:date>
   </entry>
-  <dc:date>2025-07-29T11:37:31.686605+02:00</dc:date>
+  <dc:date>2025-07-29T22:10:07.777804+02:00</dc:date>
 </feed>
