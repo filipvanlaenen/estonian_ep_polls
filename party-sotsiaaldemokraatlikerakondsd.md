@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13.6% | 10.5–16.7% | 10.0–17.2% | 9.6–17.6% | 9.0–18.3% |
+| N/A | [Poll Average](average.html) | 13.9% | 10.5–16.7% | 10.0–17.2% | 9.6–17.6% | 9.0–18.3% |
+| [4–9 August 2025](2025-08-09-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 13.8% | 12.5–15.3% | 12.1–15.7% | 11.8–16.1% | 11.2–16.8% |
 | [28 July–3 August 2025](2025-08-03-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 13.5% | 12.2–15.0% | 11.8–15.4% | 11.5–15.8% | 10.9–16.5% |
 | [21–28 July 2025](2025-07-28-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 14.4% | 13.1–15.9% | 12.7–16.3% | 12.4–16.7% | 11.7–17.5% |
 | [14–21 July 2025](2025-07-21-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 14.8% | 13.4–16.3% | 13.1–16.8% | 12.7–17.1% | 12.1–17.9% |
@@ -114,13 +115,13 @@ The following table shows the probability mass function per percentage block of 
 | 8.5–9.5% | 2% | 99.9% |  |
 | 9.5–10.5% | 8% | 98% |  |
 | 10.5–11.5% | 13% | 90% |  |
-| 11.5–12.5% | 13% | 77% |  |
-| 12.5–13.5% | 13% | 64% |  |
-| 13.5–14.5% | 12% | 50% | Median |
-| 14.5–15.5% | 11% | 38% |  |
-| 15.5–16.5% | 15% | 27% |  |
+| 11.5–12.5% | 11% | 77% |  |
+| 12.5–13.5% | 12% | 66% |  |
+| 13.5–14.5% | 13% | 54% | Median |
+| 14.5–15.5% | 13% | 41% |  |
+| 15.5–16.5% | 16% | 28% |  |
 | 16.5–17.5% | 10% | 12% |  |
-| 17.5–18.5% | 2% | 3% |  |
+| 17.5–18.5% | 3% | 3% |  |
 | 18.5–19.5% | 0.2% | 0.3% |  |
 | 19.5–20.5% | 0% | 0% |  |
 
@@ -134,6 +135,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 1–2 | 1–2 | 0–2 |
+| [4–9 August 2025](2025-08-09-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1 | 1 | 1 | 1 | 1 |
 | [28 July–3 August 2025](2025-08-03-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1 | 1 | 1 | 1 | 1 |
 | [21–28 July 2025](2025-07-28-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1 | 1 | 1 | 1 | 1 |
 | [14–21 July 2025](2025-07-21-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1 | 1 | 1 | 1 | 1 |
