@@ -2,13 +2,13 @@
 
 The table below lists the most recent polls (less than 90 days old) registered and analyzed so far.
 
-| Period     | Polling firm/Commissioner(s) | EÜVP | Rohelised | SDE | Ref | Kesk | Kaljulaid | Isamaa | EP | E200 | ERK | EKRE | EVA | Koos |
+| Period     | Polling firm/Commissioner(s) | VL | Rohelised | SDE | Ref | Kesk | Kaljulaid | Isamaa | EP | E200 | ERK | EKRE | EVA | Koos |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 9 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | N/A <br> N/A | 0–2% <br> 0 | 10–18% <br> 1–2 | 8–21% <br> 0–2 | 12–19% <br> 1–2 | N/A <br> N/A | 20–31% <br> 2–3 | 5–10% <br> 0–1 | 2–5% <br> 0 | 0–1% <br> 0 | 14–21% <br> 1–2 | N/A <br> N/A | 1–3% <br> 0 |
-| [4–9 August 2025](2025-08-09-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | N/A <br> N/A | 0–1% <br> 0 | 12–16% <br> 1 | 8–12% <br> 0–1 | 15–20% <br> 1–2 | N/A <br> N/A | 26–32% <br> 2–3 | 4–7% <br> 0 | 2–4% <br> 0 | N/A <br> N/A | 17–22% <br> 1–2 | N/A <br> N/A | N/A <br> N/A |
-| [10–17 July 2025](2025-07-17-KantarEmor.html) | Kantar Emor <br> ERR | N/A <br> N/A | 1–2% <br> 0 | 14–18% <br> 1–2 | 12–16% <br> 1 | 15–19% <br> 1–2 | N/A <br> N/A | 20–24% <br> 2 | 6–9% <br> 0–1 | 2–4% <br> 0 | N/A <br> N/A | 14–17% <br> 1–2 | N/A <br> N/A | 1–2% <br> 0 |
-| [5–13 June 2025](2025-06-13-Turu-uuringuteAS.html) | Turu-uuringute AS | N/A <br> N/A | 1–2% <br> 0 | 9–13% <br> 1 | 17–22% <br> 1–2 | 12–16% <br> 1 | N/A <br> N/A | 19–25% <br> 2 | 6–10% <br> 0–1 | 3–5% <br> 0 | 0–1% <br> 0 | 15–20% <br> 1–2 | N/A <br> N/A | 1–3% <br> 0 |
+| N/A | [Poll Average](average.html) | 0–1% <br> 0 | 0–3% <br> 0 | 10–16% <br> 1 | 9–14% <br> 0–1 | 14–20% <br> 1–2 | N/A <br> N/A | 19–31% <br> 1–3 | 5–12% <br> 0–1 | 1–6% <br> 0 | 0–1% <br> 0 | 14–21% <br> 1–2 | N/A <br> N/A | 1–3% <br> 0 |
+| [13–19 August 2025](2025-08-19-KantarEmor.html) | Kantar Emor <br> ERR | N/A <br> N/A | 1–2% <br> 0 | 13–17% <br> 1 | 9–12% <br> 1 | 17–21% <br> 1–2 | N/A <br> N/A | 23–28% <br> 2–3 | 6–9% <br> 0–1 | 3–4% <br> 0 | N/A <br> N/A | 13–17% <br> 1 | N/A <br> N/A | 2–3% <br> 0 |
+| [11–17 August 2025](2025-08-17-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | N/A <br> N/A | 1–3% <br> 0 | 12–16% <br> 1 | 10–14% <br> 1 | 15–20% <br> 1–2 | N/A <br> N/A | 26–32% <br> 2–3 | 5–8% <br> 0 | 1–2% <br> 0 | N/A <br> N/A | 15–20% <br> 1–2 | N/A <br> N/A | N/A <br> N/A |
+| [7–11 August 2025](2025-08-11-Turu-uuringuteAS.html) | Turu-uuringute AS | 0–1% <br> 0 | 0–1% <br> 0 | 9–13% <br> 0–1 | 8–12% <br> 0–1 | 14–19% <br> 1 | N/A <br> N/A | 18–24% <br> 1–2 | 8–12% <br> 0–1 | 4–7% <br> 0 | 0–1% <br> 0 | 17–22% <br> 1–2 | N/A <br> N/A | 1–2% <br> 0 |
 | 9 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
@@ -16,7 +16,7 @@ Only polls for which at least the sample size has been published are included in
 **Legend:**
 + **Top half of each row:** Voting intentions (95% confidence interval)
 + **Bottom half of each row:** Seat projections for the European Parliament (95% confidence interval)
-+ **EÜVP:** Eestimaa Ühendatud Vasakpartei (GUE/NGL)
++ **VL:** Eesti Vasakliit (GUE/NGL)
 + **Rohelised:** Erakond Eestimaa Rohelised (Greens/EFA)
 + **SDE:** Sotsiaaldemokraatlik Erakond (S&D)
 + **Ref:** Eesti Reformierakond (RE)
