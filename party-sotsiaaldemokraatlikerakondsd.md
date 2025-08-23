@@ -16,15 +16,15 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [7–11 August 2025](2025-08-11-Turu-uuringuteAS.html) | Turu-uuringute AS | 11.0% | 9.7–12.4% | 9.4–12.8% | 9.1–13.2% | 8.5–13.9% |
 | [4–9 August 2025](2025-08-09-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 13.8% | N/A | N/A | N/A | N/A |
 | [28 July–3 August 2025](2025-08-03-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 13.5% | N/A | N/A | N/A | N/A |
-| [21–28 July 2025](2025-07-28-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 14.4% | N/A | N/A | N/A | N/A |
+| [21–28 July 2025](2025-07-28-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 14.4% | 13.1–15.9% | 12.7–16.3% | 12.4–16.7% | 11.7–17.5% |
 | [14–21 July 2025](2025-07-21-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 14.8% | N/A | N/A | N/A | N/A |
-| [10–17 July 2025](2025-07-17-KantarEmor.html) | Kantar Emor <br> ERR | 16.2% | N/A | N/A | N/A | N/A |
+| [10–17 July 2025](2025-07-17-KantarEmor.html) | Kantar Emor <br> ERR | 16.2% | 15.1–17.5% | 14.8–17.8% | 14.5–18.1% | 13.9–18.7% |
 | [7–14 July 2025](2025-07-14-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 10.7% | N/A | N/A | N/A | N/A |
 | [30 June–6 July 2025](2025-07-06-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 12.3% | N/A | N/A | N/A | N/A |
 | [16–22 June 2025](2025-06-22-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 11.6% | N/A | N/A | N/A | N/A |
 | [12–18 June 2025](2025-06-18-KantarEmor.html) | Kantar Emor <br> ERR | 12.3% | N/A | N/A | N/A | N/A |
 | [9–15 June 2025](2025-06-15-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 10.4% | N/A | N/A | N/A | N/A |
-| [5–13 June 2025](2025-06-13-Turu-uuringuteAS.html) | Turu-uuringute AS | 11.0% | N/A | N/A | N/A | N/A |
+| [5–13 June 2025](2025-06-13-Turu-uuringuteAS.html) | Turu-uuringute AS | 11.0% | 9.8–12.5% | 9.4–12.9% | 9.1–13.2% | 8.6–13.9% |
 | [2–8 June 2025](2025-06-08-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 9.8% | N/A | N/A | N/A | N/A |
 | [26 May–1 June 2025](2025-06-01-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 12.9% | N/A | N/A | N/A | N/A |
 | [19–25 May 2025](2025-05-25-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 11.9% | N/A | N/A | N/A | N/A |
@@ -142,15 +142,15 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [7–11 August 2025](2025-08-11-Turu-uuringuteAS.html) | Turu-uuringute AS | 1 | 1 | 1 | 0–1 | 0–1 |
 | [4–9 August 2025](2025-08-09-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
 | [28 July–3 August 2025](2025-08-03-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
-| [21–28 July 2025](2025-07-28-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
+| [21–28 July 2025](2025-07-28-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1 | 1 | 1 | 1 | 1 |
 | [14–21 July 2025](2025-07-21-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
-| [10–17 July 2025](2025-07-17-KantarEmor.html) | Kantar Emor <br> ERR |  |  |  |  |  |
+| [10–17 July 2025](2025-07-17-KantarEmor.html) | Kantar Emor <br> ERR | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [7–14 July 2025](2025-07-14-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
 | [30 June–6 July 2025](2025-07-06-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
 | [16–22 June 2025](2025-06-22-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
 | [12–18 June 2025](2025-06-18-KantarEmor.html) | Kantar Emor <br> ERR |  |  |  |  |  |
 | [9–15 June 2025](2025-06-15-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
-| [5–13 June 2025](2025-06-13-Turu-uuringuteAS.html) | Turu-uuringute AS |  |  |  |  |  |
+| [5–13 June 2025](2025-06-13-Turu-uuringuteAS.html) | Turu-uuringute AS | 1 | 1 | 1 | 0–1 | 0–1 |
 | [2–8 June 2025](2025-06-08-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
 | [26 May–1 June 2025](2025-06-01-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
 | [19–25 May 2025](2025-05-25-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
