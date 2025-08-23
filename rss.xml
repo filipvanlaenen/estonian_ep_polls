@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/estonian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 22 Aug 2025 20:45:25 +0200</pubDate>
+    <pubDate>Sat, 23 Aug 2025 10:19:09 +0200</pubDate>
     <item>
       <title>Opinion Poll by Kantar Emor for ERR, 13–19 August 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/estonian_ep_polls/2025-08-19-KantarEmor.html#seats</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2025-08-19-KantarEmor-seats.png"
         length="223121"
         type="image/png"/>
-      <pubDate>Fri, 22 Aug 2025 20:18:00 +0200</pubDate>
-      <dc:date>2025-08-22T20:18:00.632546+02:00</dc:date>
+      <pubDate>Sat, 23 Aug 2025 10:19:09 +0200</pubDate>
+      <dc:date>2025-08-23T10:19:09.18595+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Kantar Emor for ERR, 13–19 August 2025 – Seat Projections for a Selection of Coalitions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2025-08-19-KantarEmor-coalitions-seats.png"
         length="171587"
         type="image/png"/>
-      <pubDate>Fri, 22 Aug 2025 20:18:00 +0200</pubDate>
-      <dc:date>2025-08-22T20:18:00.632546+02:00</dc:date>
+      <pubDate>Sat, 23 Aug 2025 10:19:09 +0200</pubDate>
+      <dc:date>2025-08-23T10:19:09.18595+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Kantar Emor for ERR, 13–19 August 2025 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2025-08-19-KantarEmor.png"
         length="305144"
         type="image/png"/>
-      <pubDate>Fri, 22 Aug 2025 20:18:00 +0200</pubDate>
-      <dc:date>2025-08-22T20:18:00.632546+02:00</dc:date>
+      <pubDate>Sat, 23 Aug 2025 10:19:09 +0200</pubDate>
+      <dc:date>2025-08-23T10:19:09.18595+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 11–17 August 2025 – Seat Projections for the Parties</title>
@@ -99,6 +99,6 @@
       <pubDate>Fri, 22 Aug 2025 20:45:25 +0200</pubDate>
       <dc:date>2025-08-22T20:45:25.322848+02:00</dc:date>
     </item>
-    <dc:date>2025-08-22T20:45:25.322848+02:00</dc:date>
+    <dc:date>2025-08-23T10:19:09.18595+02:00</dc:date>
   </channel>
 </rss>
