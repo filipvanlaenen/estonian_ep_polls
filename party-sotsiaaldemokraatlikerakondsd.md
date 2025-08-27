@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13.8% | 10.5–15.5% | 10.0–15.9% | 9.6–16.3% | 8.9–17.0% |
+| N/A | [Poll Average](average.html) | 11.7% | 10.0–15.2% | 9.6–15.6% | 9.3–16.0% | 8.7–16.7% |
+| [18–24 August 2025](2025-08-24-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 11.0% | 9.8–12.4% | 9.5–12.8% | 9.2–13.1% | 8.7–13.8% |
 | [13–19 August 2025](2025-08-19-KantarEmor.html) | Kantar Emor <br> ERR | 14.7% | 13.6–15.9% | 13.3–16.2% | 13.0–16.5% | 12.5–17.1% |
 | [11–17 August 2025](2025-08-17-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 14.1% | 12.8–15.6% | 12.4–16.0% | 12.1–16.4% | 11.5–17.1% |
 | [7–11 August 2025](2025-08-11-Turu-uuringuteAS.html) | Turu-uuringute AS | 11.0% | 9.7–12.4% | 9.4–12.8% | 9.1–13.2% | 8.5–13.9% |
@@ -114,17 +115,17 @@ The following table shows the probability mass function per percentage block of 
 | 4.5–5.5% | 0% | 100% |  |
 | 5.5–6.5% | 0% | 100% |  |
 | 6.5–7.5% | 0% | 100% |  |
-| 7.5–8.5% | 0.2% | 100% |  |
-| 8.5–9.5% | 2% | 99.8% |  |
-| 9.5–10.5% | 8% | 98% |  |
-| 10.5–11.5% | 13% | 89% |  |
-| 11.5–12.5% | 10% | 77% |  |
-| 12.5–13.5% | 13% | 67% |  |
-| 13.5–14.5% | 23% | 54% | Median |
-| 14.5–15.5% | 21% | 31% |  |
-| 15.5–16.5% | 8% | 10% |  |
-| 16.5–17.5% | 1.3% | 1.4% |  |
-| 17.5–18.5% | 0.1% | 0.1% |  |
+| 7.5–8.5% | 0.3% | 100% |  |
+| 8.5–9.5% | 4% | 99.7% |  |
+| 9.5–10.5% | 16% | 96% |  |
+| 10.5–11.5% | 25% | 79% |  |
+| 11.5–12.5% | 16% | 54% | Median |
+| 12.5–13.5% | 7% | 38% |  |
+| 13.5–14.5% | 12% | 31% |  |
+| 14.5–15.5% | 13% | 19% |  |
+| 15.5–16.5% | 5% | 6% |  |
+| 16.5–17.5% | 0.7% | 0.8% |  |
+| 17.5–18.5% | 0% | 0% |  |
 | 18.5–19.5% | 0% | 0% |  |
 
 
@@ -136,7 +137,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1 | 0–1 |
+| N/A | [Poll Average](average.html) | 1 | 1 | 1 | 0–1 | 0–1 |
+| [18–24 August 2025](2025-08-24-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [13–19 August 2025](2025-08-19-KantarEmor.html) | Kantar Emor <br> ERR | 1 | 1 | 1 | 1 | 1 |
 | [11–17 August 2025](2025-08-17-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1 | 1 | 1 | 1 | 1 |
 | [7–11 August 2025](2025-08-11-Turu-uuringuteAS.html) | Turu-uuringute AS | 1 | 1 | 1 | 0–1 | 0–1 |
@@ -234,8 +236,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 1.4% | 100% | Last Result |
-| 1 | 98.6% | 98.6% | Median |
+| 0 | 3% | 100% | Last Result |
+| 1 | 97% | 97% | Median |
 | 2 | 0.1% | 0.1% |  |
 | 3 | 0% | 0% |  |
 
