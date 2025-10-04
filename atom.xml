@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/estonian_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2025-09-24T21:42:48.600307+02:00</updated>
+  <updated>2025-10-04T17:05:54.240813+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Eesti Konservatiivne Rahvaerakond (PfE): 14.8–19.5%, 1–2 seats</li><li>Erakond Parempoolsed (EPP): 4.8–7.8%, 0 seats</li><li>Sotsiaaldemokraatlik Erakond (S&amp;D): 10.2–14.3%, 1 seats</li><li>Eesti Reformierakond (RE): 12.5–16.8%, 1 seats</li><li>Erakond Eestimaa Rohelised (Greens/EFA): 0.5–1.7%, 0 seats</li><li>Erakond Isamaa (EPP): 23.8–29.2%, 2–3 seats</li><li>Eesti Keskerakond (RE): 16.7–21.6%, 1–2 seats</li><li>Eesti 200 (EPP): 1.7–3.7%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/estonian_ep_polls/2025-09-28-Norstat.html</id>
+    <link href="https://filipvanlaenen.github.io/estonian_ep_polls/2025-09-28-Norstat.html"/>
+    <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 22–28 September 2025</title>
+    <updated>2025-10-04T17:05:54.240813+02:00</updated>
+    <dc:date>2025-10-04T17:05:54.240813+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Eesti Konservatiivne Rahvaerakond (PfE): 14.2–18.8%, 1 seats</li><li>Erakond Parempoolsed (EPP): 4.7–7.7%, 0 seats</li><li>Sotsiaaldemokraatlik Erakond (S&amp;D): 9.4–13.3%, 0–1 seats</li><li>Eesti Reformierakond (RE): 8.3–12.0%, 0–1 seats</li><li>Erakond Eestimaa Rohelised (Greens/EFA): 0.8–2.2%, 0 seats</li><li>Erakond Isamaa (EPP): 27.7–33.4%, 2–3 seats</li><li>Eesti Keskerakond (RE): 17.0–21.9%, 1–2 seats</li><li>Eesti 200 (EPP): 2.0–4.1%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/estonian_ep_polls/2025-09-22-Norstat.html</id>
@@ -111,5 +119,5 @@
     <updated>2025-08-24T16:46:37.129155+02:00</updated>
     <dc:date>2025-08-24T16:46:37.129155+02:00</dc:date>
   </entry>
-  <dc:date>2025-09-24T21:42:48.600307+02:00</dc:date>
+  <dc:date>2025-10-04T17:05:54.240813+02:00</dc:date>
 </feed>
