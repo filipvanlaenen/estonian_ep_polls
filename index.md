@@ -5,10 +5,10 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | VL | Rohelised | SDE | Ref | Kesk | Kaljulaid | Isamaa | EP | E200 | ERK | EKRE | EVA | Koos |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 9 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 0–1% <br> 0 | 0–2% <br> 0 | 10–19% <br> 1–2 | 9–16% <br> 0–1 | 16–21% <br> 1–2 | N/A <br> N/A | 19–31% <br> 2–3 | 4–10% <br> 0–1 | 2–4% <br> 0 | 0–1% <br> 0 | 11–21% <br> 1–2 | N/A <br> N/A | 1–3% <br> 0 |
+| N/A | [Poll Average](average.html) | 0–1% <br> 0 | 0–2% <br> 0 | 10–17% <br> 1 | 9–15% <br> 0–1 | 16–22% <br> 1–2 | N/A <br> N/A | 19–31% <br> 2–3 | 4–11% <br> 0–1 | 2–4% <br> 0 | 0–1% <br> 0 | 12–21% <br> 1–2 | N/A <br> N/A | 1–2% <br> 0 |
+| [3–13 October 2025](2025-10-13-KantarEmor.html) | Kantar Emor <br> ERR | N/A <br> N/A | 1–2% <br> 0 | 12–16% <br> 1 | 12–15% <br> 1 | 18–22% <br> 1–2 | N/A <br> N/A | 21–25% <br> 2 | 8–11% <br> 0–1 | 2–3% <br> 0 | N/A <br> N/A | 13–17% <br> 1 | N/A <br> N/A | 1–2% <br> 0 |
 | [6–12 October 2025](2025-10-12-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | N/A <br> N/A | 0–2% <br> 0 | 10–14% <br> 0–1 | 9–13% <br> 0–1 | 17–22% <br> 1–2 | N/A <br> N/A | 26–32% <br> 2–3 | 4–7% <br> 0 | 2–4% <br> 0 | N/A <br> N/A | 17–21% <br> 1–2 | N/A <br> N/A | N/A <br> N/A |
 | [6–9 October 2025](2025-10-09-Turu-uuringuteAS.html) | Turu-uuringute AS | 0–1% <br> 0 | 1–2% <br> 0 | 13–17% <br> 1 | 11–15% <br> 1 | 16–21% <br> 1–2 | N/A <br> N/A | 18–24% <br> 1–2 | 7–11% <br> 0–1 | 2–4% <br> 0 | 0–1% <br> 0 | 12–16% <br> 1 | N/A <br> N/A | 1–2% <br> 0 |
-| [10–17 September 2025](2025-09-17-KantarEmor.html) | Kantar Emor <br> ERR | N/A <br> N/A | 1–2% <br> 0 | 16–20% <br> 1–2 | 12–16% <br> 1 | 16–20% <br> 1–2 | N/A <br> N/A | 21–26% <br> 2 | 6–9% <br> 0–1 | 1–3% <br> 0 | N/A <br> N/A | 11–14% <br> 1 | N/A <br> N/A | 2–3% <br> 0 |
 | 9 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
