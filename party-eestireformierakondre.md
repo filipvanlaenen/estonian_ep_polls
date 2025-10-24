@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 12.5% | 10.1–14.1% | 9.6–14.5% | 9.2–14.9% | 8.6–15.6% |
+| [13–17 October 2025](2025-10-17-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 10.5% | 9.3–11.8% | 9.0–12.2% | 8.7–12.6% | 8.2–13.2% |
 | [3–13 October 2025](2025-10-13-KantarEmor.html) | Kantar Emor <br> ERR | 13.1% | 12.1–14.2% | 11.8–14.6% | 11.6–14.8% | 11.1–15.4% |
 | [6–12 October 2025](2025-10-12-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 10.5% | 9.3–11.8% | 9.0–12.2% | 8.7–12.6% | 8.2–13.2% |
 | [6–9 October 2025](2025-10-09-Turu-uuringuteAS.html) | Turu-uuringute AS | 13.0% | 11.6–14.5% | 11.2–15.0% | 10.9–15.3% | 10.3–16.1% |
@@ -148,6 +149,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| [13–17 October 2025](2025-10-17-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [3–13 October 2025](2025-10-13-KantarEmor.html) | Kantar Emor <br> ERR | 1 | 1 | 1 | 1 | 1 |
 | [6–12 October 2025](2025-10-12-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [6–9 October 2025](2025-10-09-Turu-uuringuteAS.html) | Turu-uuringute AS | 1 | 1 | 1 | 1 | 1 |
@@ -257,8 +259,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 6% | 100% | Last Result |
-| 1 | 94% | 94% | Median |
+| 0 | 7% | 100% | Last Result |
+| 1 | 93% | 93% | Median |
 | 2 | 0% | 0% |  |
 
 
