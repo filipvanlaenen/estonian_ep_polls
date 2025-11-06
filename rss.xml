@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/estonian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 03 Nov 2025 22:12:06 +0100</pubDate>
+    <pubDate>Wed, 05 Nov 2025 22:19:20 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 27 October–2 November 2025 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/estonian_ep_polls/2025-11-02-Norstat.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Eesti Konservatiivne Rahvaerakond (PfE): 1 seats&lt;/li&gt;&lt;li&gt;Erakond Parempoolsed (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Sotsiaaldemokraatlik Erakond (S&amp;amp;D): 0–1 seats&lt;/li&gt;&lt;li&gt;Eesti Reformierakond (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Erakond Eestimaa Rohelised (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Erakond Isamaa (EPP): 2–3 seats&lt;/li&gt;&lt;li&gt;Eesti Keskerakond (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Eesti 200 (EPP): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2025-11-02-Norstat-seats.png"
+        length="279653"
+        type="image/png"/>
+      <pubDate>Wed, 05 Nov 2025 22:19:20 +0100</pubDate>
+      <dc:date>2025-11-05T22:19:20.328935+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 27 October–2 November 2025 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/estonian_ep_polls/2025-11-02-Norstat.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2025-11-02-Norstat-coalitions-seats.png"
+        length="214635"
+        type="image/png"/>
+      <pubDate>Wed, 05 Nov 2025 22:19:20 +0100</pubDate>
+      <dc:date>2025-11-05T22:19:20.328935+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 27 October–2 November 2025 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/estonian_ep_polls/2025-11-02-Norstat.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Eesti Konservatiivne Rahvaerakond (PfE): 12.7–17.1%&lt;/li&gt;&lt;li&gt;Erakond Parempoolsed (EPP): 5.7–8.9%&lt;/li&gt;&lt;li&gt;Sotsiaaldemokraatlik Erakond (S&amp;amp;D): 9.9–13.9%&lt;/li&gt;&lt;li&gt;Eesti Reformierakond (RE): 9.0–12.9%&lt;/li&gt;&lt;li&gt;Erakond Eestimaa Rohelised (Greens/EFA): 0.6–2.0%&lt;/li&gt;&lt;li&gt;Erakond Isamaa (EPP): 26.7–32.4%&lt;/li&gt;&lt;li&gt;Eesti Keskerakond (RE): 19.5–24.7%&lt;/li&gt;&lt;li&gt;Eesti 200 (EPP): 1.2–3.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2025-11-02-Norstat.png"
+        length="298178"
+        type="image/png"/>
+      <pubDate>Wed, 05 Nov 2025 22:19:20 +0100</pubDate>
+      <dc:date>2025-11-05T22:19:20.328935+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 20–26 October 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/estonian_ep_polls/2025-10-26-Norstat.html#seats</link>
@@ -609,6 +639,6 @@
       <pubDate>Sun, 24 Aug 2025 16:46:37 +0200</pubDate>
       <dc:date>2025-08-24T16:46:37.129155+02:00</dc:date>
     </item>
-    <dc:date>2025-11-03T22:12:06.531198+01:00</dc:date>
+    <dc:date>2025-11-05T22:19:20.328935+01:00</dc:date>
   </channel>
 </rss>
