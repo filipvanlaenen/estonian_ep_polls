@@ -10,9 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22.9% | 20.3–29.5% | 19.6–30.2% | 19.1–30.8% | 18.2–31.9% |
+| N/A | [Poll Average](average.html) | 22.6% | 20.3–29.1% | 19.7–29.9% | 19.2–30.6% | 18.3–31.7% |
 | [10–16 November 2025](2025-11-16-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 28.7% | 26.9–30.6% | 26.4–31.1% | 26.0–31.6% | 25.1–32.5% |
-| [6–10 November 2025](2025-11-10-Turu-uuringute.html) | Turu-uuringute | 22.0% | N/A | N/A | N/A | N/A |
+| [6–10 November 2025](2025-11-10-Turu-uuringute.html) | Turu-uuringute | 22.0% | 20.3–23.9% | 19.8–24.4% | 19.4–24.8% | 18.6–25.7% |
 | [3–9 November 2025](2025-11-09-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 30.4% | 28.6–32.3% | 28.1–32.9% | 27.6–33.3% | 26.8–34.2% |
 | [27 October–2 November 2025](2025-11-02-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 29.5% | 27.7–31.4% | 27.2–31.9% | 26.7–32.4% | 25.9–33.3% |
 | [20–26 October 2025](2025-10-26-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 30.2% | 28.4–32.1% | 27.9–32.6% | 27.4–33.1% | 26.6–34.0% |
@@ -142,21 +142,21 @@ The following table shows the probability mass function per percentage block of 
 | 14.5–15.5% | 0% | 100% |  |
 | 15.5–16.5% | 0% | 100% |  |
 | 16.5–17.5% | 0.1% | 100% |  |
-| 17.5–18.5% | 0.9% | 99.9% |  |
-| 18.5–19.5% | 4% | 99.0% |  |
-| 19.5–20.5% | 8% | 95% |  |
-| 20.5–21.5% | 14% | 87% |  |
-| 21.5–22.5% | 18% | 73% |  |
-| 22.5–23.5% | 15% | 55% | Median |
-| 23.5–24.5% | 6% | 41% |  |
-| 24.5–25.5% | 1.5% | 35% |  |
-| 25.5–26.5% | 2% | 33% |  |
-| 26.5–27.5% | 5% | 31% |  |
-| 27.5–28.5% | 8% | 27% |  |
-| 28.5–29.5% | 9% | 18% |  |
-| 29.5–30.5% | 6% | 9% |  |
-| 30.5–31.5% | 3% | 3% |  |
-| 31.5–32.5% | 0.7% | 0.9% |  |
+| 17.5–18.5% | 0.8% | 99.9% |  |
+| 18.5–19.5% | 3% | 99.1% |  |
+| 19.5–20.5% | 9% | 96% |  |
+| 20.5–21.5% | 16% | 87% |  |
+| 21.5–22.5% | 21% | 71% |  |
+| 22.5–23.5% | 16% | 50% | Median |
+| 23.5–24.5% | 7% | 34% |  |
+| 24.5–25.5% | 2% | 27% |  |
+| 25.5–26.5% | 1.5% | 25% |  |
+| 26.5–27.5% | 4% | 24% |  |
+| 27.5–28.5% | 6% | 20% |  |
+| 28.5–29.5% | 7% | 14% |  |
+| 29.5–30.5% | 4% | 7% |  |
+| 30.5–31.5% | 2% | 3% |  |
+| 31.5–32.5% | 0.5% | 0.7% |  |
 | 32.5–33.5% | 0.1% | 0.1% |  |
 | 33.5–34.5% | 0% | 0% |  |
 
@@ -171,7 +171,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2 | 2 | 2–3 | 1–3 |
 | [10–16 November 2025](2025-11-16-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [6–10 November 2025](2025-11-10-Turu-uuringute.html) | Turu-uuringute |  |  |  |  |  |
+| [6–10 November 2025](2025-11-10-Turu-uuringute.html) | Turu-uuringute | 2 | 2 | 2 | 2 | 1–2 |
 | [3–9 November 2025](2025-11-09-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [27 October–2 November 2025](2025-11-02-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [20–26 October 2025](2025-10-26-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -286,9 +286,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 0.9% | 100% |  |
-| 2 | 94% | 99.1% | Median |
-| 3 | 5% | 5% |  |
+| 1 | 1.1% | 100% |  |
+| 2 | 95% | 98.9% | Median |
+| 3 | 4% | 4% |  |
 | 4 | 0% | 0% | Majority |
 
 
