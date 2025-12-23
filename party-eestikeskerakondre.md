@@ -10,8 +10,10 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19.9% | 18.0–21.6% | 17.5–22.0% | 17.1–22.4% | 16.3–23.1% |
+| N/A | [Poll Average](average.html) | 21.5% | 19.9–23.5% | 19.5–24.0% | 19.1–24.5% | 18.4–25.4% |
+| [15–21 December 2025](2025-12-21-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 22.1% | 20.5–23.9% | 20.0–24.3% | 19.6–24.8% | 18.9–25.6% |
 | [8–14 December 2025](2025-12-14-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 19.5% | 18.0–21.2% | 17.5–21.7% | 17.2–22.1% | 16.4–22.9% |
+| [4–10 December 2025](2025-12-10-Turu-uuringuteAS.html) | Turu-uuringute AS | 21.9% | 20.2–23.8% | 19.7–24.3% | 19.3–24.8% | 18.5–25.7% |
 | [3–10 December 2025](2025-12-10-KantarEmor.html) | Kantar Emor <br> ERR | 20.7% | 19.5–22.1% | 19.1–22.5% | 18.8–22.8% | 18.2–23.4% |
 | [1–7 December 2025](2025-12-07-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 22.1% | 20.5–23.9% | 20.0–24.3% | 19.6–24.8% | 18.9–25.6% |
 | [24–30 November 2025](2025-11-30-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 20.8% | 19.2–22.5% | 18.8–23.0% | 18.4–23.4% | 17.7–24.3% |
@@ -145,17 +147,20 @@ The following table shows the probability mass function per percentage block of 
 | 11.5–12.5% | 0% | 100% |  |
 | 12.5–13.5% | 0% | 100% |  |
 | 13.5–14.5% | 0% | 100% |  |
-| 14.5–15.5% | 0.1% | 100% |  |
-| 15.5–16.5% | 0.9% | 99.9% |  |
-| 16.5–17.5% | 5% | 99.0% |  |
-| 17.5–18.5% | 13% | 95% |  |
-| 18.5–19.5% | 23% | 81% |  |
-| 19.5–20.5% | 27% | 58% | Median |
-| 20.5–21.5% | 21% | 31% |  |
-| 21.5–22.5% | 8% | 10% |  |
-| 22.5–23.5% | 2% | 2% |  |
-| 23.5–24.5% | 0.2% | 0.2% |  |
-| 24.5–25.5% | 0% | 0% |  |
+| 14.5–15.5% | 0% | 100% |  |
+| 15.5–16.5% | 0% | 100% |  |
+| 16.5–17.5% | 0% | 100% |  |
+| 17.5–18.5% | 0.6% | 100% |  |
+| 18.5–19.5% | 5% | 99.3% |  |
+| 19.5–20.5% | 17% | 94% |  |
+| 20.5–21.5% | 27% | 77% |  |
+| 21.5–22.5% | 25% | 50% | Median |
+| 22.5–23.5% | 16% | 25% |  |
+| 23.5–24.5% | 7% | 9% |  |
+| 24.5–25.5% | 2% | 2% |  |
+| 25.5–26.5% | 0.4% | 0.4% |  |
+| 26.5–27.5% | 0% | 0% |  |
+| 27.5–28.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -166,8 +171,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| N/A | [Poll Average](average.html) | 2 | 2 | 2 | 1–2 | 1–2 |
+| [15–21 December 2025](2025-12-21-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 2 | 2 | 2 | 2 | 2 |
 | [8–14 December 2025](2025-12-14-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [4–10 December 2025](2025-12-10-Turu-uuringuteAS.html) | Turu-uuringute AS | 2 | 2 | 2 | 2 | 2 |
 | [3–10 December 2025](2025-12-10-KantarEmor.html) | Kantar Emor <br> ERR | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [1–7 December 2025](2025-12-07-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 2 | 2 | 2 | 2 | 2 |
 | [24–30 November 2025](2025-11-30-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 2 | 2 | 1–2 | 1–2 | 1–2 |
@@ -289,8 +296,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 34% | 100% |  |
-| 2 | 66% | 66% | Median |
+| 1 | 3% | 100% |  |
+| 2 | 97% | 97% | Median |
 | 3 | 0% | 0% |  |
 
 
