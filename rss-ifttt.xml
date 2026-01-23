@@ -6,6 +6,30 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Sun, 14 Jul 2024 20:43:13 +0200</pubDate>
     <item>
+      <title>Opinion Poll by Kantar Emor for ERR, 14–21 January 2026 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/estonian_ep_polls/2026-01-21-KantarEmor.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the European Parliament<br/>4 seats needed for a majority<br/>Opinion poll by Kantar Emor for ERR, 14–21 January 2026<br/>Details on https://filipvanlaenen.github.io/estonian_ep_polls/2026-01-21-KantarEmor.html<br/><img src="https://filipvanlaenen.github.io/estonian_ep_polls/2026-01-21-KantarEmor-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2026-01-21-KantarEmor-seating-plan.png" length="134827" type="image/png"/>
+      <pubDate>Fri, 23 Jan 2026 19:51:28 +0100</pubDate>
+      <dc:date>2026-01-23T19:51:28.2569709+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar Emor for ERR, 14–21 January 2026 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/estonian_ep_polls/2026-01-21-KantarEmor.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>4 seats needed for a majority<br/>Opinion poll by Kantar Emor for ERR, 14–21 January 2026<br/>Details on https://filipvanlaenen.github.io/estonian_ep_polls/2026-01-21-KantarEmor.html<br/><img src="https://filipvanlaenen.github.io/estonian_ep_polls/2026-01-21-KantarEmor-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2026-01-21-KantarEmor-seats.png" length="217265" type="image/png"/>
+      <pubDate>Fri, 23 Jan 2026 19:51:28 +0100</pubDate>
+      <dc:date>2026-01-23T19:51:28.2569709+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar Emor for ERR, 14–21 January 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/estonian_ep_polls/2026-01-21-KantarEmor.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Kantar Emor for ERR, 14–21 January 2026<br/>Details on https://filipvanlaenen.github.io/estonian_ep_polls/2026-01-21-KantarEmor.html<br/><img src="https://filipvanlaenen.github.io/estonian_ep_polls/2026-01-21-KantarEmor.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2026-01-21-KantarEmor.png" length="342755" type="image/png"/>
+      <pubDate>Fri, 23 Jan 2026 19:51:28 +0100</pubDate>
+      <dc:date>2026-01-23T19:51:28.2569709+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 12–18 January 2026 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/estonian_ep_polls/2026-01-18-Norstat.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>4 seats needed for a majority<br/>Opinion poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 12–18 January 2026<br/>Details on https://filipvanlaenen.github.io/estonian_ep_polls/2026-01-18-Norstat.html<br/><img src="https://filipvanlaenen.github.io/estonian_ep_polls/2026-01-18-Norstat-seating-plan.png"/>]]></description>
@@ -220,30 +244,6 @@
       <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2025-11-30-Norstat.png" length="296442" type="image/png"/>
       <pubDate>Thu, 4 Dec 2025 21:45:11 +0100</pubDate>
       <dc:date>2025-12-04T21:45:11.470513551+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 17–23 November 2025 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/estonian_ep_polls/2025-11-23-Norstat.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>4 seats needed for a majority<br/>Opinion poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 17–23 November 2025<br/>Details on https://filipvanlaenen.github.io/estonian_ep_polls/2025-11-23-Norstat.html<br/><img src="https://filipvanlaenen.github.io/estonian_ep_polls/2025-11-23-Norstat-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2025-11-23-Norstat-seating-plan.png" length="170447" type="image/png"/>
-      <pubDate>Wed, 26 Nov 2025 19:35:22 +0100</pubDate>
-      <dc:date>2025-11-26T19:35:22.761215238+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 17–23 November 2025 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/estonian_ep_polls/2025-11-23-Norstat.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>4 seats needed for a majority<br/>Opinion poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 17–23 November 2025<br/>Details on https://filipvanlaenen.github.io/estonian_ep_polls/2025-11-23-Norstat.html<br/><img src="https://filipvanlaenen.github.io/estonian_ep_polls/2025-11-23-Norstat-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2025-11-23-Norstat-seats.png" length="248185" type="image/png"/>
-      <pubDate>Wed, 26 Nov 2025 19:35:22 +0100</pubDate>
-      <dc:date>2025-11-26T19:35:22.761215238+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 17–23 November 2025 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/estonian_ep_polls/2025-11-23-Norstat.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 17–23 November 2025<br/>Details on https://filipvanlaenen.github.io/estonian_ep_polls/2025-11-23-Norstat.html<br/><img src="https://filipvanlaenen.github.io/estonian_ep_polls/2025-11-23-Norstat.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2025-11-23-Norstat.png" length="298488" type="image/png"/>
-      <pubDate>Wed, 26 Nov 2025 19:35:22 +0100</pubDate>
-      <dc:date>2025-11-26T19:35:22.761215238+01:00</dc:date>
     </item>
   </channel>
 </rss>
