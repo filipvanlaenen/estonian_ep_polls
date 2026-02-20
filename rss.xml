@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/estonian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 19 Feb 2026 19:55:44 +0100</pubDate>
+    <pubDate>Fri, 20 Feb 2026 16:28:46 +0100</pubDate>
     <item>
       <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 9–15 February 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/estonian_ep_polls/2026-02-15-Norstat.html#seats</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2026-02-15-Norstat-seats.png"
         length="217339"
         type="image/png"/>
-      <pubDate>Thu, 19 Feb 2026 19:55:44 +0100</pubDate>
-      <dc:date>2026-02-19T19:55:44.126688+01:00</dc:date>
+      <pubDate>Fri, 20 Feb 2026 16:28:46 +0100</pubDate>
+      <dc:date>2026-02-20T16:28:46.711123+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 9–15 February 2026 – Seat Projections for a Selection of Coalitions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2026-02-15-Norstat-coalitions-seats.png"
         length="178144"
         type="image/png"/>
-      <pubDate>Thu, 19 Feb 2026 19:55:44 +0100</pubDate>
-      <dc:date>2026-02-19T19:55:44.126688+01:00</dc:date>
+      <pubDate>Fri, 20 Feb 2026 16:28:46 +0100</pubDate>
+      <dc:date>2026-02-20T16:28:46.711123+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 9–15 February 2026 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2026-02-15-Norstat.png"
         length="302166"
         type="image/png"/>
-      <pubDate>Thu, 19 Feb 2026 19:55:44 +0100</pubDate>
-      <dc:date>2026-02-19T19:55:44.126688+01:00</dc:date>
+      <pubDate>Fri, 20 Feb 2026 16:28:46 +0100</pubDate>
+      <dc:date>2026-02-20T16:28:46.711123+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Turu-uuringute AS, 5–9 February 2026 – Seat Projections for the Parties</title>
@@ -1239,6 +1239,6 @@
       <pubDate>Sun, 24 Aug 2025 16:46:37 +0200</pubDate>
       <dc:date>2025-08-24T16:46:37.129155+02:00</dc:date>
     </item>
-    <dc:date>2026-02-19T19:55:44.126688+01:00</dc:date>
+    <dc:date>2026-02-20T16:28:46.711123+01:00</dc:date>
   </channel>
 </rss>
