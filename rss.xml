@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/estonian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 06 Mar 2026 21:29:42 +0100</pubDate>
+    <pubDate>Sat, 07 Mar 2026 13:59:48 +0100</pubDate>
     <item>
       <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 23 February–1 March 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/estonian_ep_polls/2026-03-01-Norstat.html#seats</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2026-03-01-Norstat-seats.png"
         length="249042"
         type="image/png"/>
-      <pubDate>Fri, 06 Mar 2026 21:29:42 +0100</pubDate>
-      <dc:date>2026-03-06T21:29:42.986372+01:00</dc:date>
+      <pubDate>Sat, 07 Mar 2026 13:59:48 +0100</pubDate>
+      <dc:date>2026-03-07T13:59:48.651585+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 23 February–1 March 2026 – Seat Projections for a Selection of Coalitions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2026-03-01-Norstat-coalitions-seats.png"
         length="216832"
         type="image/png"/>
-      <pubDate>Fri, 06 Mar 2026 21:29:42 +0100</pubDate>
-      <dc:date>2026-03-06T21:29:42.986372+01:00</dc:date>
+      <pubDate>Sat, 07 Mar 2026 13:59:48 +0100</pubDate>
+      <dc:date>2026-03-07T13:59:48.651585+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 23 February–1 March 2026 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2026-03-01-Norstat.png"
         length="296948"
         type="image/png"/>
-      <pubDate>Fri, 06 Mar 2026 21:29:42 +0100</pubDate>
-      <dc:date>2026-03-06T21:29:42.986372+01:00</dc:date>
+      <pubDate>Sat, 07 Mar 2026 13:59:48 +0100</pubDate>
+      <dc:date>2026-03-07T13:59:48.651585+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 16–21 February 2026 – Seat Projections for the Parties</title>
@@ -1329,6 +1329,6 @@
       <pubDate>Sun, 24 Aug 2025 16:46:37 +0200</pubDate>
       <dc:date>2025-08-24T16:46:37.129155+02:00</dc:date>
     </item>
-    <dc:date>2026-03-06T21:29:42.986372+01:00</dc:date>
+    <dc:date>2026-03-07T13:59:48.651585+01:00</dc:date>
   </channel>
 </rss>
