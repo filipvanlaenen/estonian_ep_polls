@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/estonian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 07 Mar 2026 13:59:48 +0100</pubDate>
+    <pubDate>Sat, 14 Mar 2026 16:20:08 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 2–7 March 2026 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/estonian_ep_polls/2026-03-07-Norstat.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Eesti Konservatiivne Rahvaerakond (PfE): 1 seats&lt;/li&gt;&lt;li&gt;Erakond Parempoolsed (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Sotsiaaldemokraatlik Erakond (S&amp;amp;D): 1 seats&lt;/li&gt;&lt;li&gt;Eesti Reformierakond (RE): 1 seats&lt;/li&gt;&lt;li&gt;Erakond Eestimaa Rohelised (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Eesti Keskerakond (RE): 2 seats&lt;/li&gt;&lt;li&gt;Erakond Isamaa (EPP): 2 seats&lt;/li&gt;&lt;li&gt;Eesti 200 (EPP): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2026-03-07-Norstat-seats.png"
+        length="181179"
+        type="image/png"/>
+      <pubDate>Sat, 14 Mar 2026 16:20:08 +0100</pubDate>
+      <dc:date>2026-03-14T16:20:08.553977+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 2–7 March 2026 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/estonian_ep_polls/2026-03-07-Norstat.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2026-03-07-Norstat-coalitions-seats.png"
+        length="124409"
+        type="image/png"/>
+      <pubDate>Sat, 14 Mar 2026 16:20:08 +0100</pubDate>
+      <dc:date>2026-03-14T16:20:08.553977+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 2–7 March 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/estonian_ep_polls/2026-03-07-Norstat.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Eesti Konservatiivne Rahvaerakond (PfE): 10.7–14.8%&lt;/li&gt;&lt;li&gt;Erakond Parempoolsed (EPP): 5.1–8.2%&lt;/li&gt;&lt;li&gt;Sotsiaaldemokraatlik Erakond (S&amp;amp;D): 10.3–14.4%&lt;/li&gt;&lt;li&gt;Eesti Reformierakond (RE): 12.0–16.3%&lt;/li&gt;&lt;li&gt;Erakond Eestimaa Rohelised (Greens/EFA): 0.5–1.8%&lt;/li&gt;&lt;li&gt;Eesti Keskerakond (RE): 19.2–24.4%&lt;/li&gt;&lt;li&gt;Erakond Isamaa (EPP): 24.1–29.6%&lt;/li&gt;&lt;li&gt;Eesti 200 (EPP): 1.5–3.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2026-03-07-Norstat.png"
+        length="299256"
+        type="image/png"/>
+      <pubDate>Sat, 14 Mar 2026 16:20:08 +0100</pubDate>
+      <dc:date>2026-03-14T16:20:08.553977+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 23 February–1 March 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/estonian_ep_polls/2026-03-01-Norstat.html#seats</link>
@@ -1329,6 +1359,6 @@
       <pubDate>Sun, 24 Aug 2025 16:46:37 +0200</pubDate>
       <dc:date>2025-08-24T16:46:37.129155+02:00</dc:date>
     </item>
-    <dc:date>2026-03-07T13:59:48.651585+01:00</dc:date>
+    <dc:date>2026-03-14T16:20:08.553977+01:00</dc:date>
   </channel>
 </rss>
