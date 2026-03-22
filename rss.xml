@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/estonian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 19 Mar 2026 21:23:52 +0100</pubDate>
+    <pubDate>Sat, 21 Mar 2026 20:54:39 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Kantar Emor for ERR, 9–18 March 2026 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/estonian_ep_polls/2026-03-18-KantarEmor.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Eesti Konservatiivne Rahvaerakond (PfE): 1 seats&lt;/li&gt;&lt;li&gt;Erakond Parempoolsed (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Sotsiaaldemokraatlik Erakond (S&amp;amp;D): 1 seats&lt;/li&gt;&lt;li&gt;Koos (*): 0 seats&lt;/li&gt;&lt;li&gt;Eesti Reformierakond (RE): 1 seats&lt;/li&gt;&lt;li&gt;Eesti Vasakliit (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Erakond Eestimaa Rohelised (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Eesti Keskerakond (RE): 2 seats&lt;/li&gt;&lt;li&gt;Erakond Isamaa (EPP): 2 seats&lt;/li&gt;&lt;li&gt;Eesti Rahvuslased ja Konservatiivid (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Eesti 200 (EPP): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2026-03-18-KantarEmor-seats.png"
+        length="217189"
+        type="image/png"/>
+      <pubDate>Sat, 21 Mar 2026 20:54:39 +0100</pubDate>
+      <dc:date>2026-03-21T20:54:39.49099+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar Emor for ERR, 9–18 March 2026 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/estonian_ep_polls/2026-03-18-KantarEmor.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2026-03-18-KantarEmor-coalitions-seats.png"
+        length="119188"
+        type="image/png"/>
+      <pubDate>Sat, 21 Mar 2026 20:54:39 +0100</pubDate>
+      <dc:date>2026-03-21T20:54:39.49099+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar Emor for ERR, 9–18 March 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/estonian_ep_polls/2026-03-18-KantarEmor.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Eesti Konservatiivne Rahvaerakond (PfE): 12.1–15.6%&lt;/li&gt;&lt;li&gt;Erakond Parempoolsed (EPP): 5.8–8.4%&lt;/li&gt;&lt;li&gt;Sotsiaaldemokraatlik Erakond (S&amp;amp;D): 12.3–15.8%&lt;/li&gt;&lt;li&gt;Koos (*): 0.6–1.6%&lt;/li&gt;&lt;li&gt;Eesti Reformierakond (RE): 10.5–13.7%&lt;/li&gt;&lt;li&gt;Eesti Vasakliit (GUE/NGL): 0.0–0.2%&lt;/li&gt;&lt;li&gt;Erakond Eestimaa Rohelised (Greens/EFA): 1.2–2.5%&lt;/li&gt;&lt;li&gt;Eesti Keskerakond (RE): 20.7–25.0%&lt;/li&gt;&lt;li&gt;Erakond Isamaa (EPP): 22.1–26.4%&lt;/li&gt;&lt;li&gt;Eesti Rahvuslased ja Konservatiivid (ECR): 0.6–1.6%&lt;/li&gt;&lt;li&gt;Eesti 200 (EPP): 1.5–3.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2026-03-18-KantarEmor.png"
+        length="346153"
+        type="image/png"/>
+      <pubDate>Sat, 21 Mar 2026 20:54:39 +0100</pubDate>
+      <dc:date>2026-03-21T20:54:39.49099+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 9–15 March 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/estonian_ep_polls/2026-03-15-Norstat.html#seats</link>
@@ -1419,6 +1449,6 @@
       <pubDate>Sun, 24 Aug 2025 16:46:37 +0200</pubDate>
       <dc:date>2025-08-24T16:46:37.129155+02:00</dc:date>
     </item>
-    <dc:date>2026-03-19T21:23:52.472159+01:00</dc:date>
+    <dc:date>2026-03-21T20:54:39.49099+01:00</dc:date>
   </channel>
 </rss>
