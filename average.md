@@ -9,8 +9,8 @@ The table below lists the polls on which the average is based. They are the most
 | Period     | Polling firm/Commissioner(s) | VL | Rohelised | SDE | Ref | Kesk | Kaljulaid | Isamaa | EP | E200 | ERK | EKRE | EVA | Koos |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 9 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | Poll Average | 0–1% <br> 0 | 0–2% <br> 0 | 12–16% <br> 1 | 11–16% <br> 1 | 19–25% <br> 2 | N/A <br> N/A | 20–27% <br> 2 | 6–9% <br> 0 | 1–3% <br> 0 | 0–2% <br> 0 | 11–16% <br> 1 | N/A <br> N/A | 1–2% <br> 0 |
-| [23–28 March 2026](2026-03-28-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | N/A <br> N/A | 0–2% <br> 0 | 12–16% <br> 1 | 12–17% <br> 1 | 18–24% <br> 2 | N/A <br> N/A | 22–28% <br> 2 | 5–9% <br> 0 | 1–3% <br> 0 | N/A <br> N/A | 12–16% <br> 1 | N/A <br> N/A | N/A <br> N/A |
+| N/A | Poll Average | 0–1% <br> 0 | 0–2% <br> 0 | 12–18% <br> 1 | 11–15% <br> 1 | 20–26% <br> 2 | N/A <br> N/A | 20–27% <br> 2 | 5–8% <br> 0 | 1–3% <br> 0 | 0–2% <br> 0 | 11–15% <br> 1 | N/A <br> N/A | 1–2% <br> 0 |
+| [30 March–5 April 2026](2026-04-05-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | N/A <br> N/A | 1–2% <br> 0 | 14–19% <br> 1 | 11–15% <br> 1 | 20–25% <br> 2 | N/A <br> N/A | 22–27% <br> 2 | 4–7% <br> 0 | 1–2% <br> 0 | N/A <br> N/A | 10–14% <br> 1 | N/A <br> N/A | N/A <br> N/A |
 | [9–18 March 2026](2026-03-18-KantarEmor.html) | Kantar Emor <br> ERR | 0% <br> 0 | 1–3% <br> 0 | 12–16% <br> 1 | 10–14% <br> 1 | 21–25% <br> 2 | N/A <br> N/A | 22–26% <br> 2 | 6–8% <br> 0 | 1–3% <br> 0 | 1–2% <br> 0 | 12–16% <br> 1 | N/A <br> N/A | 1–2% <br> 0 |
 | [5–9 March 2026](2026-03-09-Turu-uuringuteAS.html) | Turu-uuringute AS | 0–1% <br> 0 | 0–1% <br> 0 | 12–16% <br> 1 | 11–15% <br> 1 | 20–26% <br> 2 | N/A <br> N/A | 19–25% <br> 2 | 5–9% <br> 0 | 1–2% <br> 0 | 0–1% <br> 0 | 11–15% <br> 1 | N/A <br> N/A | 1–2% <br> 0 |
 | 9 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
@@ -45,16 +45,16 @@ Only polls for which at least the sample size has been published are included in
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | <a href="#eesti-vasakliit-(gue/ngl)">Eesti Vasakliit (GUE/NGL)</a> | 0.0% | 0.1% | 0.0–0.5% |0.0–0.6% | 0.0–0.7% | 0.0–1.0% |
-| <a href="#erakond-eestimaa-rohelised-(greens/efa)">Erakond Eestimaa Rohelised (Greens/EFA)</a> | 0.0% | 1.0% | 0.2–1.9% |0.2–2.1% | 0.1–2.3% | 0.1–2.6% |
-| <a href="#sotsiaaldemokraatlik-erakond-(s&d)">Sotsiaaldemokraatlik Erakond (S&D)</a> | 0.0% | 14.0% | 12.7–15.4% |12.4–15.8% | 12.0–16.2% | 11.4–17.0% |
-| <a href="#eesti-reformierakond-(re)">Eesti Reformierakond (RE)</a> | 0.0% | 13.0% | 11.4–15.0% |11.1–15.5% | 10.8–16.0% | 10.2–16.8% |
-| <a href="#eesti-keskerakond-(re)">Eesti Keskerakond (RE)</a> | 0.0% | 22.4% | 20.2–24.3% |19.6–24.8% | 19.1–25.3% | 18.2–26.3% |
+| <a href="#erakond-eestimaa-rohelised-(greens/efa)">Erakond Eestimaa Rohelised (Greens/EFA)</a> | 0.0% | 1.2% | 0.2–2.0% |0.2–2.1% | 0.1–2.3% | 0.1–2.6% |
+| <a href="#sotsiaaldemokraatlik-erakond-(s&d)">Sotsiaaldemokraatlik Erakond (S&D)</a> | 0.0% | 14.7% | 13.0–17.3% |12.6–17.9% | 12.2–18.4% | 11.6–19.3% |
+| <a href="#eesti-reformierakond-(re)">Eesti Reformierakond (RE)</a> | 0.0% | 12.5% | 11.2–14.0% |10.9–14.5% | 10.6–14.9% | 10.1–15.7% |
+| <a href="#eesti-keskerakond-(re)">Eesti Keskerakond (RE)</a> | 0.0% | 22.8% | 21.2–24.5% |20.8–25.0% | 20.4–25.5% | 19.6–26.4% |
 | <a href="#raimond-kaljulaid-(re)">Raimond Kaljulaid (RE)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
-| <a href="#erakond-isamaa-(epp)">Erakond Isamaa (EPP)</a> | 0.0% | 23.9% | 21.3–25.9% |20.6–26.5% | 20.1–27.0% | 19.1–28.0% |
-| <a href="#erakond-parempoolsed-(epp)">Erakond Parempoolsed (EPP)</a> | 0.0% | 7.0% | 6.0–8.0% |5.8–8.3% | 5.5–8.6% | 5.1–9.2% |
-| <a href="#eesti-200-(epp)">Eesti 200 (EPP)</a> | 0.0% | 1.9% | 0.9–2.6% |0.8–2.8% | 0.7–2.9% | 0.5–3.3% |
+| <a href="#erakond-isamaa-(epp)">Erakond Isamaa (EPP)</a> | 0.0% | 23.7% | 21.3–25.6% |20.6–26.1% | 20.1–26.6% | 19.1–27.4% |
+| <a href="#erakond-parempoolsed-(epp)">Erakond Parempoolsed (EPP)</a> | 0.0% | 6.7% | 5.3–7.9% |5.0–8.2% | 4.7–8.5% | 4.3–9.1% |
+| <a href="#eesti-200-(epp)">Eesti 200 (EPP)</a> | 0.0% | 1.6% | 0.9–2.4% |0.8–2.6% | 0.7–2.8% | 0.5–3.1% |
 | <a href="#eesti-rahvuslased-ja-konservatiivid-(ecr)">Eesti Rahvuslased ja Konservatiivid (ECR)</a> | 0.0% | 0.7% | 0.2–1.3% |0.1–1.4% | 0.1–1.5% | 0.1–1.8% |
-| <a href="#eesti-konservatiivne-rahvaerakond-(pfe)">Eesti Konservatiivne Rahvaerakond (PfE)</a> | 0.0% | 13.5% | 12.1–14.9% |11.7–15.3% | 11.3–15.6% | 10.6–16.3% |
+| <a href="#eesti-konservatiivne-rahvaerakond-(pfe)">Eesti Konservatiivne Rahvaerakond (PfE)</a> | 0.0% | 13.0% | 11.3–14.6% |10.9–15.0% | 10.6–15.3% | 9.9–16.0% |
 | <a href="#eesti-vabaerakond-(*)">Eesti Vabaerakond (*)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#koos-(*)">Koos (*)</a> | 0.0% | 1.1% | 0.7–1.5% |0.6–1.7% | 0.6–1.8% | 0.5–2.1% |
 
@@ -73,15 +73,15 @@ Only polls for which at least the sample size has been published are included in
 | 5.5–6.5% | 0% | 100% |  |
 | 6.5–7.5% | 0% | 100% |  |
 | 7.5–8.5% | 0% | 100% |  |
-| 8.5–9.5% | 0% | 100% |  |
-| 9.5–10.5% | 0.4% | 100% |  |
-| 10.5–11.5% | 4% | 99.6% |  |
-| 11.5–12.5% | 15% | 96% |  |
-| 12.5–13.5% | 33% | 81% | Median |
-| 13.5–14.5% | 32% | 48% |  |
-| 14.5–15.5% | 13% | 16% |  |
-| 15.5–16.5% | 3% | 3% |  |
-| 16.5–17.5% | 0.2% | 0.3% |  |
+| 8.5–9.5% | 0.2% | 100% |  |
+| 9.5–10.5% | 2% | 99.8% |  |
+| 10.5–11.5% | 11% | 98% |  |
+| 11.5–12.5% | 23% | 86% |  |
+| 12.5–13.5% | 30% | 64% | Median |
+| 13.5–14.5% | 24% | 34% |  |
+| 14.5–15.5% | 9% | 10% |  |
+| 15.5–16.5% | 1.5% | 2% |  |
+| 16.5–17.5% | 0.1% | 0.1% |  |
 | 17.5–18.5% | 0% | 0% |  |
 
 ### Erakond Parempoolsed (EPP)
@@ -94,13 +94,13 @@ Only polls for which at least the sample size has been published are included in
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 3% | 100% |  |
-| 5.5–6.5% | 26% | 97% |  |
-| 6.5–7.5% | 48% | 72% | Median |
-| 7.5–8.5% | 21% | 24% |  |
-| 8.5–9.5% | 3% | 3% |  |
-| 9.5–10.5% | 0.2% | 0.2% |  |
+| 3.5–4.5% | 1.3% | 100% |  |
+| 4.5–5.5% | 13% | 98.7% |  |
+| 5.5–6.5% | 31% | 86% |  |
+| 6.5–7.5% | 37% | 55% | Median |
+| 7.5–8.5% | 15% | 18% |  |
+| 8.5–9.5% | 2% | 2% |  |
+| 9.5–10.5% | 0.1% | 0.2% |  |
 | 10.5–11.5% | 0% | 0% |  |
 
 ### Sotsiaaldemokraatlik Erakond (S&D)
@@ -120,15 +120,17 @@ Only polls for which at least the sample size has been published are included in
 | 7.5–8.5% | 0% | 100% |  |
 | 8.5–9.5% | 0% | 100% |  |
 | 9.5–10.5% | 0% | 100% |  |
-| 10.5–11.5% | 0.7% | 100% |  |
-| 11.5–12.5% | 6% | 99.3% |  |
-| 12.5–13.5% | 25% | 93% |  |
-| 13.5–14.5% | 37% | 68% | Median |
-| 14.5–15.5% | 23% | 31% |  |
-| 15.5–16.5% | 7% | 8% |  |
-| 16.5–17.5% | 1.2% | 1.3% |  |
-| 17.5–18.5% | 0.1% | 0.1% |  |
-| 18.5–19.5% | 0% | 0% |  |
+| 10.5–11.5% | 0.5% | 100% |  |
+| 11.5–12.5% | 4% | 99.5% |  |
+| 12.5–13.5% | 17% | 95% |  |
+| 13.5–14.5% | 26% | 79% |  |
+| 14.5–15.5% | 20% | 53% | Median |
+| 15.5–16.5% | 14% | 33% |  |
+| 16.5–17.5% | 11% | 19% |  |
+| 17.5–18.5% | 6% | 8% |  |
+| 18.5–19.5% | 2% | 2% |  |
+| 19.5–20.5% | 0.3% | 0.3% |  |
+| 20.5–21.5% | 0% | 0% |  |
 
 ### Eesti Reformierakond (RE)
 
@@ -145,17 +147,16 @@ Only polls for which at least the sample size has been published are included in
 | 5.5–6.5% | 0% | 100% |  |
 | 6.5–7.5% | 0% | 100% |  |
 | 7.5–8.5% | 0% | 100% |  |
-| 8.5–9.5% | 0% | 100% |  |
-| 9.5–10.5% | 1.3% | 100% |  |
-| 10.5–11.5% | 11% | 98.6% |  |
-| 11.5–12.5% | 25% | 88% |  |
-| 12.5–13.5% | 26% | 63% | Median |
-| 13.5–14.5% | 20% | 37% |  |
-| 14.5–15.5% | 12% | 16% |  |
-| 15.5–16.5% | 4% | 5% |  |
-| 16.5–17.5% | 0.7% | 0.8% |  |
-| 17.5–18.5% | 0.1% | 0.1% |  |
-| 18.5–19.5% | 0% | 0% |  |
+| 8.5–9.5% | 0.1% | 100% |  |
+| 9.5–10.5% | 2% | 99.9% |  |
+| 10.5–11.5% | 15% | 98% |  |
+| 11.5–12.5% | 34% | 83% |  |
+| 12.5–13.5% | 31% | 49% | Median |
+| 13.5–14.5% | 14% | 19% |  |
+| 14.5–15.5% | 4% | 5% |  |
+| 15.5–16.5% | 0.7% | 0.7% |  |
+| 16.5–17.5% | 0.1% | 0.1% |  |
+| 17.5–18.5% | 0% | 0% |  |
 
 ### Erakond Eestimaa Rohelised (Greens/EFA)
 
@@ -163,9 +164,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 30% | 100% | Last Result |
-| 0.5–1.5% | 43% | 70% | Median |
-| 1.5–2.5% | 26% | 26% |  |
+| 0.0–0.5% | 29% | 100% | Last Result |
+| 0.5–1.5% | 42% | 71% | Median |
+| 1.5–2.5% | 29% | 29% |  |
 | 2.5–3.5% | 0.7% | 0.7% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
@@ -192,18 +193,19 @@ Only polls for which at least the sample size has been published are included in
 | 13.5–14.5% | 0% | 100% |  |
 | 14.5–15.5% | 0% | 100% |  |
 | 15.5–16.5% | 0% | 100% |  |
-| 16.5–17.5% | 0.1% | 100% |  |
-| 17.5–18.5% | 0.8% | 99.9% |  |
-| 18.5–19.5% | 4% | 99.1% |  |
-| 19.5–20.5% | 10% | 95% |  |
-| 20.5–21.5% | 17% | 86% |  |
-| 21.5–22.5% | 24% | 69% | Median |
-| 22.5–23.5% | 23% | 45% |  |
-| 23.5–24.5% | 14% | 21% |  |
-| 24.5–25.5% | 5% | 7% |  |
-| 25.5–26.5% | 1.4% | 2% |  |
-| 26.5–27.5% | 0.3% | 0.3% |  |
+| 16.5–17.5% | 0% | 100% |  |
+| 17.5–18.5% | 0% | 100% |  |
+| 18.5–19.5% | 0.4% | 100% |  |
+| 19.5–20.5% | 3% | 99.5% |  |
+| 20.5–21.5% | 12% | 97% |  |
+| 21.5–22.5% | 26% | 85% |  |
+| 22.5–23.5% | 30% | 59% | Median |
+| 23.5–24.5% | 19% | 29% |  |
+| 24.5–25.5% | 7% | 10% |  |
+| 25.5–26.5% | 2% | 2% |  |
+| 26.5–27.5% | 0.3% | 0.4% |  |
 | 27.5–28.5% | 0% | 0% |  |
+| 28.5–29.5% | 0% | 0% |  |
 
 ### Erakond Isamaa (EPP)
 
@@ -233,14 +235,14 @@ Only polls for which at least the sample size has been published are included in
 | 18.5–19.5% | 0.9% | 99.9% |  |
 | 19.5–20.5% | 3% | 98.9% |  |
 | 20.5–21.5% | 8% | 95% |  |
-| 21.5–22.5% | 12% | 88% |  |
-| 22.5–23.5% | 18% | 76% |  |
-| 23.5–24.5% | 23% | 58% | Median |
-| 24.5–25.5% | 19% | 35% |  |
-| 25.5–26.5% | 11% | 15% |  |
-| 26.5–27.5% | 4% | 5% |  |
-| 27.5–28.5% | 0.9% | 1.1% |  |
-| 28.5–29.5% | 0.2% | 0.2% |  |
+| 21.5–22.5% | 14% | 87% |  |
+| 22.5–23.5% | 20% | 74% |  |
+| 23.5–24.5% | 25% | 54% | Median |
+| 24.5–25.5% | 18% | 29% |  |
+| 25.5–26.5% | 8% | 11% |  |
+| 26.5–27.5% | 2% | 3% |  |
+| 27.5–28.5% | 0.4% | 0.4% |  |
+| 28.5–29.5% | 0% | 0% |  |
 | 29.5–30.5% | 0% | 0% |  |
 
 ### Eesti 200 (EPP)
@@ -250,11 +252,10 @@ Only polls for which at least the sample size has been published are included in
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0.8% | 100% | Last Result |
-| 0.5–1.5% | 33% | 99.2% |  |
-| 1.5–2.5% | 56% | 66% | Median |
-| 2.5–3.5% | 11% | 11% |  |
-| 3.5–4.5% | 0.1% | 0.1% |  |
-| 4.5–5.5% | 0% | 0% |  |
+| 0.5–1.5% | 46% | 99.2% |  |
+| 1.5–2.5% | 47% | 53% | Median |
+| 2.5–3.5% | 6% | 6% |  |
+| 3.5–4.5% | 0% | 0% |  |
 
 ### Koos (*)
 
@@ -343,7 +344,9 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 100% | 100% | Median |
+| 1 | 99.9% | 100% | Median |
+| 2 | 0.1% | 0.1% |  |
+| 3 | 0% | 0% |  |
 
 ### Eesti Reformierakond (RE)
 
@@ -365,9 +368,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 0.3% | 100% |  |
-| 2 | 99.7% | 99.7% | Median |
-| 3 | 0% | 0% |  |
+| 1 | 0% | 100% |  |
+| 2 | 99.9% | 100% | Median |
 
 ### Raimond Kaljulaid (RE)
 
@@ -385,9 +387,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 99.7% | 100% | Median |
-| 3 | 0.2% | 0.2% |  |
-| 4 | 0% | 0% | Majority |
+| 2 | 100% | 100% | Median |
 
 ### Erakond Parempoolsed (EPP)
 
@@ -397,9 +397,7 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.9% | 100% | Last Result, Median |
-| 1 | 0.1% | 0.1% |  |
-| 2 | 0% | 0% |  |
+| 0 | 100% | 100% | Last Result, Median |
 
 ### Eesti 200 (EPP)
 
@@ -474,8 +472,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 0.3% | 100% |  |
-| 3 | 99.7% | 99.7% | Median |
+| 2 | 0.1% | 100% |  |
+| 3 | 99.9% | 99.9% | Median |
 | 4 | 0% | 0% | Majority |
 
 ### Eesti 200 (EPP) – Erakond Isamaa (EPP) – Erakond Parempoolsed (EPP)
@@ -486,9 +484,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 99.7% | 100% | Median |
-| 3 | 0.3% | 0.3% |  |
-| 4 | 0% | 0% | Majority |
+| 2 | 100% | 100% | Median |
 
 ### Eesti Konservatiivne Rahvaerakond (PfE)
 
@@ -506,7 +502,9 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 100% | 100% | Median |
+| 1 | 99.9% | 100% | Median |
+| 2 | 0.1% | 0.1% |  |
+| 3 | 0% | 0% |  |
 
 ### Eesti Rahvuslased ja Konservatiivid (ECR)
 
