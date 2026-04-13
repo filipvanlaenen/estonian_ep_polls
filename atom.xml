@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/estonian_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2026-04-09T20:20:38.58674+02:00</updated>
+  <updated>2026-04-13T22:28:07.722016+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Eesti Konservatiivne Rahvaerakond (PfE): 9.1–13.2%, 1 seats</li><li>Erakond Parempoolsed (EPP): 6.4–10.0%, 0 seats</li><li>Sotsiaaldemokraatlik Erakond (S&amp;D): 11.8–16.4%, 1 seats</li><li>Koos (*): 0.5–2.0%, 0 seats</li><li>Eesti Reformierakond (RE): 11.8–16.4%, 1 seats</li><li>Eesti Vasakliit (GUE/NGL): 0.1–0.8%, 0 seats</li><li>Erakond Eestimaa Rohelised (Greens/EFA): 0.5–2.0%, 0 seats</li><li>Eesti Keskerakond (RE): 20.2–25.7%, 2 seats</li><li>Erakond Isamaa (EPP): 21.2–26.8%, 2 seats</li><li>Eesti Rahvuslased ja Konservatiivid (ECR): 0.1–0.8%, 0 seats</li><li>Eesti 200 (EPP): 1.2–3.1%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/estonian_ep_polls/2026-04-08-Turu-uuringuteAS.html</id>
+    <link href="https://filipvanlaenen.github.io/estonian_ep_polls/2026-04-08-Turu-uuringuteAS.html"/>
+    <title>Opinion Poll by Turu-uuringute AS, 2–8 April 2026</title>
+    <updated>2026-04-13T22:28:07.722016+02:00</updated>
+    <dc:date>2026-04-13T22:28:07.722016+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Eesti Konservatiivne Rahvaerakond (PfE): 10.1–14.2%, 1 seats</li><li>Erakond Parempoolsed (EPP): 4.4–7.3%, 0 seats</li><li>Sotsiaaldemokraatlik Erakond (S&amp;D): 14.4–19.0%, 1 seats</li><li>Eesti Reformierakond (RE): 10.7–14.8%, 1 seats</li><li>Erakond Eestimaa Rohelised (Greens/EFA): 0.6–2.0%, 0 seats</li><li>Eesti Keskerakond (RE): 20.1–25.3%, 2 seats</li><li>Erakond Isamaa (EPP): 21.7–27.1%, 2 seats</li><li>Eesti 200 (EPP): 0.9–2.5%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/estonian_ep_polls/2026-04-05-Norstat.html</id>
@@ -415,5 +423,5 @@
     <updated>2025-08-24T16:46:37.129155+02:00</updated>
     <dc:date>2025-08-24T16:46:37.129155+02:00</dc:date>
   </entry>
-  <dc:date>2026-04-09T20:20:38.58674+02:00</dc:date>
+  <dc:date>2026-04-13T22:28:07.722016+02:00</dc:date>
 </feed>
