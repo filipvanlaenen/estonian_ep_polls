@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21.8% | 19.9–23.8% | 19.4–24.4% | 18.9–25.0% | 18.1–26.0% |
+| N/A | [Poll Average](average.html) | 22.2% | 20.6–24.0% | 20.1–24.6% | 19.7–25.1% | 19.0–26.1% |
 | [4–10 May 2026](2026-05-10-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 21.9% | 20.3–23.7% | 19.8–24.1% | 19.4–24.6% | 18.7–25.4% |
 | [27 April–3 May 2026](2026-05-03-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 23.3% | 21.6–25.1% | 21.2–25.6% | 20.8–26.0% | 20.0–26.9% |
 | [20–26 April 2026](2026-04-26-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 20.7% | 19.1–22.4% | 18.7–22.9% | 18.3–23.3% | 17.6–24.2% |
@@ -176,16 +176,16 @@ The following table shows the probability mass function per percentage block of 
 | 13.5–14.5% | 0% | 100% |  |
 | 14.5–15.5% | 0% | 100% |  |
 | 15.5–16.5% | 0% | 100% |  |
-| 16.5–17.5% | 0.1% | 100% |  |
-| 17.5–18.5% | 1.2% | 99.8% |  |
-| 18.5–19.5% | 5% | 98.7% |  |
-| 19.5–20.5% | 13% | 94% |  |
-| 20.5–21.5% | 24% | 80% |  |
-| 21.5–22.5% | 26% | 57% | Median |
-| 22.5–23.5% | 18% | 31% |  |
-| 23.5–24.5% | 9% | 13% |  |
-| 24.5–25.5% | 3% | 4% |  |
-| 25.5–26.5% | 0.9% | 1.1% |  |
+| 16.5–17.5% | 0% | 100% |  |
+| 17.5–18.5% | 0.1% | 100% |  |
+| 18.5–19.5% | 2% | 99.8% |  |
+| 19.5–20.5% | 8% | 98% |  |
+| 20.5–21.5% | 22% | 90% |  |
+| 21.5–22.5% | 30% | 68% | Median |
+| 22.5–23.5% | 22% | 39% |  |
+| 23.5–24.5% | 11% | 16% |  |
+| 24.5–25.5% | 4% | 5% |  |
+| 25.5–26.5% | 1.0% | 1.2% |  |
 | 26.5–27.5% | 0.2% | 0.2% |  |
 | 27.5–28.5% | 0% | 0% |  |
 
@@ -198,7 +198,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2 | 2 | 1–2 | 1–2 |
+| N/A | [Poll Average](average.html) | 2 | 2 | 2 | 2 | 2 |
 | [4–10 May 2026](2026-05-10-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 2 | 2 | 2 | 2 | 2 |
 | [27 April–3 May 2026](2026-05-03-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 2 | 2 | 2 | 2 | 2 |
 | [20–26 April 2026](2026-04-26-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 2 | 2 | 1–2 | 1–2 | 1–2 |
@@ -350,8 +350,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 3% | 100% |  |
-| 2 | 97% | 97% | Median |
+| 1 | 0.1% | 100% |  |
+| 2 | 99.8% | 99.9% | Median |
 | 3 | 0% | 0% |  |
 
 
