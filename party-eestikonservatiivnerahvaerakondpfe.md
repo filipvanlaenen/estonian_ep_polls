@@ -10,84 +10,86 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12.8% | 11.2–14.3% | 10.8–14.7% | 10.4–15.1% | 9.7–15.8% |
+| N/A | [Poll Average](average.html) | 14.1% | 12.1–16.0% | 11.7–16.5% | 11.3–17.0% | 10.6–17.8% |
+| [6–13 July 2026](2026-07-13-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 15.0% | 13.6–16.5% | 13.2–17.0% | 12.9–17.4% | 12.3–18.1% |
+| [29 June–5 July 2026](2026-07-05-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 13.4% | N/A | N/A | N/A | N/A |
 | [16–25 June 2026](2026-06-25-Turu-uuringuteAS.html) | Turu-uuringute AS | 13.0% | 11.7–14.6% | 11.3–15.0% | 11.0–15.4% | 10.4–16.1% |
 | [15–20 June 2026](2026-06-20-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 11.8% | 10.6–13.2% | 10.2–13.6% | 9.9–13.9% | 9.4–14.6% |
-| [8–17 June 2026](2026-06-17-Emor.html) | Emor <br> ERR | 13.4% | 12.3–14.5% | 12.0–14.8% | 11.8–15.1% | 11.3–15.7% |
-| [8–14 June 2026](2026-06-14-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 14.6% | 13.2–16.1% | 12.9–16.6% | 12.5–16.9% | 11.9–17.7% |
+| [8–17 June 2026](2026-06-17-Emor.html) | Emor <br> ERR | 13.4% | N/A | N/A | N/A | N/A |
+| [8–14 June 2026](2026-06-14-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 14.6% | N/A | N/A | N/A | N/A |
 | [1–5 June 2026](2026-06-05-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 13.5% | N/A | N/A | N/A | N/A |
-| [25–31 May 2026](2026-05-31-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 13.4% | 12.1–14.9% | 11.7–15.3% | 11.4–15.7% | 10.8–16.4% |
-| [18–23 May 2026](2026-05-23-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 14.3% | 13.0–15.8% | 12.6–16.2% | 12.3–16.6% | 11.6–17.4% |
-| [11–20 May 2026](2026-05-20-Emor.html) | Emor <br> ERR | 13.9% | 12.8–15.2% | 12.5–15.5% | 12.2–15.8% | 11.7–16.4% |
-| [11–17 May 2026](2026-05-17-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 13.0% | 11.7–14.5% | 11.4–14.9% | 11.1–15.2% | 10.5–16.0% |
-| [7–13 May 2026](2026-05-13-Turu-uuringuteAS.html) | Turu-uuringute AS | 13.8% | 12.5–15.4% | 12.1–15.9% | 11.7–16.3% | 11.1–17.0% |
-| [4–10 May 2026](2026-05-10-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 14.3% | 13.0–15.8% | 12.6–16.2% | 12.3–16.6% | 11.6–17.4% |
-| [27 April–3 May 2026](2026-05-03-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 13.5% | 12.2–15.0% | 11.8–15.4% | 11.5–15.8% | 10.9–16.5% |
-| [20–26 April 2026](2026-04-26-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 13.5% | 12.2–15.0% | 11.8–15.4% | 11.5–15.8% | 10.9–16.5% |
-| [13–22 April 2026](2026-04-22-Emor.html) | Emor <br> ERR | 8.7% | 7.8–9.6% | 7.5–9.9% | 7.3–10.2% | 7.0–10.7% |
-| [13–19 April 2026](2026-04-19-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 14.4% | 13.1–15.9% | 12.7–16.3% | 12.4–16.7% | 11.7–17.5% |
-| [6–12 April 2026](2026-04-12-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 14.7% | 13.4–16.2% | 13.0–16.7% | 12.6–17.0% | 12.0–17.8% |
-| [2–8 April 2026](2026-04-08-Turu-uuringuteAS.html) | Turu-uuringute AS | 11.0% | 9.7–12.4% | 9.4–12.8% | 9.1–13.2% | 8.5–13.9% |
-| [30 March–5 April 2026](2026-04-05-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 12.0% | 10.8–13.4% | 10.4–13.8% | 10.1–14.2% | 9.6–14.9% |
-| [23–28 March 2026](2026-03-28-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 13.5% | 12.2–15.0% | 11.8–15.4% | 11.5–15.8% | 10.9–16.5% |
-| [16–21 March 2026](2026-03-21-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 11.5% | 10.3–12.9% | 10.0–13.3% | 9.7–13.6% | 9.1–14.3% |
+| [25–31 May 2026](2026-05-31-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 13.4% | N/A | N/A | N/A | N/A |
+| [18–23 May 2026](2026-05-23-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 14.3% | N/A | N/A | N/A | N/A |
+| [11–20 May 2026](2026-05-20-Emor.html) | Emor <br> ERR | 13.9% | N/A | N/A | N/A | N/A |
+| [11–17 May 2026](2026-05-17-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 13.0% | N/A | N/A | N/A | N/A |
+| [7–13 May 2026](2026-05-13-Turu-uuringuteAS.html) | Turu-uuringute AS | 13.8% | N/A | N/A | N/A | N/A |
+| [4–10 May 2026](2026-05-10-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 14.3% | N/A | N/A | N/A | N/A |
+| [27 April–3 May 2026](2026-05-03-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 13.5% | N/A | N/A | N/A | N/A |
+| [20–26 April 2026](2026-04-26-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 13.5% | N/A | N/A | N/A | N/A |
+| [13–22 April 2026](2026-04-22-Emor.html) | Emor <br> ERR | 8.7% | N/A | N/A | N/A | N/A |
+| [13–19 April 2026](2026-04-19-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 14.4% | N/A | N/A | N/A | N/A |
+| [6–12 April 2026](2026-04-12-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 14.7% | N/A | N/A | N/A | N/A |
+| [2–8 April 2026](2026-04-08-Turu-uuringuteAS.html) | Turu-uuringute AS | 11.0% | N/A | N/A | N/A | N/A |
+| [30 March–5 April 2026](2026-04-05-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 12.0% | N/A | N/A | N/A | N/A |
+| [23–28 March 2026](2026-03-28-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 13.5% | N/A | N/A | N/A | N/A |
+| [16–21 March 2026](2026-03-21-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 11.5% | N/A | N/A | N/A | N/A |
 | [9–18 March 2026](2026-03-18-Emor.html) | Emor <br> ERR | 13.8% | N/A | N/A | N/A | N/A |
-| [9–15 March 2026](2026-03-15-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 11.0% | 9.8–12.4% | 9.5–12.8% | 9.2–13.1% | 8.7–13.8% |
-| [5–9 March 2026](2026-03-09-Turu-uuringuteAS.html) | Turu-uuringute AS | 13.0% | 11.6–14.5% | 11.2–15.0% | 10.9–15.4% | 10.3–16.1% |
-| [2–7 March 2026](2026-03-07-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 12.6% | 11.3–14.0% | 11.0–14.4% | 10.7–14.8% | 10.1–15.5% |
-| [23 February–1 March 2026](2026-03-01-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 11.5% | 10.3–12.9% | 10.0–13.3% | 9.7–13.6% | 9.1–14.3% |
-| [16–21 February 2026](2026-02-21-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 14.4% | 13.1–15.9% | 12.7–16.3% | 12.4–16.7% | 11.7–17.5% |
-| [11–18 February 2026](2026-02-18-KantarEmor.html) | Kantar Emor <br> ERR | 13.3% | 12.2–14.5% | 11.9–14.8% | 11.6–15.1% | 11.1–15.7% |
-| [9–15 February 2026](2026-02-15-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 13.8% | 12.5–15.3% | 12.1–15.7% | 11.8–16.1% | 11.2–16.8% |
-| [5–9 February 2026](2026-02-09-Turu-uuringuteAS.html) | Turu-uuringute AS | 14.0% | 12.6–15.6% | 12.2–16.0% | 11.9–16.4% | 11.3–17.2% |
-| [2–7 February 2026](2026-02-07-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 12.3% | 11.1–13.7% | 10.7–14.1% | 10.4–14.5% | 9.8–15.2% |
-| [26–31 January 2026](2026-01-31-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 13.1% | 11.8–14.6% | 11.5–15.0% | 11.1–15.3% | 10.6–16.1% |
+| [9–15 March 2026](2026-03-15-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 11.0% | N/A | N/A | N/A | N/A |
+| [5–9 March 2026](2026-03-09-Turu-uuringuteAS.html) | Turu-uuringute AS | 13.0% | N/A | N/A | N/A | N/A |
+| [2–7 March 2026](2026-03-07-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 12.6% | N/A | N/A | N/A | N/A |
+| [23 February–1 March 2026](2026-03-01-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 11.5% | N/A | N/A | N/A | N/A |
+| [16–21 February 2026](2026-02-21-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 14.4% | N/A | N/A | N/A | N/A |
+| [11–18 February 2026](2026-02-18-KantarEmor.html) | Kantar Emor <br> ERR | 13.3% | N/A | N/A | N/A | N/A |
+| [9–15 February 2026](2026-02-15-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 13.8% | N/A | N/A | N/A | N/A |
+| [5–9 February 2026](2026-02-09-Turu-uuringuteAS.html) | Turu-uuringute AS | 14.0% | N/A | N/A | N/A | N/A |
+| [2–7 February 2026](2026-02-07-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 12.3% | N/A | N/A | N/A | N/A |
+| [26–31 January 2026](2026-01-31-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 13.1% | N/A | N/A | N/A | N/A |
 | [19–24 January 2026](2026-01-24-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 10.9% | N/A | N/A | N/A | N/A |
-| [14–21 January 2026](2026-01-21-KantarEmor.html) | Kantar Emor <br> ERR | 13.3% | 12.3–14.5% | 12.0–14.8% | 11.8–15.1% | 11.3–15.7% |
-| [15–19 January 2026](2026-01-19-Turu-uuringuteAS.html) | Turu-uuringute AS | 14.8% | 13.3–16.4% | 12.9–16.8% | 12.6–17.3% | 11.9–18.0% |
-| [12–18 January 2026](2026-01-18-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 14.7% | 13.4–16.2% | 13.0–16.7% | 12.6–17.0% | 12.0–17.8% |
-| [5–11 January 2026](2026-01-11-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 11.3% | 10.1–12.7% | 9.8–13.1% | 9.5–13.4% | 8.9–14.1% |
-| [1–3 January 2026](2026-01-03-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 9.3% | 8.2–10.6% | 7.9–10.9% | 7.7–11.3% | 7.2–11.9% |
-| [15–21 December 2025](2025-12-21-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 15.5% | 14.1–17.1% | 13.7–17.5% | 13.4–17.9% | 12.7–18.6% |
-| [8–14 December 2025](2025-12-14-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 14.0% | 12.7–15.5% | 12.3–15.9% | 12.0–16.3% | 11.4–17.0% |
-| [4–10 December 2025](2025-12-10-Turu-uuringuteAS.html) | Turu-uuringute AS | 14.9% | 13.5–16.6% | 13.1–17.0% | 12.7–17.5% | 12.1–18.3% |
-| [3–10 December 2025](2025-12-10-KantarEmor.html) | Kantar Emor <br> ERR | 11.7% | 10.7–12.8% | 10.5–13.1% | 10.2–13.4% | 9.8–13.9% |
-| [1–7 December 2025](2025-12-07-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 14.4% | 13.1–15.9% | 12.7–16.3% | 12.4–16.7% | 11.7–17.5% |
-| [24–30 November 2025](2025-11-30-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 15.6% | 14.2–17.2% | 13.8–17.6% | 13.5–18.0% | 12.8–18.7% |
-| [17–23 November 2025](2025-11-23-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 14.4% | 13.1–15.9% | 12.7–16.3% | 12.4–16.7% | 11.7–17.5% |
-| [10–16 November 2025](2025-11-16-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 14.2% | 12.9–15.7% | 12.5–16.1% | 12.2–16.5% | 11.6–17.3% |
-| [3–12 November 2025](2025-11-12-KantarEmor.html) | Kantar Emor <br> ERR | 12.9% | 11.8–14.1% | 11.5–14.4% | 11.3–14.7% | 10.8–15.3% |
-| [6–10 November 2025](2025-11-10-Turu-uuringuteAS.html) | Turu-uuringute AS | 13.0% | 11.6–14.5% | 11.2–15.0% | 10.9–15.3% | 10.3–16.1% |
-| [3–9 November 2025](2025-11-09-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 13.4% | 12.1–14.9% | 11.7–15.3% | 11.4–15.7% | 10.8–16.4% |
-| [27 October–2 November 2025](2025-11-02-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 14.8% | 13.4–16.3% | 13.1–16.8% | 12.7–17.1% | 12.1–17.9% |
-| [20–26 October 2025](2025-10-26-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 13.4% | 12.1–14.9% | 11.7–15.3% | 11.4–15.7% | 10.8–16.4% |
-| [13–17 October 2025](2025-10-17-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 18.8% | 17.3–20.5% | 16.9–20.9% | 16.5–21.3% | 15.8–22.2% |
-| [3–13 October 2025](2025-10-13-KantarEmor.html) | Kantar Emor <br> ERR | 14.9% | 13.8–16.1% | 13.5–16.4% | 13.3–16.7% | 12.8–17.3% |
-| [6–12 October 2025](2025-10-12-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 18.9% | 17.4–20.6% | 17.0–21.0% | 16.6–21.4% | 15.9–22.3% |
-| [6–9 October 2025](2025-10-09-Turu-uuringuteAS.html) | Turu-uuringute AS | 14.0% | 12.6–15.5% | 12.2–16.0% | 11.9–16.4% | 11.2–17.2% |
-| [28 September–5 October 2025](2025-10-05-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 18.7% | 17.2–20.4% | 16.8–20.8% | 16.4–21.2% | 15.7–22.1% |
-| [22–28 September 2025](2025-09-28-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 17.0% | 15.5–18.6% | 15.2–19.1% | 14.8–19.5% | 14.1–20.3% |
-| [15–22 September 2025](2025-09-22-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 16.4% | 15.0–18.0% | 14.6–18.4% | 14.2–18.8% | 13.6–19.6% |
-| [10–17 September 2025](2025-09-17-KantarEmor.html) | Kantar Emor <br> ERR | 12.4% | 11.4–13.5% | 11.1–13.9% | 10.8–14.1% | 10.3–14.7% |
-| [8–14 September 2025](2025-09-14-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 15.2% | 13.8–16.8% | 13.4–17.2% | 13.1–17.6% | 12.5–18.3% |
-| [4–9 September 2025](2025-09-09-Turu-uuringuteAS.html) | Turu-uuringute AS | 13.0% | 11.7–14.6% | 11.3–15.0% | 11.0–15.4% | 10.3–16.2% |
-| [1–8 September 2025](2025-09-08-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 17.1% | 15.7–18.7% | 15.2–19.2% | 14.9–19.6% | 14.2–20.4% |
-| [25–31 August 2025](2025-08-31-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 18.3% | 16.8–20.0% | 16.4–20.4% | 16.0–20.8% | 15.3–21.6% |
-| [18–24 August 2025](2025-08-24-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 16.4% | 15.0–18.0% | 14.6–18.4% | 14.2–18.8% | 13.6–19.6% |
-| [13–19 August 2025](2025-08-19-KantarEmor.html) | Kantar Emor <br> ERR | 15.1% | 14.0–16.4% | 13.7–16.7% | 13.4–17.0% | 12.9–17.6% |
-| [11–17 August 2025](2025-08-17-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 17.7% | 16.2–19.3% | 15.8–19.8% | 15.5–20.2% | 14.8–21.0% |
-| [7–11 August 2025](2025-08-11-Turu-uuringuteAS.html) | Turu-uuringute AS | 18.9% | 17.3–20.7% | 16.9–21.2% | 16.5–21.7% | 15.8–22.5% |
+| [14–21 January 2026](2026-01-21-KantarEmor.html) | Kantar Emor <br> ERR | 13.3% | N/A | N/A | N/A | N/A |
+| [15–19 January 2026](2026-01-19-Turu-uuringuteAS.html) | Turu-uuringute AS | 14.8% | N/A | N/A | N/A | N/A |
+| [12–18 January 2026](2026-01-18-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 14.7% | N/A | N/A | N/A | N/A |
+| [5–11 January 2026](2026-01-11-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 11.3% | N/A | N/A | N/A | N/A |
+| [1–3 January 2026](2026-01-03-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 9.3% | N/A | N/A | N/A | N/A |
+| [15–21 December 2025](2025-12-21-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 15.5% | N/A | N/A | N/A | N/A |
+| [8–14 December 2025](2025-12-14-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 14.0% | N/A | N/A | N/A | N/A |
+| [4–10 December 2025](2025-12-10-Turu-uuringuteAS.html) | Turu-uuringute AS | 14.9% | N/A | N/A | N/A | N/A |
+| [3–10 December 2025](2025-12-10-KantarEmor.html) | Kantar Emor <br> ERR | 11.7% | N/A | N/A | N/A | N/A |
+| [1–7 December 2025](2025-12-07-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 14.4% | N/A | N/A | N/A | N/A |
+| [24–30 November 2025](2025-11-30-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 15.6% | N/A | N/A | N/A | N/A |
+| [17–23 November 2025](2025-11-23-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 14.4% | N/A | N/A | N/A | N/A |
+| [10–16 November 2025](2025-11-16-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 14.2% | N/A | N/A | N/A | N/A |
+| [3–12 November 2025](2025-11-12-KantarEmor.html) | Kantar Emor <br> ERR | 12.9% | N/A | N/A | N/A | N/A |
+| [6–10 November 2025](2025-11-10-Turu-uuringuteAS.html) | Turu-uuringute AS | 13.0% | N/A | N/A | N/A | N/A |
+| [3–9 November 2025](2025-11-09-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 13.4% | N/A | N/A | N/A | N/A |
+| [27 October–2 November 2025](2025-11-02-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 14.8% | N/A | N/A | N/A | N/A |
+| [20–26 October 2025](2025-10-26-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 13.4% | N/A | N/A | N/A | N/A |
+| [13–17 October 2025](2025-10-17-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 18.8% | N/A | N/A | N/A | N/A |
+| [3–13 October 2025](2025-10-13-KantarEmor.html) | Kantar Emor <br> ERR | 14.9% | N/A | N/A | N/A | N/A |
+| [6–12 October 2025](2025-10-12-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 18.9% | N/A | N/A | N/A | N/A |
+| [6–9 October 2025](2025-10-09-Turu-uuringuteAS.html) | Turu-uuringute AS | 14.0% | N/A | N/A | N/A | N/A |
+| [28 September–5 October 2025](2025-10-05-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 18.7% | N/A | N/A | N/A | N/A |
+| [22–28 September 2025](2025-09-28-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 17.0% | N/A | N/A | N/A | N/A |
+| [15–22 September 2025](2025-09-22-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 16.4% | N/A | N/A | N/A | N/A |
+| [10–17 September 2025](2025-09-17-KantarEmor.html) | Kantar Emor <br> ERR | 12.4% | N/A | N/A | N/A | N/A |
+| [8–14 September 2025](2025-09-14-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 15.2% | N/A | N/A | N/A | N/A |
+| [4–9 September 2025](2025-09-09-Turu-uuringuteAS.html) | Turu-uuringute AS | 13.0% | N/A | N/A | N/A | N/A |
+| [1–8 September 2025](2025-09-08-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 17.1% | N/A | N/A | N/A | N/A |
+| [25–31 August 2025](2025-08-31-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 18.3% | N/A | N/A | N/A | N/A |
+| [18–24 August 2025](2025-08-24-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 16.4% | N/A | N/A | N/A | N/A |
+| [13–19 August 2025](2025-08-19-KantarEmor.html) | Kantar Emor <br> ERR | 15.1% | N/A | N/A | N/A | N/A |
+| [11–17 August 2025](2025-08-17-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 17.7% | N/A | N/A | N/A | N/A |
+| [7–11 August 2025](2025-08-11-Turu-uuringuteAS.html) | Turu-uuringute AS | 18.9% | N/A | N/A | N/A | N/A |
 | [4–9 August 2025](2025-08-09-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 19.3% | N/A | N/A | N/A | N/A |
 | [28 July–3 August 2025](2025-08-03-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 17.0% | N/A | N/A | N/A | N/A |
-| [21–28 July 2025](2025-07-28-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 15.6% | 14.2–17.2% | 13.8–17.6% | 13.5–18.0% | 12.8–18.7% |
+| [21–28 July 2025](2025-07-28-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 15.6% | N/A | N/A | N/A | N/A |
 | [14–21 July 2025](2025-07-21-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 20.0% | N/A | N/A | N/A | N/A |
-| [10–17 July 2025](2025-07-17-KantarEmor.html) | Kantar Emor <br> ERR | 15.3% | 14.2–16.5% | 13.9–16.9% | 13.6–17.2% | 13.1–17.8% |
+| [10–17 July 2025](2025-07-17-KantarEmor.html) | Kantar Emor <br> ERR | 15.3% | N/A | N/A | N/A | N/A |
 | [7–14 July 2025](2025-07-14-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 16.1% | N/A | N/A | N/A | N/A |
 | [30 June–6 July 2025](2025-07-06-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 17.8% | N/A | N/A | N/A | N/A |
 | [16–22 June 2025](2025-06-22-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 19.0% | N/A | N/A | N/A | N/A |
 | [12–18 June 2025](2025-06-18-KantarEmor.html) | Kantar Emor <br> ERR | 13.6% | N/A | N/A | N/A | N/A |
 | [9–15 June 2025](2025-06-15-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 19.0% | N/A | N/A | N/A | N/A |
-| [5–13 June 2025](2025-06-13-Turu-uuringuteAS.html) | Turu-uuringute AS | 17.0% | 15.4–18.7% | 15.0–19.1% | 14.7–19.5% | 14.0–20.4% |
+| [5–13 June 2025](2025-06-13-Turu-uuringuteAS.html) | Turu-uuringute AS | 17.0% | N/A | N/A | N/A | N/A |
 | [2–8 June 2025](2025-06-08-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 19.7% | N/A | N/A | N/A | N/A |
 | [26 May–1 June 2025](2025-06-01-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 17.4% | N/A | N/A | N/A | N/A |
 | [19–25 May 2025](2025-05-25-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 15.4% | N/A | N/A | N/A | N/A |
@@ -178,16 +180,18 @@ The following table shows the probability mass function per percentage block of 
 | 5.5–6.5% | 0% | 100% |  |
 | 6.5–7.5% | 0% | 100% |  |
 | 7.5–8.5% | 0% | 100% |  |
-| 8.5–9.5% | 0.3% | 100% |  |
-| 9.5–10.5% | 3% | 99.7% |  |
-| 10.5–11.5% | 12% | 97% |  |
-| 11.5–12.5% | 25% | 84% |  |
-| 12.5–13.5% | 32% | 59% | Median |
-| 13.5–14.5% | 21% | 27% |  |
-| 14.5–15.5% | 6% | 7% |  |
-| 15.5–16.5% | 0.8% | 0.9% |  |
-| 16.5–17.5% | 0.1% | 0.1% |  |
-| 17.5–18.5% | 0% | 0% |  |
+| 8.5–9.5% | 0% | 100% |  |
+| 9.5–10.5% | 0.4% | 100% |  |
+| 10.5–11.5% | 4% | 99.6% |  |
+| 11.5–12.5% | 12% | 96% |  |
+| 12.5–13.5% | 21% | 84% |  |
+| 13.5–14.5% | 24% | 63% | Median |
+| 14.5–15.5% | 21% | 38% |  |
+| 15.5–16.5% | 12% | 17% |  |
+| 16.5–17.5% | 4% | 5% |  |
+| 17.5–18.5% | 0.8% | 0.9% |  |
+| 18.5–19.5% | 0.1% | 0.1% |  |
+| 19.5–20.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -199,83 +203,85 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1 | 1 |
+| [6–13 July 2026](2026-07-13-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1 | 1 | 1 | 1 | 1 |
+| [29 June–5 July 2026](2026-07-05-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
 | [16–25 June 2026](2026-06-25-Turu-uuringuteAS.html) | Turu-uuringute AS | 1 | 1 | 1 | 1 | 1 |
 | [15–20 June 2026](2026-06-20-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1 | 1 | 1 | 1 | 1 |
-| [8–17 June 2026](2026-06-17-Emor.html) | Emor <br> ERR | 1 | 1 | 1 | 1 | 1 |
-| [8–14 June 2026](2026-06-14-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1 | 1 | 1 | 1 | 1 |
+| [8–17 June 2026](2026-06-17-Emor.html) | Emor <br> ERR |  |  |  |  |  |
+| [8–14 June 2026](2026-06-14-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
 | [1–5 June 2026](2026-06-05-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
-| [25–31 May 2026](2026-05-31-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1 | 1 | 1 | 1 | 1 |
-| [18–23 May 2026](2026-05-23-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1 | 1 | 1 | 1 | 1 |
-| [11–20 May 2026](2026-05-20-Emor.html) | Emor <br> ERR | 1 | 1 | 1 | 1 | 1 |
-| [11–17 May 2026](2026-05-17-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1 | 1 | 1 | 1 | 1 |
-| [7–13 May 2026](2026-05-13-Turu-uuringuteAS.html) | Turu-uuringute AS | 1 | 1 | 1 | 1 | 1 |
-| [4–10 May 2026](2026-05-10-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1 | 1 | 1 | 1 | 1 |
-| [27 April–3 May 2026](2026-05-03-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1 | 1 | 1 | 1 | 1 |
-| [20–26 April 2026](2026-04-26-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1 | 1 | 1 | 1 | 1 |
-| [13–22 April 2026](2026-04-22-Emor.html) | Emor <br> ERR | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [13–19 April 2026](2026-04-19-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1 | 1 | 1 | 1 | 1 |
-| [6–12 April 2026](2026-04-12-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1 | 1 | 1 | 1 | 1 |
-| [2–8 April 2026](2026-04-08-Turu-uuringuteAS.html) | Turu-uuringute AS | 1 | 1 | 1 | 1 | 0–1 |
-| [30 March–5 April 2026](2026-04-05-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1 | 1 | 1 | 1 | 1 |
-| [23–28 March 2026](2026-03-28-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1 | 1 | 1 | 1 | 1 |
-| [16–21 March 2026](2026-03-21-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1 | 1 | 1 | 1 | 0–1 |
+| [25–31 May 2026](2026-05-31-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
+| [18–23 May 2026](2026-05-23-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
+| [11–20 May 2026](2026-05-20-Emor.html) | Emor <br> ERR |  |  |  |  |  |
+| [11–17 May 2026](2026-05-17-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
+| [7–13 May 2026](2026-05-13-Turu-uuringuteAS.html) | Turu-uuringute AS |  |  |  |  |  |
+| [4–10 May 2026](2026-05-10-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
+| [27 April–3 May 2026](2026-05-03-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
+| [20–26 April 2026](2026-04-26-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
+| [13–22 April 2026](2026-04-22-Emor.html) | Emor <br> ERR |  |  |  |  |  |
+| [13–19 April 2026](2026-04-19-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
+| [6–12 April 2026](2026-04-12-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
+| [2–8 April 2026](2026-04-08-Turu-uuringuteAS.html) | Turu-uuringute AS |  |  |  |  |  |
+| [30 March–5 April 2026](2026-04-05-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
+| [23–28 March 2026](2026-03-28-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
+| [16–21 March 2026](2026-03-21-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
 | [9–18 March 2026](2026-03-18-Emor.html) | Emor <br> ERR |  |  |  |  |  |
-| [9–15 March 2026](2026-03-15-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [5–9 March 2026](2026-03-09-Turu-uuringuteAS.html) | Turu-uuringute AS | 1 | 1 | 1 | 1 | 1 |
-| [2–7 March 2026](2026-03-07-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1 | 1 | 1 | 1 | 1 |
-| [23 February–1 March 2026](2026-03-01-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1 | 1 | 1 | 0–1 | 0–1 |
-| [16–21 February 2026](2026-02-21-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1 | 1 | 1 | 1 | 1 |
-| [11–18 February 2026](2026-02-18-KantarEmor.html) | Kantar Emor <br> ERR | 1 | 1 | 1 | 1 | 1 |
-| [9–15 February 2026](2026-02-15-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1 | 1 | 1 | 1 | 1 |
-| [5–9 February 2026](2026-02-09-Turu-uuringuteAS.html) | Turu-uuringute AS | 1 | 1 | 1 | 1 | 1 |
-| [2–7 February 2026](2026-02-07-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1 | 1 | 1 | 1 | 1 |
-| [26–31 January 2026](2026-01-31-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1 | 1 | 1 | 1 | 1 |
+| [9–15 March 2026](2026-03-15-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
+| [5–9 March 2026](2026-03-09-Turu-uuringuteAS.html) | Turu-uuringute AS |  |  |  |  |  |
+| [2–7 March 2026](2026-03-07-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
+| [23 February–1 March 2026](2026-03-01-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
+| [16–21 February 2026](2026-02-21-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
+| [11–18 February 2026](2026-02-18-KantarEmor.html) | Kantar Emor <br> ERR |  |  |  |  |  |
+| [9–15 February 2026](2026-02-15-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
+| [5–9 February 2026](2026-02-09-Turu-uuringuteAS.html) | Turu-uuringute AS |  |  |  |  |  |
+| [2–7 February 2026](2026-02-07-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
+| [26–31 January 2026](2026-01-31-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
 | [19–24 January 2026](2026-01-24-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
-| [14–21 January 2026](2026-01-21-KantarEmor.html) | Kantar Emor <br> ERR | 1 | 1 | 1 | 1 | 1 |
-| [15–19 January 2026](2026-01-19-Turu-uuringuteAS.html) | Turu-uuringute AS | 1 | 1 | 1 | 1 | 1–2 |
-| [12–18 January 2026](2026-01-18-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1 | 1 | 1 | 1 | 1 |
-| [5–11 January 2026](2026-01-11-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1 | 1 | 1 | 1 | 0–1 |
-| [1–3 January 2026](2026-01-03-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [15–21 December 2025](2025-12-21-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1 | 1 | 1 | 1 | 1 |
-| [8–14 December 2025](2025-12-14-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1 | 1 | 1 | 1 | 1 |
-| [4–10 December 2025](2025-12-10-Turu-uuringuteAS.html) | Turu-uuringute AS | 1 | 1 | 1 | 1 | 1 |
-| [3–10 December 2025](2025-12-10-KantarEmor.html) | Kantar Emor <br> ERR | 1 | 1 | 1 | 1 | 1 |
-| [1–7 December 2025](2025-12-07-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1 | 1 | 1 | 1 | 1 |
-| [24–30 November 2025](2025-11-30-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1 | 1 | 1 | 1 | 1 |
-| [17–23 November 2025](2025-11-23-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1 | 1 | 1 | 1 | 1 |
-| [10–16 November 2025](2025-11-16-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1 | 1 | 1 | 1 | 1 |
-| [3–12 November 2025](2025-11-12-KantarEmor.html) | Kantar Emor <br> ERR | 1 | 1 | 1 | 1 | 1 |
-| [6–10 November 2025](2025-11-10-Turu-uuringuteAS.html) | Turu-uuringute AS | 1 | 1 | 1 | 1 | 1 |
-| [3–9 November 2025](2025-11-09-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1 | 1 | 1 | 1 | 1 |
-| [27 October–2 November 2025](2025-11-02-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1 | 1 | 1 | 1 | 1 |
-| [20–26 October 2025](2025-10-26-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1 | 1 | 1 | 1 | 1 |
-| [13–17 October 2025](2025-10-17-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [3–13 October 2025](2025-10-13-KantarEmor.html) | Kantar Emor <br> ERR | 1 | 1 | 1 | 1 | 1 |
-| [6–12 October 2025](2025-10-12-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [6–9 October 2025](2025-10-09-Turu-uuringuteAS.html) | Turu-uuringute AS | 1 | 1 | 1 | 1 | 1–2 |
-| [28 September–5 October 2025](2025-10-05-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [22–28 September 2025](2025-09-28-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [15–22 September 2025](2025-09-22-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1 | 1 | 1 | 1 | 1–2 |
-| [10–17 September 2025](2025-09-17-KantarEmor.html) | Kantar Emor <br> ERR | 1 | 1 | 1 | 1 | 1 |
-| [8–14 September 2025](2025-09-14-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1 | 1 | 1 | 1 | 1 |
-| [4–9 September 2025](2025-09-09-Turu-uuringuteAS.html) | Turu-uuringute AS | 1 | 1 | 1 | 1 | 1 |
-| [1–8 September 2025](2025-09-08-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1 | 1 | 1 | 1–2 | 1–2 |
-| [25–31 August 2025](2025-08-31-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [18–24 August 2025](2025-08-24-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1 | 1 | 1 | 1 | 1–2 |
-| [13–19 August 2025](2025-08-19-KantarEmor.html) | Kantar Emor <br> ERR | 1 | 1 | 1 | 1 | 1 |
-| [11–17 August 2025](2025-08-17-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [7–11 August 2025](2025-08-11-Turu-uuringuteAS.html) | Turu-uuringute AS | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [14–21 January 2026](2026-01-21-KantarEmor.html) | Kantar Emor <br> ERR |  |  |  |  |  |
+| [15–19 January 2026](2026-01-19-Turu-uuringuteAS.html) | Turu-uuringute AS |  |  |  |  |  |
+| [12–18 January 2026](2026-01-18-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
+| [5–11 January 2026](2026-01-11-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
+| [1–3 January 2026](2026-01-03-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
+| [15–21 December 2025](2025-12-21-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
+| [8–14 December 2025](2025-12-14-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
+| [4–10 December 2025](2025-12-10-Turu-uuringuteAS.html) | Turu-uuringute AS |  |  |  |  |  |
+| [3–10 December 2025](2025-12-10-KantarEmor.html) | Kantar Emor <br> ERR |  |  |  |  |  |
+| [1–7 December 2025](2025-12-07-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
+| [24–30 November 2025](2025-11-30-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
+| [17–23 November 2025](2025-11-23-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
+| [10–16 November 2025](2025-11-16-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
+| [3–12 November 2025](2025-11-12-KantarEmor.html) | Kantar Emor <br> ERR |  |  |  |  |  |
+| [6–10 November 2025](2025-11-10-Turu-uuringuteAS.html) | Turu-uuringute AS |  |  |  |  |  |
+| [3–9 November 2025](2025-11-09-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
+| [27 October–2 November 2025](2025-11-02-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
+| [20–26 October 2025](2025-10-26-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
+| [13–17 October 2025](2025-10-17-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
+| [3–13 October 2025](2025-10-13-KantarEmor.html) | Kantar Emor <br> ERR |  |  |  |  |  |
+| [6–12 October 2025](2025-10-12-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
+| [6–9 October 2025](2025-10-09-Turu-uuringuteAS.html) | Turu-uuringute AS |  |  |  |  |  |
+| [28 September–5 October 2025](2025-10-05-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
+| [22–28 September 2025](2025-09-28-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
+| [15–22 September 2025](2025-09-22-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
+| [10–17 September 2025](2025-09-17-KantarEmor.html) | Kantar Emor <br> ERR |  |  |  |  |  |
+| [8–14 September 2025](2025-09-14-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
+| [4–9 September 2025](2025-09-09-Turu-uuringuteAS.html) | Turu-uuringute AS |  |  |  |  |  |
+| [1–8 September 2025](2025-09-08-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
+| [25–31 August 2025](2025-08-31-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
+| [18–24 August 2025](2025-08-24-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
+| [13–19 August 2025](2025-08-19-KantarEmor.html) | Kantar Emor <br> ERR |  |  |  |  |  |
+| [11–17 August 2025](2025-08-17-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
+| [7–11 August 2025](2025-08-11-Turu-uuringuteAS.html) | Turu-uuringute AS |  |  |  |  |  |
 | [4–9 August 2025](2025-08-09-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
 | [28 July–3 August 2025](2025-08-03-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
-| [21–28 July 2025](2025-07-28-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1 | 1 | 1 | 1 | 1–2 |
+| [21–28 July 2025](2025-07-28-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
 | [14–21 July 2025](2025-07-21-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
-| [10–17 July 2025](2025-07-17-KantarEmor.html) | Kantar Emor <br> ERR | 1 | 1 | 1 | 1–2 | 1–2 |
+| [10–17 July 2025](2025-07-17-KantarEmor.html) | Kantar Emor <br> ERR |  |  |  |  |  |
 | [7–14 July 2025](2025-07-14-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
 | [30 June–6 July 2025](2025-07-06-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
 | [16–22 June 2025](2025-06-22-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
 | [12–18 June 2025](2025-06-18-KantarEmor.html) | Kantar Emor <br> ERR |  |  |  |  |  |
 | [9–15 June 2025](2025-06-15-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
-| [5–13 June 2025](2025-06-13-Turu-uuringuteAS.html) | Turu-uuringute AS | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [5–13 June 2025](2025-06-13-Turu-uuringuteAS.html) | Turu-uuringute AS |  |  |  |  |  |
 | [2–8 June 2025](2025-06-08-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
 | [26 May–1 June 2025](2025-06-01-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
 | [19–25 May 2025](2025-05-25-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut |  |  |  |  |  |
@@ -359,8 +365,7 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.1% | 100% | Last Result |
-| 1 | 99.9% | 99.9% | Median |
-| 2 | 0% | 0% |  |
+| 0 | 0% | 100% | Last Result |
+| 1 | 100% | 100% | Median |
 
 
