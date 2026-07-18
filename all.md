@@ -5,10 +5,10 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | VL | Rohelised | SDE | Ref | Kesk | Kaljulaid | Isamaa | EP | E200 | Kesk | ERK | EKRE | EVA | Koos |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 9 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| [6–13 July 2026](2026-07-13-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | N/A <br> N/A | 1–2% <br> 0 | 10–14% <br> 1 | 9–12% <br> 0–1 | 8–12% <br> 1 | N/A <br> N/A | 25–31% <br> 2–3 | 6–9% <br> 0 | 1–3% <br> 0 | 8–12% <br> 1 | N/A <br> N/A | 13–17% <br> 1 | N/A <br> N/A | N/A <br> N/A |
+| [6–13 July 2026](2026-07-13-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | N/A <br> N/A | 1–2% <br> 0 | 10–14% <br> 1 | 9–12% <br> 0–1 | 8–12% <br> 1 | N/A <br> N/A | 25–31% <br> 2–3 | 6–9% <br> 0 | 1–3% <br> 0 | 11–15% <br> 1 | N/A <br> N/A | 13–17% <br> 1 | N/A <br> N/A | N/A <br> N/A |
 | [29 June–5 July 2026](2026-07-05-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [16–25 June 2026](2026-06-25-Turu-uuringuteAS.html) | Turu-uuringute AS | 0–1% <br> 0 | 1–2% <br> 0 | 13–17% <br> 1 | 10–14% <br> 1 | 8–11% <br> 1 | N/A <br> N/A | 19–25% <br> 2 | 5–9% <br> 0 | 2–4% <br> 0 | 8–11% <br> 1 | 0–1% <br> 0 | 11–15% <br> 1 | N/A <br> N/A | 0–1% <br> 0 |
-| [15–20 June 2026](2026-06-20-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | N/A <br> N/A | 0–1% <br> 0 | 13–17% <br> 1 | 11–15% <br> 1 | 8–12% <br> 1 | N/A <br> N/A | 24–29% <br> 2 | 5–8% <br> 0 | 1–3% <br> 0 | 8–12% <br> 1 | N/A <br> N/A | 10–14% <br> 1 | N/A <br> N/A | N/A <br> N/A |
+| [16–25 June 2026](2026-06-25-Turu-uuringuteAS.html) | Turu-uuringute AS | 0–1% <br> 0 | 1–2% <br> 0 | 13–17% <br> 1 | 10–14% <br> 1 | 8–11% <br> 1 | N/A <br> N/A | 19–25% <br> 2 | 5–9% <br> 0 | 2–4% <br> 0 | 11–15% <br> 1 | 0–1% <br> 0 | 11–15% <br> 1 | N/A <br> N/A | 0–1% <br> 0 |
+| [15–20 June 2026](2026-06-20-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | N/A <br> N/A | 0–1% <br> 0 | 13–17% <br> 1 | 11–15% <br> 1 | 8–12% <br> 1 | N/A <br> N/A | 24–29% <br> 2 | 5–8% <br> 0 | 1–3% <br> 0 | 11–15% <br> 1 | N/A <br> N/A | 10–14% <br> 1 | N/A <br> N/A | N/A <br> N/A |
 | [8–17 June 2026](2026-06-17-Emor.html) | Emor <br> ERR | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [8–14 June 2026](2026-06-14-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [1–5 June 2026](2026-06-05-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
@@ -174,7 +174,7 @@ Only polls for which at least the sample size has been published are included in
 + **Isamaa:** Erakond Isamaa (EPP)
 + **EP:** Erakond Parempoolsed (EPP)
 + **E200:** Eesti 200 (EPP)
-+ **Kesk:** Eesti Keskerakond (RE)
++ **Kesk:** Eesti Keskerakond (ECR)
 + **ERK:** Eesti Rahvuslased ja Konservatiivid (ECR)
 + **EKRE:** Eesti Konservatiivne Rahvaerakond (PfE)
 + **EVA:** Eesti Vabaerakond (*)
