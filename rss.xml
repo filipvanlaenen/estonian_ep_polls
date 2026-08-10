@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/estonian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 10 Aug 2026 13:18:11 +0200</pubDate>
+    <pubDate>Mon, 10 Aug 2026 15:41:54 +0200</pubDate>
     <item>
       <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 20–26 July 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/estonian_ep_polls/2026-07-26-Norstat.html#seats</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2026-07-26-Norstat-seats.png"
         length="194856"
         type="image/png"/>
-      <pubDate>Mon, 10 Aug 2026 12:22:59 +0200</pubDate>
-      <dc:date>2026-08-10T12:22:59.464446+02:00</dc:date>
+      <pubDate>Mon, 10 Aug 2026 15:02:52 +0200</pubDate>
+      <dc:date>2026-08-10T15:02:52.479014+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 20–26 July 2026 – Seat Projections for a Selection of Coalitions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2026-07-26-Norstat-coalitions-seats.png"
         length="126315"
         type="image/png"/>
-      <pubDate>Mon, 10 Aug 2026 12:22:59 +0200</pubDate>
-      <dc:date>2026-08-10T12:22:59.464446+02:00</dc:date>
+      <pubDate>Mon, 10 Aug 2026 15:02:52 +0200</pubDate>
+      <dc:date>2026-08-10T15:02:52.479014+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 20–26 July 2026 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2026-07-26-Norstat.png"
         length="328339"
         type="image/png"/>
-      <pubDate>Mon, 10 Aug 2026 12:22:59 +0200</pubDate>
-      <dc:date>2026-08-10T12:22:59.464446+02:00</dc:date>
+      <pubDate>Mon, 10 Aug 2026 15:02:52 +0200</pubDate>
+      <dc:date>2026-08-10T15:02:52.479014+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 13–20 July 2026 – Seat Projections for the Parties</title>
@@ -76,8 +76,8 @@
       <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2026-07-16-Emor-seats.png"
         length="227446"
         type="image/png"/>
-      <pubDate>Mon, 10 Aug 2026 13:18:11 +0200</pubDate>
-      <dc:date>2026-08-10T13:18:11.359868+02:00</dc:date>
+      <pubDate>Mon, 10 Aug 2026 15:41:54 +0200</pubDate>
+      <dc:date>2026-08-10T15:41:54.016914+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Emor for ERR, 6–16 July 2026 – Seat Projections for a Selection of Coalitions</title>
@@ -86,8 +86,8 @@
       <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2026-07-16-Emor-coalitions-seats.png"
         length="118064"
         type="image/png"/>
-      <pubDate>Mon, 10 Aug 2026 13:18:11 +0200</pubDate>
-      <dc:date>2026-08-10T13:18:11.359868+02:00</dc:date>
+      <pubDate>Mon, 10 Aug 2026 15:41:54 +0200</pubDate>
+      <dc:date>2026-08-10T15:41:54.016914+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Emor for ERR, 6–16 July 2026 – Voting Intentions</title>
@@ -96,8 +96,8 @@
       <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2026-07-16-Emor.png"
         length="367655"
         type="image/png"/>
-      <pubDate>Mon, 10 Aug 2026 13:18:11 +0200</pubDate>
-      <dc:date>2026-08-10T13:18:11.359868+02:00</dc:date>
+      <pubDate>Mon, 10 Aug 2026 15:41:54 +0200</pubDate>
+      <dc:date>2026-08-10T15:41:54.016914+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 6–13 July 2026 – Seat Projections for the Parties</title>
@@ -219,6 +219,6 @@
       <pubDate>Sun, 19 Jul 2026 14:29:02 +0200</pubDate>
       <dc:date>2026-07-19T14:29:02.007753+02:00</dc:date>
     </item>
-    <dc:date>2026-08-10T13:18:11.359868+02:00</dc:date>
+    <dc:date>2026-08-10T15:41:54.016914+02:00</dc:date>
   </channel>
 </rss>
