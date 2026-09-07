@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.6% | 0.9–2.8% | 0.8–3.0% | 0.6–3.2% | 0.5–3.6% |
+| [24–29 August 2026](2026-08-29-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1.5% | 1.1–2.1% | 1.0–2.3% | 0.9–2.5% | 0.7–2.8% |
 | [17–23 August 2026](2026-08-23-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1.5% | 1.1–2.1% | 1.0–2.3% | 0.9–2.5% | 0.7–2.8% |
 | [11–19 August 2026](2026-08-19-Emor.html) | Emor <br> ERR | 2.5% | 2.1–3.1% | 2.0–3.3% | 1.8–3.5% | 1.6–3.8% |
 | [10–15 August 2026](2026-08-15-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1.6% | 1.2–2.2% | 1.1–2.4% | 1.0–2.6% | 0.8–2.9% |
@@ -197,6 +198,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [24–29 August 2026](2026-08-29-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 0 | 0 | 0 | 0 | 0 |
 | [17–23 August 2026](2026-08-23-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 0 | 0 | 0 | 0 | 0 |
 | [11–19 August 2026](2026-08-19-Emor.html) | Emor <br> ERR | 0 | 0 | 0 | 0 | 0 |
 | [10–15 August 2026](2026-08-15-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 0 | 0 | 0 | 0 | 0 |
