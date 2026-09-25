@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/estonian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 17 Sep 2026 18:39:22 +0200</pubDate>
+    <pubDate>Fri, 25 Sep 2026 12:17:45 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 14–19 September 2026 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/estonian_ep_polls/2026-09-19-Norstat.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Eesti Reformierakond (RE): 1 seats&lt;/li&gt;&lt;li&gt;Eesti Vasakliit (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Erakond Eestimaa Rohelised (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Eesti 200 (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Eesti Konservatiivne Rahvaerakond (PfE): 1 seats&lt;/li&gt;&lt;li&gt;Erakond Parempoolsed (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Eesti Keskerakond (ECR): 1 seats&lt;/li&gt;&lt;li&gt;Sotsiaaldemokraatlik Erakond (S&amp;amp;D): 1 seats&lt;/li&gt;&lt;li&gt;Koos (*): 0 seats&lt;/li&gt;&lt;li&gt;Eesti Keskerakond (RE): 1 seats&lt;/li&gt;&lt;li&gt;Erakond Isamaa (EPP): 2 seats&lt;/li&gt;&lt;li&gt;Eesti Rahvuslased ja Konservatiivid (ECR): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2026-09-19-Norstat-seats.png"
+        length="237045"
+        type="image/png"/>
+      <pubDate>Fri, 25 Sep 2026 12:17:45 +0200</pubDate>
+      <dc:date>2026-09-25T12:17:45.388787+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 14–19 September 2026 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/estonian_ep_polls/2026-09-19-Norstat.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2026-09-19-Norstat-coalitions-seats.png"
+        length="127789"
+        type="image/png"/>
+      <pubDate>Fri, 25 Sep 2026 12:17:45 +0200</pubDate>
+      <dc:date>2026-09-25T12:17:45.388787+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 14–19 September 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/estonian_ep_polls/2026-09-19-Norstat.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Eesti Reformierakond (RE): 11.8–16.1%&lt;/li&gt;&lt;li&gt;Eesti Vasakliit (GUE/NGL): 0.1–0.7%&lt;/li&gt;&lt;li&gt;Erakond Eestimaa Rohelised (Greens/EFA): 0.4–1.6%&lt;/li&gt;&lt;li&gt;Eesti 200 (EPP): 0.5–1.7%&lt;/li&gt;&lt;li&gt;Eesti Konservatiivne Rahvaerakond (PfE): 13.3–17.8%&lt;/li&gt;&lt;li&gt;Erakond Parempoolsed (EPP): 3.3–5.9%&lt;/li&gt;&lt;li&gt;Eesti Keskerakond (ECR): 11.1–15.3%&lt;/li&gt;&lt;li&gt;Sotsiaaldemokraatlik Erakond (S&amp;amp;D): 12.6–17.0%&lt;/li&gt;&lt;li&gt;Koos (*): 0.4–1.6%&lt;/li&gt;&lt;li&gt;Eesti Keskerakond (RE): 8.1–11.8%&lt;/li&gt;&lt;li&gt;Erakond Isamaa (EPP): 21.2–26.4%&lt;/li&gt;&lt;li&gt;Eesti Rahvuslased ja Konservatiivid (ECR): 0.2–1.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2026-09-19-Norstat.png"
+        length="391536"
+        type="image/png"/>
+      <pubDate>Fri, 25 Sep 2026 12:17:45 +0200</pubDate>
+      <dc:date>2026-09-25T12:17:45.388787+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 7–13 September 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/estonian_ep_polls/2026-09-13-Norstat.html#seats</link>
@@ -519,6 +549,6 @@
       <pubDate>Sun, 19 Jul 2026 14:29:02 +0200</pubDate>
       <dc:date>2026-07-19T14:29:02.007753+02:00</dc:date>
     </item>
-    <dc:date>2026-09-17T18:39:22.761741+02:00</dc:date>
+    <dc:date>2026-09-25T12:17:45.388787+02:00</dc:date>
   </channel>
 </rss>
