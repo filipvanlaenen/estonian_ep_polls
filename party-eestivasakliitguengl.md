@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.1% | 0.0–0.4% | 0.0–0.6% | 0.0–0.7% | 0.0–0.9% |
+| N/A | [Poll Average](average.html) | 0.1% | 0.0–0.4% | 0.0–0.5% | 0.0–0.6% | 0.0–0.9% |
+| [5–12 October 2026](2026-10-12-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 0.0% | 0.0–0.2% | 0.0–0.3% | 0.0–0.4% | 0.0–0.5% |
 | [1–7 October 2026](2026-10-07-Turu-uuringuteAS.html) | Turu-uuringute AS | 0.2% | 0.1–0.6% | 0.1–0.7% | 0.1–0.8% | 0.0–1.0% |
 | [28 September–3 October 2026](2026-10-03-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 0.1% | 0.0–0.4% | 0.0–0.5% | 0.0–0.6% | 0.0–0.7% |
 | [21–27 September 2026](2026-09-27-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 0.0% | 0.0–0.2% | 0.0–0.3% | 0.0–0.4% | 0.0–0.5% |
@@ -189,8 +190,8 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 95% | 100% | Last Result, Median |
-| 0.5–1.5% | 5% | 5% |  |
+| 0.0–0.5% | 96% | 100% | Last Result, Median |
+| 0.5–1.5% | 4% | 4% |  |
 | 1.5–2.5% | 0% | 0% |  |
 
 
@@ -203,6 +204,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [5–12 October 2026](2026-10-12-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 0 | 0 | 0 | 0 | 0 |
 | [1–7 October 2026](2026-10-07-Turu-uuringuteAS.html) | Turu-uuringute AS | 0 | 0 | 0 | 0 | 0 |
 | [28 September–3 October 2026](2026-10-03-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 0 | 0 | 0 | 0 | 0 |
 | [21–27 September 2026](2026-09-27-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 0 | 0 | 0 | 0 | 0 |

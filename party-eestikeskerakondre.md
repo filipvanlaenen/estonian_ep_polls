@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.1% | 6.9–10.8% | 6.6–11.2% | 6.3–11.6% | 5.9–12.4% |
+| N/A | [Poll Average](average.html) | 9.2% | 6.9–10.8% | 6.6–11.3% | 6.3–11.6% | 5.9–12.4% |
+| [5–12 October 2026](2026-10-12-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 9.6% | 8.5–10.9% | 8.2–11.3% | 7.9–11.6% | 7.4–12.2% |
 | [1–7 October 2026](2026-10-07-Turu-uuringuteAS.html) | Turu-uuringute AS | 9.9% | 8.7–11.3% | 8.4–11.7% | 8.1–12.0% | 7.6–12.7% |
 | [28 September–3 October 2026](2026-10-03-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 9.5% | 8.4–10.8% | 8.1–11.2% | 7.8–11.5% | 7.3–12.1% |
 | [21–27 September 2026](2026-09-27-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 8.2% | 7.2–9.4% | 6.9–9.8% | 6.6–10.1% | 6.2–10.7% |
@@ -198,10 +199,10 @@ The following table shows the probability mass function per percentage block of 
 | 5.5–6.5% | 4% | 99.9% |  |
 | 6.5–7.5% | 18% | 96% |  |
 | 7.5–8.5% | 16% | 78% |  |
-| 8.5–9.5% | 22% | 61% | Median |
-| 9.5–10.5% | 24% | 39% |  |
-| 10.5–11.5% | 12% | 14% |  |
-| 11.5–12.5% | 2% | 3% |  |
+| 8.5–9.5% | 22% | 62% | Median |
+| 9.5–10.5% | 25% | 40% |  |
+| 10.5–11.5% | 12% | 15% |  |
+| 11.5–12.5% | 3% | 3% |  |
 | 12.5–13.5% | 0.3% | 0.3% |  |
 | 13.5–14.5% | 0% | 0% |  |
 
@@ -215,6 +216,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [5–12 October 2026](2026-10-12-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1 | 1 | 1 | 1 | 1 |
 | [1–7 October 2026](2026-10-07-Turu-uuringuteAS.html) | Turu-uuringute AS | 1 | 1 | 1 | 1 | 1 |
 | [28 September–3 October 2026](2026-10-03-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1 | 1 | 1 | 1 | 1 |
 | [21–27 September 2026](2026-09-27-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1 | 0–1 | 0–1 | 0–1 | 0–1 |

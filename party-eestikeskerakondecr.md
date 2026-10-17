@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 12.2% | 9.3–14.1% | 8.9–14.6% | 8.6–15.0% | 8.1–15.8% |
+| [5–12 October 2026](2026-10-12-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 12.7% | 11.4–14.1% | 11.1–14.6% | 10.8–14.9% | 10.2–15.6% |
 | [1–7 October 2026](2026-10-07-Turu-uuringuteAS.html) | Turu-uuringute AS | 13.1% | 11.8–14.7% | 11.4–15.1% | 11.1–15.5% | 10.5–16.3% |
 | [28 September–3 October 2026](2026-10-03-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 12.7% | 11.4–14.1% | 11.1–14.6% | 10.8–14.9% | 10.2–15.6% |
 | [21–27 September 2026](2026-09-27-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 10.9% | 9.7–12.3% | 9.4–12.7% | 9.1–13.0% | 8.6–13.7% |
@@ -219,6 +220,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1 | 1 |
+| [5–12 October 2026](2026-10-12-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1 | 1 | 1 | 1 | 1 |
 | [1–7 October 2026](2026-10-07-Turu-uuringuteAS.html) | Turu-uuringute AS | 1 | 1 | 1 | 1 | 1 |
 | [28 September–3 October 2026](2026-10-03-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1 | 1 | 1 | 1 | 1 |
 | [21–27 September 2026](2026-09-27-Norstat.html) | Norstat <br> MTÜ Ühiskonnauuringute Instituut | 1 | 1 | 1 | 1–2 | 0–2 |
@@ -401,7 +403,7 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.1% | 100% | Last Result |
 | 1 | 99.8% | 99.9% | Median |
-| 2 | 0.1% | 0.1% |  |
+| 2 | 0.2% | 0.2% |  |
 | 3 | 0% | 0% |  |
 
 
