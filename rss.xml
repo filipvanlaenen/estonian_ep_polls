@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/estonian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 13 Nov 2026 17:21:22 +0100</pubDate>
+    <pubDate>Wed, 18 Nov 2026 19:32:23 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Turu-uuringute AS, 5–11 November 2026 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/estonian_ep_polls/2026-11-11-Turu-uuringuteAS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Eesti Reformierakond (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Eesti Vasakliit (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Erakond Eestimaa Rohelised (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Eesti 200 (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Eesti Konservatiivne Rahvaerakond (PfE): 1 seats&lt;/li&gt;&lt;li&gt;Erakond Parempoolsed (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Eesti Keskerakond (ECR): 1 seats&lt;/li&gt;&lt;li&gt;Sotsiaaldemokraatlik Erakond (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Koos (*): 0 seats&lt;/li&gt;&lt;li&gt;Eesti Keskerakond (RE): 1 seats&lt;/li&gt;&lt;li&gt;Erakond Isamaa (EPP): 1–2 seats&lt;/li&gt;&lt;li&gt;Eesti Rahvuslased ja Konservatiivid (ECR): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2026-11-11-Turu-uuringuteAS-seats.png"
+        length="319464"
+        type="image/png"/>
+      <pubDate>Wed, 18 Nov 2026 19:32:23 +0100</pubDate>
+      <dc:date>2026-11-18T19:32:23.313937+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Turu-uuringute AS, 5–11 November 2026 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/estonian_ep_polls/2026-11-11-Turu-uuringuteAS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2026-11-11-Turu-uuringuteAS-coalitions-seats.png"
+        length="246336"
+        type="image/png"/>
+      <pubDate>Wed, 18 Nov 2026 19:32:23 +0100</pubDate>
+      <dc:date>2026-11-18T19:32:23.313937+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Turu-uuringute AS, 5–11 November 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/estonian_ep_polls/2026-11-11-Turu-uuringuteAS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Eesti Reformierakond (RE): 7.3–11.1%&lt;/li&gt;&lt;li&gt;Eesti Vasakliit (GUE/NGL): 0.1–0.8%&lt;/li&gt;&lt;li&gt;Erakond Eestimaa Rohelised (Greens/EFA): 0.5–1.9%&lt;/li&gt;&lt;li&gt;Eesti 200 (EPP): 0.5–1.9%&lt;/li&gt;&lt;li&gt;Eesti Konservatiivne Rahvaerakond (PfE): 11.9–16.5%&lt;/li&gt;&lt;li&gt;Erakond Parempoolsed (EPP): 5.4–8.8%&lt;/li&gt;&lt;li&gt;Eesti Keskerakond (ECR): 11.0–15.5%&lt;/li&gt;&lt;li&gt;Sotsiaaldemokraatlik Erakond (S&amp;amp;D): 17.5–22.8%&lt;/li&gt;&lt;li&gt;Koos (*): 0.5–1.9%&lt;/li&gt;&lt;li&gt;Eesti Keskerakond (RE): 8.1–12.1%&lt;/li&gt;&lt;li&gt;Erakond Isamaa (EPP): 15.6–20.7%&lt;/li&gt;&lt;li&gt;Eesti Rahvuslased ja Konservatiivid (ECR): 0.5–1.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/estonian_ep_polls/2026-11-11-Turu-uuringuteAS.png"
+        length="397493"
+        type="image/png"/>
+      <pubDate>Wed, 18 Nov 2026 19:32:23 +0100</pubDate>
+      <dc:date>2026-11-18T19:32:23.313937+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Norstat for MTÜ Ühiskonnauuringute Instituut, 2–8 November 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/estonian_ep_polls/2026-11-08-Norstat.html#seats</link>
@@ -819,6 +849,6 @@
       <pubDate>Sun, 19 Jul 2026 14:29:02 +0200</pubDate>
       <dc:date>2026-07-19T14:29:02.007753+02:00</dc:date>
     </item>
-    <dc:date>2026-11-13T17:21:22.902145+01:00</dc:date>
+    <dc:date>2026-11-18T19:32:23.313937+01:00</dc:date>
   </channel>
 </rss>
